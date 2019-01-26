@@ -49,6 +49,8 @@ Here are the final results - the actual predictions of my models.
 <p align="center">
 <img src='https://raw.githubusercontent.com/JoeGanser/Time_Series_Of_Bitcoin_Ethereum/master/Crypto_8_2017_Files/predictions.png'></p>
 
+**Predictions for Bitcoin**
+
 Date|Bitcoin Price|ARIMA prediction|Neural Net Prediction
 ----|-----|-----|----
 2017-08-23|4318.35|4321.92|4369.75
@@ -59,8 +61,7 @@ Date|Bitcoin Price|ARIMA prediction|Neural Net Prediction
 2017-08-28|4597.31|4601.04|4643.98
 2017-08-29|4583.02|4587.37|4643.36
 
-=========================================
-
+**Predictions for Ethereum**
 
 Date|Ethereum Price|ARIMA prediction|Neural Net Prediction
 ----|-----|-----|----
