@@ -76,8 +76,8 @@ number_of_elements|mean_atomic_mass|wtd_mean_atomic_mass|gmean_atomic_mass|wtd_g
 Thus, several steps were taken to eliminate the irrelevant features. Specifically;
 * Dropping features that varied 5% of less across all rows (using `VarianceThreshold`)
 * Dropping duplicated features using `.transpose().drop_duplicates(keep='first').transpose()`
-* Dropping features with a very small correlation with the target variable; less than |+-0.1|
-* Dropping features that were highly correlated with each other; greater than |+-0.8|
+* Dropping features with a very small correlation with the target variable; less than abs(±0.1)
+* Dropping features that were highly correlated with each other; greater than abs(±0.8)
 
 It was concluded that 132 features out of the original 168 had very little relevance. 
 
