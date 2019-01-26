@@ -71,7 +71,7 @@ In both cases, the null hypothesis was that the distribution of a feature was NO
 
 **Selecting important features by filtration**
 
-Once the data was in binary form, a histogram plot between the correlation of each feature and the class (the target) was made. Using the values of the correlations, a trial and error process was done by fitting an assortment of classification models to a set of features that had a magnitude (absolute value) greater than a threshold correlation value. It was found that all the set of features with a magnitude greater than $|\pm 0.34847|$ was enough data to produce a model that performed with perfect accuracy on a 70-30 train test split. There were 19 features (out of 112) that met this criteria.
+Once the data was in binary form, a histogram plot between the correlation of each feature and the class (the target) was made. Using the values of the correlations, a trial and error process was done by fitting an assortment of classification models to a set of features that had a magnitude (absolute value) greater than a threshold correlation value. It was found that all the set of features with a magnitude greater than  abs(±0.34847) was enough data to produce a model that performed with perfect accuracy on a 70-30 train test split. There were 19 features (out of 112) that met this criteria.
 
 <p align="center">
  <img src='https://raw.githubusercontent.com/JoeGanser/Mushroom_Classification/master/pics/hist.png' width="70%" height="70%"></p>
