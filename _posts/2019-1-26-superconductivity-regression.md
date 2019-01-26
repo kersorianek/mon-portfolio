@@ -33,8 +33,9 @@ The approach was to first identify the irrelevant features and discard them, fol
 A <a href='https://en.wikipedia.org/wiki/Superconductivity'>superconductor</a> is a material that, at a very, very low temperature allows for infinite conductivity (zero electrical resistance). Essentialy this means thats all the electrons/ions will flow on a material without any disturbance what so ever. One of the most interesting things about superconductors is that at their critical temperature they can create magnetic levitation! This is called the <a href='https://en.wikipedia.org/wiki/Meissner_effect'>Meissner effect</a>. Lexus, the car company, used this phenomenon to create a <a href='https://www.cnet.com/roadshow/news/the-lexus-hoverboard-is-real-video/'>hoverboard</a>.
 
 <p align="center">
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/lexus-hoverboard.jpg' height=30% width=30%>
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/lexus-hoverboard.jpg'>
 </p>
+.
 
 <a href='https://en.wikipedia.org/wiki/Phase_transition'>**Superconducting temperature**</a>
 
