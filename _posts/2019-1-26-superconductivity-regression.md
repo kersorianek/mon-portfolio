@@ -187,8 +187,8 @@ The plot of the predicted temperatures versus actual temperature was
 Using seaborn's `distplot` and `probplot` functions, I could plot the distribution of errors as well as their Q-Q plots (for both the train sets and the test sets). Approximately normality was observed.
 .
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/train_test_errors.png' height=70% width=70%></p>
+
+<img src='https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/train_test_errors.png' height=70% width=70%>
 
 .
 ### Feature Importance
