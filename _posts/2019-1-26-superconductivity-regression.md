@@ -177,10 +177,10 @@ As in any regression analysis, R2 score and RMSE are not the only standards of e
 
 The plot of the predicted temperatures versus actual temperature was
 
-<p align="center">
-<img src='https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/predict_vs_test.png'></p>
 
-.
+<img src='https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/predict_vs_test.png'>
+
+
 
 **Normality of errors & Homoskedascity**
 
