@@ -75,6 +75,7 @@ Once the data was in binary form, a histogram plot between the correlation of ea
 
 <p align="center">
  <img src='https://raw.githubusercontent.com/JoeGanser/Mushroom_Classification/master/pics/hist.png' width="70%" height="70%"></p>
+.
 
 <div id="feature_ranking"></div>
 
