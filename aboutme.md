@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to hire me
+title: Bio
+subtitle: 
 ---
 
 My name is Joe G. I have the following qualities:
 
--I'm smart
--I like to work out.
+-I went to Columbia
+-I studied physics
+-I'm certified in group fitness
+-Currently doing data science research
 
-Come take a spin class with me.
-
-### my history
-
-I have studied physics for a long time. Then I found data science. Some day I'll write quantum computing apps.
+Come work out with me
