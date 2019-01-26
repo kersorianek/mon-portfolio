@@ -196,11 +196,9 @@ Using seaborn's `distplot` and `probplot` functions, I could plot the distributi
 <div id='feature_importance'></div>
 
 One of the more convenient things about the random forest package is it does feature importance analysis automatically. Here, we can see the relative importances of each measure.
-.
 
-<p align="center">
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/rf_feature_importances.png' height=100% width=100%></p>
-.
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/rf_feature_importances.png'>
+
 
 ### Conclusions
 
