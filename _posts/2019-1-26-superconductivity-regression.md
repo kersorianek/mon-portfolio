@@ -180,25 +180,25 @@ The plot of the predicted temperatures versus actual temperature was
 <p align="center">
 <img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/predict_vs_test.png' height=30% width=30%>
 </p>
-
+.
 **Normality of errors & Homoskedascity**
 
 Using seaborn's `distplot` and `probplot` functions, I could plot the distribution of errors as well as their Q-Q plots (for both the train sets and the test sets). Approximately normality was observed.
-
+.
 <p align="center">
 <img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/train_test_errors.png' height=70% width=70%>
 </p>
-
+.
 ### Feature Importance
 
 <div id='feature_importance'></div>
 
 One of the more convenient things about the random forest package is it does feature importance analysis automatically. Here, we can see the relative importances of each measure.
-
+.
 <p align="center">
 <img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/rf_feature_importances.png' height=100% width=100%>
 </p>
-
+.
 ### Conclusions
 
 <div id='conclusions'></div>
