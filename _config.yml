@@ -14,10 +14,10 @@ baseurl: ""
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: 'Joe Ganser's research'
+title: "Joe Ganser's research"
 
 # Short description of your site
-description: Research on data science, physics and math
+description: "Research on data science, physics and math"
 
 # --- Navigation bar options --- #
 
@@ -63,7 +63,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: JoeGanser
+author: "JoeGanser"
 #  name: name
 
 # Select your active Social Network Links.
@@ -74,11 +74,11 @@ social-network-links:
   rss: true
   email: "JKGProfessional@gmail.com"
 #  facebook: 
-  github: JoeGanser
+  github: "JoeGanser"
 #  twitter: daattali
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: joe-ganser-aa9b8b132/
+  linkedin: "joe-ganser-aa9b8b132/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
