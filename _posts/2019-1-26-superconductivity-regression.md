@@ -188,7 +188,7 @@ Using seaborn's `distplot` and `probplot` functions, I could plot the distributi
 .
 
 <p align="center">
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/train_test_errors.png' height=70% width=70%></p>
+<img src='https://raw.githubusercontent.com/JoeGanser/Superconductors_Regression/master/images/train_test_errors.png' height=70% width=70%></p>
 
 .
 ### Feature Importance
