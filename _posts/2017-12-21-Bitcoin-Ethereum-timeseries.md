@@ -59,6 +59,9 @@ Date|Bitcoin Price|ARIMA prediction|Neural Net Prediction
 2017-08-28|4597.31|4601.04|4643.98
 2017-08-29|4583.02|4587.37|4643.36
 
+=========================================
+
+
 Date|Ethereum Price|ARIMA prediction|Neural Net Prediction
 ----|-----|-----|----
 2017-08-23|325.28|327.39|325.36
