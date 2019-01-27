@@ -2,6 +2,8 @@
 # Teaching regression: A basic tutorial on how to build a regression model from start to finish
 By Joe Ganser
 
+<a href='https://github.com/JoeGanser/AMES_Housing_Regression'>Link to the github repo</a>
+
 ### INTRODUCTION
 
 In this notebook, I will be creating a simple work flow tutorial that allows beginner data science students to go through the process of building a regression model. This is for students who have completed most of my introduction to data science class and have basic familiarity with data science.

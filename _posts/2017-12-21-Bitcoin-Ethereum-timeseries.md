@@ -4,6 +4,7 @@
 
 **Joe Ganser** 
 
+
 ## **ABSTRACT**
 
 The objective of this blog post is to experiment with time series techniques as well as methods in signal/noise extraction to make a prediction on the prices of both bitcoin and ethereum in the last week of August 2017, using all the previous pricing data.
@@ -344,6 +345,8 @@ def Neural_Net_predictions(original_time_series, stationary_time_series, days_ou
 bitcoin_NN = Neural_Net_predictions(bitcoin,bits_log_shift,days_out=7,nb_epoch=55,neurons=175)
 ```
 
+<a href='https://github.com/JoeGanser/Time_Series_Of_Bitcoin_Ethereum'>Link to the github repo</a>
+
 **Sources for information and tutorials that helped me write this analysis**:
 1. The Application of Time Series Modelling and Monte Carlo Simulation: Forecasting Volatile Inventory Requirements By Robert Davies, Tim Coole, David Osipyw, https://file.scirp.org/pdf/AM_2014050513382674.pdf
 
@@ -351,3 +354,4 @@ bitcoin_NN = Neural_Net_predictions(bitcoin,bits_log_shift,days_out=7,nb_epoch=5
 
 3. Statistical forecasting:
 notes on regression and time series analysis, By Robert Nau, Duke University https://people.duke.edu/~rnau/411arim.htm
+

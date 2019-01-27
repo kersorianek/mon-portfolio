@@ -21,6 +21,7 @@ In this analysis, a classification model is run on data attempting to classify m
 * <a href='#Conclusions'>Conclusions on Mushroom Taxonomy</a>
 * <a href='#Links'>Links to coded notebooks</a>
 * <a href='#source'>Sources</a>
+* <a href='https://github.com/JoeGanser/Mushroom_Classification'>Link to the github repo</a>
 
 ### Introduction
 

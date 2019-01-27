@@ -17,6 +17,7 @@ Data on superconductors was studied with the goal of predicting the critical tem
 * <a href='#conclusions'>Conclusions</a>
 * <a href='#codelinks'>Links to coded notebooks</a>
 * <a href='#sources'>Sources</a>
+* <a href='https://github.com/JoeGanser/Superconductors_Regression'>Link to the github repo</a>
 
 ### Introduction
 There were several objectives to this project
