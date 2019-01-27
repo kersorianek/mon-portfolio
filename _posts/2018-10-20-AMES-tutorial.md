@@ -2,7 +2,7 @@
 # Teaching regression: A basic tutorial on how to build a regression model from start to finish
 By Joe Ganser
 
-<a href='https://github.com/JoeGanser/AMES_Housing_Regression'>Link to the github repo</a>
+<a href='https://github.com/JoeGanser/Regression_Teaching_Tutorial'>Link to the github repo</a>
 
 ### INTRODUCTION
 
