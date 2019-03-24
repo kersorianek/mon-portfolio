@@ -70,38 +70,61 @@ The model used in this analysis is based upon probability theory and making esti
 
 The derivation begins with Baye's theorem;
 
-![one](images/1.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/1.png'>
+</p>
 
 This says the the probability of fraud (or any crime) depends upon the Baye's relation of the probability of fraud given the distribution of other crimes.
 
 Because a fraud by definition is a crime, the probability of an event being a crime being a fraud is one, i.e.
 
-![two](images/2.png)
+
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/2.png'>
+</p>
 
 So this leads to;
 
-![three](images/3.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/3.png'>
+</p>
 
 And if we give the definitions;
 
-![four](images/4.png)
-![five](images/5.png)
+
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/4.png'>
+</p>
+
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/5.png'>
+</p>
 
 Therefor;
 
-![six](images/6.png)
+
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/6.png'>
+</p>
 
 Where N_population is the number of people in the population studied. By what is the actual number of frauds? Is is just the number of arrests? We assume the actual number of frauds in existence exceeds the number of arrests for fraud;
 
-![seven](images/7.png)
+
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/7.png'>
+</p>
 
 We focus on calculating the actual number of frauds in each town. Using the records of arrests for other crimes in the town, we sum them all up with a weighting system. i.e.
 
-![eight](images/8.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/8.png'>
+</p>
 
 Now the critical portion of the model comes into play - calculating the weights. The weights are calculated using the correlation coefficients of each other crime with the fraud crime we're studying
 
-![nine](images/9.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/9.png'>
+</p>
 
 So we have a threshold for the correlation. This means that we set the weight equal to the correlation between a given crime and fraud if its greater than a threshold value, and set it equal to zero if its not.
 
@@ -109,21 +132,29 @@ Now that an estimation is made for the number of frauds in a given town, we sum 
 
 <div id='math'></div>
 
-![ten](images/10.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/10.png'>
+</p>
 
 Where N_est,t is the estimated number of frauds in town t. This model can also be used estimate over all frequency at which arrests are made for crimes. This is done as follows.
 
 First we sum over all the estimated number of frauds for all the towns in the USA;
 
-![eleven](images/11.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/11.png'>
+</p>
 
 Then we sum over all the arrests for frauds, nationwide.
 
-![twelve](images/12.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/12.png'>
+</p>
 
 And the probability is then;
 
-![thirteen](images/13.png)
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/13.png'>
+</p>
 
 Which is the probability of making arrest for a given fraud (or other crime). 
 
@@ -254,15 +285,27 @@ rank|state|fraud probability|%est.Caught
 
 In the following plots, we see nationwide heatmaps of some interesting statistics. In the first, we have a distribution of the probability of a person comitting fraud from each state. If a state is white, it was not present in the data set. These are plotly plots, so click each graph for better interactivity!
 
-<a href='https://plot.ly/~JKGProfessional/2.embed'>![heatmap_prob_fraud](images/probability_by_state.png)</a>
+<a href='https://plot.ly/~JKGProfessional/2.embed'>
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/probability_by_state.png'>
+</p>
+</a>
 
 In this next plot, we see an estimation on the percentage at which fraud crimes lead to an arrest.
 
-<a href='https://plot.ly/~JKGProfessional/4.embed?share_key=NSm60isOxosbLahLCexOPo'>![caughtbystate](images/caught_by_state.png)</a>
+<a href='https://plot.ly/~JKGProfessional/4.embed?share_key=NSm60isOxosbLahLCexOPo'>
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/caught_by_state.png'>
+</p>
+</a>
 
 And in this last heat plot, we have the probability of a person in each state comitting any crime.
 
-<a href='https://plot.ly/~JKGProfessional/6.embed'>![prob_crime_per_person](images/probability_of_crime_per_person.png)</a>
+<a href='https://plot.ly/~JKGProfessional/6.embed'>
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/probability_of_crime_per_person.png'>
+</p>
+</a>
 
 <div id='4D'></div>
 
@@ -272,11 +315,19 @@ It's also good to see the overall distribution of crimes that were recorded, as 
 
 In this next chart, we have the counts of each type of crime recorded in the data set. The max count of a crime was 1.29 million arrests, which was for Pocket-picking. Out of the 60.1 million people included in the data, there were 5.7 million arrests.
 
-<a href='https://plot.ly/~JKGProfessional/13.embed'>![bar](images/bar_chart.png)</a>
+<a href='https://plot.ly/~JKGProfessional/13.embed'>
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/bar_chart.png'>
+</p>
+</a>
 
 And finally, we have a pie chart break down of the different types of frauds present. There were a total of 796,374 arrests for fraud related crimes (about 14% of all crimes).
 
-<a href='https://plot.ly/~JKGProfessional/15.embed'>![pie](images/pie_chart.png)</a>
+<a href='https://plot.ly/~JKGProfessional/15.embed'>
+<p align="center">
+<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/pie_chart.png'>
+</p>
+</a>
 
 <div id='conclusions'></div>
 
