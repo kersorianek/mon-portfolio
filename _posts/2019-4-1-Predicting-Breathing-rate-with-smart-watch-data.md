@@ -15,12 +15,12 @@ This research was the product of a data driven healthcare hackathon I participat
 * **I. Introducing the problem**
    * I.A Background information & Context
    * I.B The goals of this analysis   
-* ** II. Data Structure & Feature Engineering**
+* **II. Data Structure & Feature Engineering**
     * II.A How the data was originally harvested
     * II.B The original data's structure: ECG, PPG & pulminory
     * II.C Visualizing the fundamental data
     * II.D Engineering the features
-* ** III. Putting the big data on Amazon Web Service**
+* **III. Putting the big data on Amazon Web Service**
 * **IV. Modelling**
     * IV.A Assumptions that had to be made
     * IV.B Model deployment
@@ -297,6 +297,7 @@ Smart watches might save lives one day!
 * [Downloading and aggregating the data](https://github.com/JoeGanser/Predicting_Respiratory_Rate/blob/master/download_data.ipynb)
 * [Modelling the data](https://github.com/JoeGanser/Predicting_Respiratory_Rate/blob/master/Modelling_Comparison_on_person12.ipynb)
 * [Random forest performance](https://github.com/JoeGanser/Predicting_Respiratory_Rate/blob/master/random_forest_performance.ipynb)
+* [Main github repository](https://github.com/JoeGanser/Predicting_Respiratory_Rate/)
 
 # VII. References
 1. **Electrocardiogram (ECG)** https://en.wikipedia.org/wiki/Electrocardiography
