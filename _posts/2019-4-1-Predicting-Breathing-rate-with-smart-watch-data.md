@@ -109,6 +109,7 @@ For each person in the study, this amounted to about 60,000 rows. When all 53 pe
 **Visualizing the fundamental data**
 
 The data was fundamentally time series based. Here are a few snapshots of some of the key features;
+
 <img src='https://raw.githubusercontent.com/JoeGanser/Predicting_Respiratory_Rate/master/images/graphics.png' width='60%' height='60%'>
 
 **Feature engineering**
