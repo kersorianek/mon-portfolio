@@ -1,7 +1,4 @@
 
-# Predicting Respiratory rate using data available on a smart watch
-
-April 2019
 
 by Joe Ganser
 
