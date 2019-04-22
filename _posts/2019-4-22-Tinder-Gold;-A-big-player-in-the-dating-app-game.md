@@ -28,7 +28,7 @@ Tinder Gold was introduced to the dating app market in August 2017. In this data
 8. **<a href='#8'>Drawbacks and limitations of the analysis</a>**
 9. **<a href='#9'>Sources</a>**
 
-<div id=one></div>
+<div id='one'></div>
 
 **1. The Dating Market at a Glance**
 
@@ -40,7 +40,7 @@ Despite there being a functional free version, which allows the possibility of a
 
 This analysis intends to examine and measure the impact Tinder's new product, Tinder Gold, had on both the Tinder brand and the dating market.
 
-<div id=1.A></div>
+
 **1.A Tinder Plus versus Tinder Gold**
 
 Tinder Plus was the original paid version of the app, which allowed users unlimited daily swipes, several "top choice" picks per day. Then came Tinder Gold. Tinder Gold allows for the following features (2):
@@ -104,7 +104,7 @@ This next figure shows the volume each product took up before and after Tinder G
 
 **We arrive at out first conclusions:** Tinder - a dating app based on smart phone swiping - is dominating the dating market. It's difference in market share must be caused by providing a uniquely different user experience from the other dating products.
 
-<div id=three3></div>
+<div id='three3'></div>
 
 **3. Problem solving strategy**
 
