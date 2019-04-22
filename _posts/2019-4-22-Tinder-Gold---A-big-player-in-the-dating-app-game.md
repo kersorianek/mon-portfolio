@@ -1,5 +1,5 @@
 
-# **Tinder Gold: A big player in the game of dating apps**
+# **My 1st place competition winning analysis on the effect of Tinder Gold on the dating app market.**
 
 April 2019
 
