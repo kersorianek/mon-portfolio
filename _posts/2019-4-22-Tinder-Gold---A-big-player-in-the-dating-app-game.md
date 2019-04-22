@@ -1,5 +1,5 @@
 
-# **My 1st place competition winning analysis on the effect of Tinder Gold on the dating app market.**
+### **My 1st place competition winning analysis on the effect of Tinder Gold on the dating app market. I was the winner of the Battlefin alternative data science competition. [This is the competition I won](https://www.youtube.com/watch?v=zYTuAZHsXVk).**
 
 April 2019
 
