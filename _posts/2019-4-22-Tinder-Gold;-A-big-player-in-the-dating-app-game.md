@@ -10,10 +10,6 @@ By [Joe Ganser](mailto:JKGProfessional@gmail.com)
 Tinder Gold was introduced to the dating app market in August 2017. In this data driven study, analysis is made on the impact Tinder Gold had on the other Tinder products and competition from other dating apps. Data records on purchase receipts were used for this analysis. *This presentation is oriented for business developers and does not contain code.*
 
 
-The prize I won:
-<p align="center">
-<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/prize.png' width='50%' height='50%' align='center'></p>
-
 **TABLE OF CONTENTS**
 1. **<a href='#one'>The dating market at a glance</a>**
     * 1.A Tinder Plus versus Tinder Gold     
@@ -32,6 +28,11 @@ The prize I won:
 7. **<a href='#seven'>Summary of Conclusions</a>**
 8. **<a href='#8'>Drawbacks and limitations of the analysis</a>**
 9. **<a href='#9'>Sources</a>**
+
+
+The prize I won:
+<p align="center">
+<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/prize.png' width='50%' height='50%' align='center'></p>
 
 <div id='one'></div>
 
