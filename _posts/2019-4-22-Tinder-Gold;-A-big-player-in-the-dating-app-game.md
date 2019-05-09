@@ -12,7 +12,7 @@ Tinder Gold was introduced to the dating app market in August 2017. In this data
 
 *Me presenting my research at New York University.*
 <p align="center">
-<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/NYU_presentation.jpg' width='50%' height='50%' align='center'></p>
+<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/NYU_presentation.jpg' width='75%' height='75%' align='center'></p>
 
 
 **TABLE OF CONTENTS**
