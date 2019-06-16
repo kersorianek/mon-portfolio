@@ -3,11 +3,6 @@
 
 By [Joe Ganser](mailto:JKGProfessional@gmail.com)
 
-*MScience & Battlefin presenting the awards.*
-<p align="center">
-<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/MScienceCheck.png' width='50%' height='50%' align='center'></p>
-
-
 
 **Abstract**
 
@@ -17,6 +12,10 @@ Tinder Gold was introduced to the dating app market in August 2017. In this data
 *Me presenting my research at New York University. Click the picture for a google slides presentation.*
 <p align="center">
 <a href='https://docs.google.com/presentation/d/1_jlu5r18EAYQfCSrqxngtcKuNS0DCLsPf-9K4_sckw0/edit?usp=sharing'><img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/NYU_presentation.jpg' width='75%' height='75%' align='center'></a></p>
+
+*MScience & Battlefin presenting the awards.*
+<p align="center">
+<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/MScienceCheck.png' width='50%' height='50%' align='center'></p>
 
 
 **TABLE OF CONTENTS**
