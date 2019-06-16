@@ -1,9 +1,13 @@
 
 ### **My 1st place competition winning analysis on the effect of Tinder Gold on the dating app market. I was the winner of the Battlefin alternative data science competition. [This is the competition I won](https://www.youtube.com/watch?v=zYTuAZHsXVk).**
 
-April 2019
-
 By [Joe Ganser](mailto:JKGProfessional@gmail.com)
+
+*MScience & Battlefin presenting the awards.*
+<p align="center">
+<img src='https://raw.githubusercontent.com/JoeGanser/Tinder_Gold_Competition/master/files/MScienceCheck.png' width='50%' height='50%' align='center'></p>
+
+
 
 **Abstract**
 
