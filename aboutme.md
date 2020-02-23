@@ -4,9 +4,9 @@ title: About
 subtitle: Changing the about page
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Ekram Ahmed. I have the following qualities:
 
-- I rock a great mustache
+- I am soft working
 - I'm extremely loyal to my family
 
 What else do you need?
