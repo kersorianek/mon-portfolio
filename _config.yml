@@ -13,10 +13,7 @@ author: Pano Kontogiannis
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://blog7.org"
+  Contact: "contact"
 
 # --- Logo --- #
 
