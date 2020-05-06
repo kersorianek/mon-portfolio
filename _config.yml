@@ -4,7 +4,7 @@
 title: Pano's website
 
 # Short description of your site
-description: A virtual proof that I'm cool awesome
+description: Site dedicated to Jekyll
 
 # Your name to show in the footer
 author: Pano Kontogiannis
@@ -40,8 +40,8 @@ round-avatar: true
 social-network-links:
   email: "info@blog7.org"
   facebook: deanattali
-  github: daattali
-  twitter: daattali
+  github: elpak
+  twitter: seoelpak
   rss: true
 #  reddit: yourname
 #  linkedin: daattali
@@ -64,7 +64,7 @@ social-network-links:
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
