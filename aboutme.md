@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About 
-subtitle: Changing the about page
+title: Ekram Ahmed 
+subtitle: Data Scientist
 ---
 
 My name is Ekram Ahmed. I have the following qualities:
