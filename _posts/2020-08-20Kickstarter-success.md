@@ -10,7 +10,7 @@ Investing in a Kickstarter campaign is not risk free. If a campaign fails, the i
 
 We have taken the data of all the Kickstarter campaigns from a website named [Web Robots](https://webrobots.io/kickstarter-datasets/) Which contains all the information we needed to create a predictive model, that would facilitate our app with the power to predict the success/failure of a Kickstarter campaign based on some features of the given campaign.
 
-The features we used to create our model was:
+## The features we used to create our model was:
 
 •	Category
 
@@ -24,7 +24,7 @@ The features we used to create our model was:
 
 ![Crepe](https://raw.githubusercontent.com/Ekram49/Kickstarter-blogpost/master/Images/feature%20importances.PNG)
 
-Exploring the datasets, we found out that out of 209,445 Kickstarter campaigns:
+## Exploring the datasets, we found out that out of 209,445 Kickstarter campaigns:
 
 
 •	121,651 were successful
