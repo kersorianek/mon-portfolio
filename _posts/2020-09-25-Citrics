@@ -1,0 +1,88 @@
+---
+layout: post
+title: Moving to a new city? “Citrics” is here to help
+subtitle: The city comparison tool to help you decide before you move
+image: https://cdn.vox-cdn.com/thumbor/_49exB-l_SrQ7IQlbALHZFMp0qY=/0x0:7185x4795/1200x900/filters:focal(3019x1824:4167x2972)/cdn.vox-cdn.com/uploads/chorus_image/image/62376513/shutterstock_1240270705.1542819552.jpg
+---
+
+## Aim of our project
+
+As a part of my Lambda School curriculum, I was part of a group project dedicated to build a website called “Citrics” which was designed to help people gather info about a given city and many more. The project was in collaboration between two groups in the team; The Web Developers and Data Scientists (which I was a part of). Each group had four members who worked very hard to bring the project to life. 
+Finding a place to live is hard! Nomads struggle with finding the right city for them. Citrics is a city comparison tool that allows users to compare cities and find cities based on user preferences.
+
+## Product roadmap
+
+The task we had in hand was not easy to pull off. To make our job easier and more structured, we divided the work load and decided that each of us would work on individual tasks while helping each other when needed. 
+At first, we gathered a clear idea on what the task for each group are. For Data Scientists it was to gather and clean city data and return informative data and visualization on it. We divided our task into four smaller tasks for each member of our group. Which we gathering, cleaning and returning: -
+
+•	Population data
+
+•	Rental data
+
+•	Weather data
+
+•	Job industry data
+
+## Technical Challenges
+
+Working on the project was not a walk in the park, but we didn’t expect it to be. We were expecting to face various technical challenges working on individual tasks and in teamwork, and sure we did. 
+My main task was to gather and clean weather data of all the cities we decided to work on and return useful info like the average summer maximum temperature, winter minimum temperature and summer humidity. The first challenge I faced was finding a good source of data. Although there are a lot of data available, it was difficult to find a dataset that included the information of all the cities we wanted to work on. Finally, I found a good API from “World Weather Online” by which I could query weather data of almost any city in the world. So, I gathered all the data for individual cities and joined them together to get a complete dataset.
+The second challenge I faced was to extract necessary info from the data. The data I had was by the month. But I needed seasonal data. So, I did some research on how to do some feature engineering to convert my monthly data into seasonal data and came up with a great piece of code to do it.
+
+![Crepe](https://raw.githubusercontent.com/Ekram49/Ekram49.github.io/master/img/Citrics/blog1.PNG)
+![Crepe](https://raw.githubusercontent.com/Ekram49/Ekram49.github.io/master/img/Citrics/blog2.PNG)
+![Crepe](https://raw.githubusercontent.com/Ekram49/Ekram49.github.io/master/img/Citrics/blog3.PNG)
+
+As for the team at first, we struggled to gather all the data for each city. The problem was different datasets had data for different cities. Most of the cities were common in all of our datasets, but not all of them. So, we called a team meeting and to figure out what our plan of action to be. Then we came out with a list of the most popular 100 cities in US, which all four of us had data of, and we continued working on them.
+
+## Functionality of our project
+
+Our website has some useful functionality that can help the user to gather necessary info about a city. Upon searching for a city:
+
+After some more Exploratory data analysis, we Used “Random Forest Classifier” to create our predictive model which gave us around 75.3% test accuracy which we were pretty satisfied with considering how many different variables can affect the success of a campaign which makes creating a super accurate model impossible.
+
+•	User will get the total population of the city
+
+•	User will get the weather pattern of the city (average high & low temperature and humidity)
+
+•	User will get the rental info of the city (average rent for (1-4)-bedroom apartments)
+
+•	 User will get info on the top job industries of the city
+
+## Potential future upgrades
+
+Beside the functionalities we already have, we plan to add even more functionalities in our products to make our product even more utilitarian. In the future the user should also be able to:
+
+•	Search up to three cities, and have a side by side comparison
+
+•	Put their preferences around population, weather, job industry, housing to return list of cities meet their criteria
+
+•	See the overall trend of a given city and possible scenario of the city for the next five years
+
+## Conclusion
+
+I am really proud of my team for the work we’ve done so far to create a useful product in a limited amount of time. I think our website will really help people gather info and decide before moving into a city. If we can deliver more features we are currently planning, our website would be even more nifty. 
+
+## Credits:
+
+•	Bhavani Rajan(Project lead) - Data Scientist
+
+•	Alan Lee - Web Developer
+
+•	David Horstman - Web Developer
+
+•	Lyndsi Williams - Web Developer
+
+•	Rachele Edwards - Web Developer
+
+•	Karl Manalo - Data Scientist
+
+•	Zack Murray - Data Scientist
+
+•	Ekram Ahmed(Myself) - Data Scientist
+
+## Resources:
+
+•	[Github repo of the project](https://github.com/orgs/Lambda-School-Labs/teams/labs26-citrics-teamb)
+
+•	[App](https://b.citrics.dev/)
