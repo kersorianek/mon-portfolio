@@ -37,7 +37,7 @@ round-avatar: true
 social-network-links:
   email: "danni.long96@gmail.com"
   github: dlong96
-  linkedin:"https://www.linkedin.com/in/danni-long/"
+  linkedin: https://www.linkedin.com/in/danni-long/
 #  medium: yourname
 
 # If you want to show a link to an RSS in the footer, add the site description here.
