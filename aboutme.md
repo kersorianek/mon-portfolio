@@ -1,16 +1,19 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: What you want to know about me 
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Danni Long. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I ask a lot of questions 
+- I'm extremely curious about human behavior and products 
+- I am leanring digital drawinng in my free time
+- I can speak German, to some extent.
 
 What else do you need?
 
-### My story
+### Recent blog I am reading 
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+https://www.kaushik.net/avinash/
+
