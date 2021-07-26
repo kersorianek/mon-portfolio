@@ -28,15 +28,16 @@ an n-gram: a contiguous sequence of n items.
 - stemmed word: suffixes should be removed
 - stopwords: words like "and, the, of" are typically removed 
 - rejoins meaningful stem word (if needed)
+
 ```python
 import nltk
 from nltk.stem import PorterStemmer
 from nltk.corpus import stopwords
 
-
 stemming = PorterStemmer()
 stops = set(stopwords.words("english"))
 ```
+
 ```python
 def clean_text(raw_text):
     # Convert to lower case
