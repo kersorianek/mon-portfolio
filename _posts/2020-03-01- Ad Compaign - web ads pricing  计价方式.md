@@ -45,7 +45,11 @@ CPA 和 CPM同时结合
    - 每日平均访问市场
    - 老晕乎活跃率
 - 用户价值
-   - ARPU， ARPPU，　CL，CLV 
+   - ARPU， Average Revenue Per User. `Usage: Measures a company’s success in scaling its business mode`
+   - ARPPU，　
+   - CL，
+   - CLV 
+  
 - 用户传播数据
    - K因子
 
