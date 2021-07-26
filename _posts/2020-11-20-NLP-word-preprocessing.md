@@ -1,5 +1,4 @@
-\---
-
+---
 layout: post
 
 title: Text Representation
@@ -7,8 +6,9 @@ title: Text Representation
 tags: [NLP]
 
 comments: true
+---
 
-\---
+
 
 
 
