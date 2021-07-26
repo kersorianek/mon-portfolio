@@ -13,8 +13,7 @@ My name is Danni Long. I have the following qualities:
 
 What else do you need?
 
-### Recent blog I am reading 
+### Recent blog I am reading
 Avinash Kaushik https://www.kaushik.net/avinash/
-
 ### Awesome language course I recommand for self-learner 
 https://germantogo.com/
