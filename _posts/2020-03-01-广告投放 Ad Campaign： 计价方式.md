@@ -1,4 +1,10 @@
 
+---
+layout: post
+title: Ad Compaign - web ads pricing 
+tags: [digital marketing]
+comments: true
+---
 
 
 ### CPA Cost Per Action（网络中最常见） 
