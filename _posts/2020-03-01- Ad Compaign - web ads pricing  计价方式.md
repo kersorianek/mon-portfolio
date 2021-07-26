@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Ad Compaign - web ads pricing 
