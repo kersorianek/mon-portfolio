@@ -40,8 +40,8 @@ avatar: "img/Ekram.png"
 
 # Personalize the colors in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#a0c2fa"
-navbar-text-col: "#404040"
+navbar-col: "#000080"
+navbar-text-col: "#E0FFFF"
 navbar-children-col: "#F5F5F5"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
@@ -71,9 +71,9 @@ author:
 social-network-links:
   rss: true
   email: "ekramullahzaki@gmail.com"
-  facebook: Ekram Ullah Ahmed
+  facebook: facebook.com/ekram.zaki
   github: Ekram49
-  #twitter: daattali
+  twitter: @EkramAh56552843
 #  reddit: yourname
   linkedin: linkedin.com/in/ekram-ullah-ahmed/
 #  xing: yourname
