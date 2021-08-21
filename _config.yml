@@ -42,7 +42,7 @@ avatar: "img/Ekram.png"
 
 navbar-col: "#000080"
 navbar-text-col: "#E0FFFF"
-navbar-children-col: "#F5F5F5"
+navbar-children-col: "#000080"
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
