@@ -87,3 +87,5 @@ future includes:
 
 
 [Notebook and data](https://github.com/Ekram49/gfw)
+[Web app](http://fishing-predictor.herokuapp.com/)
+
