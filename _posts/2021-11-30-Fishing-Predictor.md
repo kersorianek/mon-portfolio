@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Fishing predictor
-subtitle:A web app to predict fishing activity of vessels
+subtitle: A web app to predict fishing activity of vessels
 image: https://eco-business.imgix.net/uploads/ebmedia/fileuploads/shutterstock_126712838.jpg?fit=crop&h=960&ixlib=django-1.2.0&w=1440
 ---
 
