@@ -1,16 +1,26 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Web developer
 
 ---
-My name is Panagiotis Kontogiannis. I have the following qualities:
+## My name is Panagiotis Kontogiannis. 
+I'm a self-taught web developer with expertise in building scalable, performant websites using HTML, CSS and JavaScript. Design complex WordPress solutions for back-end and front-end development to establish and guide website architecture and functionality. Collaborate with clients to develop site-map guidelines and requirements to capture content, features and functionality for site development efforts. Develop custom mobile-friendly WordPress templates and themes to align with site design and branding for clients. The primary focus of a WordPress developer is to work with clients to conceptualize, design, build, test and implement custom website solutions from its functionality to appearance for both the front and back-end views of the website using WordPress.
 
-* I rock a great mustache
-* I'm extremely loyal to my family
+### Technical skills
+Analytical
+Programming
+Web Development
+WordPress Theme and Plug-In
+HTML
+CSS
+PHP
+JavaScript
+MySQL
+SEO Knowledge
+Strategic Thinking
+Google Analytics & Google Search Console
+Linux
+APIs
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch myblog7.org [blog7](https://blog7.org/seo-optimizacia-saitove/) and it will answer **all** your questions.
+When I have free time I write in my [blog7.org](https://blog7.org) - Bulgarian and in Greek at [problogger.gr](https://problogger.gr)
