@@ -2,15 +2,11 @@
 layout: post
 title: Git Command
 subtitle: What I use at work
-cover-img: /assets/img/git.png
+thumbnail-img: /assets/img/git.png
 tags: [Git]
 
 comments: true
 ---
-
-
-
-# Git Command at Work
 
 ## Vocab：
 Staged: `git add`  
