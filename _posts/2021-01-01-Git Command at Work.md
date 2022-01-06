@@ -1,8 +1,8 @@
 ---
 layout: post
-
-title: Git Command at Work
-
+title: Git Command
+subtitle: What I use at work
+cover-img: /assets/img/git.png
 tags: [Git]
 
 comments: true

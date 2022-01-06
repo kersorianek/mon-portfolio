@@ -309,7 +309,7 @@ df.head(5).plot(x='Country',y=['Happiness Score','Freedom'])
 
 
     
-![png](assets/img/jupyter/output_8_1.png)
+![png](/assets/img/jupyter/output_8_1.png)
     
 
 
@@ -332,7 +332,7 @@ df.head(5).plot(x='Country',y=['Happiness Score','Freedom'],kind='bar')
 
 
     
-![png](assets/img/jupyter/output_10_1.png)
+![png](/assets/img/jupyter/output_10_1.png)
     
 
 
@@ -353,7 +353,7 @@ df.head(5).plot(x='Country',y=['Freedom','Happiness Rank'],kind='bar',subplots=T
 
 
     
-![png](assets/img/jupyter/output_12_1.png)
+![png](/assets/img/jupyter/output_12_1.png)
     
 
 
@@ -375,7 +375,7 @@ df.head(5).plot(x='Country',y=['Freedom','Happiness Rank'],kind='bar',subplots=T
 
 
     
-![png](assets/img/jupyter/output_14_1.png)
+![png](/assets/img/jupyter/output_14_1.png)
     
 
 
@@ -414,7 +414,7 @@ df.plot(x='Freedom',y='Happiness Score',kind='scatter')
 
 
     
-![png](assets/img/jupyter/output_17_1.png)
+![png](/assets/img/jupyter/output_17_1.png)
     
 
 
@@ -438,7 +438,7 @@ df["Freedom"].plot(xlim=(0,20),ylim=(0,100), ax=axs[1],title='set range')
 
 
     
-![png](assets/img/jupyter/output_19_1.png)
+![png](/assets/img/jupyter/output_19_1.png)
     
 
 
@@ -466,7 +466,7 @@ axs[3].set_xticklabels(['Low','Med','High'])
 
 
     
-![png](assets/img/jupyter/output_21_1.png)
+![png](/assets/img/jupyter/output_21_1.png)
     
 
 
@@ -484,7 +484,7 @@ legend = [ax.legend() for ax in axs]
 
 
     
-![png](assets/img/jupyter/output_22_0.png)
+![png](/assets/img/jupyter/output_22_0.png)
     
 
 
@@ -507,7 +507,7 @@ ax.legend(loc='upper left',bbox_to_anchor=(1, 1))
 
 
     
-![png](assets/img/jupyter/output_24_1.png)
+![png](/assets/img/jupyter/output_24_1.png)
     
 
 
@@ -539,7 +539,7 @@ ax.set_xticklabels(df.head(5)['Country'].tolist())
 
 
     
-![png](assets/img/jupyter/output_26_1.png)
+![png](/assets/img/jupyter/output_26_1.png)
     
 
 
