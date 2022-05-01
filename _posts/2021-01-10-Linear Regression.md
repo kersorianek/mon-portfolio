@@ -48,7 +48,7 @@ therefore, going back to the original question, modeling/estimating E[Y] is mode
 
 This graph also serves a great interpretation
 <img src="https://online.stat.psu.edu/stat462/sites/onlinecourses.science.psu.edu.stat462/files/02simple/gpatestscore/index.jpg" title="population line" />&nbsp;   
-Each <!-- $Y_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\eEaC9WR4wc.svg"> is draw from the normal distribution <!-- $N(\beta_0 + \beta_1X_i,\sigma^2)$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\qpFYIqooQH.svg"> , when i is fixed, every draw of $Y_i$ will be different due to the randomness, but they center around the fixed value <!-- $\beta_0 +\beta_1X_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\P9NHrw06AS.svg">.
+Each <!-- $Y_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\eEaC9WR4wc.svg"> is draw from the normal distribution <!-- $N(\beta_0 + \beta_1X_i,\sigma^2)$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\qpFYIqooQH.svg"> , when i is fixed, every draw of <!-- $Y_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\CWtI8peWBH.svg"> will be different due to the randomness, but they center around the fixed value <!-- $\beta_0 +\beta_1X_i$ --> <img style="transform: translateY(0.1em); background: white;" src="..\svg\P9NHrw06AS.svg">.
 
 
 
