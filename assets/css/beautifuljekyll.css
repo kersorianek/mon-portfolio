@@ -497,6 +497,7 @@ footer .footer-custom-content {
   margin-left: 0.625rem;
   height: 12rem;
   width: 12rem;
+  border-radius: 5px;
 }
 .post-preview .post-image {
   filter: grayscale(40%);
