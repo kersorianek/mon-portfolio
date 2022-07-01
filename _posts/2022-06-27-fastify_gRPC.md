@@ -431,8 +431,4 @@ or
 npm run dev
 ```
 
-<center>
-<img src="/assets/img/posts/gRPC2.png" style="width: 100%; margin: 20px;" />
-</center>
-
 
