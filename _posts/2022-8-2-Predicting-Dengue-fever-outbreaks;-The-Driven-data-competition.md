@@ -1,4 +1,3 @@
-# Modeling Epidemics: The Dengue Fever competition on DrivenData
 **Joe Ganser**
 
 ![pic.png](https://raw.githubusercontent.com/JoeGanser/dengu_fever_driven_data/main/pic.png)
