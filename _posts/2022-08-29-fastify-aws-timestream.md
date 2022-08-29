@@ -16,6 +16,8 @@ AWS Timestream è un database di serie temporali veloce, scalabile, serverless, 
 
 Ad esempio con AWS Timestream è possibile gestire progetti per il monitoraggio delle metriche per migliorare le prestazioni e la disponibilità delle applicazioni, archiviare e analizzare telemetria industriale per ottimizzare, gestione e manutenzione delle apparecchiature, oppure archiviare e analizzare dati dei sensori #IoT.
 
+<iframe width="100%" height="540" src="https://www.youtube.com/embed/IsmhOkimHyI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Storage
 
 *fastify-aws-timestream* permette di creare il Database, il livello-0 dei dati, con le sue tabelle e serie temporali. I dati archiviati in Timestream sono in ordine temporale e in base agli attributi di contesto, e vengono scritti in tabelle che possono essere in due modalità: in-memory e magnetic.
