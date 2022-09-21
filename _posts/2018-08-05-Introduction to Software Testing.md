@@ -93,4 +93,7 @@ Click on any of the desired links to directly access the information.
 Enjoy !!!
 **See Yaaa, Next.**
 
-![Rafayet Hossain](/assets/img/cover.jpg "Rafayet Hossain")
+![Cover](/assets/img/cover.jpg "Cover")
+
+
+![Cover](https://drive.google.com/file/d/1XJdVb2r0GRHwsghwufo1GC2DeqrCiRqz/view?usp=sharing "Cover")
