@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Prepare Test Case
+title: How to Write Test Cases for Software
 subtitle: Best Practices for Preparation of Test Case
 tags: [sqa, software testing, testing, test case]
 image: /assets/img/diary.png
@@ -10,9 +10,9 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Consider any of your software systems under testing as Disneyland Park that you may want to explore. Of course, if you want, you can just buy tickets and visit the park as you wish. While this is fun to do, there is a good chance that you will miss out on interesting places.
+Consider any of your software systems in testing to be a Disneyland Park that you might wish to visit. Of course, you may just buy tickets and visit the park whenever you want. While this is enjoyable, there is a strong risk you will miss out on great locations.
 
-In this case, all you can do is collect a map of the park. The same goes for your project, you need maps to know what to test, what you tested, what you don't need to test. And that's how the idea of ​​preparing a test case comes about. Test cases are considered to be one of the most important parts of software testing. It is used by the QA team, development as well as middle management executives.
+In this instance, all you can do is gather a park map. The same is true for your project; you need maps to know what to test, what you already tested, and what you don't need to test. And thus the concept of creating a test case is born. One of the most significant aspects of software testing is test cases. It is utilized by the quality assurance team, development, and middle management executives.
 
 _Qucik Link to Specific Topic:_
 
@@ -23,45 +23,50 @@ _Qucik Link to Specific Topic:_
 - [Make it reusable](#make-it-reusable)
 - [A Complete Checklist to Check Web Application:](#a-complete-checklist-to-check-web-application)
 - [Checklist During Test Execution Phase:](#checklist-during-test-execution-phase)
+- [All Posts on Testing:](#all-posts-on-testing)
 
-If we look at the quality, then the test case is the condition by which one assures that the tested product is functional up to a certain level and ready to go live.
-If we look at it from the point of view of a tester, then test cases provide the conditions by which a tester performs the task of verifying the authenticity of a particular function or feature of a system.
+When it comes to quality, the test case is the condition that ensures the tested product is functional up to a specific degree and ready to go live.
+From the perspective of a tester, test cases give the settings under which a tester conducts the task of confirming the authenticity of a specific function or feature of a system.
 
-How to write a software test case:
+How to write test case for software:
 
 # Use a clear title
 
-A good test case starts with a clear and strong title. As a standard practice, it is best to name the test case according to the module you are testing. For example, if you check the login page, include "login page" in the title of the test case.
+A good test case begins with a clear and compelling title. It is best practice to name the test case after the module that is being tested. If you examine the login page, for example, include "login page" in the title of the test case.
 
 # Include a strong description
 
-Read the description so that the examiner can understand what they are testing. Sometimes this section may include other relevant information such as test environment, test data, and prerequisites/assumptions. Test descriptions should be easy to read and immediately understand the high-level goals and objectives of the test.
+Read the description so the examiner knows what they are testing. Other pertinent information, such as the test environment, test data, and prerequisites/assumptions, may be included in this area at times. Test descriptions should be simple to read and understand the test's high-level goals and objectives right away.
 
 # Include estimates and prerequisites
 
-Any assumptions applicable to the test and any prerequisites must be met before the test can be performed. This information may include which page the user should start the test on, depending on the test environment and the need for a special setup before running the test.
+Any applicable assumptions and conditions must be met before the test may be executed. Depending on the test environment and the necessity for a special configuration before running the test, this information may include the page the user should start the test on.
 
 # Keep test steps clear and concise
 
-Remember, the person who wrote the test case may not be the one to carry out the test himself. The test steps should include the necessary data and information on how to conduct the test. This is probably the most important part of any test case. Write the test case in such a way that anyone can follow it and test.
-Include expected results
-Expected Outcomes Tell the examiner what results should be obtained as opposed to their test steps. This is how the examiner determines if the test case has "passed" or "failed".
+Remember that the person who authored the test case may not be the one who runs the test. The test steps should include the relevant data as well as instructions on how to carry out the test. This is most likely the most crucial aspect of every test case. Write the test case so that anyone can follow it and test it.
+- Include anticipated outcomes.
+- Expected Results In contrast to their test processes, tell the examiner what outcomes should be produced.
+ 
+The examiner uses this to evaluate whether the test case "passed" or "failed."
 
 # Make it reusable
 
-A good test case provides reusable and long-term value to the software testing team. Keep this in mind when writing a test case. You can save a lot of time by reusing the test case instead of rewriting it.
-For beginners, the best practice for writing test cases is to read the software requirements document a few times until the requirements are clear and then start writing by identifying the situation based on the information provided in the required documents. For practical convenience, a test case template is provided which you can use in test case preparation.
+A good test case gives the software testing team with reusable and long-term value. Remember this while creating a test case. Instead of redoing the test case, you can save a lot of time by reusing it.
+
+
+The ideal technique for novices when writing test cases is to read the software requirements document several times until the needs are clear, and then begin writing by determining the circumstance based on the information supplied in the needed documents. A test case template is given for practical convenience in test case preparation.
 
 # A Complete Checklist to Check Web Application:
 
-- [x] Has the correct template been used?
-- [x] Have the following details been filled up correctly? Requirement reference, Test script description, Author’s name, Date created, Setup Procedure, Pre-requisites – where applicable
-- [x] Have the Test conditions (scenarios) been identified along with the Risk factor, if applicable?
-- [x] Have all the scenarios specified in the requirement – both explicit and implicit, been converted into Test conditions?
-- [x] Have the related areas that could possibly be affected by the implementation of the requirement been identified and included in the test cases? (Identify the impact areas and check with the test cases)
-- [x] Has equivalence partitioning been done? Have all the classes of the domain been identified correctly?
-- [x] Has the test data set, if required been generated appropriately?
-- [x] Have the boundary values, special values and invalid values been identified and included in the Test data set?
+- [x] Is the proper template being used?
+- [x] Have the following information been accurately entered? Reference to a requirement, Description of the test script, Name of the author, Created date, Procedure for Installation, Where appropriate, prerequisites
+- [x] Have the Test conditions (scenarios) and, if appropriate, the Risk factor been identified?
+- [x] Have all explicit and implicit scenarios provided in the requirement been translated into Test conditions?
+- [x] Have the linked areas that may be affected by the requirement's implementation been identified and included in the test cases? (Determine the impact areas and cross-check them with the test scenarios.)
+- [x] Is equivalence partitioning used? Have all of the domain's classes been accurately identified?
+- [x] Is the test data set, if required, properly generated?
+- [x] Have you recognized and included the boundary values, special values, and incorrect values in the Test data set?
 - [x] Has the Test data been embedded into the test cases?
 - [x] Have the required negative scenarios been identified in the test conditions?
 - [x] Have the steps been correctly given in appropriate sequence for each test scenario? Steps/Actions should state very clearly the sequence of actions to be carried out on the system by the user. All statements should be definite. Ensure that terms like “If”, “In case” etc are not used.
@@ -84,6 +89,34 @@ For beginners, the best practice for writing test cases is to read the software 
 - [x] Have the metrics related to the test cases been updated in all applicable metrics documents? (Number of Test cases prepared, executed, Number of test case executions with defects, Total Number of defects etc.)
 - [x] Are all the statements free from grammatical errors?
 
+# All Posts on Testing:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**Software Testing Glossary**](https://rafayethossain.github.io/2018-08-12-Software-Testing-Terms-of-Glossary/)
+- [x]  [**Software Testing Types**](https://rafayethossain.github.io/2018-08-22-Software-Testing-Types/)
+- [x]  [**Activities in Software Testing**](https://rafayethossain.github.io/2018-09-01-Test-Activities-You-Must-Know/)
+- [x]  [**How to Prepare Test Case**](https://rafayethossain.github.io/2018-09-11-How-Prepare-Test-Case/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Write a Bug Report**](https://rafayethossain.github.io/2018-09-20-How-to-Write-a-Bug-Report/)
+- [x]  [**Bug Life Cycle**](https://rafayethossain.github.io/2018-09-23-Life-Cycle-of-a-Bug/)
+- [x]  [**Front End Testing Basic**](https://rafayethossain.github.io/2018-09-30-Basic-GUI-Testing/)
+- [x]  [**Mobile Application Testing Basic**](https://rafayethossain.github.io/2018-10-05-Mobile-App-Testing-Basic/)
+- [x]  [**Software Testing Toolkit**](https://rafayethossain.github.io/2018-10-10-Software-Testing-Toolkit/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Install Python**](https://rafayethossain.github.io/2018-12-31-how-install-python-on-windows/)
+- [x]  [**Begineer Tips to Learn Python by Yourself**](https://rafayethossain.github.io/2019-01-03-Beginner-Tips-for-Learning-Python/)
+- [x]  [**Free Resource for Python Learning**](https://rafayethossain.github.io/2019-01-04-Python-Resource-Books-and-Recipe/)
+- [x]  [**Python Basic Coding for Newbie**](https://rafayethossain.github.io/2019-01-05-Basic-Python-Coding/)
+- [x]  [**Python 30 Secondes Recipe**](https://rafayethossain.github.io/2019-01-07-Python-Easy-Trick-Collected/)
+- [x]  [**How to Install Selenium with Python**](https://rafayethossain.github.io/2019-01-08-How-To-Install-Selenum-Python-Webdriver/)
+- [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
+
+
+
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
+**See Yaaa, Next.**
+
+![Cover](/assets/img/cover.jpg "Cover")
