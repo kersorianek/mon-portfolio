@@ -1,8 +1,8 @@
 ---
 layout: post
 title: How To Install Python on Your Windows PC
-subtitle: Introduction to Python
-tags: [sqa, software testing, test automation, python]
+subtitle: Download, Setup & Install Python on Windows
+tags: [software testing, test automation, python]
 image: /assets/img/selenium-with-python.png
 bigimg: /assets/img/back.gif
 published: true
@@ -11,47 +11,54 @@ share-img: /assets/img/selenium-with-python.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Python is a general-purpose interpreted programming language used for web development, machine learning, and complex data analysis. Python is widely considered one of the easiest programming languages for a beginner to learn. As a Software Testing Professional You Could choose it to automate your day to day tasks.
+Python is an interpreted programming language that may be used for web development, machine learning, and complicated data processing. Python is often regarded as one of the easiest programming languages to learn for a novice. You might use it as a Software Testing Professional to automate your day-to-day work.
 
 _Qucik Link to Specific Topic:_
 - [How to download python](#how-to-download-python)
-- [Install Python on Windows](#install-python-on-windows)
+- [Install Python on Windows 11 or Windows 10](#install-python-on-windows-11-or-windows-10)
 - [Post Installation](#post-installation)
-- [Code Editor](#code-editor)
+- [Python Code Editor](#python-code-editor)
 - [Picking Up The Best Python IDE](#picking-up-the-best-python-ide)
 - [What should you look for in a code editor?](#what-should-you-look-for-in-a-code-editor)
 - [Which one should I pick?](#which-one-should-i-pick)
 - [All Posts on Testing:](#all-posts-on-testing)
   
 # How to download python
-To install Python, download Python 3.10 from [Python Official Site](https://www.python.org/downloads/).
 
-I recommend you to download Python latest (Python 3.10.1) installer for Windows. If you have a different OS, download binaries accordingly. You may choose an x86-64 installer if you have a 64-bit system. Choose an x86 installer if you have a 32-bit system. But you can also click on the download button in the page header.
+Installing Python on your system is the first step to becoming a Python developer. There are many ways you can get started with setup and installation: you can download official Python distributions from [Python Official Site](https://www.python.org/downloads/).
 
-[x] It Extremely important: when you install it, make sure to check "Add Python to PATH".
+- I propose that you download the most recent Python installer for Windows (Python 3.10.7).
 
-# Install Python on Windows
-After download, double click on downloaded item (.exe) It installation will begin.
+  - If you have a different operating system, download binaries for it.
+  - If you have a 64-bit machine, you can select an x86-64 installer.
+  - If you have a 32-bit machine, select an x86 installation. However, you may also download by clicking on the download button in the page header..
+
+   It Extremely important: when you install it, make sure to check **Add Python to PATH**.
+
+# Install Python on Windows 11 or Windows 10
+
+After downloading, double-click the downloaded item (.exe) to begin installation.
 
 - Next, it gives you a set of advanced options:
-[x] Install for all users
-[x] Associate files with Python (requires the py launcher)
-[x] Create shortcuts for installed applications
-[x] Add Python to environment variables
-[x] Precompile standard library
-[x] Download debugging symbols
-[x] Download debug binaries (requires VS 2015 or later)
-[x] You may also specify the location to install the directory at.
+- [x] Install for all users
+- [x] Associate files with Python (requires the py launcher)
+- [x] Create shortcuts for installed applications
+- [x] Add Python to environment variables
+- [x] Precompile standard library
+- [x] Download debugging symbols
+- [x] Download debug binaries (requires VS 2015 or later)
+- [x] You may also specify the location to install the directory at.
 
 # Post Installation
-You have now installed Python. Now, you can find a list of programs in the Start Menu.
-Once Python is installed, you can execute the program "cmd.exe ". This is a command-line interface to your computer. Here, just type the word **python** and that will start the Python program.
+Python is now installed. Now you should see a list of programs in the start menu.
 
-You can use the Integrated DeveLopment Environment **(Python IDLE)** to code in Python which will be install during the installation, no need to install any fancy IDE. If you use the Python Shell, you can use it as an interpreter. Otherwise, you can create a new file to write a Python program. Later, you can save it and click ‘Run’ to run the program.
+After installing Python, you can run the cmd.exe program. This is a command line interface to your computer. Just type **python** here and the Python program will start.
 
-At all points during the course, you can always type python name_of_file.py and that will execute the code of a file called name_of_file.py
+You can use the integrated development environment (Python IDLE) to code in Python, which is installed during installation, without having to install an advanced IDE. If you're using a Python shell, you can use it as your interpreter. Otherwise, you can create a new file to create your Python program. You can save it later and run the program by clicking Run.
 
-# Code Editor 
+You can always type python name_of_file.py at any point during the course. This will run code from a file named **name_of_file.py.**
+
+# Python Code Editor 
 The best approach is to use an actual code editor. Some people prefer an Integrated Development Environment (IDE), but a far simpler code editor is much better for learning purposes.
 
 Why? When you are learning something new you want to peel off as many layers of complexity as possible. Simplify things. By adding a complex IDE into the mix, which you will have to learn how to operate, you are just adding more and more layers, making the task - learning Python - even more difficult.
