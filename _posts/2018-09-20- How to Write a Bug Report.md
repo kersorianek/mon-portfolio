@@ -18,6 +18,7 @@ Let's face reality now! In most circumstances, you will utilize a bug tracking p
 _Qucik Link to Specific Topic:_
 
 - [What exactly is a bug report?](#what-exactly-is-a-bug-report)
+  - [Definition of Bug](#definition-of-bug)
 - [Description aka Summary:](#description-aka-summary)
 - [Reproduction Steps:](#reproduction-steps)
 - [Expected Outcome:](#expected-outcome)
@@ -34,6 +35,10 @@ _Qucik Link to Specific Topic:_
 A bug report is a technical document that contains all of the relevant details about the bug and how it may be recreated. It is a guidance for the developers and the team working on the bug fix.
 
 Everyone can write a bug report, but are they all effective?
+
+## Definition of Bug 
+
+**Bug** is a software error which is caused due to fault or failure in the system. Another term for software **defect**.
 
 # Description aka Summary:
 
@@ -57,10 +62,10 @@ An image is worth a thousand words. Capture this annoying bug with the appropria
 
 # Additional, but very important information you should provide:
 
-[x] The user credentials with which you created the bug.
-[x] Problem field / URL.
-[x] Product version (if applicable).
-[x] The browser you used, especially if there were design issues.
+ [x] The user credentials with which you created the bug.
+ [x] Problem field / URL.
+ [x] Product version (if applicable).
+ [x] The browser you used, especially if there were design issues.
 
 # Severity
 
