@@ -62,10 +62,10 @@ An image is worth a thousand words. Capture this annoying bug with the appropria
 
 # Additional, but very important information you should provide:
 
- [x] The user credentials with which you created the bug.
- [x] Problem field / URL.
- [x] Product version (if applicable).
- [x] The browser you used, especially if there were design issues.
+ - [x] The user credentials with which you created the bug.
+ - [x] Problem field / URL.
+ - [x] Product version (if applicable).
+ - [x] The browser you used, especially if there were design issues.
 
 # Severity
 
@@ -73,11 +73,11 @@ An image is worth a thousand words. Capture this annoying bug with the appropria
 - Intensity: display software bug effects. 
 There are five levels of bug severity:
 
- [x] Blocker: No more tests can be performed.
- [x] Critical: Application crashes, data loss.
- [x] Major: Big loss of function.
- [x] Minor: Minor loss of work.
- [x] Trivial: small, UI error.
+ - [x] Blocker: No more tests can be performed.
+ - [x] Critical: Application crashes, data loss.
+ - [x] Major: Big loss of function.
+ - [x] Minor: Minor loss of work.
+ - [x] Trivial: small, UI error.
 
 
 
@@ -85,21 +85,21 @@ There are five levels of bug severity:
 # Do's for Bug Reporting
 
 
-[x] When you're finished, DO READ YOUR REPORT. Make sure it's clear, simple, and easy to understand.
-[x] DO be as explicit as possible, leaving no space for ambiguity.
-[x] DO try to reproduce the bug several times and eliminate any needless procedures.
-[x] Include a workaround or additional procedures that cause the bug to behave differently in your report.
-[x] DO check to see whether the bug has already been reported. If it has, please add your information to the bug in a comment.
-[x] DO reply to requests for extra information from developers.
+- [x] When you're finished, DO READ YOUR REPORT. Make sure it's clear, simple, and easy to understand.
+- [x] DO be as explicit as possible, leaving no space for ambiguity.
+- [x] DO try to reproduce the bug several times and eliminate any needless procedures.
+- [x] Include a workaround or additional procedures that cause the bug to behave differently in your report.
+- [x] DO check to see whether the bug has already been reported. If it has, please add your information to the bug in a comment.
+- [x] DO reply to requests for extra information from developers.
 
 
 # Don'ts for Bug Reporting
 
 
-[x] DO NOT submit more than one bug report. When there are multiple defects in the report, tracking the progress and interdependence of individual bugs becomes difficult.
-[x] DO NOT be judgmental or accusatory. Bugs are unavoidable, yet they are not always simple to fix.
-[x] DO NOT GUESS what's causing the bug. Stick to the facts to avoid sending the developer on a wild goose hunt.
-[x] DO NOT POST ANYTHING OTHER THAN A BUG. Developers appreciate your feedback, but sending it to the incorrect channel will just clog their workflow and cause unnecessary delays.
+- [x] DO NOT submit more than one bug report. When there are multiple defects in the report, tracking the progress and interdependence of individual bugs becomes difficult.
+- [x] DO NOT be judgmental or accusatory. Bugs are unavoidable, yet they are not always simple to fix.
+- [x] DO NOT GUESS what's causing the bug. Stick to the facts to avoid sending the developer on a wild goose hunt.
+- [x] DO NOT POST ANYTHING OTHER THAN A BUG. Developers appreciate your feedback, but sending it to the incorrect channel will just clog their workflow and cause unnecessary delays.
 
 # All Posts on Testing:  
 
