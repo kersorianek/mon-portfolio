@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Write a Bug Report
+title: How to Write a Bug Effective Report
 subtitle: Write a bug report which makes developer happy
 tags: [sqa, software testing, testing, bug report, bug]
 image: /assets/img/diary.png
@@ -17,6 +17,7 @@ Let's face reality now! In most circumstances, you will utilize a bug tracking p
 
 _Qucik Link to Specific Topic:_
 
+- [What exactly is a bug report?](#what-exactly-is-a-bug-report)
 - [Description aka Summary:](#description-aka-summary)
 - [Reproduction Steps:](#reproduction-steps)
 - [Expected Outcome:](#expected-outcome)
@@ -24,39 +25,48 @@ _Qucik Link to Specific Topic:_
 - [Screenshot:](#screenshot)
 - [Additional, but very important information you should provide:](#additional-but-very-important-information-you-should-provide)
 - [Severity](#severity)
+- [Do's for Bug Reporting](#dos-for-bug-reporting)
+- [Don'ts for Bug Reporting](#donts-for-bug-reporting)
 - [All Posts on Testing:](#all-posts-on-testing)
+
+# What exactly is a bug report?
+
+A bug report is a technical document that contains all of the relevant details about the bug and how it may be recreated. It is a guidance for the developers and the team working on the bug fix.
+
+Everyone can write a bug report, but are they all effective?
 
 # Description aka Summary:
 
-Keep it short but informative. Think of your bug report as a good tweet: want your tweets to be short, sweet, and appropriate.
+Keep it concise but informative. Consider your bug report to be a good tweet: keep it brief, sweet, and to the point.
 
 # Reproduction Steps:
 
-How did you produce this bug? Write down all the steps you have followed.
+How did you get this bug? Make a list of all the steps you've taken.
 
 # Expected Outcome:
 
-What is the expected behavior in your case? Expected results are usually related to customer requirements and predetermined.
+In your situation, what is the expected behavior? Results are frequently preset and tied to consumer requirements.
 
 # Achieved / Actual Results:
 
-In your case that was actually the behavior (results)? Write the actual behavior of the bug.
+In your scenario, was that the behavior (results)? Write down the bug's real behavior.
 
 # Screenshot:
 
-An image is worth a thousand words. Take the right screenshot or screencast and capture this annoying bug!
+An image is worth a thousand words. Capture this annoying bug with the appropriate screenshot or screencast!
 
 # Additional, but very important information you should provide:
 
 [x] The user credentials with which you created the bug.
 [x] Problem field / URL.
 [x] Product version (if applicable).
-[x] The browser you used, especially in case of design problems.
+[x] The browser you used, especially if there were design issues.
 
 # Severity
 
-Priority - It depends on the severity of the bug. The most serious bugs should be fixed first.
-Intensity - Show bug effects in software. There are 5 types of bug severity:
+- Priority: is determined by the severity of the defect. The most critical flaws should be addressed first.
+- Intensity: display software bug effects. 
+There are five levels of bug severity:
 
  [x] Blocker: No more tests can be performed.
  [x] Critical: Application crashes, data loss.
@@ -66,6 +76,25 @@ Intensity - Show bug effects in software. There are 5 types of bug severity:
 
 
 
+
+# Do's for Bug Reporting
+
+
+[x] When you're finished, DO READ YOUR REPORT. Make sure it's clear, simple, and easy to understand.
+[x] DO be as explicit as possible, leaving no space for ambiguity.
+[x] DO try to reproduce the bug several times and eliminate any needless procedures.
+[x] Include a workaround or additional procedures that cause the bug to behave differently in your report.
+[x] DO check to see whether the bug has already been reported. If it has, please add your information to the bug in a comment.
+[x] DO reply to requests for extra information from developers.
+
+
+# Don'ts for Bug Reporting
+
+
+[x] DO NOT submit more than one bug report. When there are multiple defects in the report, tracking the progress and interdependence of individual bugs becomes difficult.
+[x] DO NOT be judgmental or accusatory. Bugs are unavoidable, yet they are not always simple to fix.
+[x] DO NOT GUESS what's causing the bug. Stick to the facts to avoid sending the developer on a wild goose hunt.
+[x] DO NOT POST ANYTHING OTHER THAN A BUG. Developers appreciate your feedback, but sending it to the incorrect channel will just clog their workflow and cause unnecessary delays.
 
 # All Posts on Testing:  
 
