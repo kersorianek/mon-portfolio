@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Bug Life Cycle
-subtitle: A Introduction to Bug Life Cycle
+title: Bug Life Cycle in Software Testing 
+subtitle: Learn about the various stages of the bug life cycle.
 tags: [sqa, software testing, testing, bug, bug life cycle]
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg
@@ -10,7 +10,7 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Bug Life Cycle is also known as Defect Life Cycle. It is a journey of Bug (Software Bug)) that goes on at different stages in his life. Suppose the software is driven by a testing process and relies on testing tools. This cycle varies from organization to organization and from project to project.
+The bug life cycle is often referred to as the defect life cycle. It is Bug's (Software Bug) journey through many stages of it's existence. Suppose the software is governed by a testing procedure and is dependent on testing tools. This cycle varies by organization and project.
 
 _Qucik Link to Specific Topic:_
 
@@ -26,35 +26,41 @@ _Qucik Link to Specific Topic:_
 - [Closed:](#closed)
 - [Not a bug / Enhancement:](#not-a-bug--enhancement)
 
-Let's Learn about the different stages of a bug's life cycle:
+Let's have a look at the various stages of a bug's life cycle:
 
 # New:
 
-A test engineer at a software testing company discovered an error and posted it with a "new" status. This error is still awaiting study/approval. The fate of a new error may be the same between assign, drop, and deferred.
+A test engineer at a software testing organization noticed a mistake and marked it as "new." This error is still being researched and approved.
+
+A new error may be assigned, dropped, or deferred.
 
 # Assigned:
 
-Once the bug is posted by the test engineer, the test team leader approves the bug and assigns the bug to the development team. There are two possible scenarios, the first being that the error can be attributed directly to the developer, who is responsible for the effectiveness of the error. Second, it can also be assigned to the developer, and once it is approved by the lead leadership, he or she can take the error to the developer.
+After the test engineer posts the bug, the test team leader confirms it and sends it to the development team. There are two probable scenarios. 
+ - The first is that the fault can be directly traced to the developer, who is responsible for the error's effectiveness. 
+ - Second, it can be allocated to the developer, who, after approved by the lead leadership, can take the error to the developer.
 
 # Open / Active:
 
-It starts when a developer starts analyzing and fixing a bug.
+It begins when a developer begins studying and repairing a bug.
+
 
 # Test / Fix:
 
-When a developer modifies the required code and fixes the bug by verifying the changes, it can be called "Fixed".
+It can be called "Fixed" when a developer replaces the relevant code and fixes the bug by confirming the changes.
+
 
 # Retest / Verify:
 
-At this stage, the tester re-examines the modified code given to him by the developer to verify that the error has been resolved. Once the latest build has been set up in the test environment, it indicates to the testing team that the Devil errors are ready for testing.
+At this point, the tester reviews the changed code provided by the developer to ensure that the mistake has been fixed. When the most recent build is installed in the test environment, the testing team knows that the Devil errors are ready for testing.
 
 # Reopen:
 
-If the bug persists after the developer fixes the bug, the tester changes the status to "Reopen". The bug goes through the life cycle again.
+If the bug still exists after the developer has fixed it, the tester switches the status to "Reopen." The bug goes through its life cycle once more.
 
 # Deferred:
 
-Delaying the bug means that the bug is expected to be fixed in the next release. There are a number of reasons why bugs change this situation. These include bug priorities, lack of time to release, or impact on bug software.
+Delaying the bug indicates that it will be fixed in the future version. There are several reasons why bugs alter this scenario. These include issue priority, a shortage of release time, and the influence on bug software.
 
 # Dropped / Rejected:
 
@@ -62,15 +68,15 @@ If the developer thinks that the bug is not logical or correct, then the develop
 
 # Duplicate:
 
-If a bug is posted twice or two bugs refer to the same concept, the status of the most recent bug will be "Duplicate".
+If the developer believes that the bug is illogical or incorrect, the bug is rejected. The bug's status then changes to "Rejected."
 
 # Closed:
 
-Once the bug is fixed it is checked by the tester. If the tester thinks that the bug is no longer in the software, the tester "closes" the status of the bug. This means the bug has been fixed, tested, and approved.
+The tester verifies that the bug has been rectified. If the tester believes that the bug is no longer present in the software, the tester "closes" the bug's status. This indicates that the bug has been resolved, tested, and approved.
 
 # Not a bug / Enhancement:
 
-If the functionality of the application does not change, it is given as "Not a bug / Enhancement". For example: if a customer wants to change the color of some text which is not a bug, just a slight change in the design of the application.
+If the application's functionality remains unchanged, it is marked as "Not a bug / Enhancement." For example, if a customer wants to alter the color of some text, this is not a bug, but rather a minor tweak in the application's design.
 
 Click on any of the desired links to directly access the information.
 
