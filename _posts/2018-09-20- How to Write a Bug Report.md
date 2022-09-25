@@ -81,7 +81,7 @@ There are five levels of bug severity:
 
 
 
-
+{: .box-success
 # Do's for Bug Reporting
 
 
@@ -92,7 +92,7 @@ There are five levels of bug severity:
 - [x] DO check to see whether the bug has already been reported. If it has, please add your information to the bug in a comment.
 - [x] DO reply to requests for extra information from developers.
 
-
+{: .box-warning}
 # Don'ts for Bug Reporting
 
 

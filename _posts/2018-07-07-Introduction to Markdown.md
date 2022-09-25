@@ -1158,14 +1158,14 @@ GFM will autolink standard URLs.
 Code:
 
 ```
-https://github.com/emn178/markdown
+https://github.com/rafayethossain
 ```
 
 Preview:
 
 ---
 
-https://github.com/emn178/markdown
+https://github.com/rafayethossain
 
 ---
 
