@@ -16,14 +16,20 @@ In this instance, all you can do is gather a park map. The same is true for your
 
 _Qucik Link to Specific Topic:_
 
+- [What is a Test Case](#what-is-a-test-case)
 - [Use a clear title](#use-a-clear-title)
 - [Include a strong description](#include-a-strong-description)
 - [Include estimates and prerequisites](#include-estimates-and-prerequisites)
 - [Keep test steps clear and concise](#keep-test-steps-clear-and-concise)
 - [Make it reusable](#make-it-reusable)
+- [Do's for Writing Test Case](#dos-for-writing-test-case)
+- [Dont's for Writing Test Case](#donts-for-writing-test-case)
 - [A Complete Checklist to Check Web Application:](#a-complete-checklist-to-check-web-application)
 - [Checklist During Test Execution Phase:](#checklist-during-test-execution-phase)
 - [All Posts on Testing:](#all-posts-on-testing)
+
+# What is a Test Case
+A **Test Case** is a document artifact consisting of certain actions or sequences of events for testing the software product against a specific requirements. 
 
 When it comes to quality, the test case is the condition that ensures the tested product is functional up to a specific degree and ready to go live.
 From the perspective of a tester, test cases give the settings under which a tester conducts the task of confirming the authenticity of a specific function or feature of a system.
@@ -56,6 +62,27 @@ A good test case gives the software testing team with reusable and long-term val
 
 
 The ideal technique for novices when writing test cases is to read the software requirements document several times until the needs are clear, and then begin writing by determining the circumstance based on the information supplied in the needed documents. A test case template is given for practical convenience in test case preparation.
+
+
+{: .box-success}
+# Do's for Writing Test Case
+
+- [x] It should be simple, precise, and concise.
+- [x] User perspective must be taken into consideration.
+- [x] Use of the tracebility matrix
+- [x] Assign an ID to each of the test cases 
+- [x] Try to write independent, reusable, and repeatable test cases. 
+     
+
+
+{: .box-warning}
+# Dont's for Writing Test Case
+
+- [x] Do not write unnecessary or redundant test execution steps.
+- [x] Do not consider or assume any sort of requirement on your own without consulting the SRS or BRS.
+- [x] Do not write reptitive test cases. 
+- [x] Do not forget to get the test cases reviewed by the development team.
+     
 
 # A Complete Checklist to Check Web Application:
 

@@ -81,7 +81,7 @@ There are five levels of bug severity:
 
 
 
-{: .box-success
+{: .box-success}
 # Do's for Bug Reporting
 
 
