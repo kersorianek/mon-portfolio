@@ -59,13 +59,14 @@ You can use the integrated development environment (Python IDLE) to code in Pyth
 You can always type python name_of_file.py at any point during the course. This will run code from a file named **name_of_file.py.**
 
 # Python Code Editor 
-The best approach is to use an actual code editor. Some people prefer an Integrated Development Environment (IDE), but a far simpler code editor is much better for learning purposes.
 
-Why? When you are learning something new you want to peel off as many layers of complexity as possible. Simplify things. By adding a complex IDE into the mix, which you will have to learn how to operate, you are just adding more and more layers, making the task - learning Python - even more difficult.
+The best way is to use a real code editor. Some people prefer an integrated development environment (IDE), but a much simpler code editor is better for learning purposes.
+
+why? When learning something new, you want to peel off as many layers of complexity as possible. Simplify things. Adding a complex IDE to the mix that you have to learn to use just adds more layers and makes the Python learning task even more difficult.
 
 # Picking Up The Best Python IDE
 
-A Python program, in its basic form, is simply lines of text (code) saved in a file with a .py file extension. Python code can be written in something as basic as Notepad - but there’s no reason to put yourself through such an ordeal since there are much better options available. At it’s core, a code editor should provide a number of features that help a programmer create programs (Python scripts and modules, in our case). In most cases, code editors allow the user to customize the program itself, to suit your needs and style.
+A Python program, in its basic form, is a simple line of text (code) stored in a file with the .py file extension. Python code can be written in something as simple as Notepad, but there are far better options out there, so there's no reason to go through such an ordeal. Basically, a code editor should provide a set of features that help programmers create programs (in this case, Python scripts and modules). In most cases, code editors allow users to customize programs to suit their own needs and style.
 
 # What should you look for in a code editor?
 - Ease of use
@@ -98,7 +99,7 @@ Or you can just use your Built in Python IDLE with Python Installer no hassel.
 
 
 
-For Any Query or Task Contact 
+For Any Query or Assigment Contact 
 **Rafayet Hossain**
 
 ✅ Business Analyst || SQA || Writer ✅

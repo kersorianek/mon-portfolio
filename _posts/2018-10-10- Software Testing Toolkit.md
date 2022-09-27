@@ -28,7 +28,7 @@ _Qucik Link to Specific Topic:_
 - [Bug Report](#bug-report)
 - [Test Summary Report](#test-summary-report)
 - [Special attraction](#special-attraction)
-    - [To Download from Click Here Now.](#to-download-from-click-here-now)
+    - [To Download Now Click Here...](#to-download-now-click-here)
 - [All Posts on Testing:](#all-posts-on-testing)
 
 # What is test documentation?
@@ -104,11 +104,16 @@ The test summary report is a high-level document that summarizes the testing ope
 
 Testing is quite common, and some of the documents used in testing are published for everyone's convenience. You can add and remove information as you see fit.
 
-### To Download from [Click Here](https://drive.google.com/drive/u/1/folders/1cklamhzSsInYoU-53bZ2x2kDMz_XUtcd/ "Link") Now.
+### To Download Now [Click Here...](https://drive.google.com/drive/u/1/folders/1cklamhzSsInYoU-53bZ2x2kDMz_XUtcd/ "Link")
 
 
 
-For Any Query or Task Contact Me @
+For Any Query or Assignment Contact 
+**Rafayet Hossain**
+
+✅ Business Analyst || SQA || Writer ✅
+
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 

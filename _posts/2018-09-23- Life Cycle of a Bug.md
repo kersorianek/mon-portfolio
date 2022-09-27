@@ -78,6 +78,8 @@ The tester verifies that the bug has been rectified. If the tester believes that
 
 If the application's functionality remains unchanged, it is marked as "Not a bug / Enhancement." For example, if a customer wants to alter the color of some text, this is not a bug, but rather a minor tweak in the application's design.
 
+# All Posts on Testing:  
+
 Click on any of the desired links to directly access the information.
 
 - [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
@@ -100,3 +102,10 @@ Click on any of the desired links to directly access the information.
 - [x]  [**How to Install Selenium with Python**](https://rafayethossain.github.io/2019-01-08-How-To-Install-Selenum-Python-Webdriver/)
 - [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
 
+
+
+{: .box-success}
+Enjoy !!!
+**See Yaaa, Next.**
+
+![Cover](/assets/img/cover.jpg "Cover")

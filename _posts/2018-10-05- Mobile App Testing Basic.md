@@ -25,68 +25,105 @@ We use our phones in various places. We have high-speed Wi-Fi at home. when walk
 
 Testing on real devices is one of the recommended practices for mobile application testing. The usage of emulators and simulators is beneficial in the early phases of development. The application must be tested on a real device so that the tester may be confident that the test findings are accurate. Testing on real devices also provides the tester with a better understanding of overall usability.
 
-Fix your device and operating system before testing. There are thousands of Android devices and hundreds of iOS devices in the market. When you test your company's application, always choose the device that most of your customers use. For example, iPhone 8, iOS 10.1.
-If you do not know which device the customer is using, select the most used devices in the market. You can easily find this data through Google search. In addition to Google Analytics, there are many such analytics tools available online.
+Before testing, make sure your gadget and operating system are in good working order. On the market, there are thousands of Android devices and hundreds of iOS devices. When testing your company's application, use the device that the majority of your consumers use. For instance, iPhone 8, iOS 10.1.
 
-Always think about the edge cases, imagine you are a phone user and you use the app while walking you will probably find slow internet, not Wi-Fi when you are in the office. Check your application for a slow internet connection.
 
-Check battery consumption rate, Power-Hungry applications have a higher rate of removal from devices. Check how much battery your application consumes. If you notice "Hmm, this device is getting hot" then report this too. This could be a good start for the investigation. Also, from the settings of the mobile phone, you can see how much battery it is consuming.
+If you are unsure which device the customer is using, choose the most popular devices on the market. This information is freely accessible via Google search. There are other analytics programs available online, in addition to Google Analytics.
+
+
+Always consider the edge scenarios. For example, if you are a phone user and use the app while strolling, you will most likely encounter slow internet rather than Wi-Fi when you are in the workplace. Examine your program for a sluggish internet connection.
+
+Examine the battery consumption rate; power-hungry applications are more likely to be removed from devices. Examine how much battery your application uses. If you notice, "Hmm, this device is getting hot," report it as well. This could be an excellent place to start with the investigation. You can also monitor how much battery your phone is using by going into the settings.
+
 
 Always check that your application supports horizontal mode, you can catch a lot of visual problems just by turning the phone 90 degrees!
 
-What are the types of mobile applications?
+## What are the types of mobile applications?
 
-Native applications are installed from the App Store, such as Google Play for Android and Apple's App Store. Applications that can be installed and run on your devices are known as native applications. For example, Facebook and WhatsApp.
+Always ensure that your application supports horizontal mode; rotating the phone 90 degrees can reveal a plethora of visual issues!
 
-Web applications, web applications run from mobile web browsers to Google Chrome Mozilla Firefox, Opera, Safari, etc. using mobile networks or Wi-Fi. For example, www.m.nba.com and www.m.amazon.com.
+## What kinds of mobile applications are there?
 
-Hybrid application, a hybrid application is a combination of native application and web application. They can run on devices or offline and are prepared using web technologies like HTML 5 and CSS. eBay is an excellent example of a hybrid application.
+App Stores, such as Google Play for Android and Apple's App Store, are used to install native software. Native applications are those that can be installed and run on your devices. Consider Facebook and WhatsApp.
 
-Nowadays mobile testing is an on-demand profession and it is always useful to know how to do mobile testing. Also, as a mobile software tester, you have a lot of opportunities for freelancing. Many organizations hire remote testers to test their applications.
+Web applications, from mobile web browsers to Google Chrome, run web applications. Mozilla Firefox, Opera, Safari, and other browsers use mobile networks or Wi-Fi. For instance, 
+` www.nba.com ` and ` www.amazon.com.`
 
-# A Complete Checklist for Mobile App Testing:
+A hybrid application is a combination of a native application and a web application. They can run on devices or in the cloud and are built with web technologies such as HTML 5 and CSS. A great example of a hybrid application is eBay.
 
-- [x] Can the app be installed on the device?
-- [x] Does the app behave as designed/desired if there is an interruption?
-- [x] Does the app behave appropriately if the device is shaken, titled or rotate?
-- [x] Does the app behave as designed/desired if a push message is coming from another app
-- [x] Does the app interact with the GPS sensor correctly (if Applicable)
-- [x] Is all the buttons (App button & True button) functioning?
-- [x] Does the app functioning properly if the “Battery low” message is pushed
-- [x] Does the app behave as designed/desired if the general settings is changed?
-- [x] Can the app switch to different apps on the device through multitasking as designed/desired?
-- [x] Check what happens when deleting cache.
-- [x] Does the app behave according to specification if connected to the internet through Wi-Fi?
-- [x] Does the app behave according to specification if connected to the internet through 4G, 3G, and 2G?
-- [x] Does the app behave according to specification of the app is out of network reach?
-- [x] Does the app still work correctly when tethering or otherwise connected to another device
-- [x] What happens if the app switches between networks (Wi-Fi, 3G, 2G)
-- [x] Does the app use standard network ports
-- [x] Has the app been tested on different type of devices and different versions of OS?
-- [x] Check app stability.
-- [x] File downloading and uploading operation must be perform as desired.
-- [x] The app does not interfere with other apps when in background/multitasking mode
-- [x] Can the user print from the app (if applicable)
-- [x] Is the App search option performing as desired?
-- [x] What happens if you select different options at the same time (undesired multi-touch)
-- [x] App name should be self-explanatory
-- [x] Does the app go to sleep mode when running in the background (prevent battery drain)?
-- [x] Make it possible for users to go back to a previous screen for instance by adding a back or cancel button
-- [x] If there is a long list of data to scroll through, provide a search option above the list.
-- [x] If performance is slow, indicate a progress status icon (“Loading…”), preferably with specific message.
-- [x] Do not use standard buttons for other functions then that they are normally used for.
-- [x] The app should respond to all changes in device orientation, as per the design
-- [x] Tap-able elements pixel and size should be standardized.
-- [x] Do not redefine gestures in your app that have a standard meaning
-- [x] If the app is stopped at an unexpected time, user data should be saved locally and available at start-up.
-- [x] Users should be warned of the consequences of deleting a document
-- [x] Keyboard adjusts to expected input
-- [x] Are inactive buttons clearly distinguish from active buttons?
-- [x] All the fonts are rendering well on a variety of device & screen
+Nowadays, mobile testing is in high demand, thus knowing how to do mobile testing is always useful. You can have a lot of freelancing options as a mobile software tester. Many businesses use remote testers to test their applications.
+
+
+# A Comprehensive Checklist for Testing Mobile Apps:
+
+- [x] Is it possible to install the app on the device?
+- [x] If there is an interruption, does the app perform as intended?
+- [x] Does the app respond properly when the device is shook, titled, or rotated?
+- [x] Does the app respond as intended/desired when a push message arrives from another app?
+- [x] Does the app correctly connect with the GPS sensor? (if Applicable)
+- [x] Is it possible to use all of the buttons (App and True)?
+- [x] Is the app still functional when the "Battery low" notice is displayed?
+- [x] Does the program perform as intended when the general settings are changed?
+- [x] Can the app transition to different apps on the device via multitasking, as intended?
+- [x] Examine what happens when you delete the cache.
+- [x] Does the app perform as expected while connected to the internet through Wi-Fi?
+- [x] Does the app perform as expected when connected to the internet through 4G, 3G, or 2G?
+- [x] Does the app behave as expected when the app is not in network reach?
+- [x] Is the app still functional when tethered or otherwise connected to another device?
+- [x] What happens if the app changes networks? (Wi-Fi, 3G, 2G)
+- [x] Is the software compatible with conventional network ports?
+- [x] Has the app been tested on a variety of devices and operating systems?
+- [x] Examine the app's stability.
+- [x] The downloading and uploading of files must proceed as planned.
+- [x] When in background/multitasking mode, the software does not interfere with other apps - [x] Can the app be used to print? (if applicable)
+- [x] Is the App search function working properly?
+- [x] What happens if you choose multiple alternatives at the same time? (undesired multi-touch)
+- [x] The name of the app should be self-explanatory.
+- [x] Is the app put to sleep when running in the background to save battery life?
+- [x] Allow users to return to a previous screen, for example, by including a back or cancel button
+- [x] Provide a search option above the list if there is a big list of data to scroll through.
+- [x] If performance is slow, display a progress status icon ("Loading...") with a specific message.
+- [x] Use ordinary buttons for no other use than what they were designed for.
+- [x] According to the design, the app should respond to all changes in device orientation.
+- [x] The pixel and size of tap-able items should be standardized.
+- [x] Do not reinvent gestures that have a predefined meaning in your software.
+- [x] If the app crashes unexpectedly, user data should be preserved locally and made available upon restart.
+- [x] Users should be cautioned about the ramifications of removing a document - [x] The keyboard adjusts to the expected input.
+- [x] Are dormant and active buttons easily distinguished?
+- [x] All of the typefaces look great on a number of devices.
 - [x] Are the proper image quality followed?
 
 Special Mentioned Link: https://developer.android.com/guide/practices/ui_guidelines/index.html
 
+ 
+# All Posts on Testing:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**Software Testing Glossary**](https://rafayethossain.github.io/2018-08-12-Software-Testing-Terms-of-Glossary/)
+- [x]  [**Software Testing Types**](https://rafayethossain.github.io/2018-08-22-Software-Testing-Types/)
+- [x]  [**Activities in Software Testing**](https://rafayethossain.github.io/2018-09-01-Test-Activities-You-Must-Know/)
+- [x]  [**How to Prepare Test Case**](https://rafayethossain.github.io/2018-09-11-How-Prepare-Test-Case/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Write a Bug Report**](https://rafayethossain.github.io/2018-09-20-How-to-Write-a-Bug-Report/)
+- [x]  [**Bug Life Cycle**](https://rafayethossain.github.io/2018-09-23-Life-Cycle-of-a-Bug/)
+- [x]  [**Front End Testing Basic**](https://rafayethossain.github.io/2018-09-30-Basic-GUI-Testing/)
+- [x]  [**Mobile Application Testing Basic**](https://rafayethossain.github.io/2018-10-05-Mobile-App-Testing-Basic/)
+- [x]  [**Software Testing Toolkit**](https://rafayethossain.github.io/2018-10-10-Software-Testing-Toolkit/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Install Python**](https://rafayethossain.github.io/2018-12-31-how-install-python-on-windows/)
+- [x]  [**Begineer Tips to Learn Python by Yourself**](https://rafayethossain.github.io/2019-01-03-Beginner-Tips-for-Learning-Python/)
+- [x]  [**Free Resource for Python Learning**](https://rafayethossain.github.io/2019-01-04-Python-Resource-Books-and-Recipe/)
+- [x]  [**Python Basic Coding for Newbie**](https://rafayethossain.github.io/2019-01-05-Basic-Python-Coding/)
+- [x]  [**Python 30 Secondes Recipe**](https://rafayethossain.github.io/2019-01-07-Python-Easy-Trick-Collected/)
+- [x]  [**How to Install Selenium with Python**](https://rafayethossain.github.io/2019-01-08-How-To-Install-Selenum-Python-Webdriver/)
+- [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
+
+
+
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
+**See Yaaa, Next.**
+
+![Cover](/assets/img/cover.jpg "Cover")
