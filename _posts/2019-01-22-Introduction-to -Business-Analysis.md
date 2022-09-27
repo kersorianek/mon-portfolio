@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Introduction to Business Analysis
+title: An Introduction to Business Analysis and the Business Analyst
 subtitle: Everything You Need to Know About Business Analysis
 tags:
   [
@@ -17,11 +17,9 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Business analysis is not the type of career where you need to necessarily be prepared for anything, but expect the occasional surprise or unexpected situation. In most business analyst jobs, you’ll experience a fair amount of variety in your day-to-day work. And while this is not a role like IT support requiring near-constant interaction with others and real-time prioritization, priorities shift and a certain amount of flexibility and responsiveness is important. Of course, if your company experiences a catastrophe or uncovers a significant unexpected opportunity you will most likely be called in to help on short notice, but that’s the exception, not the rule.
+Business analysis is not the type of job where you need to be prepared for everything, but you should be prepared for the odd surprise or unexpected event. Most business analyst jobs will provide you with a reasonable bit of variation in your day-to-day work. While this is not an IT support function that requires near-constant interaction with people and real-time prioritization, priorities change and a certain level of flexibility and responsiveness is required. Of course, if your company suffers a disaster or discovers a huge unanticipated opportunity, you will most certainly be called in to assist on short notice, but this is the exception rather than the rule.
 
-Most often your days will not hit you, instead, you’ll hit them. The best business analysts drive the
-requirements process. This means scheduling meetings, managing input, influencing stakeholders, and
-ensuring decisions are made. Great business analysts are proactive and seek out answers. If this is not a comfortable role for you, it might be possible to find positions where you can partner with a strong project manager. In general, however, you should be prepared for planning out your own work to meet deadlines (possibly set by yourself, possibly imposed) and facilitating input and occasionally follow-ups from a variety of people to achieve your end goals.
+Most of the time, your days will strike you instead than the other way around. The top business analysts drive the requirements process. This includes organizing meetings, handling input, influencing stakeholders, and ensuring decisions are made. Great business analysts are proactive in their search for answers. If this is not a comfortable job for you, you may be able to locate opportunities where you can collaborate with a strong project manager. In general, you should be prepared to organize your own work to meet deadlines (sometimes set by yourself, possibly imposed) and to facilitate input and occasionally follow-ups from a range of people to achieve your ultimate goals.
 
 _Qucik Link to Specific Topic:_
 
@@ -34,23 +32,26 @@ _Qucik Link to Specific Topic:_
 - [Responsibilities (IT):](#responsibilities-it)
   - [Types of Business Analyst Role:](#types-of-business-analyst-role)
 - [Skills of a Good Business Analyst](#skills-of-a-good-business-analyst)
+- [All Posts on Testing:](#all-posts-on-testing)
 
 # What is Business Analysis?
 
-Business Analysis is a disciplined approach for introducing and managing change to organizations, whether they are for-profit businesses, governments, or non-profits.
+Business analysis is a systematic technique to initiating and managing change in organizations, whether for profit, government, or non-profit.
 
-Business analysis is the practice of enabling change in an enterprise by defining needs and recommending solutions that deliver value to stakeholders. Business analysis enables an enterprise to articulate needs and the rationale for change and to design and describe solutions that can deliver value.
-Business analysis is performed on a variety of initiatives within an enterprise. Initiatives may be strategic, tactical, or operational. Business analysis may be performed within the boundaries of a project or throughout enterprise evolution and continuous improvement. It can be used to understand the current state, define the future state, and determine the activities required to move from the current to the future state.
+Business analysis is the activity of facilitating change in an organization by articulating needs and offering solutions that add value to stakeholders. Business analysis allows a company to communicate its needs and the rationale for change, as well as build and describe solutions that can provide value.
+
+
+Business analysis is performed on a number of projects within a company. Strategic, tactical, or operational initiatives are all possible. Business analysis can be done inside the confines of a project or throughout the evolution and continual improvement of a business. It can be used to comprehend the current state, define the future state, and determine the activities necessary to transition from the current to the future state.
 
 # Who is Business Analyst?
 
-Business Analyst is a change agent, they help organization to make the change. Generally, a Business Executives are visionary of an organization who set goal and the other hand, BA is a technician who enable those changes to make the goal happen. In business, change is constant and BA comes where changes is needed.
+A business analyst is a change agent; they assist organizations in making changes. In general, a Business Executive is a visionary of an organization that sets goals, whereas a BA is a technician who enables those modifications to make the goal a reality. Change is constant in business, and BA comes in when adjustments are required.
 
-A business analyst is any person who performs business analysis tasks described in the BABOK® Guide, no matter their job title or organizational role. Business analysts are responsible for discovering, synthesizing, and analyzing information from a variety of sources within an enterprise, including tools, processes, documentation, and stakeholders. The business analyst is responsible for eliciting the actual needs of stakeholders—which frequently involves investigating and clarifying their expressed desires—in order to determine underlying issues and causes.
+A business analyst is someone who performs business analysis responsibilities as outlined in the BABOK® Guide, regardless of job title or organizational role. Business analysts are in charge of gathering, synthesizing, and evaluating information from a number of sources inside an organization, such as tools, procedures, documents, and stakeholders. The business analyst is responsible for obtaining the actual demands of stakeholders, which frequently entails analyzing and clarifying their professed wishes, in order to discover underlying difficulties and reasons.
 
 # Why Use Business Analysis?
 
-Here are important reasons for using Business analysis methods:
+Here are some compelling reasons to employ business analysis methods:
 
 - It helps you to understand the structure and the dynamics of the company
 - It allows you to understand current problems in the target organization.
@@ -60,17 +61,17 @@ Here are important reasons for using Business analysis methods:
 
 # Steps involved in Business Analysis Process
 
-1. Enterprise analysis
+1. Enterprise Analysis
 2. Requirement planning and Management
 3. Requirement Elicitation
-4. Requirement analysis and Documentation
+4. Requirement Analysis and Documentation
 5. Requirement Communication
 6. Solution Evolution and Validation
 
 # Business Analysis Role :
 
-Company usually have BA Linking towards the business or towards the IT
-Business analysts play a role in aligning the designed and delivered solutions with the needs of stakeholders. The activities that business analysts perform include:
+BA is commonly found in businesses. Connecting to the company or to the IT
+Business analysts are responsible for ensuring that the solutions created and delivered meet the needs of stakeholders. Business analysts do the following tasks:
 
 • understanding enterprise problems and goals,
 • analyzing needs and solutions,
@@ -127,12 +128,31 @@ Basically, a good business analyst is judged on these four attributes
 - **Business process and planning:** Planning the project scope, understanding and implementing requirement of project, identifying resources required for the project and so on
 - **Technical Skill:** If a business analyst is in the IT sector, few technical aspect are expected to know like operating systems, hardware capabilities, database concepts, networking, SDLC methodology, etc.
 
-For Any Query or Task Contact Me @
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
+
+For Any Query or Assigment Contact 
+**Rafayet Hossain**
+
+✅ Business Analyst | SQA | Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
+
+ 
+# All Posts on Testing:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
+  
+
+
 
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
+**See Yaaa, Next.**
 
 ![Diary](/assets/img/diary.png "Diary")
