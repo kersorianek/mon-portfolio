@@ -17,11 +17,12 @@ In this instance, all you can do is gather a park map. The same is true for your
 _Qucik Link to Specific Topic:_
 
 - [What is a Test Case](#what-is-a-test-case)
-- [Use a clear title](#use-a-clear-title)
-- [Include a strong description](#include-a-strong-description)
-- [Include estimates and prerequisites](#include-estimates-and-prerequisites)
-- [Keep test steps clear and concise](#keep-test-steps-clear-and-concise)
-- [Make it reusable](#make-it-reusable)
+- [How to write test case for software:](#how-to-write-test-case-for-software)
+  - [Use a clear title](#use-a-clear-title)
+  - [Include a strong description](#include-a-strong-description)
+  - [Include estimates and prerequisites](#include-estimates-and-prerequisites)
+  - [Keep test steps clear and concise](#keep-test-steps-clear-and-concise)
+  - [Make it reusable](#make-it-reusable)
 - [Do's for Writing Test Case](#dos-for-writing-test-case)
 - [Dont's for Writing Test Case](#donts-for-writing-test-case)
 - [A Complete Checklist to Check Web Application:](#a-complete-checklist-to-check-web-application)
@@ -34,21 +35,21 @@ A **Test Case** is a document artifact consisting of certain actions or sequence
 When it comes to quality, the test case is the condition that ensures the tested product is functional up to a specific degree and ready to go live.
 From the perspective of a tester, test cases give the settings under which a tester conducts the task of confirming the authenticity of a specific function or feature of a system.
 
-How to write test case for software:
+# How to write test case for software:
 
-# Use a clear title
+## Use a clear title
 
 A good test case begins with a clear and compelling title. It is best practice to name the test case after the module that is being tested. If you examine the login page, for example, include "login page" in the title of the test case.
 
-# Include a strong description
+## Include a strong description
 
 Read the description so the examiner knows what they are testing. Other pertinent information, such as the test environment, test data, and prerequisites/assumptions, may be included in this area at times. Test descriptions should be simple to read and understand the test's high-level goals and objectives right away.
 
-# Include estimates and prerequisites
+## Include estimates and prerequisites
 
 Any applicable assumptions and conditions must be met before the test may be executed. Depending on the test environment and the necessity for a special configuration before running the test, this information may include the page the user should start the test on.
 
-# Keep test steps clear and concise
+## Keep test steps clear and concise
 
 Remember that the person who authored the test case may not be the one who runs the test. The test steps should include the relevant data as well as instructions on how to carry out the test. This is most likely the most crucial aspect of every test case. Write the test case so that anyone can follow it and test it.
 - Include anticipated outcomes.
@@ -56,7 +57,7 @@ Remember that the person who authored the test case may not be the one who runs 
  
 The examiner uses this to evaluate whether the test case "passed" or "failed."
 
-# Make it reusable
+## Make it reusable
 
 A good test case gives the software testing team with reusable and long-term value. Remember this while creating a test case. Instead of redoing the test case, you can save a lot of time by reusing it.
 
