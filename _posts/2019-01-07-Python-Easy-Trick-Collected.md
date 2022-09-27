@@ -10,11 +10,11 @@ share-img: /assets/img/selenium-with-python.png
 cover-img: /assets/img/cover.jpg
 ---
 
-This post contains plenty of useful snippets which can help beginners and newcomers quickly ramp-up on grasping python 3's syntax. A Python implementation of 30-seconds-of-code🐍!
+This post offers numerous useful snippets that might assist beginners and newcomers in quickly comprehending Python 3 syntax. A Python implementation in 30 seconds!🐍!
 
 **Note**:- Original Source for This section is [30-seconds-of-code](https://github.com/Chalarangelo/30-seconds-of-code/).
 
-If you need help installing the latest stable release of python 3 on your system checkout docs.python.org if you run into trouble make sure you research stackoverflow. Eventually it might be worth looking into how to set up a virtual environment for python projects with virtualenv or even a tool like anaconda.
+If you need assistance installing the most recent stable release of Python 3 on your machine, go to docs.python.org. If you get stuck, make sure to look into stackoverflow. It could be worthwhile to investigate how to build up a virtual environment for Python projects using virtualenv or even a tool like anaconda in the future.
 
 ### Table of contents
 
@@ -872,16 +872,56 @@ palindrome('taco cat') # True
 
 <br><a href = "#table-of-contents">:arrow_up: Back to top</a>
 
+
+
+For Any Query or Assigment Contact 
+**Rafayet Hossain**
+
+✅ Business Analyst || SQA || Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
+
+ 
+# All Posts on Testing:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**Software Testing Glossary**](https://rafayethossain.github.io/2018-08-12-Software-Testing-Terms-of-Glossary/)
+- [x]  [**Software Testing Types**](https://rafayethossain.github.io/2018-08-22-Software-Testing-Types/)
+- [x]  [**Activities in Software Testing**](https://rafayethossain.github.io/2018-09-01-Test-Activities-You-Must-Know/)
+- [x]  [**How to Prepare Test Case**](https://rafayethossain.github.io/2018-09-11-How-Prepare-Test-Case/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Write a Bug Report**](https://rafayethossain.github.io/2018-09-20-How-to-Write-a-Bug-Report/)
+- [x]  [**Bug Life Cycle**](https://rafayethossain.github.io/2018-09-23-Life-Cycle-of-a-Bug/)
+- [x]  [**Front End Testing Basic**](https://rafayethossain.github.io/2018-09-30-Basic-GUI-Testing/)
+- [x]  [**Mobile Application Testing Basic**](https://rafayethossain.github.io/2018-10-05-Mobile-App-Testing-Basic/)
+- [x]  [**Software Testing Toolkit**](https://rafayethossain.github.io/2018-10-10-Software-Testing-Toolkit/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Install Python**](https://rafayethossain.github.io/2018-12-31-how-install-python-on-windows/)
+- [x]  [**Begineer Tips to Learn Python by Yourself**](https://rafayethossain.github.io/2019-01-03-Beginner-Tips-for-Learning-Python/)
+- [x]  [**Free Resource for Python Learning**](https://rafayethossain.github.io/2019-01-04-Python-Resource-Books-and-Recipe/)
+- [x]  [**Python Basic Coding for Newbie**](https://rafayethossain.github.io/2019-01-05-Basic-Python-Coding/)
+- [x]  [**Python 30 Secondes Recipe**](https://rafayethossain.github.io/2019-01-07-Python-Easy-Trick-Collected/)
+- [x]  [**How to Install Selenium with Python**](https://rafayethossain.github.io/2019-01-08-How-To-Install-Selenum-Python-Webdriver/)
+- [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
+
+
+
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
+**See Yaaa, Next.**
 
 ![Selenium with Python](/assets/img/selenium-with-python.png "Selenium with Python")
+
 
 ## Credits
 
 _Icons made by [Smashicons](https://www.flaticon.com/authors/smashicons) from [www.flaticon.com](https://www.flaticon.com/) is licensed by [CC 3.0 BY](http://creativecommons.org/licenses/by/3.0/)._
 
-## License
 
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fkriadmin%2F30-seconds-of-python-code.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fkriadmin%2F30-seconds-of-python-code?ref=badge_large)

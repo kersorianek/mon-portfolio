@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Best Python Books Collection Free Download
-subtitle: Best Python Books for Beginner
+title: Download Best Python Free Books Collection
+subtitle: Python Books for Beginners and Experts
 tags: [python tutorial, python, free book, book download, python books]
 image: /img/diary.png
 bigimg: /img/back.gif
@@ -10,21 +10,23 @@ share-img: /img/selenium-with-python.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Python is a general-purpose interpreted programming language used for web development, machine learning, and complex data analysis. Python is a perfect language for beginners as it is easy to learn and understand. As the popularity of the language is soaring, the opportunities in Python programming are amplifying.
+Python is an interpreted programming language that may be used for web development, machine learning, and complicated data processing. Python is an ideal language for beginners because it is simple to learn and understand. Python programming opportunities are expanding as the language's popularity grows.
 
-If you wish to learn Python programming, books can be a great source of learning. Books provide you with the ability to learn at your on time even if you are on the go and they go really in detail. Here I am going to share with some of best books written on python.
+If you want to learn Python programming, books might be a terrific resource. Books allow you to learn on your own time, even if you're on the road, and they delve into great detail. I'm going to share some of the top Python books with you here.
+
 **you can just download them directly clicking **download** for free.**
 
 _Qucik Link to Specific Topic:_
 
 - [Free Python Books](#free-python-books)
 - [List of Books](#list-of-books)
+- [All Posts on Testing:](#all-posts-on-testing)
 
 # Free Python Books
 
-This is a curated collection of free Python related eBooks available on the Internet. Please feel free to share and learn.
+This is a curated list of free Python-related eBooks from the Internet. Please share and learn as much as you can.
 
-If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+Send a pull request if you want to contribute to this list. All donations will be acknowledged and thanked.
 
 {: .box-warning}
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
@@ -162,8 +164,50 @@ You can find all the books listed below in [**book**](https://github.com/rafayet
 - wxPython 2.8 Application Development Cookbook [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/wxPython%202.8%20Application%20Development%20Cookbook.pdf)
 - 流畅的 Python [[Download]](https://github.com/rafayet13/Free-Python-Books/blob/master/book/%E6%B5%81%E7%95%85%E7%9A%84Python.epub)
 
+
+
+
+For Any Query or Assigment Contact 
+**Rafayet Hossain**
+
+✅ Business Analyst || SQA || Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
+
+ 
+# All Posts on Testing:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**Software Testing Glossary**](https://rafayethossain.github.io/2018-08-12-Software-Testing-Terms-of-Glossary/)
+- [x]  [**Software Testing Types**](https://rafayethossain.github.io/2018-08-22-Software-Testing-Types/)
+- [x]  [**Activities in Software Testing**](https://rafayethossain.github.io/2018-09-01-Test-Activities-You-Must-Know/)
+- [x]  [**How to Prepare Test Case**](https://rafayethossain.github.io/2018-09-11-How-Prepare-Test-Case/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Write a Bug Report**](https://rafayethossain.github.io/2018-09-20-How-to-Write-a-Bug-Report/)
+- [x]  [**Bug Life Cycle**](https://rafayethossain.github.io/2018-09-23-Life-Cycle-of-a-Bug/)
+- [x]  [**Front End Testing Basic**](https://rafayethossain.github.io/2018-09-30-Basic-GUI-Testing/)
+- [x]  [**Mobile Application Testing Basic**](https://rafayethossain.github.io/2018-10-05-Mobile-App-Testing-Basic/)
+- [x]  [**Software Testing Toolkit**](https://rafayethossain.github.io/2018-10-10-Software-Testing-Toolkit/)
+- [x]  [**Introduction to Software Testing**](https://rafayethossain.github.io/2018-08-05-Introduction-to-Software-Testing/)
+- [x]  [**How to Install Python**](https://rafayethossain.github.io/2018-12-31-how-install-python-on-windows/)
+- [x]  [**Begineer Tips to Learn Python by Yourself**](https://rafayethossain.github.io/2019-01-03-Beginner-Tips-for-Learning-Python/)
+- [x]  [**Free Resource for Python Learning**](https://rafayethossain.github.io/2019-01-04-Python-Resource-Books-and-Recipe/)
+- [x]  [**Python Basic Coding for Newbie**](https://rafayethossain.github.io/2019-01-05-Basic-Python-Coding/)
+- [x]  [**Python 30 Secondes Recipe**](https://rafayethossain.github.io/2019-01-07-Python-Easy-Trick-Collected/)
+- [x]  [**How to Install Selenium with Python**](https://rafayethossain.github.io/2019-01-08-How-To-Install-Selenum-Python-Webdriver/)
+- [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
+
+
+
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
+**See Yaaa, Next.**
 
 ![Selenium with Python](/assets/img/selenium-with-python.png "Selenium with Python")
