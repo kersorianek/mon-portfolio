@@ -73,11 +73,11 @@ Here are some compelling reasons to employ business analysis methods:
 BA is commonly found in businesses. Connecting to the company or to the IT
 Business analysts are responsible for ensuring that the solutions created and delivered meet the needs of stakeholders. Business analysts do the following tasks:
 
-• understanding enterprise problems and goals,
-• analyzing needs and solutions,
-• devising strategies,
-• driving change, and
-• facilitating stakeholder collaboration.
+- Understanding enterprise problems and goals,
+- Analyzing needs and solutions,
+- Devising strategies,
+- Driving change, and
+- Facilitating stakeholder collaboration.
 
 # Responsibilities (Business):
 
@@ -110,13 +110,13 @@ Business analysts are responsible for ensuring that the solutions created and de
 Other common job titles for people who perform business analysis include:
 
     • Business Architect
-    • Business Systems Analyst,
-    • Data Analyst,
-    • Enterprise Analyst,
-    • Management Consultant,
-    • Process Analyst,
-    • Product Manager,
-    • Product Owner,
+    • Business Systems Analyst
+    • Data Analyst
+    • Enterprise Analyst
+    • Management Consultant
+    • Process Analyst
+    • Product Manager
+    • Product Owner
     • Requirements Engineer
 
 # Skills of a Good Business Analyst
