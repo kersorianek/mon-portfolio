@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Project Initiation Activities of a Business Analyst
-subtitle: Business Analysis Task At the Beginning of Project
+title: How to Prepare a Business Case for Project
+subtitle: Business Case Preparation Guidelines 
 tags: [business system analysis, system analysis, business analysis, ba]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
