@@ -32,7 +32,7 @@ _Qucik Link to Specific Topic:_
 - [Responsibilities (IT):](#responsibilities-it)
   - [Types of Business Analyst Role:](#types-of-business-analyst-role)
 - [Skills of a Good Business Analyst](#skills-of-a-good-business-analyst)
-- [All Posts on Testing:](#all-posts-on-testing)
+- [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 # What is Business Analysis?
 
@@ -132,7 +132,7 @@ Basically, a good business analyst is judged on these four attributes
 For Any Query or Assigment Contact 
 **Rafayet Hossain**
 
-✅ Business Analyst | SQA | Writer ✅
+✅ Business Analyst | Project Manager | SQA | Writer ✅
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
@@ -142,7 +142,7 @@ For Any Query or Assigment Contact
 
 
  
-# All Posts on Testing:  
+# All Posts on Business Analysis:  
 
 Click on any of the desired links to directly access the information.
 
