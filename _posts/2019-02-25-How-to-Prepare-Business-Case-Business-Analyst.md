@@ -26,15 +26,7 @@ _Qucik Link to Specific Topic:_
   - [Write the Business Case: Phase 03](#write-the-business-case-phase-03)
   - [Review Business Case: Phase 04](#review-business-case-phase-04)
   - [Present the Business Case: Phase 05](#present-the-business-case-phase-05)
-- [What is a Stakeholder](#what-is-a-stakeholder)
-  - [Why Identify Stakeholders?](#why-identify-stakeholders)
-  - [How to Identify Stakeholders to a Project?](#how-to-identify-stakeholders-to-a-project)
-  - [Assigning Stakeholders Responsibility using RACI Matrix](#assigning-stakeholders-responsibility-using-raci-matrix)
-    - [RACI Matrix: Why is it used?](#raci-matrix-why-is-it-used)
-    - [Responsibility:](#responsibility)
-    - [Accountable:](#accountable)
-    - [Consulted:](#consulted)
-    - [Informed:](#informed)
+- [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 **Pre-Project Activities**
 
@@ -181,85 +173,32 @@ So you want to end with saying, you know, this is really important, this is goin
 
 So those are the five phases that a business analyst shall utilize in creating an effective business case.
 
-# What is a Stakeholder
 
-Project Stakeholders are the people that are affected by the project either directly or indirectly. Stakeholders can be the following types:
 
-1. Project Team Members
-2. Customer
-3. Suppliers
-4. City/ Community
-5. Professional Organization
-6. Any Individual Impacted by the Project
-7. Any Individual to Support the Project
-8. Anyone has a positive or negative impact on this project.
+For Any Query or Assigment Contact 
+**Rafayet Hossain**
 
-## Why Identify Stakeholders?
+✅ Business Analyst | Project Manager | SQA | Writer ✅
 
-- It increases the chances for success
-- Additional ideas
-- Varied perspectives
-- Gains buy-in
-- Increase credibility
 
-## How to Identify Stakeholders to a Project?
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
-- Walkthrough anticipated scope/ process.
-- Beneficiaries of the effort
-- Direct involved with the beneficiaries of the effort
-- Jobs that may be affected by project or results
-- Government Officials
-- Influencers
-- Interest in Outcome
-- Get Ideas from stakeholders as you identify them.
 
-## Assigning Stakeholders Responsibility using RACI Matrix
 
-It’s a good habit to assign responsibility right away. The way most people like to use RACI Matrix
 
-### RACI Matrix: Why is it used?
+ 
+# All Posts on Business Analysis:  
 
-Critical tool to understand and align the responsibilities of stakeholders It’s a good thing to know who has what responsibility at the beginning of your project.
+Click on any of the desired links to directly access the information.
 
-- Alleviates power struggles
-  Reduces lack of ownership
-- Sets clear expectations!
-- Know your roles
+- [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
+  
 
-### Responsibility:
 
-- Who is/will be doing this task?
-- Who is assigned to work on this task?
-
-### Accountable:
-
-- Who’s head will roll if this goes wrong?
-- Who has the authority to sign off the work?
-
-### Consulted:
-
-- Who can tell me more about this task?
-- Who are the Subject Matter Experts?
-
-### Informed:
-
-- Who’s work depends on this task?
-- Who has to be kept updated about the progress?
-
-An Example of RACI chart:
-
-|          RACI           | Project Manager | Business Analyst | Developer | Executives |
-| :---------------------: | :-------------: | :--------------: | :-------: | :--------: |
-|    Project Planning     |      R, A       |       R, A       |           |     I      |
-| Requirement Elicitation |        I        |       R, A       |           |     I      |
-|       Development       |        I        |       I, C       |     R     |     I      |
 
 {: .box-success}
 Enjoy !!!
-See Yaaa, Next.
-
-For Any Query or Task Contact Me @
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+**See Yaaa, Next.**
 
 ![Diary](/assets/img/diary.png "Diary")
