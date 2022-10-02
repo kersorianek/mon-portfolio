@@ -38,7 +38,8 @@ Number of question one might encounter while analyzing Change Control like:
 
 There are various factors that a Change Control process should consider
 Steps in Change Control Process Action taken in Change Control
-- Change request initiation and Control • Request for changes should be standardized and subject to management review
+- Change request initiation and Control
+- Request for changes should be standardized and subject to management review
 - Change requestor should be kept informed
 - Impact Assessment
 - Make sure that all requests for change are assessed in a structured way for analyzing possible impacts
@@ -76,10 +77,12 @@ Steps for Change Control Action
 - Determine appropriate resources required to analyze the change request
 - Perform quick assessment of the potential impact and update the change request form
 - At this stage, rejected change request should stopped
-- Change request analysis • For analysis assign the change request to an authorized member
+- Change request analysis 
+- For analysis assign the change request to an authorized member
 - Deferred change re-enter this analysis step
 - At this stage, rejected change request should stopped
-- Change request approval • Identify change risk and complexity level before approval
+- Change request approval 
+- Identify change risk and complexity level before approval
 - Identify the impact level of the change before approval
 - Review impact of Change Request to authorized person for approval
 - At this stage, rejected change request should stopped
@@ -143,9 +146,9 @@ Impact Analysis Document.
 12. Integration issues:
     How to present Impact Analysis influence level
     Impact Analysis can be marked as per the color code to represent the criticality of the changes or impact of the changes over the system. The color code could be anything as shown below.
-    • Red- Strong
-    • Yellow- Moderate
-    • Green- Weak
+    -  Red- Strong
+    - Yellow- Moderate
+    - Green- Weak
 
 The above table explains the impact of the implemented changes
 - Features that are marked with red indicates the main features which are changed, those with yellow are the features that are less influenced by the change and those with the green are the least one.
@@ -180,6 +183,7 @@ Summary
 
 
 For Any Query or Assigment Contact 
+
 **Rafayet Hossain**
 
 ✅ Business Analyst | Project Manager | SQA | Writer ✅

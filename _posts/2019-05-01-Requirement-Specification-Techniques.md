@@ -152,17 +152,36 @@ What is the standard format?
 No there is no standard but it is pretty obvious that every organization use a BRD format based on their needs. But most of the information are almost similar.
 One question that comes up a lot is 'hey, when do I fill this out?', you'll see as we go through kind of an example template and format that it's a pretty formal document. You have your elicitation, then you have your analysis, then your specification, then your validation. So in the elicitation that's when you're meeting with everyone, that's when you're doing all your different elicitation activities and at that time I'm not documenting inside of a BRD, I'm trying to write good requirements, write SMART requirements because I don't want to rewrite them all later, is when I start to put a lot of the details into the BRD and also in the specification phases when I kind of finalize that.
 
-{: .box-success}
-Enjoy !!!
-See Yaaa, Next.
 
-Rafayet Hossain
 
-☑ Business Analyst ☑ SQA ☑ Certified Lean Six Sigma Black Belt ☑ Writer
 
-For Any Query or Task Contact Me @
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
+For Any Query or Assigment Contact 
+
+**Rafayet Hossain**
+
+✅ Business Analyst | Project Manager | SQA | Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
+
+
+
+ 
+# All Posts on Business Analysis:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
+- [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
+- [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
+- [x]  [**Stakeholder Management Guidelines**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+
+
+
+{: .box-success}
+Enjoy !!!
+**See Yaaa, Next.**
 
 ![Diary](/assets/img/diary.png "Diary")

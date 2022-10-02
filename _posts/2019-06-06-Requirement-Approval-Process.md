@@ -68,17 +68,37 @@ Sponsor Approval: Schedule
 • Create meeting agenda
 Sponsor Approval: Conduct 1. Explain the purpose of the meeting and the agenda 2. Review project and objective (sell it) 3. Give your presentation (stay at a high level) 4. Address questions and concerns immediately 5. Gain official sign-off on the project
 
-{: .box-success}
-Enjoy !!!
-See Yaaa, Next.
 
-Rafayet Hossain
 
-☑ Business Analyst ☑ SQA ☑ Certified Lean Six Sigma Black Belt ☑ Writer
 
-For Any Query or Task Contact Me @
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayet13/)
+
+For Any Query or Assigment Contact 
+
+**Rafayet Hossain**
+
+✅ Business Analyst | Project Manager | SQA | Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
+
+
+
+ 
+# All Posts on Business Analysis:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
+- [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
+- [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
+- [x]  [**Stakeholder Management Guidelines**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+
+
+
+{: .box-success}
+Enjoy !!!
+**See Yaaa, Next.**
 
 ![Diary](/assets/img/diary.png "Diary")
