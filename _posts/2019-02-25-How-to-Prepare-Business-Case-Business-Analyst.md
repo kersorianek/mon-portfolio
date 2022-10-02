@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Prepare a Business Case for Project
-subtitle: Business Case Preparation Guidelines 
+subtitle: How to Write a Business Case  
 tags: [business system analysis, system analysis, business analysis, ba]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
@@ -10,19 +10,24 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-The primary goal of project start is to elicit requirements in order to understand the scope of a prospective solution. Elicitation days are enjoyable, and many business analysts prefer them. These days take place early in the project, possibly even before it begins, and involve meeting with stakeholders to discover what they hope to achieve in a project.
+You have a brilliant idea. You want to assemble an expert team and demonstrate to stakeholders that your idea is viable.
+
+But how do you make that work?
+
+Before your plan may be approved, you must explain how you intend to fund and continue your initiative. A business case can help with this.
 
 _Qucik Link to Specific Topic:_
 
 - [Understanding Business Objective](#understanding-business-objective)
-  - [Three (03) Questions to Ask Yourself](#three-03-questions-to-ask-yourself)
+  - [03 Questions to Ask Yourself](#03-questions-to-ask-yourself)
   - [What is a Business Case?](#what-is-a-business-case)
-  - [Why it is used?](#why-it-is-used)
-  - [When it is Used?](#when-it-is-used)
+  - [What is the purpose of creating a business case?](#what-is-the-purpose-of-creating-a-business-case)
+  - [When is Business Case Used?](#when-is-business-case-used)
+    - [A business case is often prepared to discover the following answers:](#a-business-case-is-often-prepared-to-discover-the-following-answers)
   - [Who creates a business case?](#who-creates-a-business-case)
-- [5 Phases of Creating an Effective Business Case](#5-phases-of-creating-an-effective-business-case)
+- [05 Phases of Developing an Effective Business Case](#05-phases-of-developing-an-effective-business-case)
   - [Initial Analysis: Phase 01](#initial-analysis-phase-01)
-  - [Determining Potential Solution: Phase 02](#determining-potential-solution-phase-02)
+  - [Identifying Potential Solutions: Phase 02](#identifying-potential-solutions-phase-02)
   - [Write the Business Case: Phase 03](#write-the-business-case-phase-03)
   - [Review Business Case: Phase 04](#review-business-case-phase-04)
   - [Present the Business Case: Phase 05](#present-the-business-case-phase-05)
@@ -32,10 +37,11 @@ _Qucik Link to Specific Topic:_
 
 # Understanding Business Objective
 
-To identify the business goals, needs, requirements of the organization, project, or stakeholder. The first project as a Business Analyst. And failed with Embarrassment. Because you developed a solution that does not meet the Objective, Goal, and Purpose of the project.
-You may develop a great product but still failed this project cause it does not meet the goal set for the project. As a business analyst, this is heartbreaking.
+Identifying the organization's, project's, or stakeholder's business goals, needs, and requirements. The first assignment I worked on as a Business Analyst. And failed out of embarrassment. Because you created a solution that does not fulfill the project's Objective, Goal, and Purpose.
 
-## Three (03) Questions to Ask Yourself
+You might create a fantastic product yet still fail this project since it does not satisfy the project's objectives. This is terrible for me as a business analyst.
+
+## 03 Questions to Ask Yourself
 
 1. What is the purpose of the project
 
@@ -51,45 +57,51 @@ You may develop a great product but still failed this project cause it does not 
    - How will it be measured?
    - Have you preferred the Measurement matrix?
 
-Once you have those details, you start working through and eliciting requirements. Yeah, there is going to be a lot of other features, and other enhancement that they may want as part of the project, but your number one goal should be to solve the problem that the project is intended to solve.
+After you have those specifics, you can begin working through and eliciting requirements. Yes, there will be additional features and enhancements that customers may desire as part of the project, but your primary focus should be to address the problem that the project is designed to solve.
 
-Creating a product that does not solve the project wastes tons of time and money and it, quite frankly, is extremely embarrassing, is just what every business analyst has gone through.
+Creating a product that does not solve the project wastes a lot of time and money, and it is also incredibly embarrassing, as every business analyst has experienced.
 
 ## What is a Business Case?
 
-A decision-making tool is used to determine the effects a particular decision will have on profitability.
+A decision-making tool is used to assess the impact of a certain decision on profitability.
 
-Ultimately, what that means is it's a document that's presented to decision-makers and it's giving them options and telling them 'OK, based on these certain actions, here's the cost-benefit ratio, here's the return on investment by making a decision one way or another.
+Ultimately, it is a document that is delivered to decision-makers and tells them,
+  _OK, based on these specific activities, here's the cost-benefit ratio, here's the return on investment by making a choice one way or another_
 
-## Why it is used?
 
-A business case is used to identify and highlight **problems** or **opportunities** that a business can take. And then the different options they have and the recommended solution by the person that's creating the business case.
-Ultimately, it's the **driver** of projects. Many companies will start projects solely from business cases that are written. So they make their employees write business cases and that gets put in front of a decision-making committee, a person, a group where they're saying 'OK, here's all the business cases now, on what ones make sense.
+## What is the purpose of creating a business case?
 
-Business case is really used to **convince decision-makers** of a certain course of action. So, a business case is done to **identify the problem**, layout potential **solutions** and their **cost** and their **benefits**, but the big thing is the **recommendation**, right, that person is driving and saying 'here is what we should be doing and here's how we should be solving this problem and we should be taking action to do that, and here's why so it's kind of almost a sales technique to sell the business and investing money into solving that particular problem or working towards achieving that particular opportunity.
+A business case is used to identify and emphasize potential **problems** or **opportunities** for a company. Then there are the many possibilities available to them, as well as the recommended solution by the person building the business case.
 
-## When it is Used?
+Ultimately, it is the **driver** of initiatives. Many businesses will begin initiatives entirely on the basis of written business arguments. So they have their staff produce business cases, which are then presented to a decision-making committee, a person, or a group, who say, 'OK, here are all the business cases now, on which ones make sense.'
 
-There is two things to cover here. Number one, a business case is really done on almost all projects. The only difference is whether it is written or not. A business case is a kind of how you work through if you are going to move forward on something, you work through that decision process.
+A business case is created to outline potential solutions, costs, and advantages for a given problem or opportunity. It's virtually a sales approach to sell the business and invest money in fixing that specific problem or pursuing that specific opportunity. The important element is the advice - that person is driving and saying, "This is what we should do."
 
-The second thing is this is kind of obvious that the business case is done prior to a project. So there's no point in doing a business case after you are working on the project because the business is already investing in that particular project, but it's done early on usually to get funding, to get budget, to move forward, and actually kick off and square up a project to actually move forward and solve for that. So that's when it's done, that's when a business case is used.
+## When is Business Case Used?
 
-Business Case is usually prepare to find out the following answers:
+There are two points to discuss here. 
+- First and foremost, practically all initiatives have a business case. The only difference is whether or not it is written. A business case is a type of decision-making process that you go through if you want to move on with anything.
 
+- The second point is that the business case is completed prior to beginning a project. So there's no purpose in preparing a business case after you've started working on the project since the company has already invested in it, but it's normally done early on to secure money, budget, move forward, and actually kick off and square up a project to actually move forward and solution for it. So that's when it's finished, and a business case is employed.
+
+
+###  A business case is often prepared to discover the following answers:
 - What are we trying to solve?
 - What are the different solutions that we could potentially use to solve that problem?
 - What's the return on investment?
 - What's the cost?
 - What's the benefit to be able to do that?
+- What are the risks associated with the endeavor?
 - And then, What's the recommended solution?
 
-Most of us do that in our head as we're working through and deciding if we should be moving forward on a course of action. But a business case is a formal document that's done because that document that's being created by a person that's not making the decision ultimately, so they're creating that document to sell the decision-maker on you know moving forward, one, taking some action and then two, taking action in the recommended way they want.
+
+A business case is a formal document that's created by someone who isn't ultimately making the decision, so they're creating that document to sell the decision-maker on moving forward, one, taking some action, and then two, taking action in the recommended way.
 
 ## Who creates a business case?
 
-Well, it's different per company and per industry and really per project sometimes and different companies will have certain departments or projects that need a business case, other times they don't. But in regards to who creates it, it can be a lot of different people. The most common people who create are business executives, so those are you know upper-level management. This could be VPs, this could be directors, business managers, so this is a person that leads a team. It could be a business analyst also because of the role he plays. So we can assume that we're creating the business case or at least we're helping create the business case so that we understand writing.
+It can be a lot of different people. The most common people who create are business executives. This could be VPs, directors, business managers, so this is a person that leads a team. It could be a business analyst also because of the role he plays. So we can assume that we as a Business Analyst creating the business case or at least we're helping create the business case so that we understand writing.
 
-# 5 Phases of Creating an Effective Business Case
+# 05 Phases of Developing an Effective Business Case
 
 So there are really five phases to an effective business case and anyone can create a business case following these steps. These are as follows:
 
@@ -101,36 +113,46 @@ So there are really five phases to an effective business case and anyone can cre
 
 ## Initial Analysis: Phase 01
 
-The first thing is an initial analysis. So you need to understand what that problem is and really work through of been able to figure out all those different pieces. This is where you're really diving in and fully understanding the problem or opportunity. You need to fully understand it, you need to understand that's the root problem and you need to define who it's all affecting, right, and kind of working through and detailing all the pieces to that problem because you want your recommended solution to be able to solve for all pieces of that, not just one, you know, kind of final or one little piece of the problem.
+The first thing is an initial analysis. You need to understand what the root of the problem or opportunity is before you can start working on a solution. You need to fully understand it, you need to define who it's all affecting and how it's affecting, right, and detailing all the pieces to that problem.
 
-The second thing is under the initial analysis you need to determine some high-level requirements, you want to get an idea of what the business requirements are and this isn't a full, you know, business requirements documents or anything like that, but this is just some high-level requirements, get an idea of the kind of what their business need is and you'll be able to determine that throughout kind of understanding that problem most of the time with just a few additional questions.
+The second thing is under the initial analysis you need to determine some high-level requirements, you want to get an idea of what the business requirements are and this isn't a full, you know, business requirements documents or anything like that. Most of the time with just a few additional questions you'll be able to sort of understand that problem.
 
-The third thing is, you want to understand what data you're going to need to sell this idea and sell the return on investment. The first thing the business case needs to be able to do is to convince decision-makers to take action. That's number one, regardless of the action. You just want to convince them to take action, convince them that a problem is there and that they need to take action. And the second thing is to convince them to go towards your recommended solution. So you want to identify and get information or understand where you can get information to help determine that. So maybe that's in, you know, maybe the issue is that the customer service team is solving their cases way too slow. Right.
+The third thing is, you want to understand what data you're going to need to sell this idea and sell the return on investment. The business case needs to be able to do is to convince decision-makers to take action. You just want to convince them to go towards your recommended solution. 
 
-They're solving their cases within 72 hours. But as part of the business, you have kind of a motto that you go by that you'll have their customers' case solved within 48 hours and you're not really hitting that mark. And so now you're going in to identify what is causing that. What is the problem?
+So you want to identify and get information or understand where you can get information to help determine that.
+Suppose, your support team solving their cases within 72 hours. But as part of the business, you have kind of a motto that you go by that you'll have their customers' case solved within 48 hours. So now you're going in to identify what is causing that. What is the problem?
 
-The next thing is you want to after you've got a good understanding of the problem, you get some high-level requirements and you understood kind of how you're going to support your project and what data you're going to need to define that return on investment.
+## Identifying Potential Solutions: Phase 02
 
-## Determining Potential Solution: Phase 02
+The second thing is determining the potential solutions to the problem. So not just looking at 
+_'OK, well here's what I want, here's the way I want to go', you got to look for all the possible options that could utilize?'_
 
-The second thing is determining the potential solutions to the problem. So not just looking at 'OK, well here's what I want, here's the way I want to go', you got to look for all the possible options that could utilize?'
+The first thing you need to do before creating a business case is make sure the level of return is worth the potential investments. Some people skip this step and then they'll go to present it and their boss will say _'oh, we already know about that problem'_. That's not good. Then you just wasted all this time creating a business case.
 
-The next thing is you want to validate with some decision-makers that the level return is worth the potential investments. Before you actually waste time creating a business case you want to make sure it even makes sense to go past this point. Some people will skip this step and go and create a business case and then they'll go to present it and their boss will say 'oh, we already know about that problem and there's a solution that's being created over here' or 'we've already determined that solving that solution is going to cost more than the benefit we're going to get. That's not good. Then you just wasted all this time creating a business case.
 
-So you just want to do a sanity check and just validate that even makes sense to move forward from there. So once you're complete with phase 1 you move into phase 2 which is where you're actually determining potential solutions. So the potential solutions, you want to determine all of the potential solutions, you don't want to leave out any solutions. One potential solution should be that you do nothing. Right. It could be that one action is to take no action and because there is a cost to taking no action, you want to have that is a potential solution for the project because that is a very real thing.
+You want to determine all of the potential solutions, you don't want to leave out any solutions. One potential solution should be that you do nothing. It could be that one action is to __take no action__, you want to have that is a potential solution for the project.
 
-But besides the point, you want to identify all the possible solutions to the problem and you don't want to just, you know, have high level them, you want to understand what the benefits are of that particular solution, what the costs are for that particular solution, the timetable (guestimate) of the project. You don't need the schedule.
-Then the next thing is time before return on investment is realized. So for that example, it would have taken us 53 years to break even before we even made back our investment on that. And we all know our system is not going to last 53 years so we probably moved that system in a number of years and we never would have made our return on that particular issue.
 
-And then you want to identify the risks of that particular project. So maybe your system is not very well defined and you could break a whole bunch of other stuff rates, so the timetable is really short and the costs are really low for it, but the risks are really high that when we make this change we don't know exactly what the back end is doing anymore. So you want to make sure that that's defined. So these benefits, cost, timetable, time for return on investment, and risks should be done for every single solution that you've come up with including your recommended solution.
+You want to identify all the possible solutions to the problem and you don't want to just, you know, have high level them, you want to understand what the benefits are of each one.
+
+
+It would have taken us 50 years to break even before we even made back our investment on that. And we all know our system is not going to last 50 years so we probably moved that system in a number of years and never would have made our return on that particular issue.
+
+You want to make sure that the benefits, cost, timetable, time for return on investment, and risks are all clearly defined. And then you want to identify the risks of that particular project. So maybe your system is not very well defined and you could break a whole bunch of other stuff rates, so the costs are really low but the risks are really high.
 
 ## Write the Business Case: Phase 03
 
-Then you move into phase 3 where you actually start writing the business case. So that's actually pretty far down. You've done a lot of work. By the time you're writing the business case, a lot of times you're just putting that into a document.
+In phase two, you've done a lot of work on the business case. Most companies have a template that you use for their company as some are a little bit more formal, some are less formal.
 
-Most companies have a template that you use for their company as some are a little bit more formal, some are a little less formal, but they all have the same general concept, so the six sections to a business case and I will talk about our list right here.
+A business case has the following six sections:
+ - Executive Summary
+ - Problem Statement 
+ - Analysis 
+ - Solution Options 
+ - Cost Benefit Analysis  
+ - Recommendation 
 
-So the first thing is the executive summary. This is actually the thing that I wrote last, what the **executive summary** is doing is saying okay for executives that don't have time to read this whole document which could be many pages, here's a summary of everything. Right. Here's a summary very high level of the problem, a quick analysis that was done, potential solutions, and the recommended solution. And it's just summarized in a couple of paragraphs. The whole point of that is executives are not going to have time to read the whole document. They need a bird' eye view to understand the high levels of it to usually prepare themselves for coming into the presence of that business case and deciding if they want to move forward. So the executive summary is the thing at the top of the document, but that's usually the last thing that's done.
+The **executive summary** is the thing at the top of the document, but that's usually the last thing that's done. The whole point of that is executives are not going to have time to read the whole document. They need a bird' eye view to understand the high levels of it.
 
 The next thing is the **problem statement**. So this is the well-defined problem statement as to the opportunity or issue that we're having that we're solving for and this should be very succinct and very clear. No ambiguity.
 
@@ -146,33 +168,33 @@ And then last but not least is the **recommendation**. This is what are you reco
 
 The fourth thing is reviewing the business case, making sure it's good, you don't have any mistakes, and kind of in doing all that.
 
-This is just like a resume. You want to make sure that this is good and solid. otherwise, your hard work on this may go to waste. So you want to go back through your business case and you want to validate that that **problem statement justifies** a call to action, You want those decision-makers to say 'yes, we need to take action.
+This is just like a resume. You want to make sure that this is good and solid otherwise, your hard work on this may go to waste. So you want to go back through your business case and validate that that that **problem statement** justifies a call to action.
 
-The second thing is you want to ensure that all the **valid solutions** are given. You don't want to leave a solution out or a potential solution out because it may be competes with your recommended solution. You want to make sure that's listed, you want to let that business make the decision with all the facts.
+The second thing you want to make sure is that all the possible solutions are given to potential customers. You don't want to leave a solution out or a **potential solution** out because it may be competes with your recommended solution.
 
 The third thing is double to check your **cost-benefit analysis** calculations. It's really easy to get those mixed up and that can really throw everything off and if somebody points out a mistake in your presentation your credibility is shot. So you want to make sure that that's accurate.
 
-Fourth is you want to objectively dissect your **recommendation**. So after you get all done with all your solutions, take a step back and really objectively look at it. Don't just go with that option because that option sounds like the coolest option and just a project you really love to run because that's an area that you want to get into because you want it to be right for the business, so make sure you're objectively dissecting your recommendation.
+Third is you want to objectively dissect your **recommendation**. Don't just go with that option because that sounds like the coolest option and just a project you really love to run. And make sure you're objectively dissecting your recommendation, so it's right for the business.
 
-Obviously, correct any **grammatical** or **spelling** mistakes and then you want to have another person review it. And then last but not least is you want to get the buy-in of two key stakeholders. You want to get a couple of people that back you up and that have reviewed the business case and they agree with it because that's going to give you a lot of credibility when you go into actually presenting the business case to the executives or the decision-makers.
+Obviously, correct any **grammatical** or **spelling** mistakes and then you also need to get the buy-in of two key stakeholders before presenting it to decision-makers.
 
 ## Present the Business Case: Phase 05
 
 And then the fifth thing, the final step there is presenting that business case. The whole goal of the business case and presenting the business case is to get the business to say _'yes, we agree and we want to move forward with that recommendation or that project'._
 
-So the first thing you want to do is you want to remind yourself that they haven't seen this before so you might have sent the business case to them prior to the meeting as part of the invite which is a good habit to get into, at least they can review it if they have a little time, but you want to go in as if they've never seen this. They have no idea what the problem is, they have no idea what the possible solutions are. And if they're lost, there's no way that you're going to get their agreement for funding of moving the project forward.
+The first thing you want to remind yourself  that they have no idea what the problem is, they have no know what the possible solutions are. And if they're lost, there's no way that you're going to get their agreement for funding You might have sent the business case to them prior to the meeting as part of the invite.
 
-If decision-makers don't see that there's a problem they're not going to really listen to your solutions and recommendations because they're going to say 'you know what, it's not that big of a problem, who cares, we're not going to take action'. Right. So you want to make sure that you're hammering that home and that you're kind of selling them that there's a problem.
+If decision-makers don't see that there's a problem they're not going to really listen to your solutions and recommendations because they're going to say it's not that big of a problem. So you want to make sure that you're kind of selling them that there's a problem.
 
 Next thing is give your recommendation. You don't need to go through everything you want to, you know, talk about that, talk about the problem and then give your recommendation and then you can talk about the return on investment for that particular recommendation.
 
-You then, I like to then circle back and say 'here are the other options that were being looked at and here's the other solutions that we came up with and here are the reasons I ruled each of them out' or 'here are the reasons that I went with my recommended solution over that particular solution'. So it just helps people to kind of rule out the other ones.
-The next thing is you want to touch on each risk. So if there's a risk. Touch on it. You don't want a deep dive and spend too much time on the risks that are there. You just want to make sure that they're aware that there's a risk. And if they have questions, It is guaranteed, they will stop and they will ask you to go deeper into that risk. You also to build your credibility, you want to mention your stakeholder backers. So those two people that you had reviewed ahead of time bring them up. So it's building on your credibility especially if you're having like subject matter experts or people that are kind of proponents within that business that help drive change, positive change, then you know, mentioning them will be very helpful because it's going to help those decision-makers say 'you know what, if Tom thinks it's the right thing to do then its kind of a good return on investment'. And then the last thing you want to do is you want to close the presentation summarizing the benefits and the return on investment for the recommendation and the action that you've kind of come up with.
+ You then, I like to then circle back and look at why I went with my recommended solution over that particular solution. It helps people to kind of rule out the other options that might have been looked at.
 
-So you want to end with saying, you know, this is really important, this is going to help solve that problem that we've defined. And here are the benefits, here's when we get our return, you know, we get our return on investment within two months and then everything after that is profit, we think within the next, within the first year, it's going to equate to X amount of dollars and saved whatever, saved cost. And then five years here is kind of where it would be. And so you want to make sure that you're ending with those benefits and that return on investment. So really that's the overall thing about, the basics of a business case.
+The next thing is you want to touch on each risk. You don't want a deep dive and spend too much time on the risks that are there. You just want to make sure that they're aware that there's a risk. And if they have questions, It is guaranteed, they will stop and ask you to go deeper into that risk.
+
+You want to make sure that you're ending with those benefits and that return on investment. So you want to end with saying, you know, this is going to help solve that problem. And here are the benefits, here's when we get our return, and then everything after that is profit.
 
 So those are the five phases that a business analyst shall utilize in creating an effective business case.
-
 
 
 For Any Query or Assigment Contact 
@@ -196,6 +218,8 @@ Click on any of the desired links to directly access the information.
 - [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
 - [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
 - [x]  [**Stakeholder Management Guidelines**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+
+
 
 {: .box-success}
 Enjoy !!!
