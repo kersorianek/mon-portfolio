@@ -115,7 +115,7 @@ Business can get messy, especially when tasks and roles are unclear. There are d
 
 ## RACI Matrix: What is RACI?
 
-The acronym RACI stands for responsible, accountable, consulted, and informed. A RACI project management software is a wonderful tool for managers and supervisors to use. It enables them to delegate different responsibilities to different team members.
+The acronym RACI stands for responsible, accountable, consulted, and informed. A RACI matrix is often used for a quick visual analysis of responsibility assignment by simply navigating the matrix horizontally and vertically. It is a wonderful tool for managers and supervisors to use. It enables them to delegate different responsibilities to different team members.
 
 ## Why use RACI matrix?
 
