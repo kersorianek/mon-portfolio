@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What is Software Requirements
-subtitle: Everything About Software Requirements
+subtitle: Everything You Need to Kow About Software Requirements
 tags:
   [business system analysis, system analysis, business analysis, requirement]
 image: /assets/img/diary.png
@@ -11,42 +11,55 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Requirement is a description of the service that software must offer. A requirement can range from the high-level abstract statement of the sender's necessity to detailed mathematical functional requirement specifications.
+A requirement is a detailed description of the service that software must provide. A requirement can range in complexity from a high-level abstract declaration of the user's need to comprehensive mathematical functional requirement specifications.
 
-Software requirement is a functional or non-functional need to be implemented in the system. Functional means providing particular service to the user. For example, in context to banking application the functional requirement will be when customer selects "View Balance" they must be able to look at their latest account balance.
+A software requirement is a functional or non-functional need that must be implemented in a system. The term functional refers to the provision of a certain service to the user.
 
-Software requirement can also be a non-functional; it can be a performance requirement. For example, a non-functional requirement is where every page of the system should be visible to the users within 5 seconds.
+In the context of a banking application, for example, when a customer clicks "View Balance," they must be able to view their most recent account balance.
+
+
+
+A non-functional software requirement might also be a performance requirement. A non-functional requirement can be that every page of the system be viewable to consumers within 5 seconds.
 
 _Quick Links to Topic:_
 
-- [Overview of Requirement](#overview-of-requirement)
-	- [What is Requirement?](#what-is-requirement)
-	- [Requirements Can be Categorized in the following:](#requirements-can-be-categorized-in-the-following)
+- [Overview of Software Requirement](#overview-of-software-requirement)
+	- [What is Software Requirement?](#what-is-software-requirement)
+	- [Category of Software Requirements](#category-of-software-requirements)
 	- [Functional Requirements:](#functional-requirements)
+		- [Functional Requirements Example:](#functional-requirements-example)
 	- [Non-Functional Requirements:](#non-functional-requirements)
+		- [Non-Functional Requirements Example:](#non-functional-requirements-example)
 	- [Product Constraints:](#product-constraints)
+		- [Product Constraint Example:](#product-constraint-example)
 	- [What Makes a Good Requirements?](#what-makes-a-good-requirements)
-- [SMART Requirement](#smart-requirement)
-- [Tips for producing valid requirement](#tips-for-producing-valid-requirement)
-- [Terms to Avoid:](#terms-to-avoid)
+	- [SMART Requirement](#smart-requirement)
+		- [What is a SMART Requirement?](#what-is-a-smart-requirement)
+- [Guidelines for Creating Valid Requirements](#guidelines-for-creating-valid-requirements)
+	- [Checklist for Producing Valid Requirement:](#checklist-for-producing-valid-requirement)
+- [Terms to Avoid while writing requirements :](#terms-to-avoid-while-writing-requirements-)
+	- [Phase of the Requirements Process:](#phase-of-the-requirements-process)
 - [Business Rules](#business-rules)
+	- [Business Rules Explained](#business-rules-explained)
 	- [Business Rules Vs Business Requirement](#business-rules-vs-business-requirement)
+	- [Business Rules Best Practices:](#business-rules-best-practices)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
-# Overview of Requirement
+# Overview of Software Requirement
 
-Why Do I Need Requirements?
+Why Do We Need Requirements?
 - Guides the design of the eventual solution.
 - Without correct requirements, you cannot design or build the correct product.
 
 **About 60% of project failures originate with the requirements.**
 
-## What is Requirement?
+## What is Software Requirement?
 
 Something a product must do or a quality it must have. Software requirement is a functional or non-functional need to be implemented in the system.
 
-## Requirements Can be Categorized in the following:
+## Category of Software Requirements 
 
+Requirements are categorized as follows:
     1. Function Requirements:
     	a. Things the product must do.
     	b. Action the product must take.
@@ -60,10 +73,10 @@ Something a product must do or a quality it must have. Software requirement is a
 
 ## Functional Requirements:
 
-- Scope of the Product – defines the boundaries and connections to other products
-- Functional and Data Requirements – Things the product must do and data manipulated by the functions
+- **Scope of the Product** – defines the boundaries and connections to other products
+- **Functional and Data Requirements** – Things the product must do and data manipulated by the functions
 
-**Functional Requirements Example:**
+### Functional Requirements Example:
 - The product must track recipes down the ingredient and quantity level
 - The recipes must be editable by an administrator
 - The product must display the orders that need to be completed
@@ -82,7 +95,7 @@ Something a product must do or a quality it must have. Software requirement is a
     • Cultural and Political Requirements – human factors
     • Legal Requirements – conformance to applicable laws
 
-**Non-Functional Requirements Example:**
+### Non-Functional Requirements Example:
 
 - The product shall use the company colors and logos
 - The product shall be intuitive, even to first time users
@@ -100,7 +113,7 @@ Something a product must do or a quality it must have. Software requirement is a
     • Relevant Facts – outside influences that make a difference to this product
     • Assumptions – assumptions developers are making
 
-**Product Constraint Example:**
+### Product Constraint Example:
 
 - The product budget must not exceed $50,000
 - The product shall run on the company’s existing machines
@@ -109,15 +122,17 @@ Something a product must do or a quality it must have. Software requirement is a
 
 ## What Makes a Good Requirements?
 
-A can make a long list of word like:
-☑ Accountable, ☑ Understandable, ☑ Attainable, ☑ Modifiable, ☑ Testable, ☑ Traceable, ☑ Measurable, ☑ Feasible, ☑ Allocable, ☑ Concise, ☑ Consistent, ☑ Complete, ☑ Correct, ☑ Feasible, ☑ Design Independent, ☑ Necessary, ☑ Organized, ☑ Unambiguous, ☑ Prioritized, and so on.
+We may create a long list of words such as:
+
+	✅ Accountable ✅ Understandable, ✅ Attainable, ✅ Modifiable, ✅ Testable, ✅ Traceable, ✅ Measurable, ✅ Feasible, ✅ Allocable, ✅ Concise, ✅ Consistent, ✅ Complete, ✅ Correct, ✅ Feasible, ✅ Design Independent, ✅ Necessary, ✅ Organized, ✅ Unambiguous, ✅ Prioritized, and so on.
 
 But we will use SMART formula like setting goal.
 
-# SMART Requirement
+## SMART Requirement
 
 **SMART** = Specific, Measurable, Attainable, Reasonable, Traceable
-What is a SMART Requirement?
+
+### What is a SMART Requirement?
 
     1. Specific:
     Overall:
@@ -198,44 +213,46 @@ What is a SMART Requirement?
     			□ Dependencies on other requirements
     			□ Importance
 
-# Tips for producing valid requirement
+# Guidelines for Creating Valid Requirements
 
-Tips for Producing Valid Requirement:
-- Should use the word shall
-- Only one shall per requirement
-- Written in short, simple sentences
-- Consistent terminology
-- Stated positively
-- Accompanied by notes and comments to support and clarify
-- Stated imperatively
-- Don’t use will and should
+## Checklist for Producing Valid Requirement:
+- [x] Should use the word shall
+- [x] Only one shall per requirement
+- [x] Written in short, simple sentences
+- [x] Consistent terminology
+- [x] Stated positively
+- [x] Accompanied by notes and comments to support and clarify
+- [x] Stated imperatively
+- [x] Don’t use will and should
   Tips for Producing Valid Requirement:
-- Or – Select one of the options
-- Can, should – Expresses desire or suggestion instead of requirement
-- Must – 100% reliability
-- Are, is, will – Descriptive part to lead into the requirement
-- Support, and/or – Confusing
-- But not limited to, etc. – Incomplete requirement/thought
-- Shall – dictates specification and functional capability
+- [x] Or – Select one of the options
+- [x] Can, should – Expresses desire or suggestion instead of requirement
+- [x] Must – 100% reliability
+- [x] Are, is, will – Descriptive part to lead into the requirement
+- [x] Support, and/or – Confusing
+- [x] But not limited to, etc. – Incomplete requirement/thought
+- [x] Shall – dictates specification and functional capability
 
-# Terms to Avoid:
-• Adequate • Approximately • Better than • Comparison • Easy • Maintainable • Maximize • Minimize • Normally • Optimize • Quality product • Quick • Rapid • Substantial • Sufficient • Timely
+# Terms to Avoid while writing requirements :
+	❌ Adequate ❌ Approximately ❌ Better than ❌ Comparison ❌ Easy ❌ Maintainable ❌ Maximize ❌ Minimize ❌ Normally ❌ Optimize ❌ Quality product ❌ Quick ❌ Rapid ❌ Substantial ❌ Sufficient ❌ Timely
 
-**Phase of the Requirements Process:**
+## Phase of the Requirements Process:
 1. Requirement Elicitation
 2. Requirement Analysis
 3. Requirement Specification
 4. Requirements Approval
 
 
-# Business Rules
+#  Business Rules
 - What are Business Rules?
 - Business Rules vs Business Requirements
 - Best Practices
 
-Business Rules Explained
+## Business Rules Explained
 
-**Definition:** A business rule is a rule that defines or constrains some aspect of business and always resolves to either true or false. Rules is like the system must do this or must not do this. It is always either black or white. Yes or No. Not the both.
+**Definition:** A business rule is a rule that specifies or constrains a business component and always resolves to true or false.
+
+Rules imply that the system must or must not perform something. There are just two options: black or white. Either "yes" or "no". Not both.
 
 **Example:**
 - You must be home by curfew.
@@ -244,7 +261,7 @@ Business Rules Explained
 - Customers must have a valid driver’s license to rent a vehicle
 - A quote must be completed prior to an invoice being generated
 
-Then business requirement will help you to fulfill that rule. Like Wearing a watch that alarm before 30 minutes of curfew.
+Then business requirement will help you to fulfill that rule. Like _Wearing a watch that alarm before 30 minutes of curfew._
 
 **Purpose:** Business rules are intended to assert business structure or to control or influence the behavior of the business.
 
@@ -276,12 +293,12 @@ Then business requirement will help you to fulfill that rule. Like Wearing a wat
 - Details from quote must automatically flow to the invoice
 - Ability to tie the quote and invoices together for reporting
 
-**Business Rules Best Practices:**
-- When documenting business rules, keep it simple.
-- Business requirements are used to comply with business rules. Keep them both in same document
-- Each business rule may need multiple requirements
-- Business rules should not be changed
-- Changes can cause major constraints down the road
+## Business Rules Best Practices:
+- [x] When documenting business rules, keep it simple.
+- [x] Business requirements are used to comply with business rules. Keep them both in same document
+- [x] Each business rule may need multiple requirements
+- [x] Business rules should not be changed
+- [x] Changes can cause major constraints down the road
 
 
 
