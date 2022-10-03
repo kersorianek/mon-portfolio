@@ -124,7 +124,12 @@ Requirements are categorized as follows:
 
 We may create a long list of words such as:
 
-	✅ Accountable ✅ Understandable, ✅ Attainable, ✅ Modifiable, ✅ Testable, ✅ Traceable, ✅ Measurable, ✅ Feasible, ✅ Allocable, ✅ Concise, ✅ Consistent, ✅ Complete, ✅ Correct, ✅ Feasible, ✅ Design Independent, ✅ Necessary, ✅ Organized, ✅ Unambiguous, ✅ Prioritized, and so on.
+	✅ Accountable ✅ Understandable, ✅ Attainable, ✅ Modifiable,
+	✅ Testable, ✅ Traceable, ✅ Measurable, ✅ Feasible,
+	✅ Allocable, ✅ Concise, ✅ Consistent, ✅ Complete, 
+	✅ Correct, ✅ Feasible, ✅ Design Independent, 
+	✅ Necessary, ✅ Organized, ✅ Unambiguous, 
+	✅ Prioritized, and so on.
 
 But we will use SMART formula like setting goal.
 
@@ -234,7 +239,10 @@ But we will use SMART formula like setting goal.
 - [x] Shall – dictates specification and functional capability
 
 # Terms to Avoid while writing requirements :
-	❌ Adequate ❌ Approximately ❌ Better than ❌ Comparison ❌ Easy ❌ Maintainable ❌ Maximize ❌ Minimize ❌ Normally ❌ Optimize ❌ Quality product ❌ Quick ❌ Rapid ❌ Substantial ❌ Sufficient ❌ Timely
+	❌ Adequate ❌ Approximately ❌ Better than ❌ Comparison
+	❌ Easy ❌ Maintainable ❌ Maximize ❌ Minimize 
+	❌ Normally ❌ Optimize ❌ Quality product ❌ Quick 
+	❌ Rapid ❌ Substantial ❌ Sufficient ❌ Timely
 
 ## Phase of the Requirements Process:
 1. Requirement Elicitation
