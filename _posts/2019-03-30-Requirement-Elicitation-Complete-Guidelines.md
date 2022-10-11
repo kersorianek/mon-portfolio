@@ -383,7 +383,6 @@ What are some best practices?
 
 
 For Any Query or Assigment Contact 
-
 **Rafayet Hossain**
 
 ✅ Business Analyst | Project Manager | SQA | Writer ✅
@@ -403,8 +402,13 @@ Click on any of the desired links to directly access the information.
 - [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
 - [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
 - [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
-- [x]  [**Stakeholder Management Guidelines**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
-
+- [x]  [**Stakeholder Management and Stakeholder Analysis**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+- [x]  [**Everything You Need To Know About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
+- [x]  [**Requirement Elicitiation Techniques You Must Know**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
+- [x]  [**Complete Requirement Analysis Guidelines**](https://rafayethossain.github.io/2019-04-04-Requirement-Analysis-Guidelines/)
+- [x]  [**Complete Requirement Specification Techniques**](https://rafayethossain.github.io/2019-05-01-Requirement-Specification-Techniques/)
+- [x]  [**Requirements Approval Process You Should Follow**](https://rafayethossain.github.io/2019-06-06-Requirement-Approval-Process/)
+- [x]  [**Change Control Process in SDLC**](https://rafayethossain.github.io/2019-07-07-Change-Control-Process-in-SDLC/)
 
 
 {: .box-success}

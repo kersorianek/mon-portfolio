@@ -157,6 +157,7 @@ When you finish the review step, there is usually one final project initiation m
 Whether you are a seasoned project management professional or a novice trying to learn the rules of the game, following the six stages outlined above should make project initiation a smooth and easy experience. With the project beginning phase completed, you can safely proceed to the next project management stages that will get you closer to the finish line. And, to make your journey more enjoyable, consider joining up for a free trial with Forecast to experience how much of a difference an AI-driven project management system can make.
 
 
+
 For Any Query or Assigment Contact 
 **Rafayet Hossain**
 
@@ -177,8 +178,13 @@ Click on any of the desired links to directly access the information.
 - [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
 - [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
 - [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
-- [x]  [**Stakeholder Management Guidelines**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
-
+- [x]  [**Stakeholder Management and Stakeholder Analysis**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+- [x]  [**Everything You Need To Know About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
+- [x]  [**Requirement Elicitiation Techniques You Must Know**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
+- [x]  [**Complete Requirement Analysis Guidelines**](https://rafayethossain.github.io/2019-04-04-Requirement-Analysis-Guidelines/)
+- [x]  [**Complete Requirement Specification Techniques**](https://rafayethossain.github.io/2019-05-01-Requirement-Specification-Techniques/)
+- [x]  [**Requirements Approval Process You Should Follow**](https://rafayethossain.github.io/2019-06-06-Requirement-Approval-Process/)
+- [x]  [**Change Control Process in SDLC**](https://rafayethossain.github.io/2019-07-07-Change-Control-Process-in-SDLC/)
 
 
 {: .box-success}
