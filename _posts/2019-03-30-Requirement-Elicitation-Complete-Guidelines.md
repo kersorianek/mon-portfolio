@@ -16,16 +16,18 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Requirement elicitation phase consists of researching and discovering the requirements of a system from users, customers, and other stakeholders.
+The requirement elicitation method involves studying and finding system needs from users, customers, and other stakeholders.
 
 _Quick Links to Topic:_
 
-- [Requirement Elicitation Basic](#requirement-elicitation-basic)
-- [Requirement Elicitation VS Requirement Gathering](#requirement-elicitation-vs-requirement-gathering)
-- [Elicitation Technique: Brainstorming](#elicitation-technique-brainstorming)
-- [Brainstorming: Elicitation Technique](#brainstorming-elicitation-technique)
-  - [So, what are some different types of brainstorming?](#so-what-are-some-different-types-of-brainstorming)
-  - [So, what are some pros and cons to brainstorming?](#so-what-are-some-pros-and-cons-to-brainstorming)
+- [Requirement Elicitation Basics](#requirement-elicitation-basics)
+  - [What Requirement Elicitation is?](#what-requirement-elicitation-is)
+  - [What Requirement Elicitation is not?](#what-requirement-elicitation-is-not)
+  - [Requirement Elicitation VS Requirement Gathering](#requirement-elicitation-vs-requirement-gathering)
+- [Requirement Elicitation Technique](#requirement-elicitation-technique)
+  - [Brainstorming: Elicitation Technique](#brainstorming-elicitation-technique)
+  - [What are the different kinds of brainstorming?](#what-are-the-different-kinds-of-brainstorming)
+  - [What are the pros and cons of brainstorming?](#what-are-the-pros-and-cons-of-brainstorming)
   - [Best Practices:](#best-practices)
 - [Requirement Workshop: Elicitation Technique](#requirement-workshop-elicitation-technique)
   - [So, what are some of the advantages and disadvantages, the pros and cons of using this?](#so-what-are-some-of-the-advantages-and-disadvantages-the-pros-and-cons-of-using-this)
@@ -46,48 +48,65 @@ _Quick Links to Topic:_
 - [Interface Analysis: Elicitation Technique](#interface-analysis-elicitation-technique)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
-# Requirement Elicitation Basic
+# Requirement Elicitation Basics 
 
-Requirement elicitation is finding out what the system is doing and the system need to be doing. Not how to do. Elicitation is the first steps through the requirements process.
+Eliciting requirements is the process of determining what the system is doing and what the system should be doing. Not knowing what to do. The requirements process begins with elicitation.
 
-**Requirement elicitation is:**
-getting business requirements through various activities from users and stakeholders and being able to determine their expectations, as well as understand their system constraints.
+## What Requirement Elicitation is?
 
-So it's really all about getting them, communicating with them, asking them questions, well-thought-out questions to pull out what are their needs of this particular product or system or process and understand what they're doing today and what they need to have it work in the future etc.
+Requirement Elicitation is the process of gathering business requirements from users and stakeholders through various activities and being able to establish their expectations as well as understand their system constraints.
 
-**Requirement elicitation is not:**
-is actually creating a whole bunch of models and going through and answering how things are going to be accomplished. How system shall work or button, UI, etc. shall be define after requirement elicitation.
+- So it's really all about getting them,
+- Interacting with them,
+- Asking them well-thought-out questions to find out what their needs are for this specific product, system, or process, 
+- and understanding what they're doing today
+- and what they need for it to work in the future, and so on.
 
-There 3 more steps, Post elicitation to work those requirements, kind of massage them and put them together, and get them ready to go into the design phase.
+## What Requirement Elicitation is not? 
 
-# Requirement Elicitation VS Requirement Gathering
+Requirement Elicitation is the process of developing a large number of models and working through them to determine how things will be completed. After requirement elicitation, the system's operation or buttons, UI, and so on will be defined.
 
-Gathering requirements are taking orders. Customer already know what the system shall do and your are just jotting them. There is no ambiguity. Nothing can go wrong, everything is straight forward.
+There are three further processes after elicitation to develop those requirements, to massage them, to bring them together, and to make them ready for the design phase.
+
+## Requirement Elicitation VS Requirement Gathering
+
+Gathering requirements is similar to Taking orders in a restaurant. Customers already know what the system is supposed to accomplish, and you're simply writing it down. There is no room for doubt. Nothing can go wrong; everything is simple.
+
+
 But the things are not the way it is.
 
-You have to ask question, ask great question, being able to pull out those requirements out of users and stakeholders and document them. That's sound like work. That is why it shall be called eliciting not gathering requirements.
+You must be able to ask valid questions, elicit needs from users and stakeholders, and record those requirements. That sounds like hard labor. That is why it is termed eliciting rather than gathering requirements.
 
-# Elicitation Technique: Brainstorming
+# Requirement Elicitation Technique
 
-There's a lot of different techniques that you can utilize to go through and pull requirements out of stakeholders and out of documentation and what not.
+There are several approaches you may use to go through and pull requirements from stakeholders, documents, and so on.
 
 And this will identify all those different technique. _Each technique has their benefits, advantages, and disadvantages and some best practices well._ So let's get into the first particular technique and this is brainstorming.
 
-# Brainstorming: Elicitation Technique
+ ## Brainstorming: Elicitation Technique
+ 
 
-So you can use brainstorming to help solve an existing problem that you have, that could be a problem really early on in the project, that could be in the middle of the project, it could be in the end. It could also be to generate thought and ideas, and that's kind of the common conception that a lot of people have or perception. Get into a room, talk about potentials solution for a certain problem or create a consensus.
+Brainstorming is used in requirement capturing to acquire as many ideas from a group of individuals as feasible. Generally used to find potential answers to issues and to explain specifics of possibilities.
 
-## So, what are some different types of brainstorming?
+It was invented in 1953 by advertising executive Alex Osborn, brainstorming is a creative approach used by groups of people to develop ideas to solve a specific problem.
 
-1. The first type is an **individual brainstorms**. So a project team member creates a list of ideas. it's more like sent them a question or a problem and then they're brainstorming ideas.
 
-2. Second one is **open brainstorming**, this is the most common one. So you get people in a room and you just say OK, here's the agenda, here's the issue, here's what we're doing. You kick it off with something and you let them go and people are talking and throwing ideas out and getting excited. Other people are feeding off those ideas that are getting brought up and you're just kind of rolling and you have a scribe, and they're documenting everything. That could be you as the business analyst. Preferably not. You want to help out feed in some of those brainstorming ideas.
+So you may use brainstorming to help solve an existing problem that may have arisen very early stages of the project, in the middle of the project, or towards the end of the project.
 
-3. And the last other type is a **structured brainstorming** one. So this is where participants are writing down their ideas and then a facilitator is going kind of around the room one by one. They'll keep going around the table until every person has exhausted their full list of ideas. The structured work so people (shy, feared, experience) can feel comfortable sharing their ideas.
+It might also be to generate thoughts and ideas, which is a common misperception or perspective held by many people. Gather in a room to brainstorm alternative solutions to a problem or to achieve an agreement.
 
-## So, what are some pros and cons to brainstorming?
+## What are the different kinds of brainstorming?
 
-Why would you utilize this elicitation technique?
+1. The first type is an **individual brainstorms**. As a result, a project team member compiles a list of ideas. It's more like you submitted them a question or a problem, and then they brainstormed solutions.
+
+2. The second method is **open brainstorming**, which is the most popular. So, you get folks in a room and just say, OK, here's the agenda, here's the problem, here's what we're going to do. You start with something and then let them go, and people start chatting, tossing ideas around, and becoming enthusiastic. Other people are feeding off the ideas that are being spoken, and you're just kind of rolling, with a scribe writing everything. As the business analyst, you may be that person. Hopefully not. You'd want to provide some of those brainstorming thoughts.
+
+3. The last type is a **structured brainstorming** session. So, participants are jotting down their thoughts, and then a facilitator goes around the room one by one. They'll go around the table until everyone has exhausted their whole list of ideas. The work is organized such that people (shy, afraid, or experienced) may feel comfortable sharing their views.
+   
+
+## What are the pros and cons of brainstorming?
+
+**Why would you utilize this elicitation technique?**
 
 Well, let's talk about the advantages first. The first thing is that it generates a lot of ideas really quickly, especially if you have the open brainstorm. You're getting a ton of ideas and you're like wow this is great using everybody's minds to help solve that problem or generate ideas.
 
