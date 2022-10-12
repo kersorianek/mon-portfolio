@@ -322,6 +322,8 @@ It is like job interview but here you will be interviewing your stakeholders thr
 - Questions to stakeholders to quantify their thoughts
 - Review of quantifiable data already available.
 
+When acquiring information from a large number of people: too numerous to interview with limited time and resources: a questionnaire survey might be employed. The poll requires users to select one of two options: agree / disagree or rate something. Do not believe that you can create a survey on your own, but rather that you can contribute important insight to it. A well-designed survey must provide qualitative information to characterize the market. It should never be used to prioritize needs or features.
+
 ## What are the different kinds of Survey?
 
 - Open Ended Questions:
@@ -346,7 +348,7 @@ It is like job interview but here you will be interviewing your stakeholders thr
 - Relatively fast and inexpensive to administer
 - Supplement more subjective information, such as opinions gained through interviews
 
- ### Disadvantage of Survey:
+### Disadvantage of Survey:
 
 - Relatively low response rate
 - Poorly word questions may provide inaccurate information

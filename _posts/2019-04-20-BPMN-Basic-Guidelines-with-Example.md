@@ -1,0 +1,173 @@
+---
+layout: post
+title: BPMN Basics for Business Analyst
+subtitle: Business Process Model and Notation Quick Guidelines  
+tags:
+  [
+    business system analysis,
+    system analysis,
+    business analysis,
+    bpmn,
+  ]
+image: /assets/img/diary.png
+bigimg: /assets/img/back.gif
+thumbnail-img: /assets/img/diary.png
+share-img: /assets/img/diary.png
+cover-img: /assets/img/cover.jpg
+---
+
+BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
+It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
+
+_Quick Links to Topic:_
+
+- [What is Visual Modeling?](#what-is-visual-modeling)
+  - [What's get modeled?](#whats-get-modeled)
+- [Business Models](#business-models)
+  - [Organizational Chart :](#organizational-chart-)
+  - [Competitive Comparison Matrix :](#competitive-comparison-matrix-)
+  - [Stakeholder Map :](#stakeholder-map-)
+  - [Use Case Diagram :](#use-case-diagram-)
+  - [Process Flow Diagram :](#process-flow-diagram-)
+  - [Technical Models](#technical-models)
+  - [BPMN Vs UML](#bpmn-vs-uml)
+- [All Posts on Business Analysis:](#all-posts-on-business-analysis)
+
+Business Process Modeling Notation (BPMN) 2.0 Model
+
+	• What is BPMN?
+	Answer: BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
+	It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
+	
+
+BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
+It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
+
+Basic Components: 
+	1. Swimming Lane: Independent Process (Divider between processes)
+	2. Lane:  Functionality or Activity within a Swimming Lane
+	3. Event:  Mark start and end of a process. 
+	4. Gateway: Control process flow, Can test a decision.
+	5. Activity: Process or Sub process. Naming convention should use verb and noun
+	6. Sequence Flow: A solid arrow that connects Event, Activity, and Gateway
+
+
+Activity: 
+A BPMN Activity is simply "Work" that a company or organization performs in a business process. An Activity is can be atomic (Tasks) or decomposable (Sub-Processes). There are basically three BPMN activity types:
+
+	1. BPMN Task
+	2. BPMN Sub-Process
+	3. BPMN Call Activity
+
+
+A BPMN task is an atomic activity within a process flow. You create a task when the activity cannot be broken down to a finer level of detail. Generally, a person or applications will perform the task when it is executed.
+
+In BPMN 2.0, there are different types of tasks identified for use in representing more specific behavior that tasks might represent. Here is a list of BPMN 2.0 task type:
+	• Service Task
+	• Send Task
+	• Receive Task
+	• User Task
+	• Manual Task
+	• Business Rule Task
+	• Script Task
+
+
+
+Service Task
+A Service Task is a Task that uses a Web service, an automated application, or other kinds of service in completing the task.
+
+Service Task
+The example below shows the process of answering a question in a forum. A Service Task is used to represent the publishing of answer on Twitter, through the web service they provided.
+
+Send Task
+A Send Task is represents a task that sends a Message to another pool. The Task is completed once the Message has been sent.
+
+Receive Task
+A Receive Task indicates that the process has to wait for a message to arrive in order to continue. The Task is completed once the message has received.
+
+User Task
+A User Task represents that a human performer performs the Task with the use of a software application.
+
+Manual Task
+A Manual Task is a Task that is performed without the aid of any business process execution engine or any application.
+
+Business Rule Task
+Business Rule Task is newly added in BPMN 2.0. It provides a mechanism for a process to provide input to a Business Rules Engine and then obtain the output provided by the Business Rules Engine.
+
+Script Task
+A Script Task is executed by a business process engine. The task defines a script that the engine can interpret. When the task begin, the engine will execute the script. The Task will be completed when the script is completed.
+
+
+BPMN Sub-Processes
+In BPMN, a sub-process is a compound activity that represents a collection of other tasks and sub-processes. Generally, we create BPMN diagrams to communicate processes with others. To facilitate effective communications, we really do not want to make a business process diagram too complex. By using sub-processes, you can split a complex process into multiple levels, which allows you to focus on a particular area in a single process diagram.
+
+BPMN Sub-Processes
+BPMN specifies five types of markers for Sub-Processes. We will go cover each of them in the sections below.
+
+BPMN Sub-Processes Example
+Loop
+A Sub-Process with loop marker indicates that the sub-process repeats itself in sequence.
+
+Loop
+Multi-instance
+A Sub-Process with Multi-Instance marker indicates that the sub-process can run with other identical sub-processes simultaneously.
+
+Multi-instance
+Compensation
+A Sub-Process with Compensation marker, or simply called a compensation sub-process, represents a collection of tasks that describe some part of the compensation method.
+
+Compensation
+Ad hoc
+A Sub-Process with Ad-Hoc marker represents a collection of tasks that exist solely for handling a specific case.
+
+Ad hoc
+BPMN Call Activities
+A BPMN Call Activity references an Activity defined in a process that is external to the current process definition. It allows you to create a reusable process definition that can be reused in multiple other process definitions.
+
+The figure below shows a BPMN Call Activity example. It consists of a Call Activity Register that references the Register task defined in a global process.
+
+BPMN Call Activities
+
+
+
+ 
+
+
+
+
+
+
+For Any Query or Assigment Contact 
+**Rafayet Hossain**
+
+✅ Business Analyst | Project Manager | SQA | Writer ✅
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
+
+ 
+# All Posts on Business Analysis:  
+
+Click on any of the desired links to directly access the information.
+
+- [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
+- [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
+- [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
+- [x]  [**Stakeholder Management and Stakeholder Analysis**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+- [x]  [**Everything You Need To Know About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
+- [x]  [**Requirement Elicitiation Techniques You Must Know**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
+- [x]  [**Complete Requirement Analysis Guidelines**](https://rafayethossain.github.io/2019-04-04-Requirement-Analysis-Guidelines/)
+- [x]  [**Complete Requirement Specification Techniques**](https://rafayethossain.github.io/2019-05-01-Requirement-Specification-Techniques/)
+- [x]  [**Requirements Approval Process You Should Follow**](https://rafayethossain.github.io/2019-06-06-Requirement-Approval-Process/)
+- [x]  [**Change Control Process in SDLC**](https://rafayethossain.github.io/2019-07-07-Change-Control-Process-in-SDLC/)
+
+
+{: .box-success}
+Enjoy !!!
+**See Yaaa, Next.**
+
+![Diary](/assets/img/diary.png "Diary")
