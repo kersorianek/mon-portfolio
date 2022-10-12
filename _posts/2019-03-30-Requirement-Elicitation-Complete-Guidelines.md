@@ -39,16 +39,24 @@ _Quick Links to Topic:_
   - [Requirement Workshop Best Practices:](#requirement-workshop-best-practices)
 - [Interviewing: Requirement Elicitation Technique](#interviewing-requirement-elicitation-technique)
   - [What are the different kinds of interviewing?](#what-are-the-different-kinds-of-interviewing)
-  - [What are the pros and cons of Interviewing?](#what-are-the-pros-and-cons-of-interviewing)
-  - [Some best practices of Interviewing?](#some-best-practices-of-interviewing)
+  - [What are the advantage and disadvantage of Interviewing?](#what-are-the-advantage-and-disadvantage-of-interviewing)
+    - [Advantage of Interviewing :](#advantage-of-interviewing-)
+  - [Interviewing Best Practices](#interviewing-best-practices)
+  - [Create Interview Document (That Generally Contains):](#create-interview-document-that-generally-contains)
   - [Sample Interviewing Question:](#sample-interviewing-question)
-- [Surveys: Elicitation Technique](#surveys-elicitation-technique)
-  - [Types of Survey?](#types-of-survey)
-  - [What are some pros and cons:](#what-are-some-pros-and-cons)
-  - [What are some best Practices?](#what-are-some-best-practices)
-- [Document Review: Elicitation Technique](#document-review-elicitation-technique)
-  - [What are some pros and cons:](#what-are-some-pros-and-cons-1)
-- [Interface Analysis: Elicitation Technique](#interface-analysis-elicitation-technique)
+- [Surveys: Requirement Elicitation Technique](#surveys-requirement-elicitation-technique)
+  - [What are the different kinds of Survey?](#what-are-the-different-kinds-of-survey)
+  - [What are the advantage and disadvantage of Survey:](#what-are-the-advantage-and-disadvantage-of-survey)
+    - [Advantage of Survey:](#advantage-of-survey)
+    - [Disadvantage of Survey:](#disadvantage-of-survey)
+  - [Survey Best Practices:](#survey-best-practices)
+- [Document Review: Requirement Elicitation Technique](#document-review-requirement-elicitation-technique)
+  - [What are the advantage and disadvantage of Document Review?](#what-are-the-advantage-and-disadvantage-of-document-review)
+    - [Advantage of Document Review:](#advantage-of-document-review)
+    - [Disadvantage of Document Review:](#disadvantage-of-document-review)
+  - [Document Review Best Practices:](#document-review-best-practices)
+- [Interface Analysis: Requirement Elicitation Technique](#interface-analysis-requirement-elicitation-technique)
+  - [Interface Analysis Best Practices:](#interface-analysis-best-practices)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 # Requirement Elicitation Basics 
@@ -115,41 +123,41 @@ It might also be to generate thoughts and ideas, which is a common misperception
 **Why would you use this elicitation method?**
 
 ### Advantage of Brainstorming:
- - It creates a lot of ideas quickly, especially if you have an open brainstorming session.
- - If you've done a good job of bringing in the proper stakeholders and people for the brainstorming session, you'll receive multiple perspectives.
- - It promotes equal participation. Whether in an organized or unstructured atmosphere.
- - It assists in avoiding biases toward any one point of view.
- - It develops companionship and a sense of ownership.
+ - ✅ It creates a lot of ideas quickly, especially if you have an open brainstorming session.
+ - ✅ If you've done a good job of bringing in the proper stakeholders and people for the brainstorming session, you'll receive multiple perspectives.
+ - ✅ It promotes equal participation. Whether in an organized or unstructured atmosphere.
+ - ✅ It assists in avoiding biases toward any one point of view.
+ - ✅ It develops companionship and a sense of ownership.
 
 ### Disadvantage of Brainstorming:
 
-- One big thing is ideas aren't discussed or explored - just get lots of ideas out of the way and start looking at them.
-- You don't really dive into it, so that's kind of one of the cons. As well as the true meaning of that idea could be ambiguous or misunderstood.
-- And high level of discussion can cause some issue there.
-- Some dump suggestions may be allowed for evaluation as well
-- It is possible for ideas to overlap.
-- Some emotional and environmental mental impediments may occur, such as dissatisfaction with chaos, fear of criticism, and the continuation of wrong assumptions.
+- ❌ One big thing is ideas aren't discussed or explored - just get lots of ideas out of the way and start looking at them.
+- ❌ You don't really dive into it, so that's kind of one of the cons. As well as the true meaning of that idea could be ambiguous or misunderstood.
+- ❌ And high level of discussion can cause some issue there.
+- ❌ Some dump suggestions may be allowed for evaluation as well
+- ❌ It is possible for ideas to overlap.
+- ❌ Some emotional and environmental mental impediments may occur, such as dissatisfaction with chaos, fear of criticism, and the continuation of wrong assumptions.
 
 ## Brainstorming Best Practices:
 
-- ✅ Determine type of brainstorming meeting ahead of time
-- ✅ Publish an agenda prior to the brainstorming session
-- ✅ Clearly state the objective of the meeting
-- ✅ Create environment to encourage participation
-- ✅ Establish ground rules:
+- 🎯 Determine type of brainstorming meeting ahead of time
+- 🎯 Publish an agenda prior to the brainstorming session
+- 🎯 Clearly state the objective of the meeting
+- 🎯 Create environment to encourage participation
+- 🎯 Establish ground rules:
   - Do not discuss ideas during the brainstorming session – only questions to clarify
   - Do not dismiss or discount an idea or person
   - Do build on others’ suggestions and ideas
   - Do have fun
-- ✅ Establish roles:
+- 🎯 Establish roles:
   - Timekeeper
   - Scribe
   - Facilitator
-- ✅ Create process for combining, categorizing, and summarizing like ideas
-- ✅ If complex, create multiple meetings to keep meeting fatigue low
-- ✅ Schedule follow-up meetings
-- ✅ Prioritize final ideas to plan further analysis
-- ✅ Allow votes for top ideas
+- 🎯 Create process for combining, categorizing, and summarizing like ideas
+- 🎯 If complex, create multiple meetings to keep meeting fatigue low
+- 🎯 Schedule follow-up meetings
+- 🎯 Prioritize final ideas to plan further analysis
+- 🎯 Allow votes for top ideas
 
 # Requirement Elicitiation Workshop
 
@@ -243,9 +251,9 @@ It is like job interview but here you will be interviewing your stakeholders thr
   - Show as-is process in order to identify essential and frequent tasks
   - Interviewer asks questions to understand what works well and what doesn’t
 
-## What are the pros and cons of Interviewing?
+## What are the advantage and disadvantage of Interviewing?
 
-Advantage:
+### Advantage of Interviewing :
 
 - Promote interactive discussions to explore detailed information
 - Identify conflicts or discrepancies about stated needs or requirements
@@ -259,7 +267,7 @@ Advantage:
 - Resulting documentation is subject to interpretation of the interviewer
 - Transcription and analysis of interview data can be complex and expensive
 
-## Some best practices of Interviewing?
+## Interviewing Best Practices
 
 - Determine the best interview type to accomplish your goals
 - Appropriately prepare for the interview
@@ -282,7 +290,7 @@ Advantage:
 - Avoid questions that may present judgement or a conclusion
 - Allow the questions to flow naturally so they can be put into conversation rather than a survey
 
-Create Interview Document (That Generally Contains):
+## Create Interview Document (That Generally Contains):
 
 - Name of interviewee
 - Role of person and their primary responsibilities
@@ -307,14 +315,14 @@ Create Interview Document (That Generally Contains):
 - What didn’t I ask that I should have?
 - If we could only change one thing in the process, what should it be
 
-# Surveys: Elicitation Technique
+# Surveys: Requirement Elicitation Technique
 
-What is Survey?
+**What is Survey?**
 
 - Questions to stakeholders to quantify their thoughts
 - Review of quantifiable data already available.
 
-## Types of Survey?
+## What are the different kinds of Survey?
 
 - Open Ended Questions:
   - Gives respondents an opportunity to answer in their own words
@@ -328,15 +336,17 @@ What is Survey?
   - Ranking from “strongly disagree” to “strongly agree”
   - Rank order a list of items
   - Multiple choice question
-  ## What are some pros and cons:
-  Advantage:
+  
+  ## What are the advantage and disadvantage of Survey:
+ 
+ ### Advantage of Survey:
 - Require limited stakeholder’s time
 - Effective at reaching geographically dispersed stakeholders
 - Scalable for large audiences
 - Relatively fast and inexpensive to administer
 - Supplement more subjective information, such as opinions gained through interviews
 
-Disadvantage:
+ ### Disadvantage of Survey:
 
 - Relatively low response rate
 - Poorly word questions may provide inaccurate information
@@ -344,7 +354,7 @@ Disadvantage:
 - Require both instrument training and problem or business domain experience
 - Incentives for responding might be expensive
 
-## What are some best Practices?
+## Survey Best Practices:
 
 - Focus your questions on high-priority risks that have been identified
 - Identify user satisfaction levels with existing systems to set a baseline
@@ -355,9 +365,9 @@ Disadvantage:
 - Create the survey with inexpensive online tools
 - Notify the participants when the survey is available and continue to remind them to participate
 
-# Document Review: Elicitation Technique
+# Document Review: Requirement Elicitation Technique
 
-What is Document Review?
+**What is Document Review?**
 
 - Review existing documentation:
   - User guides
@@ -366,27 +376,28 @@ What is Document Review?
   - Lessons learned after completion of latest project
 - Formulates context for understanding the scope of the project
 
-## What are some pros and cons:
+## What are the advantage and disadvantage of Document Review?
 
-Advantage:
+### Advantage of Document Review:
 
 - Current process documentation provides a starting point
 
-Disadvantage:
+### Disadvantage of Document Review:
+
 
 - Existing documents may be old and out-of-date
 - The reviewer needs domain and technical expertise to determine if existing
 - Can be time consuming, and may not provide the desired payback
 
-What are some best practices?
+## Document Review Best Practices:
 
 - Know the purpose for reviewing
 - Set self-imposed time limits
 - Create a glossary of terms from former project documentation
 
-# Interface Analysis: Elicitation Technique
+# Interface Analysis: Requirement Elicitation Technique
 
-What is Interface Analysis?
+** What is Interface Analysis?**
 
 - Reviewing the system, people, and process linkages
 - Determine needs for input, output, and the medium
@@ -412,7 +423,7 @@ Analyzing Interface Time:
 - Can begin to focus on many technical details
 - Can be redundant with modeling activities
 
-What are some best practices?
+## Interface Analysis Best Practices:
 
 - Know the purpose for reviewing
 - Set self-imposed time limits
