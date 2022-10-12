@@ -24,20 +24,21 @@ _Quick Links to Topic:_
   - [What Requirement Elicitation is?](#what-requirement-elicitation-is)
   - [What Requirement Elicitation is not?](#what-requirement-elicitation-is-not)
   - [Requirement Elicitation VS Requirement Gathering](#requirement-elicitation-vs-requirement-gathering)
-- [Requirement Elicitation Technique](#requirement-elicitation-technique)
+- [Requirement Elicitation Techniques](#requirement-elicitation-techniques)
   - [Brainstorming: Elicitation Technique](#brainstorming-elicitation-technique)
   - [What are the different kinds of brainstorming?](#what-are-the-different-kinds-of-brainstorming)
   - [What are the advantage and disadvantage of Brainstorming?](#what-are-the-advantage-and-disadvantage-of-brainstorming)
     - [Advantage of Brainstorming:](#advantage-of-brainstorming)
     - [Disadvantage of Brainstorming:](#disadvantage-of-brainstorming)
   - [Brainstorming Best Practices:](#brainstorming-best-practices)
-- [Requirement Workshop: Elicitation Technique](#requirement-workshop-elicitation-technique)
-  - [So, what are some of the advantages and disadvantages, the pros and cons of using this?](#so-what-are-some-of-the-advantages-and-disadvantages-the-pros-and-cons-of-using-this)
-  - [So, looking at the advantages,](#so-looking-at-the-advantages)
-  - [So what are some disadvantages?](#so-what-are-some-disadvantages)
-  - [So, what are some best practices?](#so-what-are-some-best-practices)
-- [Interviewing: Elicitation Technique](#interviewing-elicitation-technique)
-  - [Types of interviewing?](#types-of-interviewing)
+- [Requirement Elicitiation Workshop](#requirement-elicitiation-workshop)
+  - [What are the different kinds of requirement workshops?](#what-are-the-different-kinds-of-requirement-workshops)
+  - [What are the advantage and disadvantage of Requirement Workshop?](#what-are-the-advantage-and-disadvantage-of-requirement-workshop)
+    - [Advantage of Requirement Workshop:](#advantage-of-requirement-workshop)
+    - [Disadvantage of Requirement Workshop:](#disadvantage-of-requirement-workshop)
+  - [Requirement Workshop Best Practices:](#requirement-workshop-best-practices)
+- [Interviewing: Requirement Elicitation Technique](#interviewing-requirement-elicitation-technique)
+  - [What are the different kinds of interviewing?](#what-are-the-different-kinds-of-interviewing)
   - [What are the pros and cons of Interviewing?](#what-are-the-pros-and-cons-of-interviewing)
   - [Some best practices of Interviewing?](#some-best-practices-of-interviewing)
   - [Sample Interviewing Question:](#sample-interviewing-question)
@@ -79,7 +80,7 @@ But the things are not the way it is.
 
 You must be able to ask valid questions, elicit needs from users and stakeholders, and record those requirements. That sounds like hard labor. That is why it is termed eliciting rather than gathering requirements.
 
-# Requirement Elicitation Technique
+# Requirement Elicitation Techniques
 
 There are several approaches you may use to go through and pull requirements from stakeholders, documents, and so on.
 
@@ -98,8 +99,11 @@ So you may use brainstorming to help solve an existing problem that may have ari
 It might also be to generate thoughts and ideas, which is a common misperception or perspective held by many people. Gather in a room to brainstorm alternative solutions to a problem or to achieve an agreement.
 
 ## What are the different kinds of brainstorming?
+- Individual Brainstorming
+- Open Brainstorming
+- Structured Brainstorming
 
-1. The first type is an **individual brainstorms**. As a result, a project team member compiles a list of ideas. It's more like you submitted them a question or a problem, and then they brainstormed solutions.
+1. The first type is an **individual brainstorming**. As a result, a project team member compiles a list of ideas. It's more like you submitted them a question or a problem, and then they brainstormed solutions.
 
 2. The second method is **open brainstorming**, which is the most popular. So, you get folks in a room and just say, OK, here's the agenda, here's the problem, here's what we're going to do. You start with something and then let them go, and people start chatting, tossing ideas around, and becoming enthusiastic. Other people are feeding off the ideas that are being spoken, and you're just kind of rolling, with a scribe writing everything. As the business analyst, you may be that person. Hopefully not. You'd want to provide some of those brainstorming thoughts.
 
@@ -147,43 +151,50 @@ It might also be to generate thoughts and ideas, which is a common misperception
 - ✅ Prioritize final ideas to plan further analysis
 - ✅ Allow votes for top ideas
 
-# Requirement Workshop: Elicitation Technique
+# Requirement Elicitiation Workshop
 
-The first thing is, what is a requirement workshop?
+The first thing is, **What is a requirement elicitition workshop?**
 
-Ultimately, it's a structured meeting that involves multiple different groups and users. So it involves the end users, your subject matter experts, both that could be from the business, it also could be from the technology side the IT side. Any type of business people that are going to be making decisions.
+A requirements workshop is a planned and facilitated event that brings together carefully selected stakeholders to find, refine, prioritize, validate, and debate needs. Workshop sessions are often managed by a competent facilitator. It is collaborative in nature and has its origins in Joint Application Design (JAD).
 
-So if you have teams in different departments that are having this solution that's going to meet both of their needs, this requirement elicitation technique is nice to build to get them in the room and work through and hash out some of the requirements.
 
-This type of elicitation techniques pulls those groups together and allows you to ask the question to get both sides verify and validate that the requirements don't conflict each other and come to a consensus much quicker. So it's working to define, clarify and complete requirements as most of the elicitation techniques are.
+A requirement workshop is an organized gathering in which many organizations and users participate. It involves end users, subject matter experts, who might be from the business or from the technology side, the IT side. Any sort of businessperson who will be making decisions. As with most elicitation approaches, it works to define, clarify, and complete requirements. You have an agenda, an issue to select and attack, and subject matter experts to collaborate with.
 
-So you start this meeting at a really broad level. You have an agenda, a topic that you're looking to identify and attack. We learned in the brainstorming elicitation, you're not really coming up with the final requirements, right? You're just getting ideas and you're not diving into the details. Requirement workshop is the exact opposite. You should be diving into the details, you should be coming down and making some decisions based on the information that's gathered.
+So there are a few various sorts of requirement elicitition workshops, and a lot of them revolve with what you want to gather and the type of project you have.
 
-So there's a few different types of requirement workshop, a lot of it it's more around what you're looking to gather and the type of project you have.
+## What are the different kinds of requirement workshops?
+- Formal requirement elicitition workshop
+- Business process improvement workshop
+- Agile requirements workshops
+  
 
-The first type is a **formal requirements workshop**. So this is a highly structured and formal meeting where you invite the stakeholders, you have a really strict agenda that you're looking to follow and you're having a formal sit down meeting that you're going to discuss these requirements. You also have a carefully selected group of stakeholders, you want to make sure that you're adding people that have value and that are going to provide good input to the project and to this particular requirement discussion without derailing it.
+The first type is a **formal requirements workshop**. This is a highly planned and official meeting in which you invite stakeholders, have a very specific agenda that you're seeking to follow, and have a formal sit down discussion to address these needs. 
 
-Ultimately, what that means is you're identifying, validating, clarifying and finalizing some requirements and getting those documented in the requirements document. That's the most common workshop.
+You also have a carefully selected set of stakeholders; you want to make sure that you're adding people who will contribute value to the project and this specific demand discussion without derailing it.
 
-So the next one is the process, the **business process improvement workshop**. This one, you're actually diving into a specific process, it could be their as-is process, it could be you know, you could be diving into their as-is process and you're working to help mold that into the to-be process. And so you have them in the room and you're going to be doing, you're going to be working through and identifying what those process improvements are.
+That is, you are defining, verifying, clarifying, and completing some needs and documenting them in the requirements document. This is the most popular type of workshop.
 
-You write the action or event on (Sticky Note) there and stick it on the board. And they say OK, what do you do next and you put that on the board, so ultimately on the board, what you have is this kind of process flow out of the post-it notes and then you're able to move them around, if people aren't agreeing you can move around without having to erase or redraw anything, it's very easy to move them around.
+So the method comes next, the **business process improvement workshop**. This one, you're actually diving into a specific process; it may be their as-is process, or you could be diving into their as-is process and working to mold it into the to-be process. So you have them in the room, and what you're going to do is work through and determine what those process improvements are.
 
-The third one is **agile requirements workshops**. you can kind of guess, that's utilized in an agile environment. And those are usually a little bit more unstructured and informal. So as you know, with agile you have to kind of the product backlog and the requirements as part of the sprint that you're working through. This is generally used at the beginning of the project to understand with the full scope is and start to write out some of those initial requirements that will be used as part of the project.
+You write the action or event on the (Sticky Note) and stick it on the board. You can move them around without having to erase or redraw anything, and doing so with a group of people seated around a table is incredibly simple.
 
-## So, what are some of the advantages and disadvantages, the pros and cons of using this?
+**Agile requirements workshop** is the third method. As you can expect, it is used in an agile setting. And they are frequently less regimented and more casual. 
 
-## So, looking at the advantages,
+As you may know, with agile, you must include the product **backlog** and requirements as part of the **sprint** that you are working on. This is often used at the outset of a project to grasp the complete scope of the project and to begin writing out some of the early requirements that will be utilized as part of the project.
+
+## What are the advantage and disadvantage of Requirement Workshop?
+
+### Advantage of Requirement Workshop:
 
 it helps you actually really get into the details and there are the real requirements, it's not perceived requirements or guessed out requirements like brainstorming. You have decision makers. Also, you have a better chance of valid requirement and creating consensus. In addition, the requirement accuracy from these are much quicker and also you're able to get that confirmation.
 
 You can pull a big group of people together and gather good requirements and document right after it because of the structure of the requirement workshop. We are able to document that out and send that out to the group for their review and to send back in case you captured anything incorrectly. So it's a little bit more immediate both in decisions, as well as feedback back to the users. You kind of show them how they have helped.
 
-## So what are some disadvantages?
+### Disadvantage of Requirement Workshop:
 
 Well, it's hard to get the right stakeholders in the room at the same time and this goes for any type of meeting. You're pulling in a lot of different stakeholders from a lot of different divisions, departments, levels to be able to get all of them available for an hour or two hours to have a requirements workshop is difficult. So it is little bit harder. And expensive too. Also, there are some logistical issues due to location. The next thing is as a disadvantage is the facilitator needs to be strong because if they don't do a good job facilitating, if they don't do a good job of guiding the discussion, the discussion can go off track and waste everyone's time.
 
-## So, what are some best practices?
+## Requirement Workshop Best Practices:
 
 And these are best practices that We can come up with in utilizing requirement workshops. It help in those projects that are larger in size when they have multiple groups that can bring the groups together.
 
@@ -205,9 +216,10 @@ The last thing is you need to remember you're an analyst, not a facilitator, so 
 
 If there's requirements that are conflicting with other requirements, call that out in this meeting, this is the perfect time to address those conflicting requirements and to come up with a solution for it.
 
-# Interviewing: Elicitation Technique
+# Interviewing: Requirement Elicitation Technique
 
-What is interviewing?
+**What is interviewing?**
+
 It is like job interview but here you will be interviewing your stakeholders through a structured question to identify and elicit requirement.
 
 - Systematic discussion to drive out accurate requirements quickly
@@ -217,7 +229,7 @@ It is like job interview but here you will be interviewing your stakeholders thr
 - Can be formal or informal
 - See the process or requirements from interviewee’s perspective
 
-## Types of interviewing?
+## What are the different kinds of interviewing?
 
 - Personal interviews:
   - Scripted questions – interviewee’s answers are documented
