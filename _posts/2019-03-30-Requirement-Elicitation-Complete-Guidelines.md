@@ -27,8 +27,10 @@ _Quick Links to Topic:_
 - [Requirement Elicitation Technique](#requirement-elicitation-technique)
   - [Brainstorming: Elicitation Technique](#brainstorming-elicitation-technique)
   - [What are the different kinds of brainstorming?](#what-are-the-different-kinds-of-brainstorming)
-  - [What are the pros and cons of brainstorming?](#what-are-the-pros-and-cons-of-brainstorming)
-  - [Best Practices:](#best-practices)
+  - [What are the advantage and disadvantage of Brainstorming?](#what-are-the-advantage-and-disadvantage-of-brainstorming)
+    - [Advantage of Brainstorming:](#advantage-of-brainstorming)
+    - [Disadvantage of Brainstorming:](#disadvantage-of-brainstorming)
+  - [Brainstorming Best Practices:](#brainstorming-best-practices)
 - [Requirement Workshop: Elicitation Technique](#requirement-workshop-elicitation-technique)
   - [So, what are some of the advantages and disadvantages, the pros and cons of using this?](#so-what-are-some-of-the-advantages-and-disadvantages-the-pros-and-cons-of-using-this)
   - [So, looking at the advantages,](#so-looking-at-the-advantages)
@@ -104,40 +106,46 @@ It might also be to generate thoughts and ideas, which is a common misperception
 3. The last type is a **structured brainstorming** session. So, participants are jotting down their thoughts, and then a facilitator goes around the room one by one. They'll go around the table until everyone has exhausted their whole list of ideas. The work is organized such that people (shy, afraid, or experienced) may feel comfortable sharing their views.
    
 
-## What are the pros and cons of brainstorming?
+## What are the advantage and disadvantage of Brainstorming?
 
-**Why would you utilize this elicitation technique?**
+**Why would you use this elicitation method?**
 
-Well, let's talk about the advantages first. The first thing is that it generates a lot of ideas really quickly, especially if you have the open brainstorm. You're getting a ton of ideas and you're like wow this is great using everybody's minds to help solve that problem or generate ideas.
+### Advantage of Brainstorming:
+ - It creates a lot of ideas quickly, especially if you have an open brainstorming session.
+ - If you've done a good job of bringing in the proper stakeholders and people for the brainstorming session, you'll receive multiple perspectives.
+ - It promotes equal participation. Whether in an organized or unstructured atmosphere.
+ - It assists in avoiding biases toward any one point of view.
+ - It develops companionship and a sense of ownership.
 
-Also, you're getting multiple perspectives, if you've done your job and pulling in the right stakeholders and the right people into the brainstorming session you're getting users and IT folks and maybe managers and other department that are giving their inputs and thoughts on how this can be solved.
+### Disadvantage of Brainstorming:
 
-It promotes equal participation. Whether in an open environment, or a structured environment.
+- One big thing is ideas aren't discussed or explored - just get lots of ideas out of the way and start looking at them.
+- You don't really dive into it, so that's kind of one of the cons. As well as the true meaning of that idea could be ambiguous or misunderstood.
+- And high level of discussion can cause some issue there.
+- Some dump suggestions may be allowed for evaluation as well
+- It is possible for ideas to overlap.
+- Some emotional and environmental mental impediments may occur, such as dissatisfaction with chaos, fear of criticism, and the continuation of wrong assumptions.
 
-So now what are some disadvantage to brainstorming? Why would not you use brainstorming?
+## Brainstorming Best Practices:
 
-One big thing is ideas aren't discussed or explored. The whole point of the brainstorm is to get a whole bunch of ideas and then kind of formulate out what are those, what are the best ideas to move forward on. So you don't really dive into it, so that's kind of one of the cons. As well as, the true meaning of that idea could be ambiguous or misunderstood. And high level of discussion can cause some issue there.
-
-## Best Practices:
-
-- Determine type of brainstorming meeting ahead of time
-- Publish an agenda prior to the brainstorming session
-- Clearly state the objective of the meeting
-- Create environment to encourage participation
-- Establish ground rules:
+- ✅ Determine type of brainstorming meeting ahead of time
+- ✅ Publish an agenda prior to the brainstorming session
+- ✅ Clearly state the objective of the meeting
+- ✅ Create environment to encourage participation
+- ✅ Establish ground rules:
   - Do not discuss ideas during the brainstorming session – only questions to clarify
   - Do not dismiss or discount an idea or person
   - Do build on others’ suggestions and ideas
   - Do have fun
-- Establish roles:
+- ✅ Establish roles:
   - Timekeeper
   - Scribe
   - Facilitator
-- Create process for combining, categorizing, and summarizing like ideas
-- If complex, create multiple meetings to keep meeting fatigue low
-- Schedule follow-up meetings
-- Prioritize final ideas to plan further analysis
-- Allow votes for top ideas
+- ✅ Create process for combining, categorizing, and summarizing like ideas
+- ✅ If complex, create multiple meetings to keep meeting fatigue low
+- ✅ Schedule follow-up meetings
+- ✅ Prioritize final ideas to plan further analysis
+- ✅ Allow votes for top ideas
 
 # Requirement Workshop: Elicitation Technique
 
