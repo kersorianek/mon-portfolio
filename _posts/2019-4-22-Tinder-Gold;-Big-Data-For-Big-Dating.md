@@ -67,7 +67,7 @@ Tinder Plus was the original paid version of the app, which allowed users unlimi
 * No advertisements
 * **Seeing who arleady likes you - the only difference between Tinder Plus and Gold**
 
-As we shall see, that one subtle difference made a huge change in multiple metrics of market performance. 
+As we shall see, that one subtle difference made a huge change in multiple metrics of market performance.
 
 It should also be noted while a Tinder U product does exist, it was not specifically labeled as Tinder U in the Edison Data set. It must have been mixed in by being labeled as one of the other Tinder products.
 
@@ -176,7 +176,7 @@ Below, in Figure 3, we have a scatter of the values in the plot above put agains
 
 Whats most interesting about this plot is that it that both time series are not in any way altered to become stationary (i.e. to seperate the trend from the noise). These are the actual daily volume values, not averaged ones. Using a statistical test called the [Augmented Dickey Fuller test](https://en.wikipedia.org/wiki/Augmented_Dickey%E2%80%93Fuller_test), we see a cointegration of the two time series. Using the [Granger test](https://en.wikipedia.org/wiki/Granger_causality),we can prove a causality relationship between the growth of Tinder Gold and the atrophy of Tinder Plus. By causality, we mean predictive causality in that we can predict the values of Tinder Gold from the values of Tinder Plus. (6)(7)(8)(13)(14)(15)
 
-**We arrive at our second conclusions**: 
+**We arrive at our second conclusions**:
 * *The rise in sales of Tinder Gold shares a predictive causality relation (p=0.01) with a 74% drop in market volume of Tinder Plus between Aug 1 2017 and Sept 30th 2018.*
 * *This is caused by giving people the ability to know who likes them back on the service (Tinder Gold's advantage).*
 * *Market changes in Tinder Plus vs Tinder Gold share a causality relationship upto 17 days prior (p<0.01)*
@@ -196,7 +196,7 @@ With these data points, I could calculate the number of such instances on a give
 
 These metrics indicate the proprotions of how many customers on a given day made what kind of decision. Whats really interesting is they these metrics can provide evidence of stability in a subscription product. During product stability, the evolution of these ratios have a balance with each other. If a change in these values is noticed, as seen in the churn line of figure 4, it indicates a stimulus.
 
-These metrics are also scalable, and should be approximately the same if we increase the number of users in our data. 
+These metrics are also scalable, and should be approximately the same if we increase the number of users in our data.
 
 In figure 4 we see the plot of these ratios. So on the Tinder Gold launch date, the ratio of churn (blue) purchases to number of unique users was about 0.3 - meaning if we had 100 unique customers who made purchases on that day, then 30 of those customers made a churn purchase. It then went up to around 0.4 and went even higher towards the end of the series.
 <div id='figurefour'></div>
@@ -275,7 +275,7 @@ What does seem to be the case is that users see Tinder more as a source of enter
 
 Contrasting against the competition, we see that steadily popular dating sites such as Match.com actually offer money back guarantees for finding romantic partners (12). Such a bold offer could only be sustained if it was backed up its results. Yet Tinder sells more, is growing faster but rarely gets people what it’s advertised for(10,11).
 
-In reflection, one could conclude that a social media product will sell more than its competitors if it’s designed to be more addictive and provides a myriad of psycho-social stimulation. Move over, it will do so even if it doesn’t get the users the advertised result they had hoped for as often as a less stimulating product. 
+In reflection, one could conclude that a social media product will sell more than its competitors if it’s designed to be more addictive and provides a myriad of psycho-social stimulation. Move over, it will do so even if it doesn’t get the users the advertised result they had hoped for as often as a less stimulating product.
 
 <div id='seven'></div>
 **7. Summarizing the conclusions**
