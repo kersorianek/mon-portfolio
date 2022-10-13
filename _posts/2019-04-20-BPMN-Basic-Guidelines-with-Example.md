@@ -19,31 +19,35 @@ cover-img: /assets/img/cover.jpg
 BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
 It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
 
-_Quick Links to Topic:_
-
-- [What is Visual Modeling?](#what-is-visual-modeling)
-  - [What's get modeled?](#whats-get-modeled)
-- [Business Models](#business-models)
-  - [Organizational Chart :](#organizational-chart-)
-  - [Competitive Comparison Matrix :](#competitive-comparison-matrix-)
-  - [Stakeholder Map :](#stakeholder-map-)
-  - [Use Case Diagram :](#use-case-diagram-)
-  - [Process Flow Diagram :](#process-flow-diagram-)
-  - [Technical Models](#technical-models)
-  - [BPMN Vs UML](#bpmn-vs-uml)
+- [What is BPMN?](#what-is-bpmn)
+- [Benefits of Using BPMN:](#benefits-of-using-bpmn)
+- [Basic Components of BMPN:](#basic-components-of-bmpn)
+	- [Activity:](#activity)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 Business Process Modeling Notation (BPMN) 2.0 Model
 
-	• What is BPMN?
-	Answer: BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
-	It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
-	
+# What is BPMN?
 
-BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
-It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
+BPMN (Business Process Modeling and Notation) is the global standard for modeling business processes, which is a critical component of business process management. 
 
-Basic Components: 
+BPMN diagrams enable many stakeholders to view business processes, making it simpler to improve workflow effectiveness and efficiency.
+
+Everyone from business analysts to developers to company managers may "speak the same language" and confidently adjust to changing conditions.
+
+ 
+ BPMN was created in 2004 by the Business Process Management Initiative (BPMI). BPMI collaborated with the Object Management Group (OMG) in 2005.
+
+# Benefits of Using BPMN:
+- All stakeholders can understand how a process works
+- IT and business analysts can work together on a consistent, accurate process design 
+- Everyone can understand how a technical process lives within the bigger business picture
+
+BPMN Allow you to GAP Analysis during requirement analysis and model 
+1.  Current state: “as-is”
+2.  Future state: “to-be”
+
+# Basic Components of BMPN: 
 	1. Swimming Lane: Independent Process (Divider between processes)
 	2. Lane:  Functionality or Activity within a Swimming Lane
 	3. Event:  Mark start and end of a process. 
@@ -52,7 +56,7 @@ Basic Components:
 	6. Sequence Flow: A solid arrow that connects Event, Activity, and Gateway
 
 
-Activity: 
+## Activity: 
 A BPMN Activity is simply "Work" that a company or organization performs in a business process. An Activity is can be atomic (Tasks) or decomposable (Sub-Processes). There are basically three BPMN activity types:
 
 	1. BPMN Task

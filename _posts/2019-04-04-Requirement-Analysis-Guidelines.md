@@ -16,12 +16,14 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-As a Business Analyst, requirement analysis is the most important part of your Job. It will help you determining the actual needs of stakeholders.
+The most crucial aspect of your job as a Business Analyst is requirement analysis. It will assist you in determining the actual requirements of stakeholders.
 
 _Quick Links to Topic:_
 
+- [Why Analyse Requirements?](#why-analyse-requirements)
 - [What is Visual Modeling?](#what-is-visual-modeling)
-  - [What's get modeled?](#whats-get-modeled)
+  - [Benefits of Visual Modeling:](#benefits-of-visual-modeling)
+  - [What is being modeled?](#what-is-being-modeled)
 - [Business Models](#business-models)
   - [Organizational Chart :](#organizational-chart-)
   - [Competitive Comparison Matrix :](#competitive-comparison-matrix-)
@@ -32,12 +34,15 @@ _Quick Links to Topic:_
   - [BPMN Vs UML](#bpmn-vs-uml)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
-Requirement Analysis Introduction
-Analysis for three (9)03) things:
+# Why Analyse Requirements?
+You analyze to look for three things:
 
-1.  You want all stakeholder to understand the requirement
-2.  You want customer be able to understand need, function, to prioritize the requirement
-3.  You want your designer, developer, team to design and develop a solution that meet requirement
+1. You want all stakeholders to understand the requirement.
+2. You want the client to be able to grasp the need, function, and prioritize the demand.
+3. You want your designer, developer, or team to create and construct a solution that meets the requirements.
+
+The success or failure of a systems or software project is dependent on requirements analysis. The requirements should be documented, actionable, quantifiable, testable, traceable, tied to recognized business needs or opportunities, and stated to a degree of detail adequate for system design.
+
 
 Taking your requirement and visual model to understand requirement by various levels of stakeholder.
 
@@ -45,13 +50,18 @@ Visual Modeling Concept
 
 # What is Visual Modeling?
 
-Visual Modeling is Graphical representation using a modeling language that takes something **complex** and makes it **easier to understand**.
+Visual modeling is a graphical representation of something **complex** using a modeling language that makes it **easier to understand**.
 
-Let's break it down further. So, the first thing is visual modeling is a graphical representation. Pictures are a lot easier to understand than a block of text. IT could be a picture, process flow or a excel sheet. **Graphical representation is a way to be able display it rather than just displaying text.** There are different graphical representations can use different modeling languages and what it does is it takes something complex and makes it easier to understand.
+Let's take a step farther. So, first and foremost, visual modeling is a graphical representation. A picture is much easier to comprehend than a block of words. It might be a picture, a flow chart, or an excel file. **Graphical representation is a method of showing it rather than merely text.** 
 
-For example, what a visual model is, is an organizational chart. Just what everybody's seen in organizational chart which shows that the different levels and hierarchy of who reports to whom. Well, think about that org chart for a big corporation where it's got all these different layers and all these different departments and who all rolls up where. Well now think about that or chart in a text form.
+There are several graphical representations that can be used with various modeling languages, and what they do is take something difficult and make it easy to grasp.
 
-Think that you had to explain that in text to say, you know, so and so is the president. And so and so is the vice president reporting up to the president and other vice presidents of these. It would take a long time to try to explain that in text, but a model of an organizational chart shows that very easily and it's very intuitive as to what it shows. That's what the model is.
+A visual model, for example, is an organizational chart. Everyone has seen an organizational chart that depicts the many levels and hierarchy of who reports to whom. Consider an org chart for a large business, which has all of these various levels and divisions, and who all reports to whom. Now consider it or chart it in text form.
+
+
+I believe you have to clarify it in text to say something like, "You know, so and so is the president." Likewise, the vice president reports to the president and other vice presidents. It would take a long time to convey something in prose, but an organizational chart model demonstrates it extremely clearly and intuitively. That's the model.
+
+## Benefits of Visual Modeling:
 
 So what are the benefits of visual modeling? We've talked about a few of them already, you can easily understand complex information.
 
@@ -62,7 +72,7 @@ So what are the benefits of visual modeling? We've talked about a few of them al
 - Analyze ‘what if’ scenarios
 - Allows remove of irrelevant information
 
-## What's get modeled?
+## What is being modeled?
 
 1.  Current state: “as-is”
 2.  Future state: “to-be”
@@ -90,9 +100,9 @@ To identify who is going to use your system.
 ## Process Flow Diagram :
 
 Commonly used model to showing you a process from start to finish. A unit level (extremely high level) view of a process.
-A) Unit Level:
 
-    B) Task Level:
+    A) Unit Level
+    B) Task Level
 
 User Interface and Wireframe :
 Design or mock up of a system.

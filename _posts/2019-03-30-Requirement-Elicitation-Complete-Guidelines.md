@@ -194,13 +194,21 @@ As you may know, with agile, you must include the product **backlog** and requir
 
 ### Advantage of Requirement Workshop:
 
-it helps you actually really get into the details and there are the real requirements, it's not perceived requirements or guessed out requirements like brainstorming. You have decision makers. Also, you have a better chance of valid requirement and creating consensus. In addition, the requirement accuracy from these are much quicker and also you're able to get that confirmation.
+- It helps you actually really get into the details and there are the real requirements
+- 
+- The brief intense session facilitates the collecting of relevant expressed criteria
+- Having the relevant stakeholders in attendance fosters buy-in.
+- The conditions put up are addressed and understood properly before moving to approval
+- The required accuracy from them is significantly faster, and you can also receive that confirmation.
+- It is a little more quick in terms of both decisions and communication to users.
 
-You can pull a big group of people together and gather good requirements and document right after it because of the structure of the requirement workshop. We are able to document that out and send that out to the group for their review and to send back in case you captured anything incorrectly. So it's a little bit more immediate both in decisions, as well as feedback back to the users. You kind of show them how they have helped.
 
 ### Disadvantage of Requirement Workshop:
 
-Well, it's hard to get the right stakeholders in the room at the same time and this goes for any type of meeting. You're pulling in a lot of different stakeholders from a lot of different divisions, departments, levels to be able to get all of them available for an hour or two hours to have a requirements workshop is difficult. So it is little bit harder. And expensive too. Also, there are some logistical issues due to location. The next thing is as a disadvantage is the facilitator needs to be strong because if they don't do a good job facilitating, if they don't do a good job of guiding the discussion, the discussion can go off track and waste everyone's time.
+- Workshops can be expensive, not just financially, but also in terms of time and coordination.
+- It might be challenging to gather all of the relevant stakeholders in one place at the same time, especially those with decision-making authority.
+- To obtain a final decision, workshops may need to be repeated
+- The facilitator must be persuasive in order to lead the debate in the appropriate path. If they don't do a good job of directing the conversation, it might deviate and waste everyone's time.
 
 ## Requirement Workshop Best Practices:
 
