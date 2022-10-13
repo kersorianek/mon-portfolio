@@ -17,6 +17,8 @@ cover-img: /assets/img/cover.jpg
 ---
 The specification of requirements is an essential aspect of the Requirements Engineering process. It is the third step, following Requirements Capture and Analysis. The purpose is to generate a document, or Requirements Specification, with the appropriate amount of information.
 
+_Qucik Link to Specific Topic:_
+
 - [Activities of Requirement Specifications:](#activities-of-requirement-specifications)
 - [Categorizing Requirements](#categorizing-requirements)
   - [Why Categorize Requirement?](#why-categorize-requirement)

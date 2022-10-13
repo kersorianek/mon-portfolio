@@ -19,6 +19,8 @@ cover-img: /assets/img/cover.jpg
 BPMN stands for Business Process Modeling Notation. It is a graphical notation style; In other word, a visual language. BPMN is a flow chart based modeling language.
 It describes processes as flow of activities, or actions, arranged in swimming lanes, representing activity performers
 
+_Qucik Link to Specific Topic:_
+
 - [What is BPMN?](#what-is-bpmn)
 - [Benefits of Using BPMN:](#benefits-of-using-bpmn)
 - [Basic Components of BMPN:](#basic-components-of-bmpn)
