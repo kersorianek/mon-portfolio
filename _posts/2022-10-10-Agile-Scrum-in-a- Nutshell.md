@@ -20,6 +20,35 @@ cover-img: /assets/img/cover.jpg
 
 Agile is a term used to describe software development approaches that encourage incremental delivery, team collaboration, continuous planning, and continuous learning rather than striving to offer everything at the end.
 
+
+
+_Qucik Link to Specific Topic:_
+
+- [What is Agile?](#what-is-agile)
+- [Agile: Scrum Methodology](#agile-scrum-methodology)
+  - [The Scrum Framework](#the-scrum-framework)
+  - [Main components of Scrum Framework](#main-components-of-scrum-framework)
+  - [Scrum Roles](#scrum-roles)
+  - [The Scrum Team](#the-scrum-team)
+  - [Responsibilities of the Scrum Team](#responsibilities-of-the-scrum-team)
+    - [Scrum Master](#scrum-master)
+    - [Responsibilities of the Scrum Master](#responsibilities-of-the-scrum-master)
+    - [Scrum Product Owner](#scrum-product-owner)
+    - [Responsibilities of the Scrum Product Owner](#responsibilities-of-the-scrum-product-owner)
+    - [Scrum Product Backlog](#scrum-product-backlog)
+  - [Scrum User Stories](#scrum-user-stories)
+  - [Sprint Backlog](#sprint-backlog)
+  - [Sprint](#sprint)
+  - [Sprint Planning Meeting](#sprint-planning-meeting)
+    - [WHAT-Meeting](#what-meeting)
+    - [HOW-Meeting](#how-meeting)
+    - [Rules & Norms:](#rules--norms)
+  - [Sprint in details](#sprint-in-details)
+    - [Sprint Review Meeting](#sprint-review-meeting)
+    - [Sprint Retrospective Meeting](#sprint-retrospective-meeting)
+    - [Distributed Scrum Teams](#distributed-scrum-teams)
+- [All Posts on Business Analysis:](#all-posts-on-business-analysis)
+
 # What is Agile?
 Agile is the ability to create and respond to change. Agile values lean procedures and the development of minimum viable products (MVPs) that go through several iterations before being finished. Feedback is continually received and used, resulting in a far more dynamic process in which everyone is striving for a single goal.
 
