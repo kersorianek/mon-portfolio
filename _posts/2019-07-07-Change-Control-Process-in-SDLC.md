@@ -36,6 +36,7 @@ _Qucik Link to Specific Topic:_
   - [Questions to Consider When Conducting Impact Analysis](#questions-to-consider-when-conducting-impact-analysis)
   - [Best practices for change Impact Analysis](#best-practices-for-change-impact-analysis)
   - [Summary](#summary)
+- [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 # Change Control in Software: 
@@ -219,13 +220,14 @@ The above list explains the impact of the implemented changes
 - It helps to analyze what level of regression testing is required
 
 
+# About Content Creator: 
 
 
-For Any Query or Assigment Contact 
-**Rafayet Hossain**
+Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable changes in your organization.
 
-✅ Business Analyst | Project Manager | SQA | Writer ✅
+ 
 
+For Any Query or Assigment Contact: 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)

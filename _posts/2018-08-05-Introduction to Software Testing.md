@@ -19,6 +19,7 @@ _Qucik Link to Specific Topic:_
 - [What Software Tests will you perform?](#what-software-tests-will-you-perform)
 - [Why is software testing necessary?](#why-is-software-testing-necessary)
 - [Concept of Validation & Verification](#concept-of-validation--verification)
+- [About Content Creator:](#about-content-creator)
 - [All Posts on Testing:](#all-posts-on-testing)
 
 # What is Software Testing?
@@ -62,6 +63,23 @@ In other words, verification ensures that the system does not crash, that it fit
 The software testing process includes both verification and validation. Although most testers spend a significant amount of time on verification, a software tester does not simply confirm that the product fits the requirements. Testers can be regarded of as defenders of the user experience, even going up against other corporate stakeholders in order to create software that fulfills the demands of users rather than just the bottom line.
 
 Remember that the purpose of software testing is to **estimate** and, if possible, **reduce** the risk to stakeholders. Understanding the potential risks can help to reduce risk. After all, untested software that has never been run could be flawless or completely inoperable. Testing assists in determining where the software _actually_ lies between those two extremes. It can assist us in determining whether there are minor issues with the software or issues that should prevent the product from shipping because major functionality does not work. Software testers assist other stakeholders in making appropriate decisions by assisting in determining the level of risk. \*
+
+
+# About Content Creator: 
+
+
+Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable changes in your organization.
+
+ 
+
+For Any Query or Assigment Contact: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
+
 
 # All Posts on Testing:  
 

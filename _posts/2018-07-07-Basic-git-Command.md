@@ -18,6 +18,7 @@ Mastering Git takes time, however in this post you'll discover key commands that
 - [The Common steps are as follows:](#the-common-steps-are-as-follows)
 - [Git Commands You Should Know](#git-commands-you-should-know)
 - [CMD Command for Windows PC Terminal](#cmd-command-for-windows-pc-terminal)
+- [About Content Creator:](#about-content-creator)
 
 To Install **Git** on your local computer download this from official site git:
 
@@ -208,6 +209,23 @@ git pull
 - **cd foldername**: to enter a folder.
 - **pwd**: to check the directory currently you are working on.
 
+
 {: .box-success}
 Enjoy !!! 
 See Yaaa, Next.
+
+
+# About Content Creator: 
+
+
+Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable changes in your organization.
+
+ 
+
+For Any Query or Assigment Contact: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+
