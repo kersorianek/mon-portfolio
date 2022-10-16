@@ -24,8 +24,12 @@ _Qucik Link to Specific Topic:_
 - [Who writes SRS documents?](#who-writes-srs-documents)
   - [What is the standard format for SRS?](#what-is-the-standard-format-for-srs)
 - [What are the major element of a SRS?](#what-are-the-major-element-of-a-srs)
-  - [SRS Preparation Best Practices:](#srs-preparation-best-practices)
-- [Validate your requirement using **SMART** formula.](#validate-your-requirement-using-smart-formula)
+  - [Checklist of Requirements Specification Audits:](#checklist-of-requirements-specification-audits)
+    - [✅ Organization and Completeness:](#-organization-and-completeness)
+    - [✅ Correctness:](#-correctness)
+    - [✅ Quality Attributes:](#-quality-attributes)
+    - [✅ Tracebility:](#-tracebility)
+    - [✅ Special Considerations:](#-special-considerations)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 # What is Software Requirement Specifications:
@@ -59,6 +63,7 @@ No there is no standard but it is pretty obvious that every organization use a S
 
 
 # What are the major element of a SRS?
+Each organization may have a different format for developing a Software Requirement Specification Document but you will found few similarities in all format: 
 
 1. Introduction
 
@@ -87,23 +92,52 @@ No there is no standard but it is pretty obvious that every organization use a S
             3.3 System Features
 
             3.4 Nonfunctional Requirements
+
 4. Data Requirements
+
             4.1 Data Dictionary 
+
             4.2 Reports
   
 
 This is a basic outline and yours may contain more or fewer items.
 
 
-## SRS Preparation Best Practices:
- - ✅ Keep it simple
- - ✅ Business value reigns supreme
- - ✅ Make your SRS Lively
+## Checklist of Requirements Specification Audits:
 
-# Validate your requirement using **SMART** formula.
+### ✅ Organization and Completeness:
+ - [ ] Is it right that all internal cross-references to other requirements are correct?
+ - [ ] Is the amount of detail in all criteria constant and appropriate?
+ - [ ] Do the criteria give a solid foundation for design?
+ - [ ] Is each requirement's implementation priority included?
+ - [ ] Is it possible to describe all external hardware, software, and communication interfaces?
+ - [ ] Is it possible to define algorithms that are inherent to the functional requirements?
+ - [ ] Is the specification complete in terms of all known customer or system requirements?
+ - [ ] Is the anticipated behavior documented for all error conditions?
+ 
+### ✅ Correctness:
+- [ ] Are there any criteria that contradict with or duplicate others?
+- [ ] Is each criterion expressed in clear, succinct, and straightforward language?
+- [ ] Is each requirement testable, demonstrable, reviewable, or analyzable?
+- [ ] Is each demand within the scope of the project?
+- [ ] Is each requirement free of grammatical and substance errors?
+- [ ] Is there any required information missing from a requirement? If so, is it labeled as TBD?
+- [ ] Can all of the requirements be met within the limits that have been established?
+- [ ] Are any of the supplied error messages distinct and meaningful?
 
+### ✅ Quality Attributes:
+- [ ] Are all performance goals well defined?
+- [ ] Are all security and safety concerns adequately specified?
+- [ ] Are additional relevant quality attribute targets well established and measured, as well as the acceptable tradeoffs?
 
+### ✅ Tracebility:
+- [ ] Is each need identified in a unique and proper manner?
+- [ ] Is it possible to trace any software functional need back to a higher-level requirement (e.g., system requirement, use case)?
 
+### ✅ Special Considerations:
+- [ ] Are all requirements needs, rather than design or implementation solutions?
+- [ ] Have all time-critical functions been identified and timing criteria established?
+- [ ] Have problems concerning internationalization been appropriately addressed?
 
 
 
