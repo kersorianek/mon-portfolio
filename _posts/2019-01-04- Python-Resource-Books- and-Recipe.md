@@ -20,7 +20,8 @@ _Qucik Link to Specific Topic:_
 
 - [Free Python Books](#free-python-books)
 - [List of Books](#list-of-books)
-- [All Posts on Testing:](#all-posts-on-testing)
+- [About Content Creator:](#about-content-creator)
+- [All Posts on Software Testing:](#all-posts-on-software-testing)
 
 # Free Python Books
 
@@ -167,20 +168,48 @@ You can find all the books listed below in [**book**](https://github.com/rafayet
 
 
 
-For Any Query or Assigment Contact 
-**Rafayet Hossain**
 
-✅ Business Analyst || SQA || Writer ✅
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+# About Content Creator: 
+
+
+Hi, This is **Rafayet Hossain**
+
+A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
+He acts as a change agent to enable digital changes to your organization.
+
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
 
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
- 
-# All Posts on Testing:  
+
+# All Posts on Software Testing:  
 
 Click on any of the desired links to directly access the information.
 

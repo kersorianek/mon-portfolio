@@ -158,15 +158,37 @@ When you finish the review step, there is usually one final project initiation m
 Whether you are a seasoned project management professional or a novice trying to learn the rules of the game, following the six stages outlined above should make project initiation a smooth and easy experience. With the project beginning phase completed, you can safely proceed to the next project management stages that will get you closer to the finish line. And, to make your journey more enjoyable, consider joining up for a free trial with Forecast to experience how much of a difference an AI-driven project management system can make.
 
 
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 # About Content Creator: 
 
 
-Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable digital changes to your organization.
+Hi, This is **Rafayet Hossain**
 
-For Any Query or Assigment Contact: 
+A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
+He acts as a change agent to enable digital changes to your organization.
+
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)

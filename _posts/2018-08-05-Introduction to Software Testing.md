@@ -20,7 +20,7 @@ _Qucik Link to Specific Topic:_
 - [Why is software testing necessary?](#why-is-software-testing-necessary)
 - [Concept of Validation & Verification](#concept-of-validation--verification)
 - [About Content Creator:](#about-content-creator)
-- [All Posts on Testing:](#all-posts-on-testing)
+- [All Posts on Software Testing:](#all-posts-on-software-testing)
 
 # What is Software Testing?
 
@@ -65,23 +65,48 @@ The software testing process includes both verification and validation. Although
 Remember that the purpose of software testing is to **estimate** and, if possible, **reduce** the risk to stakeholders. Understanding the potential risks can help to reduce risk. After all, untested software that has never been run could be flawless or completely inoperable. Testing assists in determining where the software _actually_ lies between those two extremes. It can assist us in determining whether there are minor issues with the software or issues that should prevent the product from shipping because major functionality does not work. Software testers assist other stakeholders in making appropriate decisions by assisting in determining the level of risk. \*
 
 
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
 # About Content Creator: 
 
 
-Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable changes in your organization.
+Hi, This is **Rafayet Hossain**
 
- 
+A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
+He acts as a change agent to enable digital changes to your organization.
 
-For Any Query or Assigment Contact: 
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
 
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
 
-# All Posts on Testing:  
+# All Posts on Software Testing:  
 
 Click on any of the desired links to directly access the information.
 
@@ -106,12 +131,11 @@ Click on any of the desired links to directly access the information.
 - [x]  [**First Selenium Python Script**](https://rafayethossain.github.io/2019-01-09-My-First-Python-Selenium-Script/)
 
 
+ 
 
 {: .box-success}
 Enjoy !!!
 **See Yaaa, Next.**
 
 ![Cover](/assets/img/cover.jpg "Cover")
-
-
  
