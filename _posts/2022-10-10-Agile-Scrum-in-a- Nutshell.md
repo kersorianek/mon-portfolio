@@ -44,6 +44,7 @@ _Qucik Link to Specific Topic:_
     - [HOW-Meeting](#how-meeting)
     - [Rules & Norms:](#rules--norms)
   - [Sprint in details](#sprint-in-details)
+    - [Daily Scrum Meeting / Daily Stand-up Meeting:](#daily-scrum-meeting--daily-stand-up-meeting)
     - [Sprint Review Meeting](#sprint-review-meeting)
     - [Sprint Retrospective Meeting](#sprint-retrospective-meeting)
     - [Distributed Scrum Teams](#distributed-scrum-teams)
@@ -203,12 +204,12 @@ Definition Of Done (DOD)
 
 A comprehensive checklist of necessary activities that ensure that only truly done features are delivered, not only in terms of functionality but in terms of quality as well.
 
-Daily Scrum Meeting / Daily Stand-up Meeting
-	• A short everyday meeting during Sprint, not more than 15 minutes.
-	• Each team member should briefly provide the answers of the following three questions:
-- what has he/she accomplished since the last daily Scrum meeting?
-- what is he/she is going to accomplish until the next Scrum meeting?
-- what are the impediments that prevent he/she from accomplishing his/her tasks?
+### Daily Scrum Meeting / Daily Stand-up Meeting:
+-  A short everyday meeting during Sprint, not more than 15 minutes.
+- Each team member should briefly provide the answers of the following three questions:
+    - what has he/she accomplished since the last daily Scrum meeting?
+    - what is he/she is going to accomplish until the next Scrum meeting?
+    - what are the impediments that prevent he/she from accomplishing his/her tasks?
 	• No issues or concerns raised during the meeting are allowed to be ignored due to the lack of time. Issues or concerns ought to be recorded by the Scrum Master and needs to be specifically handled after the meeting.
 ### Sprint Review Meeting
 -  Take place in the form of a demo of the new features.
@@ -233,15 +234,37 @@ Daily Scrum Meeting / Daily Stand-up Meeting
 
 
 
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 # About Content Creator: 
 
 
-Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable digital changes to your organization.
+Hi, This is **Rafayet Hossain**
 
-For Any Query or Assigment Contact: 
+A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
+He acts as a change agent to enable digital changes to your organization.
+
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)

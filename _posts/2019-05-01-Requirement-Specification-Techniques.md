@@ -220,15 +220,39 @@ One question that comes up a lot is 'hey, when do I fill this out?', you'll see 
 I'm trying to write good requirements, write SMART requirements because I don't want to rewrite them all later, is when I start to put a lot of the details into the BRD and also in the specification phases when I kind of finalize that.
 
 
+
+
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 # About Content Creator: 
 
 
-Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable digital changes to your organization.
+Hi, This is **Rafayet Hossain**
 
-For Any Query or Assigment Contact: 
+A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
+He acts as a change agent to enable digital changes to your organization.
+
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
