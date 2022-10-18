@@ -248,8 +248,9 @@ Hi, This is **Rafayet Hossain**
 A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
 He acts as a change agent to enable digital changes to your organization.
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)][(https://www.buymeacoffee.com/gbraad](https://www.buymeacoffee.com/rafayetanalyst))
 
-[**If you love my post, buy me a coffee**](https://www.buymeacoffee.com/rafayetanalyst)
+
 
 
 
