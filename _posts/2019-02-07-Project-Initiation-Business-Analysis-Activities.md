@@ -25,6 +25,7 @@ _Qucik Link to Specific Topic:_
   - [Identify Project Stakeholders and Their Impact](#identify-project-stakeholders-and-their-impact)
   - [Team formation and tool selection](#team-formation-and-tool-selection)
   - [Putting the final touches on](#putting-the-final-touches-on)
+- [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 **Pre-Project Activities**
@@ -157,16 +158,22 @@ When you finish the review step, there is usually one final project initiation m
 Whether you are a seasoned project management professional or a novice trying to learn the rules of the game, following the six stages outlined above should make project initiation a smooth and easy experience. With the project beginning phase completed, you can safely proceed to the next project management stages that will get you closer to the finish line. And, to make your journey more enjoyable, consider joining up for a free trial with Forecast to experience how much of a difference an AI-driven project management system can make.
 
 
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
-For Any Query or Assigment Contact 
-**Rafayet Hossain**
+# About Content Creator: 
 
-✅ Business Analyst | Project Manager | SQA | Writer ✅
 
+Hi, This is **Rafayet Hossain**, a seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer. He acts as a change agent to enable digital changes to your organization.
+
+For Any Query or Assigment Contact: 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
 
 
@@ -176,15 +183,21 @@ For Any Query or Assigment Contact
 Click on any of the desired links to directly access the information.
 
 - [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
-- [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-21-Project-Initiation-Business-Analysis-Activities/)
-- [x]  [**How to Prepare a Business Case**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
-- [x]  [**Stakeholder Management and Stakeholder Analysis**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
-- [x]  [**Everything You Need To Know About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
-- [x]  [**Requirement Elicitiation Techniques You Must Know**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
-- [x]  [**Complete Requirement Analysis Guidelines**](https://rafayethossain.github.io/2019-04-04-Requirement-Analysis-Guidelines/)
-- [x]  [**Complete Requirement Specification Techniques**](https://rafayethossain.github.io/2019-05-01-Requirement-Specification-Techniques/)
-- [x]  [**Requirements Approval Process You Should Follow**](https://rafayethossain.github.io/2019-06-06-Requirement-Approval-Process/)
+- [x]  [**Project Initiation Activities as a Business Analyst**](https://rafayethossain.github.io/2019-02-07-Project-Initiation-Business-Analysis-Activities/)
+- [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
+- [x]  [**How to Prepare a Business Case for Project**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
+- [x]  [**How to Manage Your Project Stakeholder Using RACI Matrix**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/)  
+- [x]  [**Everything You Need to Kow About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
+- [x]  [**Requirements Elicitation Techniques You Must Learn**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
+- [x]  [**How a Pro BA Analyze Software Requirements**](https://rafayethossain.github.io/2019-04-04-Requirement-Analysis-Guidelines/)
+- [x]  [**BPMN Basics for Business Analyst**](https://rafayethossain.github.io/2019-04-20-BPMN-Basic-Guidelines-with-Example/)
+- [x]  [**Requirements Specification Techniques**](https://rafayethossain.github.io/2019-05-01-Requirement-Specification-Techniques/)
+- [x]  [**Preparing a Software Requirement Specification (SRS) Document That Works**](https://rafayethossain.github.io/2019-05-07-How-to-Write-SRS-Document/)
+- [x]  [**Software Requirements Approval to Kick off Development**](https://rafayethossain.github.io/2019-06-06-Requirement-Approval-Process/)
 - [x]  [**Change Control Process in SDLC**](https://rafayethossain.github.io/2019-07-07-Change-Control-Process-in-SDLC/)
+- [x]  [**Agile Project Managment with Srum Roles and Responsibilites**](https://rafayethossain.github.io/2022-10-10-Agile-Scrum-in-a-Nutshell/)
+
+
 
 
 {: .box-success}
