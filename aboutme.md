@@ -17,7 +17,23 @@ He Excel in The Fields are as Follows But not Limited to:
 ☑ System Analysis & Design ☑ Technical Documentation ☑ Software Quality Assurance ☑ Lean Six Sigma ☑ Requirement Elicitation ☑ Business Process Modeling (Map "As-Is" And "To-Be" Business Processes) Using BPMN ☑ Requirement Management ☑ Software Requirement Specification (SRS, BRD) Development ☑ UI Wireframing ☑ Software Test Document Preparation & Test Execution ☑ User Manual & End User Training ☑ Change Management ☑ Quality Improvement ☑ Microsoft Office (Word, Excel, PowerPoint, Visio) ☑ Project Management ☑ Software Process Quality Improvement ☑ Have Good Oral And Written Communication Skills ☑ Time Management ☑ Trained In Soft Skills - Business Etiquette, Communication, And Negotiation Skills ☑ Quality Framework: CMMI, ISO ☑ SDLC & STLC ☑ Root Cause Analysis ☑ 5 Why Technique ☑ SMART Requirement Preparation ☑ Crisis Handling ☑ Quality Tools ☑ Continuous Improvement ☑ Critical Thinking
 
 
-For Any Query or Task Contact Me @
+Provide Services on:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
