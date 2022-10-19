@@ -15,37 +15,65 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 👉 He Opted for **Software Testing** as a Career Not Because He Got the Opportunity to Work Rather, He Believes Software Testing as "Destructive Creation" Also Enjoy Finding Issues. He Can Help You in Implementing Test Processes, QA Documentation and Can Provide End to End Solutions on All Types of Testing. "Has An Attitude of “Test to Break", "Ability to Think as End User Perspective” "A Strong Desire for Quality, And An Attention to Detail.
 
 👉 He Excel in The Fields are as Follows But not Limited to:
+
 ✅ Project Management  
+
 ✅ Technical Documentation
+
 ✅ System Analysis & Design
+
 ✅ Software Quality Assurance
+
 ✅ Quality Framework: CMMI, ISO 
+
 ✅ Project Managment Framework: Waterfall, Agile, Lean Six Sigma
+
 ✅ Stakeholder Analysis & Management 
+
 ✅ Requirement Elicitation
+
 ✅ Business Process Modeling (Map "As-Is" And "To-Be" Business Processes)
+
 ✅ Requirement Management 
+
 ✅ Software Requirement Specification (SRS, BRD) Development 
+
 ✅ UI Wireframing 
+
 ✅ Software Test Document Preparation & Test Execution 
+
 ✅ User Manual & End User Training 
+
 ✅ Change Management 
+
 ✅ Quality Improvement 
+
 ✅ Microsoft Office (Word, Excel, PowerPoint, Visio) 
+
 ✅ Software Process Quality Improvement 
+
 ✅ Have Good Oral And Written Communication Skills ✅ Time Management 
+
 ✅ Business Etiquette, Communication, And Negotiation Skills 
+
 ✅ SDLC & STLC 
+
 ✅ Root Cause Analysis 
+
 ✅ 5 Why Technique 
+
 ✅ SMART Requirement Preparation 
+
 ✅ Crisis Handling 
+
 ✅ Quality Tools 
+
 ✅ Continuous Improvement 
+
 ✅ Critical Thinking
 
 
-Provide Services on:
+👉 Do You Need Any Services On:
 
 🎯 Software Project Managment 
 
@@ -66,16 +94,16 @@ Provide Services on:
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
 
-## Places I haunt
+## Places He haunt
 
 * [Medium](https://rafayethossain.medium.com/) •  I Write Career Guidline in Bengali Here.
 * [Facebook](https://www.facebook.com/rafayethossain13) • This is my Facebook Profile.
 * [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
   
-## My website
+## His Website
 * [Blog](rafayet13.wordpress.com/) • Currently work in progress.
 
-## Me on Youtube
+## On YouTube
 
 * [YouTube](https://www.youtube.com/channel/UCsTNdhx0etbm-571LVTCW2g/featured?view_as=subscriber) • This is my Youtube Profile.
 
