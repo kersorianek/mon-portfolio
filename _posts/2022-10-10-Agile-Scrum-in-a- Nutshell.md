@@ -249,7 +249,7 @@ A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
 He acts as a change agent to enable digital changes to your organization.
 
  
-
+If You Like This Post
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 

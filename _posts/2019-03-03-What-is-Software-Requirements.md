@@ -310,6 +310,9 @@ Then business requirement will help you to fulfill that rule. Like _Wearing a wa
 - [x] Changes can cause major constraints down the road
 
 
+If You Like This Post
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
 
 

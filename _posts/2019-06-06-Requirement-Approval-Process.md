@@ -110,6 +110,9 @@ So you now have business approval as well as a technical understanding of the ar
 4. Address questions and concerns immediately 
 5. Gain official sign-off on the project
 
+If You Like This Post
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
 
 

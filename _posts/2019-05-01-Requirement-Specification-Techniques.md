@@ -219,6 +219,9 @@ One question that comes up a lot is 'hey, when do I fill this out?', you'll see 
 
 I'm trying to write good requirements, write SMART requirements because I don't want to rewrite them all later, is when I start to put a lot of the details into the BRD and also in the specification phases when I kind of finalize that.
 
+If You Like This Post
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
 
 
