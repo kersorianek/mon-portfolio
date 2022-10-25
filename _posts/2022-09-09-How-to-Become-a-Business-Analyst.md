@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complete Career Guide on How to Become a Business Analyst 
-subtitle: 04 Steps to Become a Business Analyst 
+subtitle: 05 Steps to Become a Business Analyst 
 tags:
   [
     business system analysis,
@@ -20,30 +20,23 @@ Given the current economic landscape, pursuing a career as a business analyst ma
 
 _Qucik Link to Specific Topic:_
 
-- [What is Agile?](#what-is-agile)
-- [Agile: Scrum Methodology](#agile-scrum-methodology)
-  - [The Scrum Framework](#the-scrum-framework)
-  - [Main components of Scrum Framework](#main-components-of-scrum-framework)
-  - [Scrum Roles](#scrum-roles)
-  - [The Scrum Team](#the-scrum-team)
-  - [Responsibilities of the Scrum Team](#responsibilities-of-the-scrum-team)
-    - [Scrum Master](#scrum-master)
-    - [Responsibilities of the Scrum Master](#responsibilities-of-the-scrum-master)
-    - [Scrum Product Owner](#scrum-product-owner)
-    - [Responsibilities of the Scrum Product Owner](#responsibilities-of-the-scrum-product-owner)
-    - [Scrum Product Backlog](#scrum-product-backlog)
-  - [Scrum User Stories](#scrum-user-stories)
-  - [Sprint Backlog](#sprint-backlog)
-  - [Sprint](#sprint)
-  - [Sprint Planning Meeting](#sprint-planning-meeting)
-    - [WHAT-Meeting](#what-meeting)
-    - [HOW-Meeting](#how-meeting)
-    - [Rules & Norms:](#rules--norms)
-  - [Sprint in details](#sprint-in-details)
-    - [Daily Scrum Meeting / Daily Stand-up Meeting:](#daily-scrum-meeting--daily-stand-up-meeting)
-    - [Sprint Review Meeting](#sprint-review-meeting)
-    - [Sprint Retrospective Meeting](#sprint-retrospective-meeting)
-    - [Distributed Scrum Teams](#distributed-scrum-teams)
+- [Job Opportunity as a Business Analyst?](#job-opportunity-as-a-business-analyst)
+- [Is it Possible to Become a Business Analyst Without Prior Experience?](#is-it-possible-to-become-a-business-analyst-without-prior-experience)
+- [What is a Business Analyst?](#what-is-a-business-analyst)
+- [What Does A Business Analyst Do?](#what-does-a-business-analyst-do)
+- [Business Analyst Job Description](#business-analyst-job-description)
+- [Skills of a Good Business Analyst](#skills-of-a-good-business-analyst)
+  - [Analytical skills:](#analytical-skills)
+  - [Business knowledge and critical thinking:](#business-knowledge-and-critical-thinking)
+  - [Leadership skills:](#leadership-skills)
+  - [Technical skill:](#technical-skill)
+  - [Communication skills:](#communication-skills)
+- [The Five Steps to Starting a Career as a Business Analyst:](#the-five-steps-to-starting-a-career-as-a-business-analyst)
+  - [Decide Your Goal:](#decide-your-goal)
+  - [Take a course:](#take-a-course)
+  - [Create a Portfolio](#create-a-portfolio)
+  - [Acquire Work Experience](#acquire-work-experience)
+  - [Expand your network](#expand-your-network)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
@@ -117,8 +110,11 @@ Business analysts must work in groups, gathering sometimes complex, technical in
  
 Business analysts must be able to think critically, analyze data, and solve problems. They must have the patience and attention to detail to break down a process into its components, analyze what is and isn't working, understand how various elements interact, and make data-backed recommendations for changes. 
  
-# The Four Steps to Starting a Career as a Business Analyst:
+# The Five Steps to Starting a Career as a Business Analyst:
 
+## Decide Your Goal:
+
+The most important criterion for success in other professions, including business analysis, is to master the foundations. You may begin by studying the core ideas of business analytics. First and foremost, you should understand what a business analyst performs. You may choose whether or not to learn business analytics through blogs and online courses..
  
 
 ## Take a course:
