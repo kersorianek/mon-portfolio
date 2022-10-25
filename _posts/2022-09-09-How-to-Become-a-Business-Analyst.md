@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Complete Career Guide on How to Become a Business Analyst 
-subtitle: 05 Steps to Become a Business Analyst 
+title: 05 Steps to Become a Business Analyst 
+subtitle: Complete Career Guide on How to Become a Business Analyst 
 tags:
   [
     business system analysis,
