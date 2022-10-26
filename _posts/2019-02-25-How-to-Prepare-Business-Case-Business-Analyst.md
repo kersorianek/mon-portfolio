@@ -44,20 +44,20 @@ You might create a fantastic product yet still fail this project since it does n
 
 ## 03 Questions to Ask Yourself
 
-1. What is the purpose of the project
+  1. What is the purpose of the project
 
-- Why approve this project?
-- Why we are budgeting for this project?
+     - Why approve this project?
+     - Why we are budgeting for this project?
 
 
-2. What are the goals and objectives of this project?
+  2. What are the goals and objectives of this project?
 
-- What is the return on investment?
-- What are the main critical pieces and components?
+     - What is the return on investment?
+     - What are the main critical pieces and components?
 
-3. In the eyes of this project, what is a success?
-   - How will it be measured?
-   - Have you preferred the Measurement matrix?
+  3. In the eyes of this project, what is a success?
+        - How will it be measured?
+        - Have you preferred the Measurement matrix?
 
 
 After you have those specifics, you can begin working through and eliciting requirements. Yes, there will be additional features and enhancements that customers may desire as part of the project, but your primary focus should be to address the problem that the project is designed to solve.
