@@ -12,7 +12,7 @@ cover-img: /assets/img/cover.jpg
 
 You have a brilliant idea. You want to assemble an expert team and demonstrate to stakeholders that your idea is viable.
 
-But how do you make that work?
+**But how do you make that work?**
 
 Before your plan may be approved, you must explain how you intend to fund and continue your initiative. A business case can help with this.
 
@@ -38,9 +38,9 @@ _Qucik Link to Specific Topic:_
 
 # Understanding Business Objective
 
-Identifying the organization's, project's, or stakeholder's business goals, needs, and requirements. The first assignment I worked on as a Business Analyst. And failed out of embarrassment. Because you created a solution that does not fulfill the project's Objective, Goal, and Purpose.
+ The first assignment that you worked on as a Business Analyst. And failed out of embarrassment. Because you created a solution that does not fulfill the project's Objective, Goal, and Purpose. So, it is crucial to identifying the organization's, project's, or stakeholder's business goals, needs, and requirements.
 
-You might create a fantastic product yet still fail this project since it does not satisfy the project's objectives. This is terrible for me as a business analyst.
+You might create a fantastic product yet still fail this project since it does not satisfy the project's objectives. This is a terrible incident for a business analyst.
 
 ## 03 Questions to Ask Yourself
 
@@ -48,6 +48,7 @@ You might create a fantastic product yet still fail this project since it does n
 
 - Why approve this project?
 - Why we are budgeting for this project?
+
 
 2. What are the goals and objectives of this project?
 
@@ -58,13 +59,16 @@ You might create a fantastic product yet still fail this project since it does n
    - How will it be measured?
    - Have you preferred the Measurement matrix?
 
+
 After you have those specifics, you can begin working through and eliciting requirements. Yes, there will be additional features and enhancements that customers may desire as part of the project, but your primary focus should be to address the problem that the project is designed to solve.
 
-Creating a product that does not solve the project wastes a lot of time and money, and it is also incredibly embarrassing, as every business analyst has experienced.
+Creating a product that does not solve the problem wastes a lot of time and money, and it is also incredibly embarrassing. And Business Case can help you with the mentioned issues. 
+
 
 ## What is a Business Case?
 
-A decision-making tool is used to assess the impact of a certain decision on profitability.
+A business case is a formal document that's created by someone who isn't ultimately making the decision, so they're creating that document to sell the decision-maker on moving forward, one, taking some action, and then two, taking action in the recommended way.
+
 
 Ultimately, it is a document that is delivered to decision-makers and tells them,
   _OK, based on these specific activities, here's the cost-benefit ratio, here's the return on investment by making a choice one way or another_
@@ -76,7 +80,8 @@ A business case is used to identify and emphasize potential **problems** or **op
 
 Ultimately, it is the **driver** of initiatives. Many businesses will begin initiatives entirely on the basis of written business arguments. So they have their staff produce business cases, which are then presented to a decision-making committee, a person, or a group, who say, 'OK, here are all the business cases now, on which ones make sense.'
 
-A business case is created to outline potential solutions, costs, and advantages for a given problem or opportunity. It's virtually a sales approach to sell the business and invest money in fixing that specific problem or pursuing that specific opportunity. The important element is the advice - that person is driving and saying, "This is what we should do."
+A business case is created to outline potential solutions, costs, and advantages for a given problem or opportunity. It's virtually a sales approach to sell the business and invest money in fixing that specific problem or pursuing that specific opportunity. The important element is the advice - that person is driving and saying, **"This is what we should do."**
+
 
 ## When is Business Case Used?
 
@@ -96,11 +101,14 @@ There are two points to discuss here.
 - And then, What's the recommended solution?
 
 
-A business case is a formal document that's created by someone who isn't ultimately making the decision, so they're creating that document to sell the decision-maker on moving forward, one, taking some action, and then two, taking action in the recommended way.
+It is a decision-making tool is used to assess the impact of a certain decision on profitability.
+
 
 ## Who creates a business case?
 
-It can be a lot of different people. The most common people who create are business executives. This could be VPs, directors, business managers, so this is a person that leads a team. It could be a business analyst also because of the role he plays. So we can assume that we as a Business Analyst creating the business case or at least we're helping create the business case so that we understand writing.
+It can be a lot of different people. The most common people who create are business executives. This could be VPs, directors, business managers, so this is a person that leads a team. 
+
+It could be a business analyst also because of the role he plays. So we can assume that we as a Business Analyst creating the business case or at least we're helping create the business case so that we understand writing.
 
 # 05 Phases of Developing an Effective Business Case
 
@@ -199,6 +207,11 @@ So those are the five phases that a business analyst shall utilize in creating a
 
 
 
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
 If You Like This Post
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
@@ -217,19 +230,7 @@ Hi, This is **Rafayet Hossain**
 A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
 He acts as a change agent to enable digital changes to your organization.
 
-Provide Services on:
 
-🎯 Software Project Managment 
-
-🎯 Business System Analysis 
-
-🎯 Software Testing 
-
-🎯 Business Consulting
-
-🎯 Technical Document Preparation 
-
-🎯 Individual Training  
 
 
 👉 For Any Query or Assigment Contact: 
