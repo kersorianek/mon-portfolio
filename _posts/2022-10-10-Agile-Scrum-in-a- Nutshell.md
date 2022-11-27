@@ -42,7 +42,7 @@ _Qucik Link to Specific Topic:_
   - [Sprint Planning Meeting](#sprint-planning-meeting)
     - [WHAT-Meeting](#what-meeting)
     - [HOW-Meeting](#how-meeting)
-    - [Rules & Norms:](#rules--norms)
+    - [Rules \& Norms:](#rules--norms)
   - [Sprint in details](#sprint-in-details)
     - [Daily Scrum Meeting / Daily Stand-up Meeting:](#daily-scrum-meeting--daily-stand-up-meeting)
     - [Sprint Review Meeting](#sprint-review-meeting)
@@ -232,7 +232,7 @@ A comprehensive checklist of necessary activities that ensure that only truly do
 -  Feature Team — fully responsible for implementation on of user stories as contained in the Scrum Backlog.
 
 
-
+**[⬆ back to top](#what-is-agile)**
 
 
 ----------------------------------------------------------------------

@@ -18,7 +18,7 @@ _Qucik Link to Specific Topic:_
 - [What Software Testing is not?](#what-software-testing-is-not)
 - [What Software Tests will you perform?](#what-software-tests-will-you-perform)
 - [Why is software testing necessary?](#why-is-software-testing-necessary)
-- [Concept of Validation & Verification](#concept-of-validation--verification)
+- [Concept of Validation \& Verification](#concept-of-validation--verification)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Software Testing:](#all-posts-on-software-testing)
 
@@ -65,7 +65,7 @@ The software testing process includes both verification and validation. Although
 Remember that the purpose of software testing is to **estimate** and, if possible, **reduce** the risk to stakeholders. Understanding the potential risks can help to reduce risk. After all, untested software that has never been run could be flawless or completely inoperable. Testing assists in determining where the software _actually_ lies between those two extremes. It can assist us in determining whether there are minor issues with the software or issues that should prevent the product from shipping because major functionality does not work. Software testers assist other stakeholders in making appropriate decisions by assisting in determining the level of risk. \*
 
 
-
+**[⬆ back to top](#what-is-software-testing)**
 
 
 ----------------------------------------------------------------------
