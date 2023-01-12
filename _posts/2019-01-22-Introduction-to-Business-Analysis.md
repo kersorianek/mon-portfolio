@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Business Analysis and the Business Analyst
-subtitle: Master the Art of Business Analysis and Become a Pro Business Analyst"
+subtitle: Master the Art of Business Analysis and Become a Pro Business Analyst
 tags:
   [
     system analysis,
