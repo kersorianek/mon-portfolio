@@ -80,7 +80,7 @@ The Scrum framework is made up of several key components, including:
 
 - **Roles:** Scrum Master, Scrum Product Owner and the Scrum Team.
 - A prioritized Backlog containing the end user requirements.
-- Sprints.
+- Sprints
 - **Scrum Events:** Sprint Planning Meeting, Daily Scrum Meeting, Sprint Review Meeting, Sprint Retrospective Meeting.
 
 ## Scrum Roles
@@ -182,7 +182,7 @@ The Scrum framework is made up of several key components, including:
 -  Sprint are always short and normally about 2–4 weeks.
 -  Sprint Planning Meeting includes WHAT-Meeting and HOW-Meeting.
 - WHAT-Meeting the Scrum Team commits to the User Stories from the Scrum Product Backlog and it uses a HOW-Meeting to break the committed User Stories into smaller and concrete tasks. Then implementation begins.
-	• Iterative process: Stakeholder requirements > Update Product Backlog -> Sprint Planning Session -> Daily Sprint Meeting -> Sprint Review Session -> Potentially deliverable Product -> Release -> Sprint Retrospective
+-  Iterative process: Stakeholder requirements > Update Product Backlog -> Sprint Planning Session -> Daily Sprint Meeting -> Sprint Review Session -> Potentially deliverable Product -> Release -> Sprint Retrospective
 
 ## Sprint Planning Meeting
 
@@ -342,8 +342,6 @@ Click on any of the desired links to directly access the information.
 
 
 
-
-{: .box-success}
 
 
 ![Diary](/assets/img/diary.png "Diary")
