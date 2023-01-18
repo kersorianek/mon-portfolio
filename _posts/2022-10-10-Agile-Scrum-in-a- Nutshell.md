@@ -57,7 +57,9 @@ Agile is the ability to create and respond to change. Agile values lean procedur
 
 Scrum is a popular Agile methodology that is widely used in software development. It follows an iterative and incremental approach, with teams working in short sprints (typically 2-4 weeks) to deliver high-value solutions. The Scrum framework is designed to help teams manage complex and adaptive projects, with a focus on collaboration, communication, and continuous improvement.
 
+
 ## The Scrum Framework
+
 The Scrum framework is made up of several key components, including:
 
 - Scrum is a lightweight agile project management framework mainly used for software development. It describes an iterative and incremental approach for project work.
@@ -73,7 +75,9 @@ The Scrum framework is made up of several key components, including:
 - The Scrum Team is empowered to only select the user stories they are sure they can finish within the 2–4 weeks of Sprints.
 - The Scrum Framework in its simple form is best used for smaller, one-team projects. But with the introduction of additional roles like the “Chief Scrum Product Owners” it is also usable in bigger multi-teams and/or distributed-team projects.
 
+
 ## Main components of Scrum Framework
+
 - **Roles:** Scrum Master, Scrum Product Owner and the Scrum Team.
 - A prioritized Backlog containing the end user requirements.
 - Sprints.
@@ -97,14 +101,19 @@ The Scrum framework is made up of several key components, including:
   
 
 ## Responsibilities of the Scrum Team
+
 -  To breakdown the requirements, create task, estimate and distribute them. Then, write its down to Sprint Backlog.
 -  To perform the short Daily Sprint Meeting.
 -  To ensure that at the end of the Sprint potentially shippable functionality is delivered.
 -  To update the status and the remaining efforts for their tasks to allow creation of a Sprint Burndown Diagram.
+
 ### Scrum Master
 -  A servant-master with the Scrum Team.
 -  Make the Scrum team understand how Scrum operates, to protect the Scrum Team from external interruptions and to remove impediments that hinder the Scrum Team to reach its maximum productivity.
+
+
 ### Responsibilities of the Scrum Master
+
 -  Guard the Scrum Team from external requests and disruptions.
 -  Act as a change agent and adapt processes to maximize productivity of the team.
 -  Coach the Scrum Team.
@@ -116,7 +125,9 @@ The Scrum framework is made up of several key components, including:
 3. Sprint Review Meetings
 4. Sprint Retrospective Meeting
 
+
 ### Scrum Product Owner
+
 -  Requirement engineering.
 -  Writes down the most important use-cases.
 -  Discusses the use-cases with the architects, customer representatives and other stakeholders.
@@ -127,14 +138,18 @@ The Scrum framework is made up of several key components, including:
 -  With this list, the Product Owners calls for the first Sprint Planning meeting.
 -  Maximizing the value of the product by ensuring that the right work is done at the right time.
 
+
 ### Responsibilities of the Scrum Product Owner
+
 -  Managing the Scrum Product Backlog.
 -  Release Management.
 -  Stakeholder Management.
 -  Work closely with the Scrum Team.
 -  Responsible for checking and accepting the Sprint results during the Sprint review session.
 
+
 ### Scrum Product Backlog
+
 -  List of all things that needs to be done within the project.
 -  Each entry in the Scrum Product Backlog must have some kind of customer value. Entries without any customer value are pure waste and should not be present anyway.
 -  Should not contain the detailed requirement information.
@@ -150,15 +165,20 @@ The Scrum framework is made up of several key components, including:
 - about 10% of the Scrum Teams total time should be reserved for maintaining the Scrum Product Backlog.
 
 ## Scrum User Stories
+
 -  The entries in the Scrum Product Backlog.
 -  Tells a short story about someone using the product.
 -  Focus on exactly what the user needs without going into the details on how to achieve it.
 -  Be a descriptive sentence.
+
 ## Sprint Backlog
+
 -  All entries have to be estimated on a person-hour base in order to track progress and remaining efforts.
 -  The Sprint Backlog is a living artifact and is updated on a daily base.
 -  At the end fo the day all remaining efforts are updated an this defines how much work is left until the Sprint Goal is reached.
+
 ## Sprint
+
 -  Sprint are always short and normally about 2–4 weeks.
 -  Sprint Planning Meeting includes WHAT-Meeting and HOW-Meeting.
 - WHAT-Meeting the Scrum Team commits to the User Stories from the Scrum Product Backlog and it uses a HOW-Meeting to break the committed User Stories into smaller and concrete tasks. Then implementation begins.
@@ -166,7 +186,9 @@ The Scrum framework is made up of several key components, including:
 
 ## Sprint Planning Meeting
 
+
 ### WHAT-Meeting
+
 - the Scrum Product Owner defines the Sprint Goal.
 - based on this goal the relevant entries in the Scrum Product Backlog are chosen by the Scrum Product Owner.
 - these entries are updated and broken into smaller stories so that they can be completed within on Sprint.
@@ -174,11 +196,14 @@ The Scrum framework is made up of several key components, including:
 - the team defines their capacity for the upcoming Sprint.
 - define the Sprint Goal in a short description.
 - estimate the team capacity from Sprint to Sprint due to the capacity might change e.g. vacations, public holidays, efforts for Scrum Meetings and time needed for other activities.
+
 ###  HOW-Meeting
+
 - all WHAT-Meeting selected backlog items will be the input of the HOW-Meeting.
 - identifying the concrete tasks needed for complete implementation of the Scrum Product Backlog entries. Base for this estimation should be person-hours.
 - tasks normally include design, implementation, test and documentation activities.
 - can be down in a separate session after the WHAT-Meeting.
+
 ### Rules & Norms: 
 
 - Time and location of the Daily Scrum Meeting.
@@ -187,29 +212,30 @@ The Scrum framework is made up of several key components, including:
 - Tools to use.
 
 ## Sprint in Detail
-- Sprint 1, Day 0
+
+- **Sprint 1, Day 0**
     - Product Owner presents highest priority items from Product Backlog
-    -Development team discusses and clarifies any open questions for each item
-    -Team commits to completing selected stories by the end of the sprint
-    -Scrum Master guides team in defining details of how committed items will be implemented
-    -Tasks are written on cards and placed on Sprint Task board
-    -Each member of Development Team selects a task to work on
+    - Development team discusses and clarifies any open questions for each item
+    - Team commits to completing selected stories by the end of the sprint
+    - Scrum Master guides team in defining details of how committed items will be implemented
+    - Tasks are written on cards and placed on Sprint Task board
+    - Each member of Development Team selects a task to work on
 
  
-- Sprint 1, Day 1
+- **Sprint 1, Day 1**
     - During the Daily Scrum Meeting, the Development Team gives updates on their progress
     - Team members update the estimated remaining hours for their tasks on the Sprint Task board
     - Team members share what they plan to work on for the day and any obstacles they may be facing
     - The Scrum Master updates the Sprint Burndown chart to track progress.
 
-- Sprint 1, Day 28
+- **Sprint 1, Day 28**
     - Development Team presents current software implementation to Product Owner
     - Product Owner reviews implementation and documentation for accuracy
     - Invite outside parties for suggestions and comments (if needed)
     - Sprint Review Meeting conducted by Scrum Master
 
 
-- Sprint 2, Day 1
+- **Sprint 2, Day 1**
     - The Product Owner updates the Product Backlog with new items from customer meetings
     - The Development Team reviews and refactors any unfinished user stories from previous Sprint
     - The Development Team discusses and commits to new stories for the current Sprint under the guidance of the Scrum Master
@@ -225,21 +251,25 @@ A comprehensive checklist of necessary activities that ensure that only truly do
     - what has he/she accomplished since the last daily Scrum meeting?
     - what is he/she is going to accomplish until the next Scrum meeting?
     - what are the impediments that prevent he/she from accomplishing his/her tasks?
-	• No issues or concerns raised during the meeting are allowed to be ignored due to the lack of time. Issues or concerns ought to be recorded by the Scrum Master and needs to be specifically handled after the meeting.
+    - No issues or concerns raised during the meeting are allowed to be ignored due to the lack of time. Issues or concerns ought to be recorded by the Scrum Master and needs to be specifically handled after the meeting.
+
 ### Sprint Review Meeting
+
 -  Take place in the form of a demo of the new features.
 -  Backlog items that are not completed shall not be demonstrated.
 -  Incomplete items shall be taken back into the Scrum Product Backlog, re-estimated and completed in on of the following Sprints.
 -  Should be kept very informal. No PowerPoint slides should be used and time for preparation and performing the meeting should be limited.
 -  Scrum Product Owner inspects the implemented backlog entries and accepts the solution or adds new stories to the Scrum Product Backlog to adapt the functionality.
 
+
 ### Sprint Retrospective Meeting
+
 -  Time-boxed event.
 -  An integral part of the “inspect and adapt” process.
 -  Actionable suggestion to improve performance should be available at the end of the meeting.
 -  All team members reflect on the past Sprint and check three things:
-- - what went well during the Sprint, what didn’t.
-- - what improvements could be made in the next Sprint.
+    - What went well during the Sprint, what didn’t.
+    - What improvements could be made in the next Sprint.
 
 ### Distributed Scrum Teams
 -  Can slide the teams in different manners as Component or Feature teams or Both.
@@ -273,8 +303,7 @@ Buy me a coffee if you enjoyed this post. Your support helps me create more valu
 
 Hi, This is **Rafayet Hossain**
 
-A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
-He acts as a change agent to enable digital changes in your organization.
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success. Contact me for any inquiries or projects.
 
  
 
@@ -315,7 +344,6 @@ Click on any of the desired links to directly access the information.
 
 
 {: .box-success}
-Enjoy !!!
-**See Yaaa, Next.**
+
 
 ![Diary](/assets/img/diary.png "Diary")
