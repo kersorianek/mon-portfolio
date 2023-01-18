@@ -17,8 +17,9 @@ navbar-links:
   Blogs: " "
   About Me: "aboutme"
   Free Books: "books"
-  Archive:
+  External:
     - Index: "tags"
+    - Word Counting Tool: "https://rafayethossain.github.io/word-counting-tool-ChatGPT/"
     - Resume: "https://rafayet13.github.io/Resume/"
     # Search: "search"
   
