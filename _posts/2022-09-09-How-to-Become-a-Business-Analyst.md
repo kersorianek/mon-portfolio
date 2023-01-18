@@ -18,7 +18,7 @@ cover-img: /assets/img/cover.jpg
 
 Given the current economic landscape, pursuing a career as a business analyst may be a wise decision. Companies are relying on business analysts (BAs) more than ever before to help them improve critical business processes. Additionally, as digital transformation becomes a higher priority for organizations, the demand for business analysts grows.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Job Opportunity as a Business Analyst?](#job-opportunity-as-a-business-analyst)
 - [Is it Possible to Become a Business Analyst Without Prior Experience?](#is-it-possible-to-become-a-business-analyst-without-prior-experience)
@@ -38,6 +38,7 @@ _Qucik Link to Specific Topic:_
   - [Acquire Work Experience](#acquire-work-experience)
   - [Expand your network](#expand-your-network)
 - [About Content Creator:](#about-content-creator)
+- [About Content Creator:](#about-content-creator-1)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 # Job Opportunity as a Business Analyst?
@@ -143,7 +144,7 @@ Now that you know what a business analyst is, what their roles and responsibilit
 
 
 
-If You Like This Post
+Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
@@ -168,8 +169,35 @@ He acts as a change agent to enable digital changes to your organization.
  
 
 
+----------------------------------------------------------------------
+----------------------------------------------------------------------
 
-👉 For Any Query or Assigment Contact: 
+
+Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+ 
+ 
+
+
+
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+# About Content Creator: 
+
+
+Hi, This is **Rafayet Hossain**
+
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success. Contact me for any inquiries or projects.
+
+ 
+
+
+👉 For Any Query or Assignment Contact: : 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)

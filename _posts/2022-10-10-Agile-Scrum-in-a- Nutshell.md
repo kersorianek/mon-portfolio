@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Agile Scrum in a Nutshell 
+title: "Agile Scrum: A Comprehensive Guide to Mastering the Framework" 
 subtitle: Agile Project Managment with Srum Roles and Responsibilites
 tags:
   [
@@ -18,18 +18,17 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Agile is a term used to describe software development approaches that encourage incremental delivery, team collaboration, continuous planning, and continuous learning rather than striving to offer everything at the end.
+Agile development methodologies have become increasingly popular in the software industry, with Scrum being one of the most widely adopted frameworks. In this guide, we'll explore what Agile and Scrum are, the key components of the Scrum framework, and the roles and responsibilities of the Scrum team.
 
 
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [What is Agile?](#what-is-agile)
 - [Agile: Scrum Methodology](#agile-scrum-methodology)
   - [The Scrum Framework](#the-scrum-framework)
   - [Main components of Scrum Framework](#main-components-of-scrum-framework)
   - [Scrum Roles](#scrum-roles)
-  - [The Scrum Team](#the-scrum-team)
   - [Responsibilities of the Scrum Team](#responsibilities-of-the-scrum-team)
     - [Scrum Master](#scrum-master)
     - [Responsibilities of the Scrum Master](#responsibilities-of-the-scrum-master)
@@ -43,7 +42,7 @@ _Qucik Link to Specific Topic:_
     - [WHAT-Meeting](#what-meeting)
     - [HOW-Meeting](#how-meeting)
     - [Rules \& Norms:](#rules--norms)
-  - [Sprint in details](#sprint-in-details)
+  - [Sprint in Detail](#sprint-in-detail)
     - [Daily Scrum Meeting / Daily Stand-up Meeting:](#daily-scrum-meeting--daily-stand-up-meeting)
     - [Sprint Review Meeting](#sprint-review-meeting)
     - [Sprint Retrospective Meeting](#sprint-retrospective-meeting)
@@ -56,9 +55,11 @@ Agile is the ability to create and respond to change. Agile values lean procedur
 
 # Agile: Scrum Methodology
 
-Scrum is a methodology for handling complex adaptive issues in a productive and creative manner while providing high-value solutions. It is used to manage software projects as well as the development of new products and applications. It focuses on a flexible product development approach in which a cross-functional team collaborates to reach a common goal in 2-4 weeks (Sprint).
+Scrum is a popular Agile methodology that is widely used in software development. It follows an iterative and incremental approach, with teams working in short sprints (typically 2-4 weeks) to deliver high-value solutions. The Scrum framework is designed to help teams manage complex and adaptive projects, with a focus on collaboration, communication, and continuous improvement.
 
 ## The Scrum Framework
+The Scrum framework is made up of several key components, including:
+
 - Scrum is a lightweight agile project management framework mainly used for software development. It describes an iterative and incremental approach for project work.
 - Individuals and interactions over processes and tools.
 - Working software over comprehensive documentation.
@@ -76,30 +77,24 @@ Scrum is a methodology for handling complex adaptive issues in a productive and 
 - **Roles:** Scrum Master, Scrum Product Owner and the Scrum Team.
 - A prioritized Backlog containing the end user requirements.
 - Sprints.
-- **Scrum Events:** Sprint Planning Meeting (WHAT-Meeting, HOW-Meeting), Daily Scrum Meeting, Sprint Review Meeting, Sprint Retrospective Meeting.
+- **Scrum Events:** Sprint Planning Meeting, Daily Scrum Meeting, Sprint Review Meeting, Sprint Retrospective Meeting.
 
 ## Scrum Roles
--  The Scrum Team
--  Scrum Master
--  Scrum Product Owner
 
-## The Scrum Team
--  A collection of individuals working together to deliver the requested and committed product increments.
--  The ideal size is 7 +/- 2 people.
--  Adheres the same norms and rules.
--  Accountable for delivery.
--  The Scrum Team is empowered and self-organizing to define:
-
-what is will commit to deliver at the end of the Sprint?
-How the expected results have to be broken down into tasks?
-who will perform the task and in which order they are performed.
+**The Scrum Team:** A collection of individuals working together to deliver requested and committed product increments. The ideal size is 7 +/- 2 people. The Scrum Team is empowered and self-organizing to define:
+- What is will commit to deliver at the end of the Sprint?
+- How the expected results have to be broken down into tasks?
+- who will perform the task and in which order they are performed.
 - It is working as autonomous as it is possible.
-- the skills within the Scrum Team are balanced.
+- The skills within the Scrum Team are balanced.
 - team is small and has no sub-teams.
-- the people within the Scrum Team work full time in the team.
-- people are collocated, they all share the same title “Scrum Team Member”.
-- shows respect to each other.
-- no new Scrum Team will deliver with the highest possible performance right form the beginning. After setting up the team it has to go through certain phases as described by the Tuckman-Model: Forming, Storming, Norming, Performing.
+- The people within the Scrum Team work full time in the team.
+
+
+**Scrum Master:** Facilitates the Scrum process and ensures that the team adheres to the norms and rules.
+**Scrum Product Owner:** Works closely with the Scrum Team to identify and prioritize functionality.
+
+  
 
 ## Responsibilities of the Scrum Team
 -  To breakdown the requirements, create task, estimate and distribute them. Then, write its down to Sprint Backlog.
@@ -191,16 +186,36 @@ who will perform the task and in which order they are performed.
 - Code guidelines.
 - Tools to use.
 
-## Sprint in details
-- Sprint 1- Day 0
-Product Owner presents the Product Backlog items from the highest priority to the lowest. The team clarifies open questions and for each item the team discuss. After this discussion, the development team commits to complete the selected stories until the end of this Sprint. After the Sprint Planning, the Scrum Master calls the team to define the details of how the committed items are going to be implemented. The resulting tasks are written down on the cards at the prepared Sprint Task board. Now everyone of the Development Team selects a task to work on.
-- Sprint 1- Day 1
-In Daily Scrum Meeting, everyone in Development Team gives a short statement what has been achieved so far, update the estimation of remains hours on the cards of the Sprint Task board, tells what he/she is planning to do today and tells if there are any impediments that hinders him to continue his work. After the meeting, the Scrum Master updates the Sprint Burndown.
-- Sprint 1- Day 28
-The final day of the first Sprint. The Scrum Master has invited the Development Team for the Sprint Review Meeting. The Development Team has prepared a machine with the current software implementation. The Product Owner sits in front of the machine and checks if the implementation meets his expectations and if the features are documented as required. If it is needed, 3-parties will be invited to join the meeting and give any suggestion or comment.
-- Sprint 2- Day 1
-The Product Owner adds new items to the Product Backlog based on his recent customer meetings. Any user stories that’s not been completed on before Sprint will be re-factoring and add back to the this Sprint. The Development Team discusses and commits to stories with the guidance of the Scrum Master and the second Sprint begins.
-Definition Of Done (DOD)
+## Sprint in Detail
+- Sprint 1, Day 0
+    - Product Owner presents highest priority items from Product Backlog
+    -Development team discusses and clarifies any open questions for each item
+    -Team commits to completing selected stories by the end of the sprint
+    -Scrum Master guides team in defining details of how committed items will be implemented
+    -Tasks are written on cards and placed on Sprint Task board
+    -Each member of Development Team selects a task to work on
+
+ 
+- Sprint 1, Day 1
+    - During the Daily Scrum Meeting, the Development Team gives updates on their progress
+    - Team members update the estimated remaining hours for their tasks on the Sprint Task board
+    - Team members share what they plan to work on for the day and any obstacles they may be facing
+    - The Scrum Master updates the Sprint Burndown chart to track progress.
+
+- Sprint 1, Day 28
+    - Development Team presents current software implementation to Product Owner
+    - Product Owner reviews implementation and documentation for accuracy
+    - Invite outside parties for suggestions and comments (if needed)
+    - Sprint Review Meeting conducted by Scrum Master
+
+
+- Sprint 2, Day 1
+    - The Product Owner updates the Product Backlog with new items from customer meetings
+    - The Development Team reviews and refactors any unfinished user stories from previous Sprint
+    - The Development Team discusses and commits to new stories for the current Sprint under the guidance of the Scrum Master
+    - The team defines the "Definition of Done" (DOD) for the new user stories
+    - The second Sprint begins.
+
 
 A comprehensive checklist of necessary activities that ensure that only truly done features are delivered, not only in terms of functionality but in terms of quality as well.
 
@@ -239,8 +254,7 @@ A comprehensive checklist of necessary activities that ensure that only truly do
 ----------------------------------------------------------------------
 
 
-
-If You Like This Post
+Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
@@ -260,12 +274,12 @@ If You Like This Post
 Hi, This is **Rafayet Hossain**
 
 A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
-He acts as a change agent to enable digital changes to your organization.
+He acts as a change agent to enable digital changes in your organization.
 
  
 
 
-👉 For Any Query or Assigment Contact: 
+👉 For Any Query or Assignment Contact: : 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
