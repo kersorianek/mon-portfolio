@@ -4,6 +4,7 @@ title: Rafayet Hossain
 subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst ☑ Project Manager ☑ SQA (Open to Work)
 ---
 
+<div style="text-align: right"> 
 👉 Do You Know? About 60% of Project Failures Originate with The Requirements. You May Develop a Great Product but Still, Fail the Project Because It Does Not Meet the Goal Set. For A Successful Project, One Requires to Define the Needs, Recommend the Solutions, Design, Test the Developed Solution, And Deliver the Value.
 
 👉 Hi, This Is **Rafayet Hossain**, A Seasoned Business System Analyst (BSA), Project Manager, And an SQA Engineer.
@@ -13,6 +14,30 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 👉 As a **Business Analyst**, He Plays the Role of a **Change Agent** in Order to Enable Digital Changes for Your Organization. It’s His Solemn Duty to Guide the Project from a Very Beginning Through the Whole Development Process to Finishing Stages. His **Bachelor Degree in Computer Science & Engineering** Including Extensive Knowledge of Business Processes, Technologies, and Best Development Practices Would be a Perfect Fit to Assist You with Ventures of Pretty Much Any Complexity.
 
 👉 He Opted for **Software Testing** as a Career Not Because He Got the Opportunity to Work Rather, He Believes Software Testing as "Destructive Creation" Also Enjoy Finding Issues. He Can Help You in Implementing Test Processes, QA Documentation and Can Provide End to End Solutions on All Types of Testing. "Has An Attitude of “Test to Break", "Ability to Think as End User Perspective” "A Strong Desire for Quality, And An Attention to Detail.
+
+ </div>
+
+👉 Do You Need Any Services On:
+
+🎯 Software Project Managment 
+
+🎯 Business System Analysis 
+
+🎯 Software Testing 
+
+🎯 Business Consulting
+
+🎯 Technical Document Preparation 
+
+🎯 Individual Training  
+
+
+👉 For Any Query or Assigment Contact: 
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
 
 👉 He Excel in The Fields are as Follows But not Limited to:
 
@@ -52,7 +77,9 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 
 ✅ Software Process Quality Improvement 
 
-✅ Have Good Oral And Written Communication Skills ✅ Time Management 
+✅ Have Good Oral And Written Communication Skills
+
+✅ Time Management 
 
 ✅ Business Etiquette, Communication, And Negotiation Skills 
 
@@ -71,27 +98,6 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 ✅ Continuous Improvement 
 
 ✅ Critical Thinking
-
-
-👉 Do You Need Any Services On:
-
-🎯 Software Project Managment 
-
-🎯 Business System Analysis 
-
-🎯 Software Testing 
-
-🎯 Business Consulting
-
-🎯 Technical Document Preparation 
-
-🎯 Individual Training  
-
-
-👉 For Any Query or Assigment Contact: 
-
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
 
 ## Places He haunt
