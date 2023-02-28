@@ -57,18 +57,18 @@ After estimating the duration of each task, the next step is to create the proje
 
 # Best practices for developing a project schedule:
 
-✅ Involve the project team in the schedule development process
-✅ Use project management software to create the schedule
-✅ Update the schedule regularly to ensure that it remains accurate
-✅ Account for unexpected delays and issues in the schedule
-✅ Communicate the schedule to stakeholders regularly
+- ✅ Involve the project team in the schedule development process
+- ✅ Use project management software to create the schedule
+- ✅ Update the schedule regularly to ensure that it remains accurate
+- ✅ Account for unexpected delays and issues in the schedule
+- ✅ Communicate the schedule to stakeholders regularly
 
 # Benefits of developing a project schedule:
 
-✅ Provides a clear roadmap for the project
-✅ Helps to ensure that the project is completed on time
-✅ Helps to manage project resources effectively
-✅ Helps to identify potential delays and issues in advance
+- ✅ Provides a clear roadmap for the project
+- ✅ Helps to ensure that the project is completed on time
+- ✅ Helps to manage project resources effectively
+- ✅ Helps to identify potential delays and issues in advance
 
 In conclusion, developing a project schedule is an essential component of project management. By following the steps outlined in this blog post, you can create a project schedule that is accurate and realistic. Remember to involve your project team in the schedule development process, use project management software, and update the schedule regularly. 
 
