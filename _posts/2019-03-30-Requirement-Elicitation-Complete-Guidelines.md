@@ -4,10 +4,9 @@ title: Requirements Elicitation Compelete Guidelines
 subtitle: Requirements Elicitation Techniques You Must Learn
 tags:
   [
-    business system analysis,
     system analysis,
     business analysis,
-    requirement elicitation,
+    business analyst,
   ]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif

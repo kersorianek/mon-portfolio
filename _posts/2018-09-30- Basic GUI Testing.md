@@ -2,7 +2,7 @@
 layout: post
 title: Front End Testing Fundamentals
 subtitle: A Beginner's Guidelines for UI Testing
-tags: [sqa, software testing, testing, GUI testing]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg
 thumbnail-img: /assets/img/diary.png

@@ -2,7 +2,7 @@
 layout: post
 title: How to Write Test Cases for Software
 subtitle: Best Practices for Preparation of Test Case
-tags: [sqa, software testing, testing, test case]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 thumbnail-img: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg

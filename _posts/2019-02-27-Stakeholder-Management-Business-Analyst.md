@@ -2,7 +2,9 @@
 layout: post
 title: Stakeholder Management & Stakeholder Analysis  
 subtitle: How to Manage Your Project Stakeholder Using RACI Matrix
-tags: [business system analysis, system analysis, business analysis, ba]
+tags: [system analysis,
+    business analysis,
+    business analyst, project management]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/diary.png

@@ -2,7 +2,7 @@
 layout: post
 title: First Scipt With Selenium Python Webdriver
 subtitle: Software Test Automation with Selenium & Python
-tags: [python tutorial, selenium, python, webdriver, python selenium webdriver]
+tags: [software testing, test automation, python]
 image: /assets/img/selenium-with-python.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/selenium-with-python.png

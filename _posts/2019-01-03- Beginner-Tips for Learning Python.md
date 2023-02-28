@@ -2,7 +2,7 @@
 layout: post
 title: 7 Python Learning Tips for Beginners
 subtitle: Best way to learn Python Step by Step
-tags: [python tutorial, python tips, python]
+tags: [software testing, test automation, python]
 image: /img/selenium-with-python.png
 bigimg: /img/back.gif
 thumbnail-img: /assets/img/selenium-with-python.png
@@ -15,7 +15,7 @@ I am overjoyed that you have opted to embark on the road of learning Automation 
  #  What is the best way to learn Python?**
 
 _Qucik Link to Specific Topic:_
-- [What is the best way to learn Python?**](#what-is-the-best-way-to-learn-python)
+- [What is the best way to learn Python?\*\*](#what-is-the-best-way-to-learn-python)
 - [What is the significance of knowing how to learn?](#what-is-the-significance-of-knowing-how-to-learn)
 - [Tip 1: Code Everyday](#tip-1-code-everyday)
 - [Tip 2: Write It Out](#tip-2-write-it-out)

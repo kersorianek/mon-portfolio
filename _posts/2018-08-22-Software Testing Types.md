@@ -2,7 +2,7 @@
 layout: post
 title: Types of Software Testing
 subtitle: Types of Testing You Will Be Performing Throughout Your Career
-tags: [sqa, software testing, testing, testing type]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 thumbnail-img: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg

@@ -5,7 +5,7 @@ subtitle: Git Command You Will Ever Need as a Programmer
 cover-img: /assets/img/cover.jpg
 thumbnail-img: /assets/img/diary.png
 share-img: /assets/img/path.jpg
-tags: [git, github, gitlab, version controlling, git command]
+tags: [git, git command]
 ---
 
 Git is a tools for managing versions of directories between local and remote (cloud) locations. It is a version control system that can efficiently manage small to very large projects and is free and open-source. Git is a tool used to log source code changes, allowing several engineers to collaborate on non-linear development.

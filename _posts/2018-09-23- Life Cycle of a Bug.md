@@ -2,7 +2,7 @@
 layout: post
 title: Bug Life Cycle in Software Testing 
 subtitle: Learn about the various stages of the bug life cycle.
-tags: [sqa, software testing, testing, bug, bug life cycle]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg
 thumbnail-img: /assets/img/diary.png

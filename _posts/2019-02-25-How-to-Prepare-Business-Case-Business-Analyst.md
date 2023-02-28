@@ -2,7 +2,7 @@
 layout: post
 title: How to Prepare a Business Case for Project
 subtitle: How to Write a Business Case  
-tags: [business system analysis, system analysis, business analysis, ba]
+tags: [business system analysis, system analysis, business analysis]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/diary.png

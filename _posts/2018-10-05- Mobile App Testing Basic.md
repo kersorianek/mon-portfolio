@@ -2,7 +2,7 @@
 layout: post
 title: Mobile App Testing Fundamentals
 subtitle: A comprehensive test checklist for mobile applications
-tags: [sqa, software testing, testing, mobile app testing]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg
 thumbnail-img: /assets/img/diary.png

@@ -3,7 +3,7 @@ layout: post
 title: What is Software Requirements
 subtitle: Everything You Need to Kow About Software Requirements
 tags:
-  [business system analysis, system analysis, business analysis, requirement]
+  [business system analysis, system analysis, business analysis]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/diary.png

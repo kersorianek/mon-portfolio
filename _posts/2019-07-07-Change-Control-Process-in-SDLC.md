@@ -4,12 +4,9 @@ title: Change Control Process in SDLC
 subtitle: Change Control Process in Software Project
 tags:
   [
-    business system analysis,
     system analysis,
     business analysis,
-    requirement elicitation,
-    change management,
-    change control,
+    business analyst, project management
   ]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif

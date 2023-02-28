@@ -2,7 +2,7 @@
 layout: post
 title: Beginning of Complete Software Testing Course 
 subtitle: What Testing is and What it is not
-tags: [sqa, software testing, testing, software quality assurance]
+tags: [software testing,SQA]
 image: /img/diary.png
 thumbnail-img: /assets/img/diary.png
 bigimg: /img/cover.jpg

@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Basic Markdown
+title: Basic Markdown for Beginners 
 subtitle: Markdown Basic You Must Know
-tags: [git, github, markdown, md]
+tags: [markdown]
 image: /assets/img/diary.png
 thumbnail-img: /assets/img/diary.png
 bigimg: /assets/img/background.png
@@ -21,7 +21,7 @@ You may have heard about Markdown, if you have it's a good thing. Markdown is a 
 _Qucik Link to Specific Topic:_
 
 - [Markdown Cheetsheat for Easy Note Taking](#markdown-cheetsheat-for-easy-note-taking)
-- [Markdown Cheatsheet<a name="TOP"></a>](#markdown-cheatsheet)
+- [Markdown Cheatsheet](#markdown-cheatsheet)
 - [Heading 1](#heading-1)
   - [Heading 2](#heading-2)
     - [Heading 3](#heading-3)

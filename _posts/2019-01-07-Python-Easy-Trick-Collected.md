@@ -2,7 +2,7 @@
 layout: post
 title: Python In 30 Seconds Recipe- Collected
 subtitle: Easy Trick in Python
-tags: [python tutorial, python tips, python, python resource]
+tags: [software testing, test automation, python]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/selenium-with-python.png

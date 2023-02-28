@@ -2,7 +2,7 @@
 layout: post
 title: Download Best Python Free Books Collection
 subtitle: Python Books for Beginners and Experts
-tags: [python tutorial, python, free book, book download, python books]
+tags: [software testing, test automation, python]
 image: /img/diary.png
 bigimg: /img/back.gif
 thumbnail-img: /assets/img/selenium-with-python.png

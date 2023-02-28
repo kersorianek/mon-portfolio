@@ -2,7 +2,7 @@
 layout: post
 title: Toolkit for Software Testing
 subtitle: Collection of Test Document Templates
-tags: [sqa, software testing, testing, test document]
+tags: [sqa, software testing]
 image: /img/diary.png
 bigimg: /img/cover.jpg
 thumbnail-img: /assets/img/diary.png

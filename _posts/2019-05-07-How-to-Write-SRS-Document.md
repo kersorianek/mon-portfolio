@@ -7,7 +7,7 @@ tags:
     business system analysis,
     system analysis,
     business analysis,
-    SRS,
+    
   ]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif

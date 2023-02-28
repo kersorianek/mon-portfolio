@@ -2,7 +2,9 @@
 layout: post
 title: Project Initiation Activities of a Business Analyst
 subtitle: Pre project Activities of a Business Analyst
-tags: [business system analysis, system analysis, business analysis, ba]
+tags: [ system analysis,
+    business analysis,
+    business analyst, project management]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/diary.png

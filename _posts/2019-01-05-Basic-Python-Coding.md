@@ -2,7 +2,7 @@
 layout: post
 title: Python Basic Code for Newbie
 subtitle: Software Test Automation with Selenium & Python
-tags: [python tutorial, python tips, python beginner, selenium, python, python]
+tags: [software testing, test automation, python]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/selenium-with-python.png

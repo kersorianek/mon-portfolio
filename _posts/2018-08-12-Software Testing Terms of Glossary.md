@@ -2,7 +2,7 @@
 layout: post
 title: Software Testing Glossary of Terms
 subtitle: Basic Terms and Definitions
-tags: [sqa, software testing, testing, terms of glossary]
+tags: [SQA, software testing]
 thumbnail-img: /assets/img/diary.png
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg

@@ -4,12 +4,7 @@ title: How To Install Selenium Python Webdriver
 subtitle: Software Test Automation with Selenium & Python
 tags:
   [
-    python tutorial,
-    python tips,
-    selenium,
-    python,
-    webdriver,
-    python selenium webdriver,
+    software testing, test automation, python
   ]
 image: /img/selenium-with-python.png
 bigimg: /img/back.gif

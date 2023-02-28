@@ -2,7 +2,7 @@
 layout: post
 title: Software Testing Process
 subtitle: An Introduction to Test Activities
-tags: [sqa, software testing, testing, test process, test activities]
+tags: [sqa, software testing]
 image: /assets/img/diary.png
 bigimg: /assets/img/cover.jpg
 thumbnail-img: /assets/img/diary.png
@@ -20,7 +20,7 @@ Testing is a process, not a single action. This procedure starts with test plann
 
 _Qucik Link to Specific Topic:_
 
-- [Planning & Control](#planning--control)
+- [Planning \& Control](#planning--control)
 - [Analysis and design](#analysis-and-design)
 - [Implementation and Execution:](#implementation-and-execution)
 - [Exit criteria and report evaluation:](#exit-criteria-and-report-evaluation)

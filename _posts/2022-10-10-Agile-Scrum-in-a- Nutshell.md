@@ -7,8 +7,6 @@ tags:
     business system analysis,
     system analysis,
     business analysis,
-    agile,
-    scrum,
     project management,
   ]
 image: /assets/img/diary.png

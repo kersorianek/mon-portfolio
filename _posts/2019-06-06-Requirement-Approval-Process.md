@@ -7,8 +7,7 @@ tags:
     business system analysis,
     system analysis,
     business analysis,
-    requirement elicitation,
-  ]
+      ]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
 thumbnail-img: /assets/img/diary.png
