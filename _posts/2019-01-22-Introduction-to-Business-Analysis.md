@@ -141,10 +141,9 @@ Basically, a good business analyst is judged on these four attributes
 ----------------------------------------------------------------------
 
 
+Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
 
-If You Like This Post
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
  
 
@@ -161,13 +160,12 @@ If You Like This Post
 
 Hi, This is **Rafayet Hossain**
 
-A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
-He acts as a change agent to enable digital changes to your organization.
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success. Contact me for any inquiries or projects.
 
  
 
 
-👉 For Any Query or Assigment Contact: 
+👉 For Any Query or Assignment Contact: : 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
@@ -178,11 +176,14 @@ He acts as a change agent to enable digital changes to your organization.
 ----------------------------------------------------------------------
 
 
+
  
 # All Posts on Business Analysis:  
 
 Click on any of the desired links to directly access the information.
 
+- [x]  [**How to Make a Successful Career Transition From Software Testing to Business Analysis**](https://rafayethossain.github.io/2019-01-15-How-to-Tranisition-to-Business-Analysis-from-Software-Testing/
+)
 - [x]  [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
 - [x]  [**Project Initiation Activities as a Business Analyst**](https://rafayethossain.github.io/2019-02-07-Project-Initiation-Business-Analysis-Activities/)
 - [x]  [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
