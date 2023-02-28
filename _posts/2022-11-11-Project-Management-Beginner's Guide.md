@@ -6,6 +6,9 @@ tags:
   [
     
     project management,
+    business analyst,
+    business analysis,
+    project manager
   ]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
