@@ -13,9 +13,9 @@ In 2019 I was honored to be invited as a guest scientist to the <a href="https:/
 
 <img src='../confrences/images/Battlefin/bf4.png' style="horizontal-align:middle" width=366 height=286>
 <img src='../confrences/images/Battlefin/bf6.png' style="horizontal-align:middle" width=366 height=286>
-<img src='../confrences/images/Battlefin/bf1.jpg' style="horizontal-align:middle" width=366 height=286>
+<img src='../confrences/images/Battlefin/bf1.JPG' style="horizontal-align:middle" width=366 height=286>
 <img src='../confrences/images/Battlefin/bf3.png' style="horizontal-align:middle" width=366 height=286>
-<img src='../confrences/images/Battlefin/bf2.jpg' style="horizontal-align:middle" width=366 height=286>
+<img src='../confrences/images/Battlefin/bf2.JPG' style="horizontal-align:middle" width=366 height=286>
 
 
 ##**<h5 style="color:Black">Columbia University Data Science Day**
