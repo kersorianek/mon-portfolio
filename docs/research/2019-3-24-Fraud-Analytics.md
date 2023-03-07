@@ -1,4 +1,7 @@
-# **Predicting Fraud and other crimes across the USA - State by State**
+# **Using Plotly to visualize American Fraud Analytics**
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src='https://plot.ly/~JKGProfessional/2.embed' height="525" width="100%"></iframe>
 
 March 2019
 
@@ -265,21 +268,21 @@ rank|states|fraud probability|%est.Caught
 
 In the following plots, we see nationwide heatmaps of some interesting statistics. In the first, we have a distribution of the probability of a person comitting fraud from each state. If a state is white, it was not present in the data set. These are plotly plots, so click each graph for better interactivity!
 
-<a href='https://plot.ly/~JKGProfessional/2.embed'>
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/probability_by_state.png'>
-</a>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src='https://plot.ly/~JKGProfessional/2.embed' height="525" width="100%"></iframe>
+
 
 In this next plot, we see an estimation on the percentage at which fraud crimes lead to an arrest.
 
-<a href='https://plot.ly/~JKGProfessional/4.embed?share_key=NSm60isOxosbLahLCexOPo'>
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/caught_by_state.png'>
-</a>
+
+
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src='https://plot.ly/~JKGProfessional/4.embed?share_key=NSm60isOxosbLahLCexOPo' height="525" width="100%"></iframe>
 
 And in this last heat plot, we have the probability of a person in each state comitting any crime.
 
-<a href='https://plot.ly/~JKGProfessional/6.embed'>
-<img src = 'https://raw.githubusercontent.com/JoeGanser/Fraud_Statistics/master/images/probability_of_crime_per_person.png'></a>
 
+<iframe id="igraph" scrolling="no" style="border:none;" seamless="seamless" src='https://plot.ly/~JKGProfessional/6.embed' height="525" width="100%"></iframe>
 
 **IV.D Overall Distribution of crimes and frauds**
 

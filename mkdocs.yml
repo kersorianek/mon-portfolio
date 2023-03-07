@@ -1,5 +1,5 @@
 site_name: Joe Ganser - Data Technologist, Teacher & Fitness junky
-repo_url: https://github.com/JoeGanser/joeganser.github.io
+repo_url: https://github.com/JoeGanser
 theme:
   name: material
   features:
@@ -65,9 +65,8 @@ theme:
 plugins:
   - search:
       separator: '[\s\-,:!=\[\]()"`/]+|\.(?!\d)|&[lg]t;|(?!\b)(?=[A-Z][a-z])'
-  #- minify:
-  #    minify_html: true #set to true causes errors
-  
+  - minify:
+      minify_html: true
 
 # Hooks
 hooks:
@@ -138,7 +137,7 @@ nav:
     - Driven Data Competiton - Predicintg Dengu Fever: research/2022-8-2_dengu.md
     - Big Data For Big Dating - 1st place Tinder Competition: research/2019-4-22-Tinder-Gold;-Big-Data-For-Big-Dating-1st-place-competition.md
     - Predicting Breathing rate with Smart Watch Data: research/2019-4-1-Predicting-Breathing-rate-with-smart-watch-data.md
-    - Predicting Fraud & Other Crimes across the USA: research/2019-3-24-Fraud-Analytics.md
+    - Using Plotly to visualize American Fraud Analytics: research/2019-3-24-Fraud-Analytics.md
     - Superconductors - using material data to predict critical temperature: research/2019-1-26-superconductivity-regression.md
     - Mushroom Data - edible or poisonous?: research/2018-12-15-mushroom-classification.md
     - Real Estate Sales - A basic regression tutorial: research/2018-10-20-AMES-tutorial.md
@@ -160,4 +159,4 @@ nav:
   #- Writings:
   #  - A boy & the sea: writings/aboyandthesea.md
   #  - Facebook & Society: writings/facebook&society.md
-  #  - Epigrams: writings/epigrams.md
+  #  - Epigrams: writings/epigrams.md 
