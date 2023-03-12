@@ -27,13 +27,14 @@ _Quick Link to Specific Topic:_
 	- [Communicate more effectively:](#communicate-more-effectively)
 - [Benefits of Using BPMN:](#benefits-of-using-bpmn)
 - [How does BPMN work?](#how-does-bpmn-work)
-	- [BPMN diagrams are made up of a few basic elements:](#bpmn-diagrams-are-made-up-of-a-few-basic-elements)
-	- [Activities:](#activities)
-	- [Gateways:](#gateways)
-	- [Events:](#events)
-	- [Flows:](#flows)
-- [Basic Components of BMPN:](#basic-components-of-bmpn)
-	- [Activity:](#activity)
+	- [Basic Elements of BPMN:](#basic-elements-of-bpmn)
+		- [Activities:](#activities)
+		- [Gateways:](#gateways)
+		- [Events:](#events)
+		- [Flows:](#flows)
+	- [Basic Components of BMPN:](#basic-components-of-bmpn)
+	- [Brief on BPMN Components:](#brief-on-bpmn-components)
+		- [Activity:](#activity)
 		- [Service Task](#service-task)
 		- [Send Task](#send-task)
 		- [Receive Task](#receive-task)
@@ -53,7 +54,6 @@ _Quick Link to Specific Topic:_
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
 
-Business Process Modeling Notation (BPMN) 2.0 Model
 
 # What is BPMN?
 
@@ -84,28 +84,28 @@ Everyone from business analysts to developers to company managers may "speak the
 - IT and business analysts can work together on a consistent, accurate process design 
 - Everyone can understand how a technical process lives within the bigger business picture
 
-BPMN Allow you to GAP Analysis during requirement analysis and model 
+BPMN Allow you to GAP Analysis during requirement analysis and model :
 1.  Current state: “as-is”
 2.  Future state: “to-be”
 
 
 # How does BPMN work?
 
-## BPMN diagrams are made up of a few basic elements:
+## Basic Elements of BPMN:
 
-## Activities: 
+### Activities: 
 These represent tasks that need to be performed in a process.
 
-## Gateways: 
+### Gateways: 
 These represent decision points in a process.
 
-## Events: 
+### Events: 
 These represent something that happens in a process, such as the start or end of a process.
 
-## Flows:
+### Flows:
 These represent the sequence in which activities, gateways, and events occur in a process.
 
-# Basic Components of BMPN: 
+## Basic Components of BMPN: 
 	1. Swimming Lane: Independent Process (Divider between processes)
 	2. Lane:  Functionality or Activity within a Swimming Lane
 	3. Event:  Mark start and end of a process. 
@@ -113,7 +113,9 @@ These represent the sequence in which activities, gateways, and events occur in 
 	5. Activity: Process or Sub process. Naming convention should use verb and noun
 	6. Sequence Flow: A solid arrow that connects Event, Activity, and Gateway
 
-## Activity: 
+## Brief on BPMN Components:
+
+### Activity: 
 A BPMN Activity is simply "Work" that a company or organization performs in a business process. An Activity is can be atomic (Tasks) or decomposable (Sub-Processes). There are basically three BPMN activity types:
 
 	1. BPMN Task
