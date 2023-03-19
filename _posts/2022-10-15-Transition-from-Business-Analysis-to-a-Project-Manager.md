@@ -24,6 +24,12 @@ Are you a business analyst looking to take your career to the next level? Perhap
 _Quick Link to Specific Topic:_
 - [Understand the Role of a Project Manager](#understand-the-role-of-a-project-manager)
 - [Identify Your Transferable Skills](#identify-your-transferable-skills)
+  - [Leadership skill:](#leadership-skill)
+  - [Analytical Thinking skill:](#analytical-thinking-skill)
+  - [Time Management skill:](#time-management-skill)
+  - [Problem Solving skill:](#problem-solving-skill)
+  - [Stakeholder Management skill:](#stakeholder-management-skill)
+  - [Flexibility:](#flexibility)
 - [Gain Experience in Project Management](#gain-experience-in-project-management)
 - [Get Certified](#get-certified)
 - [Network with Project Managers](#network-with-project-managers)
@@ -38,7 +44,31 @@ _Quick Link to Specific Topic:_
 The first step to transitioning from a business analyst to a project manager is to understand the role of a project manager. Project managers are responsible for overseeing the planning, execution, and closing of projects. They manage budgets, timelines, and resources, and ensure that projects are delivered on time and within scope.
 
 # Identify Your Transferable Skills
-As a business analyst, you already have a wealth of transferable skills that will be valuable in a project management role. For example, you're skilled at gathering and analyzing requirements, creating project plans, and identifying and mitigating risks. You also have experience working with stakeholders and communicating project updates. Identify these skills and highlight them in your resume and during job interviews.
+As a business analyst, you already have a wealth of transferable skills that will be valuable in a project management role. Identify these skills and highlight them in your resume and during job interviews. Here discussing 7 Transferable Skills that you can leverage to your career tranisition:
+
+##Communication skill:
+Effective communication is vital to your success as a project manager. Stakeholders at all levels must be updated on the project' s goals, plans, status, and problems. With your knowledge from your time working as a business analyst, you may make use of your excellent communication abilities to enlighten stakeholders, forge agreements, and settle disputes.
+## Leadership skill:
+
+As a Project Manager, you will lead the project team and motivate and guide them toward achieving project goals. Leveraging your experience as a Business Analyst, you can showcase your leadership skills by managing project resources, setting expectations, providing guidance, and developing the team's skills.
+
+## Analytical Thinking skill:
+Project Managers need to analyze data, evaluate options, and make informed decisions based on project data. As an IT Business Analyst, you have developed strong analytical thinking skills and can apply this expertise to assess project risks, identify opportunities, and recommend strategies for project success.
+
+
+## Time Management skill:
+Effective time management is essential for project success. As an IT Business Analyst, you have experience with planning and scheduling tasks, tracking progress, and meeting deadlines. You can use this experience to manage project schedules, prioritize tasks, and ensure timely completion of deliverables.
+
+## Problem Solving skill:
+Project Managers face numerous challenges during the project lifecycle, such as project delays, cost overruns, and scope changes. As an IT Business Analyst, you have experience with problem-solving and can use these skills to identify and resolve project issues, mitigate risks, and keep the project on track.
+
+
+## Stakeholder Management skill:
+Building and managing relationships with stakeholders is a critical aspect of project management. As an IT Business Analyst, you have already interacted with stakeholders and understand their needs and expectations. You can leverage this experience to engage stakeholders throughout the project, manage their expectations, and keep them informed of progress.
+
+
+## Flexibility:
+In today's fast-paced business environment, project requirements and priorities can change quickly. As an IT Business Analyst, you have experience working in a dynamic environment and can use your adaptability to adjust project plans, resources, and schedules to meet changing requirements.
 
 # Gain Experience in Project Management
 If you don't have any project management experience, consider taking on project management responsibilities in your current role. This could involve leading small projects or working closely with a project manager to gain experience. You could also consider volunteering for a nonprofit organization or joining a professional association to gain additional project management experience.
