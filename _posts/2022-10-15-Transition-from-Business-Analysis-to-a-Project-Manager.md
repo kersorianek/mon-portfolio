@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How to Transition from Business Analysis to a Project Management Career 
-subtitle: Tips and Strategies for a Successful Career Shift to Project Manager from Business Analyst
+subtitle: How to use your business analysis experience to launch a career in project management
 tags:
   [
        project management,
@@ -16,9 +16,7 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-Are you a business analyst looking to take your career to the next level? Perhaps you're considering a transition to project management. While both roles share similar skill sets, there are some key differences between the two. In this blog post, we'll explore how you can leverage your business analysis experience to launch a successful career in project management.
-
-
+Are you a business analyst looking to take your career to the next level? Maybe you’re considering a transition to project management? While both roles share similar skill sets, there are some key differences that require attention. In this blog post, we’ll explore how you can leverage your business analysis experience to launch a successful career in project management.
 
 
 _Quick Link to Specific Topic:_
