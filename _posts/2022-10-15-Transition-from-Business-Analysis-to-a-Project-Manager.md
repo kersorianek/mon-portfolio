@@ -22,6 +22,7 @@ Are you a business analyst looking to take your career to the next level? Maybe 
 _Quick Link to Specific Topic:_
 - [Understand the Role of a Project Manager](#understand-the-role-of-a-project-manager)
 - [Identify Your Transferable Skills](#identify-your-transferable-skills)
+  - [Communication skill:](#communication-skill)
   - [Leadership skill:](#leadership-skill)
   - [Analytical Thinking skill:](#analytical-thinking-skill)
   - [Time Management skill:](#time-management-skill)
@@ -44,7 +45,7 @@ The first step to transitioning from a business analyst to a project manager is 
 # Identify Your Transferable Skills
 As a business analyst, you already have a wealth of transferable skills that will be valuable in a project management role. Identify these skills and highlight them in your resume and during job interviews. Here discussing 7 Transferable Skills that you can leverage to your career tranisition:
 
-##Communication skill:
+## Communication skill:
 Effective communication is vital to your success as a project manager. Stakeholders at all levels must be updated on the project' s goals, plans, status, and problems. With your knowledge from your time working as a business analyst, you may make use of your excellent communication abilities to enlighten stakeholders, forge agreements, and settle disputes.
 ## Leadership skill:
 
