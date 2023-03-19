@@ -15,7 +15,7 @@ Today, the tide of protectionist feeling is sweeping the country. Someone could 
 The rise of mobile applications and mobile devices in recent years has necessitated the necessity for mobile testing. Currently, not all of these organizations are developing mobile applications, but 84% plan to do so in the near future.
 According to one survey, 50 percent of mobile applications are used only once after downloading, and if a user experiences a glitch only once, more than half of users erase the application from their mobile device.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 - [A Comprehensive Checklist for Testing Mobile Apps:](#a-comprehensive-checklist-for-testing-mobile-apps)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Software Testing:](#all-posts-on-software-testing)

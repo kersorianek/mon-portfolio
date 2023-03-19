@@ -13,7 +13,7 @@ cover-img: /assets/img/cover.jpg
 
 Python is an interpreted programming language that may be used for web development, machine learning, and complicated data processing. Python is often regarded as one of the easiest programming languages to learn for a novice. You might use it as a Software Testing Professional to automate your day-to-day work.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 - [How to download python](#how-to-download-python)
 - [Install Python on Windows 11 or Windows 10](#install-python-on-windows-11-or-windows-10)
 - [Post Installation](#post-installation)

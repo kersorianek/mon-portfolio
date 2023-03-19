@@ -16,7 +16,7 @@ If you want to learn Python programming, books might be a terrific resource. Boo
 
 **you can just download them directly clicking **download** for free.**
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Free Python Books](#free-python-books)
 - [List of Books](#list-of-books)

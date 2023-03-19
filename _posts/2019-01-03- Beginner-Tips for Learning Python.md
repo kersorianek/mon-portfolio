@@ -14,7 +14,7 @@ I am overjoyed that you have opted to embark on the road of learning Automation 
 
  #  What is the best way to learn Python?**
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 - [What is the best way to learn Python?\*\*](#what-is-the-best-way-to-learn-python)
 - [What is the significance of knowing how to learn?](#what-is-the-significance-of-knowing-how-to-learn)
 - [Tip 1: Code Everyday](#tip-1-code-everyday)

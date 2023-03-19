@@ -13,7 +13,7 @@ cover-img: /assets/img/cover.jpg
 Previously, performance optimization only applied to the server. Because the majority of the websites were static and their processes were performed on the server.
 Web applications, on the other hand, have become more dynamic since the introduction of Web 2.0 technologies. As a result, the performance of client-side code has become an important requirement.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [What is GUI Testing](#what-is-gui-testing)
 - [GUI Testing Guidelines:](#gui-testing-guidelines)

@@ -12,7 +12,7 @@ cover-img: /assets/img/cover.jpg
 
 You already know the basics of a testing job and how testing is carried out in the industry. This chapter will go over several documents used in testing. Although we have already stated that test tools and document formats varied from one business to the next. However, the majority of tools and documentation serve the same goal.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [What is test documentation?](#what-is-test-documentation)
 - [Types of test documentation](#types-of-test-documentation)

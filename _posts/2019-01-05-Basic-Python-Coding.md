@@ -16,7 +16,7 @@ Welcome back! I'm going to share with you some really basic Python code for begi
 
 {: .box-warning}
 **Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Part 1- Variable declaration in Python.](#part-1--variable-declaration-in-python)
   - [Some Variable Declaration Rules:](#some-variable-declaration-rules)
