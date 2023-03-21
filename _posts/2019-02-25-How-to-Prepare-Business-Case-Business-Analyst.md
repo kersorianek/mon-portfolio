@@ -16,7 +16,7 @@ You have a brilliant idea. You want to assemble an expert team and demonstrate t
 
 Before your plan may be approved, you must explain how you intend to fund and continue your initiative. A business case can help with this.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Understanding Business Objective](#understanding-business-objective)
   - [03 Questions to Ask Yourself](#03-questions-to-ask-yourself)

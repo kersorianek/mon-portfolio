@@ -14,7 +14,7 @@ cover-img: /assets/img/cover.jpg
 The goal of the project initiation procedure is to get a project started. Important questions about the project's necessity and viability are addressed, and decisions are taken about how to proceed. The project beginning phase is where the project's goals, objectives, and schedule are defined.
 
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [What is project initiation?](#what-is-project-initiation)
 - [Why is it important?](#why-is-it-important)
