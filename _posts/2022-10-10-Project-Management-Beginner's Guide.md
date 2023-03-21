@@ -37,6 +37,10 @@ _Quick Link to Specific Topic:_
   - [Monitoring and controlling](#monitoring-and-controlling)
   - [Closing](#closing)
 - [III.  Tools and Techniques in Project Management](#iii--tools-and-techniques-in-project-management)
+  - [Gantt charts:](#gantt-charts)
+  - [Critical Path Method (CPM):](#critical-path-method-cpm)
+  - [Risk Management:](#risk-management)
+  - [Project Management Software:](#project-management-software)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Project Management:](#all-posts-on-project-management)
 
@@ -106,11 +110,22 @@ The closure phase is the final step in the project life cycle. During this phase
 
 # III.  Tools and Techniques in Project Management
 
-Project management software tools can help streamline the project planning process and make it easier to manage project resources, schedules, and budgets.
-Several tools and techniques, such as earned value analysis, critical path analysis, and risk management, can help manage and monitor projects.
+Project management tools and techniques are used to plan, execute, monitor, and control projects. Some of the commonly used project management tools and techniques include: Project management software tools can help streamline the project planning process and make it easier to manage project resources, schedules, and budgets.
 
+Several tools and techniques are discussed here:
 
-Several tools and techniques, such as earned value analysis, critical path analysis, and risk management, can help manage and monitor projects.
+## Gantt charts: 
+A Gantt chart is a bar chart that displays the project schedule, including the start and end dates of project activities.
+
+## Critical Path Method (CPM):
+ CPM is a technique used to determine the longest path of a project's activities and identify the activities that are critical to the project's success.
+
+## Risk Management: 
+Risk management is the process of identifying, assessing, and mitigating risks that may impact the project's success.
+
+## Project Management Software:
+Project management software is a tool that helps project managers plan, execute, monitor, and control projects.
+ 
 
 
 In conclusion, project management can seem daunting at first, but learning the basics of project management can provide numerous benefits. Key concepts in project management include defining a project, managing the triple constraints of scope, time, and cost, managing stakeholders, and understanding project management methodologies. The project management process groups include initiating, planning, executing, monitoring and controlling, and closing.
