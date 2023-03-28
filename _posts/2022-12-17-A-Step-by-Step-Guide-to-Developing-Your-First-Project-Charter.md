@@ -40,11 +40,14 @@ _Quick Link to Specific Topic:_
   - [Project Timelines/Milestones](#project-timelinesmilestones)
   - [Key Stakeholders](#key-stakeholders-1)
 - [Best Practices for Preparing a Project Charter](#best-practices-for-preparing-a-project-charter)
-  - [Involve all stakeholders:](#involve-all-stakeholders)
-  - [Keep it concise:](#keep-it-concise)
-  - [Be specific:](#be-specific)
-  - [Review and approve:](#review-and-approve)
+  - [Involve key stakeholders:](#involve-key-stakeholders)
+  - [Be clear and concise:](#be-clear-and-concise)
+  - [Be SMART:](#be-smart)
+  - [Define roles and responsibilities:](#define-roles-and-responsibilities)
+  - [Keep it flexible:](#keep-it-flexible)
   - [Use it as a reference:](#use-it-as-a-reference)
+  - [Keep it updated:](#keep-it-updated)
+  - [Review and approve:](#review-and-approve)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Project Management:](#all-posts-on-project-management)
 
@@ -57,7 +60,11 @@ The project charter serves as a roadmap and a contract between the project spons
 
 # Importance of Project Charter
 
-The project charter serves as a communication tool for everyone involved in the project. It outlines the project's purpose, scope, and objectives, which helps align the project team and stakeholders. It also helps identify potential risks, challenges, and unknown factors that may impact the project's success. By defining the project's scope, objectives, timelines, budget, and team, the project charter provides a clear roadmap for project planning, execution, and delivery.
+The project charter serves as a communication tool for everyone involved in the project. It outlines the project's purpose, scope, and objectives, which helps align the project team and stakeholders. It also helps identify potential risks, challenges, and unknown factors that may impact the project's success. 
+
+By defining the project's scope, objectives, timelines, budget, and team, the project charter provides a clear roadmap for project planning, execution, and delivery. It also serves as a reference document throughout the project’s life cycle, ensuring everyone is on the same page and the project stays on track.
+
+
 
 # Key Elements of a Project Charter
 
@@ -102,7 +109,7 @@ The executive summary is a brief overview of the project that provides context f
 
 “The purpose of this project is to implement a new customer relationship management system for our organization. The primary goal is to improve the customer experience by streamlining our sales and marketing processes. The project will involve the sales and marketing team, as well as IT and customer support. The expected outcome is increased customer satisfaction and retention.”
 
-Since the exective summary convey the summarize message of the project charter, you can start writing this part after completing each section of the project charter. 
+Since the executive summary convey the summarize message of the project for decision makers, it better to start writing this part after completing each section of the project charter. 
 
 ## Identify project objectives
 The project objective defines what you hope to achieve through the project. It should be specific, measurable, achievable, relevant, and time-bound (SMART). For your CRM project, your objective might read:
@@ -145,22 +152,33 @@ During this step, you should also identify any training or development needs of 
 
 # Best Practices for Preparing a Project Charter
 
-Here are some best practices to follow:
 
-## Involve all stakeholders: 
-Ensure all stakeholders are involved in the project charter development process.
+Creating a successful project charter is critical to the success of any project. Here are some tips to keep in mind when creating a project charter:
 
-## Keep it concise: 
-Keep the project charter concise and to the point, focusing only on the most critical information.
+## Involve key stakeholders:
+It is essential to involve key stakeholders in the development of the project charter. By doing so, you can ensure that their interests and concerns are addressed in the charter.
 
-## Be specific: 
-Use specific language and avoid ambiguity to ensure everyone understands the project's goals and objectives.
+## Be clear and concise: 
+A project charter should be clear and concise, and it should not be too lengthy. A well-written charter should be easy to understand and should clearly outline the project’s objectives, scope, and timelines.
 
-## Review and approve: 
-Ensure the project charter is reviewed and approved by all stakeholders before starting the project.
+## Be SMART: 
+Your project objectives should be SMART – specific, measurable, achievable, relevant, and time-bound. SMART objectives help ensure that everyone involved in the project is working towards the same goal.
+
+## Define roles and responsibilities: 
+The project charter should clearly define the roles and responsibilities of each team member. This will help ensure that everyone understands their role in the project and can work together effectively.
+
+## Keep it flexible: 
+While a project charter provides a roadmap for the project, it is essential to keep it flexible. You may need to revise the charter as the project progresses to reflect changes in scope, timelines, and budgets.
 
 ## Use it as a reference: 
 Use the project charter as a reference document throughout the project's life cycle, referring back to it frequently to ensure the project stays on track.
+
+## Keep it updated: 
+The project charter is a living document, and it should be updated regularly to reflect the project’s progress. This will help ensure that everyone involved in the project is aware of any changes and can adjust their work accordingly.
+
+## Review and approve: 
+Once the project charter is complete, it should be reviewed and approved by all key stakeholders. This will help ensure that everyone is on the same page and understands the project’s goals, objectives, and scope.
+
 
 In conclusion, developing a project charter is a critical step in ensuring the success of an IT project. A well-written project charter provides a clear roadmap and a foundation for project planning, execution, and delivery. By following the key elements and steps outlined in this blog, and incorporating best practices for preparing a project charter, you can improve.
 
