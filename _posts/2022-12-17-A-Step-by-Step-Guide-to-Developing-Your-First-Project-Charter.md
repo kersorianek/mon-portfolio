@@ -21,21 +21,23 @@ As a project manager, your success depends on your ability to plan, execute and 
 _Quick Link to Specific Topic:_
 - [What is a Project Charter?](#what-is-a-project-charter)
 - [Key Elements of a Project Charter](#key-elements-of-a-project-charter)
-  - [Project Scope:](#project-scope)
-  - [Project Objectives:](#project-objectives)
-  - [Project Stakeholders:](#project-stakeholders)
-  - [Project Risks and Assumptions:](#project-risks-and-assumptions)
-  - [Project Timelines:](#project-timelines)
-  - [Project Budget:](#project-budget)
-  - [Project Team:](#project-team)
+  - [Executive Summary:](#executive-summary)
+  - [Project Objective:](#project-objective)
+  - [Project Scope and Exclusion:](#project-scope-and-exclusion)
+  - [Benefits \& Costs:](#benefits--costs)
+  - [Risks \& Assumptions:](#risks--assumptions)
+  - [Measuring Success:](#measuring-success)
+  - [Project Timelines/ Milestones:](#project-timelines-milestones)
+  - [Key stakeholders:](#key-stakeholders)
 - [How to Prepare a Project Charter](#how-to-prepare-a-project-charter)
-  - [Define the project scope](#define-the-project-scope)
+  - [Define the executive summary](#define-the-executive-summary)
   - [Identify project objectives](#identify-project-objectives)
-  - [Identify stakeholders](#identify-stakeholders)
-  - [Identify risks and assumptions](#identify-risks-and-assumptions)
-  - [Develop project timelines](#develop-project-timelines)
-  - [Develop project budget](#develop-project-budget)
-  - [Define the project team](#define-the-project-team)
+  - [Define Project Scope and Exclusion](#define-project-scope-and-exclusion)
+  - [Define Benefits \& Costs](#define-benefits--costs)
+  - [Define Project Risk \& Assumptions](#define-project-risk--assumptions)
+  - [Measuring Success of the Project](#measuring-success-of-the-project)
+  - [Project Timelines/Milestones](#project-timelinesmilestones)
+  - [Key Stakeholders](#key-stakeholders-1)
 - [Best Practices for Preparing a Project Charter](#best-practices-for-preparing-a-project-charter)
   - [Involve all stakeholders:](#involve-all-stakeholders)
   - [Keep it concise:](#keep-it-concise)
@@ -58,62 +60,78 @@ The project charter serves as a communication tool for everyone involved in the 
 
 To develop a comprehensive project charter, it is essential to include the following key elements:
 
-## Project Scope:
-The project scope outlines the boundaries of the project, including what is included and what is not included. It defines the project's objectives, deliverables, and the work that needs to be done to meet those objectives. A well-defined project scope sets expectations, helps to avoid scope creep, and ensures that the project team remains focused on achieving the project's goals.
 
-## Project Objectives:
-Project objectives are the desired outcomes of the project. They describe what the project is intended to achieve, the expected results, and the benefits that will be realized. Project objectives must be clearly defined, measurable, and achievable, and should align with the organization's overall strategic goals.
+## Executive Summary:
+The executive summary is the first section of a project charter that provides a high-level overview of the project. It should include the project's objectives, key stakeholders, and timelines. It should also briefly mention the project's scope, costs, and benefits. The executive summary should be concise and provide the reader with an understanding of the project's purpose and significance.
 
-## Project Stakeholders:
-Project stakeholders are individuals or groups who have an interest in the project and can be positively or negatively affected by its outcome. It is essential to identify all stakeholders and their level of involvement to ensure that their needs and expectations are met. Stakeholders may include customers, end-users, project sponsors, project team members, and external partners.
+## Project Objective:
+The project objective defines the purpose and expected outcomes of the project. It should be a clear and concise statement that identifies the problem or opportunity the project aims to address. The objective should be measurable and specific, so it can be easily evaluated against the project's success criteria.
 
-## Project Risks and Assumptions:
-Identifying potential risks, challenges, or unknown factors that may impact the project's success is critical to its success. Risks are potential events or situations that could impact the project, while assumptions are unverified facts that are believed to be true. Risk management is essential to identify, analyze, and mitigate potential risks, minimizing their impact on the project.
+## Project Scope and Exclusion:
+The project scope outlines the boundaries and limitations of the project. It should define what is included and excluded from the project. The scope should be clearly defined to avoid misunderstandings and scope creep. Scope creep is when the project's objectives and deliverables increase beyond the original scope, which can lead to increased costs and delays.
 
-## Project Timelines:
-Project timelines define the start and end dates of the project, as well as key milestones and delivery dates. Developing a timeline helps to establish a clear project schedule, ensuring that everyone involved in the project knows what needs to be done, when it needs to be done, and who is responsible for it. It also helps to identify potential project delays and ensures that the project stays on track.
+## Benefits & Costs:
+The benefits and costs section outlines the expected benefits and costs of the project. It should describe how the project will add value to the organization and justify its cost. It should also identify any risks and assumptions that could impact the project's benefits and costs.
 
-## Project Budget:
-The project budget estimates the costs and resources required to complete the project. It includes all expenses, such as salaries, equipment, supplies, and any other costs associated with the project. Establishing a realistic budget is critical to ensure that the project is financially viable and that resources are allocated effectively.
+## Risks & Assumptions:
+The risk and assumptions section should identify the potential risks and assumptions that could impact the project's success. Risks are uncertainties that could have a negative impact on the project, and assumptions are factors that are believed to be true but are not yet validated. Identifying risks and assumptions upfront helps to mitigate their impact and ensure the project's success.
 
-## Project Team:
-The project team consists of individuals responsible for executing the project. It is essential to identify the roles and responsibilities of each team member, ensuring that everyone understands their duties and is accountable for their actions. The project team should also have the necessary skills, knowledge, and experience to successfully complete the project.
+## Measuring Success:
+The measuring success section outlines the metrics and KPIs used to evaluate the project's success. It should identify the key performance indicators that will be used to measure progress and ensure the project is meeting its objectives. The metrics should be specific, measurable, and realistic.
+
+## Project Timelines/ Milestones:
+The project timeline outlines the key milestones and deliverables of the project. It should identify the key tasks and their estimated start and end dates. The timeline should be realistic and consider any potential delays or risks that could impact the project's timeline.
+
+## Key stakeholders:
+The key stakeholders section outlines the stakeholders involved in the project and their roles and responsibilities. It should identify who will be impacted by the project and who has a stake in its success. The stakeholders' interests should be considered when developing the project's objectives and scope.
+
 
 # How to Prepare a Project Charter
 Now that you have an understanding of the importance of a project charter, let's dive into the steps to develop your first IT project charter.
 
-## Define the project scope
-The first step in developing your project charter is to define the project scope. Meet with the project sponsor and stakeholders to clearly define the project's scope and boundaries. This will help to establish what is included and what is not included in the project.
 
-During this step, you should also define any constraints that may affect the project scope, such as resources, timelines, or budget.
+Imagine you are a project manager tasked with implementing a new customer relationship management (CRM) system for your organization. You’ve been given a budget of $100,000 and a timeline of 6 months. Your project will involve the entire sales and marketing team, as well as IT and customer support. You need to create a project charter that clearly defines the project’s objectives, scope, and stakeholders, while also outlining the potential benefits, risks, and costs.
+
+
+## Define the executive summary 
+The executive summary is a brief overview of the project that provides context for the rest of the charter. It should include the project’s purpose, goals, and stakeholders. For your CRM project, your executive summary might read something like this:
+
+“The purpose of this project is to implement a new customer relationship management system for our organization. The primary goal is to improve the customer experience by streamlining our sales and marketing processes. The project will involve the sales and marketing team, as well as IT and customer support. The expected outcome is increased customer satisfaction and retention.”
 
 ## Identify project objectives
-Once you have defined the project scope, the next step is to identify the project objectives. Establish the goals and objectives of the project, including what is expected to be delivered, when, and to whom.
+The project objective defines what you hope to achieve through the project. It should be specific, measurable, achievable, relevant, and time-bound (SMART). For your CRM project, your objective might read:
 
-The project objectives should align with the organization's overall strategy and goals. They should also be specific, measurable, achievable, relevant, and time-bound (SMART).
+“To implement a new CRM system that improves our sales and marketing processes, resulting in a 20% increase in customer satisfaction and a 10% increase in customer retention within 12 months.”
 
-## Identify stakeholders
-Identify all stakeholders who may be affected by the project and their level of involvement. This includes project sponsors, customers, end-users, vendors, and any other stakeholders who may have an interest in the project.
+## Define Project Scope and Exclusion
+The project scope outlines what is and is not included in the project. It helps to ensure that everyone on the project team understands the project’s boundaries. Meet with the project sponsor and stakeholders to clearly define the project's scope and boundaries. This will help to establish what is included and what is not included in the project. For your CRM project, your scope might read:
 
-During this step, you should also identify any conflicts or competing interests between stakeholders and develop a plan to address them.
+“This project will involve the implementation of a new CRM system, including data migration, customization, and training. It will not include the purchase of any additional hardware or software.”
 
-## Identify risks and assumptions
-Identify any potential risks, challenges, or unknown factors that may impact the project's success. This includes technical, organizational, or external risks that may affect the project.
+## Define Benefits & Costs
+The benefits and costs section of the project charter outlines the potential benefits of the project and the associated costs. This section helps to ensure that the project is worth pursuing and provides a baseline for measuring success. For your CRM project, your benefits and costs might read:
 
-During this step, you should also identify any assumptions that have been made about the project and validate them to ensure they are accurate.
+**Benefits**: Improved sales and marketing processes, increased customer satisfaction and retention, improved reporting and analytics.
 
-## Develop project timelines
-Develop a timeline for the project, including key milestones and delivery dates. This will help to ensure that the project stays on track and is completed within the agreed-upon timeline.
+**Costs**: $100,000 budget, plus additional costs for data migration, customization, and training.”
 
-During this step, you should also identify any dependencies between tasks and milestones and develop a plan to manage them.
+## Define Project Risk & Assumptions
+The risk and assumptions section identifies potential risks to the project’s success and outlines any assumptions that have been made. This section helps to ensure that the project team is aware of potential challenges and can proactively address them. For your CRM project, your risks and assumptions might read:
 
-## Develop project budget
-Estimate costs and resources required to complete the project. This includes personnel, equipment, materials, and any other costs associated with the project.
+**Risks**: Data migration issues, customization challenges, user adoption.
+**Assumptions**: The new system will integrate with existing software, staff will be available for training.”
 
-During this step, you should also identify any cost constraints that may affect the project budget and develop a plan to manage them.
+## Measuring Success of the Project 
+The success of a project is measured by how well it meets the objectives and goals set out in the project charter. This is why it's crucial to define the success criteria in the charter. These criteria should be specific, measurable, attainable, relevant, and time-bound (SMART). 
 
-## Define the project team
-Identify and define roles and responsibilities of the project team. This includes the project manager, project sponsor, project team members, and any other individuals or groups involved in the project.
+For instance, if the project objective is to increase sales by 20% in six months, then the success criteria could be achieving a 20% increase in sales by the end of the sixth month.
+
+## Project Timelines/Milestones
+The project timeline is an essential part of the project charter. It outlines the key activities and milestones that must be achieved to deliver the project on time. The timeline should be created using a Gantt chart, which visually shows the project tasks, dependencies, and durations. It's also important to identify the critical path, which is the longest sequence of tasks that must be completed to deliver the project on time.
+
+## Key Stakeholders
+Identifying and engaging key stakeholders is critical to project success. A stakeholder is anyone who has an interest or is impacted by the project. This includes project sponsors, customers, team members, suppliers, regulators, and the community. The project charter should identify the key stakeholders and their roles and responsibilities in the project. It's also important to engage stakeholders throughout the project to ensure their expectations are managed and their concerns are addressed.
+
 
 During this step, you should also identify any training or development needs of the project team and develop a plan to address them.
 
@@ -199,6 +217,7 @@ Click on any of the desired links to directly access the information.
 -  [x]  [**Understanding Project Scope and Requirements A Guide for Project Managers**](https://rafayethossain.github.io/2022-12-12-Understanding-Project-Scope-and-Requirements/)
 -  [x]  [**5 Tips for Creating a Project Management Plan That Works**](https://rafayethossain.github.io/2022-12-14-Tips-for-Creating-a-Project-Management-Plan-that-Works/)
 -  [x]  [**How to Use SWOT Analysis to Drive Project Success**](https://rafayethossain.github.io/2022-12-15-How-to-Conduct-a-SWOT-Analysis-for-Your-Project/)
+-  [x]  [**A Step-by-Step Guide to Developing Your First Project Charter**](https://rafayethossain.github.io/2022-12-17-A-Step-by-Step-Guide-to-Developing-Your-First-Project-Charter/)
 -  [x]  [**Mastering the Art of Project Scheduling as a Beginner**](https://rafayethossain.github.io/2023-01-05-How-to-Develop-a-Project-Schedule-for-as-a-Beginner/)
 -  [x]  [**A Beginner’s Guide to Developing and Managing an Effective Project Budget**](https://rafayethossain.github.io/2023-01-10-How-to-Develop-and-Manage-a-Project-Budget-for-as-a-Beginner/)
 -  [x]  [**Learn How to Proactively Manage Risks to Keep Your Project on Track**](https://rafayethossain.github.io/2023-01-12-How-to-Identify-and-Manage-Project-Risk-as-a-Beginner/)
