@@ -115,37 +115,82 @@ Since the executive summary convey the summarize message of the project for deci
 ## Identify project objectives
 The project objective defines what you hope to achieve through the project. It should be specific, measurable, achievable, relevant, and time-bound (SMART). For your CRM project, your objective might read:
 
-“To implement a new CRM system that improves our sales and marketing processes, resulting in a 20% increase in customer satisfaction and a 10% increase in customer retention within 12 months.”
+The project objective is to implement a new CRM system that will improve our customer relationship management process. The CRM system will help us to better understand our customers' needs and improve customer retention rates. We aim to increase sales by 10% by the end of the year.
+
+
 
 ## Define Project Scope and Exclusion
 The project scope outlines what is and is not included in the project. It helps to ensure that everyone on the project team understands the project’s boundaries. Meet with the project sponsor and stakeholders to clearly define the project's scope and boundaries. This will help to establish what is included and what is not included in the project. For your CRM project, your scope might read:
 
-“This project will involve the implementation of a new CRM system, including data migration, customization, and training. It will not include the purchase of any additional hardware or software.”
+
+"The scope of the project includes the implementation of a new CRM system. The system will include features such as customer data management, lead tracking, and reporting. The exclusion of the project will be any custom development work that goes beyond the system's standard capabilities."
 
 ## Define Benefits and Costs
-The benefits and costs section of the project charter outlines the potential benefits of the project and the associated costs. This section helps to ensure that the project is worth pursuing and provides a baseline for measuring success. For your CRM project, your benefits and costs might read:
+The benefits and costs section of the project charter outlines the potential benefits of the project and the associated costs. This section helps to ensure that the project is worth pursuing and provides a baseline for measuring success. For your CRM project
 
-**Benefits**: Improved sales and marketing processes, increased customer satisfaction and retention, improved reporting and analytics.
+The benefits of the project include:
 
-**Costs**: $100,000 budget, plus additional costs for data migration, customization, and training.”
+- Improved customer relationship management process
+- Better understanding of customer needs
+- Improved customer retention rates
+- Increased sales by 10%
+
+The costs of the project include:
+
+- CRM system license fees - $50,000
+- Hardware and infrastructure costs - $20,000
+- Consulting and training fees - $20,000
+- Project management and administration costs - $10,000
 
 ## Define Project Risk and Assumptions
-The risk and assumptions section identifies potential risks to the project’s success and outlines any assumptions that have been made. This section helps to ensure that the project team is aware of potential challenges and can proactively address them. For your CRM project, your risks and assumptions might read:
+The risk and assumptions section identifies potential risks to the project’s success and outlines any assumptions that have been made. This section helps to ensure that the project team is aware of potential challenges and can proactively address them. For your CRM project:
 
-**Risks**: Data migration issues, customization challenges, user adoption.
-**Assumptions**: The new system will integrate with existing software, staff will be available for training.”
+Risks:
+
+- Delay in project timelines due to unforeseen circumstances
+- Inadequate user adoption of the new system
+- Integration issues with other systems
+- Technical glitches and system downtime
+
+Assumptions:
+
+- Availability of required resources such as hardware, software, and human resources
+- Adequate user training and support
+- Smooth integration with existing systems
 
 ## Measuring Success of the Project 
 The success of a project is measured by how well it meets the objectives and goals set out in the project charter. This is why it's crucial to define the success criteria in the charter. These criteria should be specific, measurable, attainable, relevant, and time-bound (SMART). 
 
-For instance, if the project objective is to increase sales by 20% in six months, then the success criteria could be achieving a 20% increase in sales by the end of the sixth month.
+For instance, the success of the project will be measured using the following KPIs:
+
+- Customer retention rate
+- Sales growth
+- User adoption rate
+- System uptime
+- Project completion within budget and timeline
+
+if the project objective is to increase sales by 20% in six months, then the success criteria could be achieving a 20% increase in sales by the end of the year.
 
 ## Project Timelines and Milestones
-The project timeline is an essential part of the project charter. It outlines the key activities and milestones that must be achieved to deliver the project on time. The timeline should be created using a Gantt chart, which visually shows the project tasks, dependencies, and durations. It's also important to identify the critical path, which is the longest sequence of tasks that must be completed to deliver the project on time.
+The project timeline is an essential part of the project charter. It outlines the key activities and milestones that must be achieved to deliver the project on time. The timeline should be created using a Gantt chart, which visually shows the project tasks, dependencies, and durations. It's also important to identify the critical path, which is the longest sequence of tasks that must be completed to deliver the project on time. For this instance, project Timelines and Milestones:
+
+- Week 1-2: Project planning and stakeholder identification
+- Week 3-4: System requirements gathering and vendor selection
+- Week 5-6: System installation and configuration
+- Week 7-8: User training and acceptance testing
+- Week 9-10: System integration testing and data migration
+- Week 11-12: System deployment and rollout
+
+
 
 ## Key Stakeholders
-Identifying and engaging key stakeholders is critical to project success. A stakeholder is anyone who has an interest or is impacted by the project. This includes project sponsors, customers, team members, suppliers, regulators, and the community. The project charter should identify the key stakeholders and their roles and responsibilities in the project. It's also important to engage stakeholders throughout the project to ensure their expectations are managed and their concerns are addressed.
+Identifying and engaging key stakeholders is critical to project success. A stakeholder is anyone who has an interest or is impacted by the project. This includes project sponsors, customers, team members, suppliers, regulators, and the community. The project charter should identify the key stakeholders and their roles and responsibilities in the project. It's also important to engage stakeholders throughout the project to ensure their expectations are managed and their concerns are addressed. For this project,
 
+- Project sponsor: Provides funding and high-level support for the project
+- Project manager: Manages the project and oversees project team members
+- Sales and marketing team: Primary users of the CRM system
+- IT team: Responsible for system installation, configuration, and maintenance
+- Customer support team: Uses the CRM system to manage customer requests and complaints
 
 During this step, you should also identify any training or development needs of the project team and develop a plan to address them.
 
