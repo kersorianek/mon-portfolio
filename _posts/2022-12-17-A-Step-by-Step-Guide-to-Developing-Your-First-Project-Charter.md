@@ -34,10 +34,10 @@ _Quick Link to Specific Topic:_
   - [Define the executive summary](#define-the-executive-summary)
   - [Identify project objectives](#identify-project-objectives)
   - [Define Project Scope and Exclusion](#define-project-scope-and-exclusion)
-  - [Define Benefits \& Costs](#define-benefits--costs)
-  - [Define Project Risk \& Assumptions](#define-project-risk--assumptions)
+  - [Define Benefits and Costs](#define-benefits-and-costs)
+  - [Define Project Risk and Assumptions](#define-project-risk-and-assumptions)
   - [Measuring Success of the Project](#measuring-success-of-the-project)
-  - [Project Timelines/Milestones](#project-timelinesmilestones)
+  - [Project Timelines and Milestones](#project-timelines-and-milestones)
   - [Key Stakeholders](#key-stakeholders-1)
 - [Best Practices for Preparing a Project Charter](#best-practices-for-preparing-a-project-charter)
   - [Involve key stakeholders:](#involve-key-stakeholders)
@@ -50,6 +50,7 @@ _Quick Link to Specific Topic:_
   - [Review and approve:](#review-and-approve)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Project Management:](#all-posts-on-project-management)
+
 
 # What is a Project Charter?
 
@@ -121,14 +122,14 @@ The project scope outlines what is and is not included in the project. It helps 
 
 “This project will involve the implementation of a new CRM system, including data migration, customization, and training. It will not include the purchase of any additional hardware or software.”
 
-## Define Benefits & Costs
+## Define Benefits and Costs
 The benefits and costs section of the project charter outlines the potential benefits of the project and the associated costs. This section helps to ensure that the project is worth pursuing and provides a baseline for measuring success. For your CRM project, your benefits and costs might read:
 
 **Benefits**: Improved sales and marketing processes, increased customer satisfaction and retention, improved reporting and analytics.
 
 **Costs**: $100,000 budget, plus additional costs for data migration, customization, and training.”
 
-## Define Project Risk & Assumptions
+## Define Project Risk and Assumptions
 The risk and assumptions section identifies potential risks to the project’s success and outlines any assumptions that have been made. This section helps to ensure that the project team is aware of potential challenges and can proactively address them. For your CRM project, your risks and assumptions might read:
 
 **Risks**: Data migration issues, customization challenges, user adoption.
@@ -139,7 +140,7 @@ The success of a project is measured by how well it meets the objectives and goa
 
 For instance, if the project objective is to increase sales by 20% in six months, then the success criteria could be achieving a 20% increase in sales by the end of the sixth month.
 
-## Project Timelines/Milestones
+## Project Timelines and Milestones
 The project timeline is an essential part of the project charter. It outlines the key activities and milestones that must be achieved to deliver the project on time. The timeline should be created using a Gantt chart, which visually shows the project tasks, dependencies, and durations. It's also important to identify the critical path, which is the longest sequence of tasks that must be completed to deliver the project on time.
 
 ## Key Stakeholders
