@@ -1,7 +1,7 @@
 ---
 layout: post
-title: A Step-by-Step Guide to Developing Your First Project Charter
-subtitle: How to Prepare Project Charter Effectively
+title: How to Prepare Your First Project Charter Effectively
+subtitle: A Step-by-Step Guide to Developing Your First Project Charter
 tags:
   [
        project management,
