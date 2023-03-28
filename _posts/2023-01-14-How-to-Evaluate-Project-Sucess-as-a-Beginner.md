@@ -53,15 +53,16 @@ Evaluating project success is essential to measure the project's performance and
 **[⬆ back to top](#project-completion)**
 
 
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 
-Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
+Enjoyed this post. 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
- 
+Your support helps me create more valuable content. Thank you!
 
 
 
@@ -92,6 +93,8 @@ A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with expe
 ----------------------------------------------------------------------
 
 
+
+
 # All Posts on Project Management:  
 
 Click on any of the desired links to directly access the information.
@@ -107,6 +110,7 @@ Click on any of the desired links to directly access the information.
 -  [x]  [**Understanding Project Scope and Requirements A Guide for Project Managers**](https://rafayethossain.github.io/2022-12-12-Understanding-Project-Scope-and-Requirements/)
 -  [x]  [**5 Tips for Creating a Project Management Plan That Works**](https://rafayethossain.github.io/2022-12-14-Tips-for-Creating-a-Project-Management-Plan-that-Works/)
 -  [x]  [**How to Use SWOT Analysis to Drive Project Success**](https://rafayethossain.github.io/2022-12-15-How-to-Conduct-a-SWOT-Analysis-for-Your-Project/)
+-  [x]  [**A Step-by-Step Guide to Developing Your First Project Charter**](https://rafayethossain.github.io/2022-12-17-A-Step-by-Step-Guide-to-Developing-Your-First-Project-Charter/)
 -  [x]  [**Mastering the Art of Project Scheduling as a Beginner**](https://rafayethossain.github.io/2023-01-05-How-to-Develop-a-Project-Schedule-for-as-a-Beginner/)
 -  [x]  [**A Beginner’s Guide to Developing and Managing an Effective Project Budget**](https://rafayethossain.github.io/2023-01-10-How-to-Develop-and-Manage-a-Project-Budget-for-as-a-Beginner/)
 -  [x]  [**Learn How to Proactively Manage Risks to Keep Your Project on Track**](https://rafayethossain.github.io/2023-01-12-How-to-Identify-and-Manage-Project-Risk-as-a-Beginner/)

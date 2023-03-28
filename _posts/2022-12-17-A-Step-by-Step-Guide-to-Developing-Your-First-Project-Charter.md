@@ -14,12 +14,13 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-As a project manager, your success depends on your ability to plan, execute and deliver projects within scope, budget and timelines. The first step towards achieving this success is developing a comprehensive project charter. In this blog, we will guide you through the process of developing your first IT project charter.
+As a project manager, your success depends on your ability to plan, execute and deliver projects within scope, budget and timelines. The first step towards achieving this success is developing a comprehensive project charter. In this blog, we will guide you through the process of developing your first project charter.
 
 
 
 _Quick Link to Specific Topic:_
 - [What is a Project Charter?](#what-is-a-project-charter)
+- [Importance of Project Charter](#importance-of-project-charter)
 - [Key Elements of a Project Charter](#key-elements-of-a-project-charter)
   - [Executive Summary:](#executive-summary)
   - [Project Objective:](#project-objective)
@@ -49,10 +50,12 @@ _Quick Link to Specific Topic:_
 
 # What is a Project Charter?
 
-A project charter is a formal document that authorizes the start of a project and provides a high-level overview of the project's goals, objectives and parameters. It outlines the project scope, objectives, assumptions, risks, timelines, budget, and more. The project charter serves as a roadmap and a contract between the project sponsor, stakeholders and the project team. A well-written project charter establishes a foundation for project planning and helps align everyone's expectations and understanding of the project goals. It also serves as a reference document throughout the project's life cycle, ensuring everyone is on the same page and the project stays on track.
+A project charter is a formal document that authorizes the start of a project and provides a high-level overview of the project's goals, objectives and parameters. It outlines the project scope, objectives, assumptions, risks, timelines, budget, and more. 
+
+The project charter serves as a roadmap and a contract between the project sponsor, stakeholders and the project team. A well-written project charter establishes a foundation for project planning and helps align everyone's expectations and understanding of the project goals. It also serves as a reference document throughout the project's life cycle, ensuring everyone is on the same page and the project stays on track.
 
 
-Importance of Project Charter
+# Importance of Project Charter
 
 The project charter serves as a communication tool for everyone involved in the project. It outlines the project's purpose, scope, and objectives, which helps align the project team and stakeholders. It also helps identify potential risks, challenges, and unknown factors that may impact the project's success. By defining the project's scope, objectives, timelines, budget, and team, the project charter provides a clear roadmap for project planning, execution, and delivery.
 
@@ -85,6 +88,7 @@ The project timeline outlines the key milestones and deliverables of the project
 ## Key stakeholders:
 The key stakeholders section outlines the stakeholders involved in the project and their roles and responsibilities. It should identify who will be impacted by the project and who has a stake in its success. The stakeholders' interests should be considered when developing the project's objectives and scope.
 
+Depending on the purpose and organizational practices, key elements can be changed. 
 
 # How to Prepare a Project Charter
 Now that you have an understanding of the importance of a project charter, let's dive into the steps to develop your first IT project charter.
@@ -97,6 +101,8 @@ Imagine you are a project manager tasked with implementing a new customer relati
 The executive summary is a brief overview of the project that provides context for the rest of the charter. It should include the project’s purpose, goals, and stakeholders. For your CRM project, your executive summary might read something like this:
 
 “The purpose of this project is to implement a new customer relationship management system for our organization. The primary goal is to improve the customer experience by streamlining our sales and marketing processes. The project will involve the sales and marketing team, as well as IT and customer support. The expected outcome is increased customer satisfaction and retention.”
+
+Since the exective summary convey the summarize message of the project charter, you can start writing this part after completing each section of the project charter. 
 
 ## Identify project objectives
 The project objective defines what you hope to achieve through the project. It should be specific, measurable, achievable, relevant, and time-bound (SMART). For your CRM project, your objective might read:
@@ -165,11 +171,11 @@ In conclusion, developing a project charter is a critical step in ensuring the s
 ----------------------------------------------------------------------
 
 
-Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
+Enjoyed this post. 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
- 
+Your support helps me create more valuable content. Thank you!
 
 
 
