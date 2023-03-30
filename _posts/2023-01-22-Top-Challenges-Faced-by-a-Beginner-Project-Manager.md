@@ -116,7 +116,7 @@ A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with expe
 
 Click on any of the desired links to directly access the information.
 
-- [x]  [**The Basics of Project Management**](https://rafayethossain.github.io/2022-11-11-Project-Management-Beginner's-Guide/)
+- [x]  [**The Basics of Project Management**](https://rafayethossain.github.io/2022-10-10-Project-Management-Beginner's-Guide/)
 - [x]  [**How to Transition from Business Analysis to a Project Management Career**](https://rafayethossain.github.io/2022-10-15-Transition-from-Business-Analysis-to-a-Project-Manager/)
 - [x]  [**Project Initiation Activities as a Business Analyst**](https://rafayethossain.github.io/2019-02-07-Project-Initiation-Business-Analysis-Activities/)
 - [x]  [**How to Manage Your Project Stakeholder Using RACI Matrix**](https://rafayethossain.github.io/2019-02-27-Stakeholder-Management-Business-Analyst/) 
