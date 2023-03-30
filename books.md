@@ -6,7 +6,10 @@ subtitle: ☑ Free Books Download for All
 
 This is a curated collection of free eBooks available on the Internet. Please feel free to share and learn.
 
-**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
+{: .box-warning}
+Disclaimer: 
+
+The contributor(s) cannot be held responsible for any misuse of the data.
 
 If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
 
@@ -14,7 +17,9 @@ If you want to contribute to this list, send a pull request. All contributors wi
 
 # Free Books For All
 
-- !! Spoiler Alert !!
+{: .box-warning}
+!! Spoiler Alert !!
+
   Some of the download link might not work but you should not worry as there are plenty of good link for downloading book than you need.
 
 _Quick Link to Specific Topic:_
