@@ -16,9 +16,10 @@ author: Rafayet Hossain
 navbar-links:
   Blogs: " "
   About Me: "aboutme"
+  Index: "tags"
   Free Books: "books"
   External:
-    - Index: "tags"
+    
     - Word Counting Tool: "https://rafayethossain.github.io/word-counting-tool-ChatGPT/"
     - Resume: "https://rafayet13.github.io/Resume/"
     # Search: "search"
