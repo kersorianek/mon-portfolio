@@ -103,6 +103,22 @@ Or you can just use your Built in Python IDLE with Python Installer no hassel.
 
 
 
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+
+Enjoyed this post!
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+ 
+Your support helps me create more valuable content. Thank you!
+
+
+
+
+
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
@@ -111,25 +127,10 @@ Or you can just use your Built in Python IDLE with Python Installer no hassel.
 
 Hi, This is **Rafayet Hossain**
 
-A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
-He acts as a change agent to enable digital changes to your organization.
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success.
 
-Provide Services on:
-
-🎯 Software Project Managment 
-
-🎯 Business System Analysis 
-
-🎯 Software Testing 
-
-🎯 Business Consulting
-
-🎯 Technical Document Preparation 
-
-🎯 Individual Training  
-
-
-👉 For Any Query or Assigment Contact: 
+ 
+👉 Contact me for any inquiries or projects : 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
@@ -138,6 +139,9 @@ Provide Services on:
 
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
+
+
+
 
 
 
