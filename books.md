@@ -4,35 +4,38 @@ title: Free Books !!
 subtitle: ☑ Free Books Download for All
 ---
 
-# Free Books For All
+This is a curated collection of free eBooks available on the Internet. Please feel free to share and learn.
 
-## This is a collected open source resouce found on the internet.
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+
+
+# Free Books For All
 
 - !! Spoiler Alert !!
   Some of the download link might not work but you should not worry as there are plenty of good link for downloading book than you need.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Free Books For All](#free-books-for-all)
-  - [This is a collected open source resouce found in the internet.](#this-is-a-collected-open-source-resouce-found-in-the-internet)
   - [Software Testing](#software-testing)
-    - [Let's get some software testing Ebook list and Free Download link That Every Tester Should Have](#lets-get-some-software-testing-ebook-list-and-free-download-link-that-every-tester-should-have)
-      - [Software testing theory](#software-testing-theory)
-      - [Standards in software testing](#standards-in-software-testing)
-      - [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
-      - [Testing with different programming languages](#testing-with-different-programming-languages)
-      - [Testing Tools](#testing-tools)
-  - [Feel free to share with your friends and others](#feel-free-to-share-with-your-friends-and-others)
-- [Free Python Books](#free-python-books)
-  - [List of Books](#list-of-books)
+    - [Software testing theory](#software-testing-theory)
+    - [Standards in software testing](#standards-in-software-testing)
+    - [Testing of Free and OpenSource Software](#testing-of-free-and-opensource-software)
+    - [Testing with different programming languages](#testing-with-different-programming-languages)
+    - [Testing Tools](#testing-tools)
+  - [Free Python Books](#free-python-books)
+- [About Content Creator:](#about-content-creator)
 
 ## Software Testing
 
-### Let's get some software testing Ebook list and Free Download link That Every Tester Should Have
+Let's get some software testing Ebook list and Free Download link That Every Tester Should Have
 
 **Career in Testing**
 
-#### Software testing theory
+### Software testing theory
 
 - [Acceptance Test Engineering Guide, Vol. I - RC1](https://testingguidance.codeplex.com/)
 - [A Software Testing Primer](http://www.nickjenkins.net/prose/testingPrimer.pdf) (PDF)
@@ -65,18 +68,18 @@ _Qucik Link to Specific Topic:_
 
 **[⬆ back to top](#free-books-for-all)**
 
-#### Standards in software testing
+### Standards in software testing
 
 - [Testing Standards Working Party](http://www.testingstandards.co.uk/)
 - [The International Software Testing Standard](http://softwaretestingstandard.org/)
 - [Standard for Software Component Testing](http://www.testingstandards.co.uk/Component%20Testing.pdf) (PDF)
 
-#### Testing of Free and OpenSource Software
+### Testing of Free and OpenSource Software
 
 - [Quality Improvement in Volunteer Free and Open Source Software Project](http://www.cyrius.com/publications/michlmayr-phd.pdf) (PDF)
 - [Testing and quality management of free and open source software](https://github.com/ligurio/tos-book) - Sergey Bronnikov
 
-#### Testing with different programming languages
+### Testing with different programming languages
 
 - [PHPUnit PHP Test-Driven Development - Automated Tools to Improve Your PHP Code Quality](http://refcardz.dzone.com/refcardz/phpunit-php-test-driven)
 - [Practical PHP testing](http://www.giorgiosironi.com/2009/12/practical-php-testing-is-here.html)
@@ -87,7 +90,7 @@ _Qucik Link to Specific Topic:_
 - [Testing and Debugging JavaScript](https://github.com/roblevintennis/Testing-and-Debugging-JavaScript)
 - [Web Application Testing in Ruby](https://leanpub.com/watirbook/read) Željko Filipin
 
-#### Testing Tools
+### Testing Tools
 
 - [AccelTest](http://www.lausd.net/istem/2know_files/Software_Manual.pdf) (PDF)
 - [A Step-by-Step Guide to Functional Testing with TestComplete](http://www2.smartbear.com/download-mqi-inbound-testcomplete-functional-testing-top-5-ebook-blog.html)
@@ -102,17 +105,13 @@ _Qucik Link to Specific Topic:_
 - [JUnit Tutorial](http://www.tutorialspoint.com/junit/index.htm)
 
 **[⬆ back to top](#free-books-for-all)**
-## Feel free to share with your friends and others
 
-# Free Python Books
 
-This is a curated collection of free Python related eBooks available on the Internet. Please feel free to share and learn.
 
-If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+## Free Python Books
 
-**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
 
-## List of Books
+
 
 You can find all the books listed below in [**book**](https://github.com/rafayet13/Free-Python-Books/blob/master/book) folder of this repo:
 
@@ -245,3 +244,33 @@ You can find all the books listed below in [**book**](https://github.com/rafayet
 
 
 **[⬆ back to top](#free-books-for-all)**
+
+
+Feel free to share with your friends and others
+**Disclaimer**: The contributor(s) cannot be held responsible for any misuse of the data.
+
+If you want to contribute to this list, send a pull request. All contributors will be recognized and appreciated.
+
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
+# About Content Creator: 
+
+
+Hi, This is **Rafayet Hossain**
+
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success.
+
+ 
+👉 Contact me for any inquiries or projects : 
+
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
+
+
+----------------------------------------------------------------------
+----------------------------------------------------------------------
+
