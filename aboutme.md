@@ -7,31 +7,54 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 
 <div style="text-align: justify"> 
 
-👉 Do You Know? About 60% of Project Failures Originate with The Requirements. You May Develop a Great Product but Still, Fail the Project Because It Does Not Meet the Goal Set. For A Successful Project, One Requires to Define the Needs, Recommend the Solutions, Design, Test the Developed Solution, And Deliver the Value.
-</div>
-
-
-<div style="text-align: justify"> 
-👉 Hi, This Is Rafayet Hossain, A Seasoned Business System Analyst (BSA), Project Manager, And an SQA Engineer.
-
-Having Around 04 Years of Professional Experience, Playing Various Roles in The Software Industry, Makes Him a Top Candidate in This Sector. As a Token of His Versatility and Passion Towards He Has Practical Knowledge in Web Based Software Development, Also.
+❗ Did you know that 60% of project failures originate from inadequate requirements? Don't let that happen to you. For a successful project, you need to define the needs, and requirements, design, test the developed solution, and deliver value.
 
 </div>
 
-
-<div style="text-align: justify"> 
-
-👉 As a Business Analyst, He Plays the Role of a Change Agent in Order to Enable Digital Changes for Your Organization. It’s His Solemn Duty to Guide the Project from a Very Beginning Through the Whole Development Process to Finishing Stages. His Bachelor Degree in Computer Science & Engineering Including Extensive Knowledge of Business Processes, Technologies, and Best Development Practices Would be a Perfect Fit to Assist You with Ventures of Pretty Much Any Complexity.
+<div style="text-align: justify">
+👉 Hi, This Is Rafayet Hossain, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My extensive knowledge and practical experience in web design & development make me a top candidate in this sector.
 
 </div>
+<div style="text-align: justify">
 
-<div style="text-align: justify"> 
+👉 As a Business Analyst, I play the role of a Change Agent, enabling changes for your organization. My job is to guide the project from the beginning through the whole development process to the finishing stages. My Bachelor's Degree in Computer Science & Engineering, including extensive knowledge of business processes, technologies, and best development practices, makes me a perfect fit to assist you with ventures of pretty much any complexity.
+</div>
+<div style="text-align: justify">
 
-👉 He Opted for Software Testing as a Career Not Because He Got the Opportunity to Work Rather, He Believes Software Testing as "Destructive Creation" Also Enjoy Finding Issues. He Can Help You in Implementing Test Processes, QA Documentation and Can Provide End to End Solutions on All Types of Testing. "Has An Attitude of “Test to Break", "Ability to Think as End User Perspective” "A Strong Desire for Quality, And An Attention to Detail.
-
+👉 I opted for software testing as a career because I believe in "destructive creation" and enjoy finding issues. I can help you implement test processes, and QA documentation, and provide end-to-end solutions for all types of testing. With an attitude of “test to break” and the ability to think from an end-user perspective, I have a strong desire for quality and attention to detail.
 </div>
 
-👉 Do You Need Any Services On:
+I excel in the following fields, but not limited to:
+
+☑ Project Management
+☑ System Analysis & Design
+☑ Software Requirement Specification (SRS, BRD) Development
+☑ Software Quality Assurance
+☑ Stakeholder Management
+☑ Analytical Thinking
+☑ Requirement Elicitation
+☑ Requirement Management
+☑ SMART Requirement Preparation
+☑ Change Management
+☑ "As-Is" And "To-Be" Business Processes Mapping
+☑ UI Wireframing
+☑ Software Test Document Preparation & Test Execution
+☑ Quality Framework: CMMI, ISO, Lean Six Sigma
+☑ SDLC & STLC
+☑ User Manual & End User Training
+☑ Technical Documentation
+☑ Good Oral And Written Communication Skills
+☑ Business Etiquette, Communication, And Negotiation
+☑ Microsoft Office: Word, Excel, PowerPoint, Visio
+☑ Time Management
+☑ Continuous Improvement
+☑ Ability to Work Independently
+☑ Problem-Solving
+☑ Root Cause Analysis
+☑ 5 Why Technique
+☑ Competent Googler
+
+👉 I am open to any business opportunity, and I'm ready to help you achieve your project's success. Please contact for any services including:
 
 🎯 Software Project Managment 
 
@@ -46,7 +69,9 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 🎯 Individual Training  
 
 
-👉 For Any Query or Assigment Contact: 
+
+
+👉 Contact Information: 
 
 
 
@@ -56,75 +81,14 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 
 
 
-👉 He Excel in The Fields are as Follows But not Limited to:
-
-✅ Project Management  
-
-✅ Technical Documentation
-
-✅ System Analysis & Design
-
-✅ Software Quality Assurance
-
-✅ Quality Framework: CMMI, ISO 
-
-✅ Project Managment Framework: Waterfall, Agile, Lean Six Sigma
-
-✅ Stakeholder Analysis & Management 
-
-✅ Requirement Elicitation
-
-✅ Business Process Modeling (Map "As-Is" And "To-Be" Business Processes)
-
-✅ Requirement Management 
-
-✅ Software Requirement Specification (SRS, BRD) Development 
-
-✅ UI Wireframing 
-
-✅ Software Test Document Preparation & Test Execution 
-
-✅ User Manual & End User Training 
-
-✅ Change Management 
-
-✅ Quality Improvement 
-
-✅ Microsoft Office (Word, Excel, PowerPoint, Visio) 
-
-✅ Software Process Quality Improvement 
-
-✅ Have Good Oral And Written Communication Skills
-
-✅ Time Management 
-
-✅ Business Etiquette, Communication, And Negotiation Skills 
-
-✅ SDLC & STLC 
-
-✅ Root Cause Analysis 
-
-✅ 5 Why Technique 
-
-✅ SMART Requirement Preparation 
-
-✅ Crisis Handling 
-
-✅ Quality Tools 
-
-✅ Continuous Improvement 
-
-✅ Critical Thinking
-
-
 ## Places He haunt
 
-* [Medium](https://rafayethossain.medium.com/) •  I Write Career Guidline in Bengali Here.
+* [Medium](https://rafayethossain.medium.com/) •  I Write Career Guidline For Bengali Speaking People.
 * [Facebook](https://www.facebook.com/rafayethossain13) • This is my Facebook Profile.
-* [Twitter](https://twitter.com/RafayetHossain/) • Follow Me on Twitter Also.
+* [Twitter](https://twitter.com/RafayetHossain/) • This is my Twitter Profile.
   
 ## His Website
-* [Blog](rafayet13.wordpress.com/) • Currently work in progress.
+* [Blog]([rafayet13.wordpress.com/](https://rafayet13.wordpress.com/)) • Currently work in progress.
 
 ## On YouTube
 
@@ -132,3 +96,4 @@ Having Around 04 Years of Professional Experience, Playing Various Roles in The 
 
 * (comming) • More info is coming soon.
 
+👉 Thanking your for your time and cooperation. 
