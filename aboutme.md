@@ -36,32 +36,60 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 I excel in the following fields, but not limited to:
 
 ☑ Project Management
+
 ☑ System Analysis & Design
+
 ☑ Software Requirement Specification (SRS, BRD) Development
+
 ☑ Software Quality Assurance
+
 ☑ Stakeholder Management
+
 ☑ Analytical Thinking
+
 ☑ Requirement Elicitation
+
 ☑ Requirement Management
+
 ☑ SMART Requirement Preparation
+
 ☑ Change Management
+
 ☑ "As-Is" And "To-Be" Business Processes Mapping
+
 ☑ UI Wireframing
+
 ☑ Software Test Document Preparation & Test Execution
+
 ☑ Quality Framework: CMMI, ISO, Lean Six Sigma
+
 ☑ SDLC & STLC
+
 ☑ User Manual & End User Training
+
 ☑ Technical Documentation
+
 ☑ Good Oral And Written Communication Skills
+
 ☑ Business Etiquette, Communication, And Negotiation
+
 ☑ Microsoft Office: Word, Excel, PowerPoint, Visio
+
 ☑ Time Management
+
 ☑ Continuous Improvement
+
 ☑ Ability to Work Independently
+
 ☑ Problem-Solving
+
 ☑ Root Cause Analysis
+
+
 ☑ 5 Why Technique
+
 ☑ Competent Googler
+
 
 
 
