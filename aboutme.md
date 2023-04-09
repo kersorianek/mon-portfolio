@@ -7,14 +7,15 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 
 <div style="text-align: justify"> 
 
-❗ Did you know that 60% of project failures originate from inadequate requirements? Don't let that happen to you. For a successful project, you need to define the needs, and requirements, design, test the developed solution, and deliver value.
+Did you know that 60% of project failures originate from inadequate requirements? Don't let that happen to you. For a successful project, you need to define the needs, and requirements, design, test the developed solution, and deliver value.
 
 </div>
 
 
 
 <div style="text-align: justify">
-👉 Hi, This Is Rafayet Hossain, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My extensive knowledge and practical experience in web design & development make me a top candidate in this sector.
+
+👉 Hi, This is Rafayet Hossain, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My extensive knowledge and practical experience in web design & development make me a top candidate in this sector.
 
 </div>
 
@@ -23,6 +24,7 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 <div style="text-align: justify">
 
 👉 As a Business Analyst, I play the role of a Change Agent, enabling changes for your organization. My job is to guide the project from the beginning through the whole development process to the finishing stages. My Bachelor's Degree in Computer Science & Engineering, including extensive knowledge of business processes, technologies, and best development practices, makes me a perfect fit to assist you with ventures of pretty much any complexity.
+
 </div>
 
 
@@ -30,6 +32,7 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 <div style="text-align: justify">
 
 👉 I opted for software testing as a career because I believe in "destructive creation" and enjoy finding issues. I can help you implement test processes, and QA documentation, and provide end-to-end solutions for all types of testing. With an attitude of “test to break” and the ability to think from an end-user perspective, I have a strong desire for quality and attention to detail.
+
 </div>
 
 
