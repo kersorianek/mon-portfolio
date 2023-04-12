@@ -32,7 +32,7 @@ _Quick Link to Specific Topic:_
 - [Agile Values](#agile-values)
 - [Agile Principles:](#agile-principles)
 - [Implementing Agile Project Management using Scrum](#implementing-agile-project-management-using-scrum)
-  - [03 Scurm Roles](#03-scurm-roles)
+  - [03 Scrum Roles](#03-scrum-roles)
   - [05 Scrum Events](#05-scrum-events)
 - [03 Artifacts of Scrum](#03-artifacts-of-scrum)
 - [How to Implement Scrum](#how-to-implement-scrum)
@@ -101,7 +101,7 @@ The 12 principles of Agile project management, as outlined in the Agile Manifest
 
 The Scrum framework provides a structured approach to Agile project management. The Scrum framework consists of three roles, five events, and three artifacts.
 
-## 03 Scurm Roles
+## 03 Scrum Roles
 
 1. Product Owner: 
 The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that it reflects the needs of the customer and stakeholders.
@@ -113,6 +113,7 @@ The Scrum Master is responsible for ensuring that the Scrum framework is impleme
 The Development Team is responsible for delivering a potentially shippable product increment at the end of each sprint.
 
 ##  05 Scrum Events
+Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review, and sprint retrospective
 
 1. Sprint: 
 A time-boxed iteration of development work that typically lasts 2-4 weeks.
@@ -130,7 +131,7 @@ A meeting where the team presents the work completed during the sprint to the Pr
 A meeting where the team reflects on the previous sprint and identifies areas for improvement.
 
 # 03 Artifacts of Scrum
-
+Scrum teams use three artifacts: the product backlog, the sprint backlog, and the increment.
 1. Product Backlog: 
 A prioritized list of features and requirements for the product.
 
