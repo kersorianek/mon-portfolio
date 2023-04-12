@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Agile Scrum: A Comprehensive Guide to Mastering the Framework"
-subtitle: Agile Project Management with Srum Roles and Responsibilites
+title: A Comprehensive Guide to Mastering Agile Scrum"
+subtitle: Agile Project Management with Scrum Roles and Responsibilites
 tags:
   [
     business system analysis,
@@ -36,7 +36,7 @@ _Quick Link to Specific Topic:_
 - [03 Artifacts of Scrum](#03-artifacts-of-scrum)
 - [Examples of Scrum in Software Projects](#examples-of-scrum-in-software-projects)
   - [Scrum User Stories](#scrum-user-stories)
-    - [Distributed Scrum Teams](#distributed-scrum-teams)
+  - [Distributed Scrum Teams](#distributed-scrum-teams)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Project Management:](#all-posts-on-project-management)
 
@@ -75,15 +75,16 @@ The Scrum framework provides a structured approach to Agile project management. 
 ## 03 Scrum Roles and their responsibilites
 
 1. Product Owner:
-   The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that it reflects the needs of the customer and stakeholders.
+The Product Owner is responsible for defining and prioritizing the product backlog, ensuring that it reflects the needs of the customer and stakeholders.
 
 2. Scrum Master:
-   The Scrum Master is responsible for ensuring that the Scrum framework is implemented correctly and that the team is following the Agile principles and values.
+The Scrum Master is responsible for ensuring that the Scrum framework is implemented correctly and that the team is following the Agile principles and values.
 
 3. Development Team:
-   The Development Team is responsible for delivering a potentially shippable product increment at the end of each sprint.
+The Development Team is responsible for delivering a potentially shippable product increment at the end of each sprint.
 
-**The Scrum Team:** A collection of individuals working together to deliver requested and committed product increments. The ideal size is 7 +/- 2 people. The Scrum Team is empowered and self-organizing to define:
+**The Scrum Team:** 
+A collection of individuals working together to deliver requested and committed product increments. The ideal size is 7 +/- 2 people. The Scrum Team is empowered and self-organizing to define:
 
 - What is will commit to deliver at the end of the Sprint?
 - How the expected results have to be broken down into tasks?
@@ -124,15 +125,16 @@ The Scrum framework provides a structured approach to Agile project management. 
 Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review, and sprint retrospective
 
 1. Sprint:
-   A time-boxed iteration of development work that typically lasts 2-4 weeks.
+A time-boxed iteration of development work that typically lasts 2-4 weeks.
 
 2. Sprint Planning:
-   A meeting where the team plans the work that will be completed during the upcoming sprint.
+A meeting where the team plans the work that will be completed during the upcoming sprint.
 
 - Sprint Planning Meeting includes WHAT-Meeting and HOW-Meeting.
 - WHAT-Meeting the Scrum Team commits to the User Stories from the Scrum Product Backlog and it uses a HOW-Meeting to break the committed User Stories into smaller and concrete tasks. Then implementation begins.
 - Iterative process: Stakeholder requirements > Update Product Backlog -> Sprint Planning Session -> Daily Sprint Meeting -> Sprint Review Session -> Potentially deliverable Product -> Release -> Sprint Retrospective
--
+
+
 
 ### WHAT-Meeting
 
@@ -146,13 +148,14 @@ Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review
 
 ### HOW-Meeting
 
-- all WHAT-Meeting selected backlog items will be the input of the HOW-Meeting.
+- All WHAT-Meeting selected backlog items will be the input of the HOW-Meeting.
 - identifying the concrete tasks needed for complete implementation of the Scrum Product Backlog entries. Base for this estimation should be person-hours.
 - tasks normally include design, implementation, test and documentation activities.
 - can be down in a separate session after the WHAT-Meeting.
 
 3. Daily Scrum/ Daily Stand up meeting:
-   A daily 15-minute meeting where the team members discuss progress and plan their work for the day.
+
+A daily 15-minute meeting where the team members discuss progress and plan their work for the day.
 
 - A short everyday meeting during Sprint, not more than 15 minutes.
 - Each team member should briefly provide the answers of the following three questions:
@@ -162,7 +165,7 @@ Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review
   - No issues or concerns raised during the meeting are allowed to be ignored due to the lack of time. Issues or concerns ought to be recorded by the Scrum Master and needs to be specifically handled after the meeting.
 
 4. Sprint Review:
-   A meeting where the team presents the work completed during the sprint to the Product Owner and stakeholders.
+A meeting where the team presents the work completed during the sprint to the Product Owner and stakeholders.
 
 - Take place in the form of a demo of the new features.
 - Backlog items that are not completed shall not be demonstrated.
@@ -171,7 +174,7 @@ Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review
 - Scrum Product Owner inspects the implemented backlog entries and accepts the solution or adds new stories to the Scrum Product Backlog to adapt the functionality.
 
 5. Sprint Retrospective:
-   A meeting where the team reflects on the previous sprint and identifies areas for improvement.
+A meeting where the team reflects on the previous sprint and identifies areas for improvement.
 
 - Time-boxed event.
 - An integral part of the “inspect and adapt” process.
@@ -191,7 +194,7 @@ Scrum teams use five events: sprint, sprint planning, daily Scrum, sprint review
 Scrum teams use three artifacts: the product backlog, the sprint backlog, and the increment.
 
 1. Product Backlog:
-   A prioritized list of features and requirements for the product.
+A prioritized list of features and requirements for the product.
 
 - List of all things that needs to be done within the project.
 - Each entry in the Scrum Product Backlog must have some kind of customer value. Entries without any customer value are pure waste and should not be present anyway.
@@ -208,7 +211,7 @@ Scrum teams use three artifacts: the product backlog, the sprint backlog, and th
 - about 10% of the Scrum Teams total time should be reserved for maintaining the Scrum Product Backlog.
 
 2. Sprint Backlog:
-   A list of tasks that the Development Team plans to complete during the upcoming sprint.
+A list of tasks that the Development Team plans to complete during the upcoming sprint.
 
 - All entries have to be estimated on a person-hour base in order to track progress and remaining efforts.
 - The Sprint Backlog is a living artifact and is updated on a daily base.
@@ -220,7 +223,8 @@ Scrum teams use three artifacts: the product backlog, the sprint backlog, and th
 # Examples of Scrum in Software Projects
 
 Let's say you're working on a software project that involves developing a software project. Here's how Scrum could be used:
-**Sprint 1, Day 0**
+
+- **Sprint 1, Day 0**
 
 - Product Owner presents highest priority items from Product Backlog
 - Development team discusses and clarifies any open questions for each item
@@ -257,7 +261,7 @@ Let's say you're working on a software project that involves developing a softwa
 - Focus on exactly what the user needs without going into the details on how to achieve it.
 - Be a descriptive sentence.
 
-### Distributed Scrum Teams
+## Distributed Scrum Teams
 
 - Can slide the teams in different manners as Component or Feature teams or Both.
 - Component Team — each team is only responsible for the implementation for dedicated components in the system. For example, User Interface, Business Logic and Infrastructure.
