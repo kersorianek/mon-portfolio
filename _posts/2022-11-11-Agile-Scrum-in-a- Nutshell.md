@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Agile Scrum: A Comprehensive Guide to Mastering the Framework" 
-subtitle: Agile Project Managment with Srum Roles and Responsibilites
+subtitle: Agile Project Management with Srum Roles and Responsibilites
 tags:
   [
     business system analysis,
@@ -278,15 +278,16 @@ A comprehensive checklist of necessary activities that ensure that only truly do
 **[⬆ back to top](#what-is-agile)**
 
 
+
 ----------------------------------------------------------------------
 ----------------------------------------------------------------------
 
 
-Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
+Enjoyed this post. 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
- 
+Your support helps me create more valuable content. Thank you!
 
 
 
@@ -306,7 +307,7 @@ A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with expe
  
 
 
-👉 For Any Query or Assignment Contact: : 
+👉 Contact Information : 
 
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
