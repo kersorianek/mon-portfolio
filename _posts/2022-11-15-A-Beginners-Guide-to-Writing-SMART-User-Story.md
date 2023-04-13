@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Comprehensive Guide to Mastering User Story and Epic"
+title: A Comprehensive Guide to Mastering User Story and Epic
 subtitle: A beginner's guide to writing SMART user stories and epics using best practices
 tags:
   [

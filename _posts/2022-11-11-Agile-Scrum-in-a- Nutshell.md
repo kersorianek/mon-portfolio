@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Comprehensive Guide to Mastering Agile Scrum"
+title: A Comprehensive Guide to Mastering Agile Scrum
 subtitle: Agile Project Management with Scrum Roles and Responsibilites
 tags:
   [
