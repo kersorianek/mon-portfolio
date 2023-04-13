@@ -16,144 +16,170 @@ share-img: /assets/img/diary.png
 cover-img: /assets/img/cover.jpg
 ---
 
-You may have heard of Agile project management and the Scrum framework. But what exactly is Scrum, and how can it help you and your team deliver high-quality software in a shorter timeframe? In this blog, we'll explore the pillars and values of Scrum, the roles of the Scrum team, the artifacts that Scrum teams use, and the events that occur during a Scrum project. We'll also provide examples of how Scrum is used in a software project to help you understand the practical application of the Scrum framework.
+User stories and epics are essential components of Agile project management. They help teams define and communicate project requirements and deliverables in a way that is easily understood by all stakeholders. In this blog post, you will learn about the beginner's guide to writing SMART user stories and epics using best practices.
 
 _Quick Link to Specific Topic:_
 
-- [What is Agile?](#what-is-agile)
-- [Agile: Scrum Methodology](#agile-scrum-methodology)
-- [Pillars and Values of Scrum](#pillars-and-values-of-scrum)
-- [Main components of Scrum Framework](#main-components-of-scrum-framework)
-  - [03 Scrum Roles and their responsibilites](#03-scrum-roles-and-their-responsibilites)
-- [Responsibility of Each Individuals in Scrum](#responsibility-of-each-individuals-in-scrum)
-  - [Responsibilities of the Scrum Product Owner](#responsibilities-of-the-scrum-product-owner)
-  - [Responsibilities of the Scrum Master](#responsibilities-of-the-scrum-master)
-  - [Responsibilities of the Development team/ Scrum Team](#responsibilities-of-the-development-team-scrum-team)
-  - [05 Scrum Events](#05-scrum-events)
-    - [WHAT-Meeting](#what-meeting)
-    - [HOW-Meeting](#how-meeting)
-    - [Rules \& Norms:](#rules--norms)
-- [03 Artifacts of Scrum](#03-artifacts-of-scrum)
-- [How to Implement Scrum](#how-to-implement-scrum)
-- [Examples of Scrum in Software Projects](#examples-of-scrum-in-software-projects)
-  - [Scrum User Stories](#scrum-user-stories)
-  - [Distributed Scrum Teams](#distributed-scrum-teams)
+- [What is user story](#what-is-user-story)
+- [What is Epic?](#what-is-epic)
+- [Difference between User Stories and Epics](#difference-between-user-stories-and-epics)
+- [Relationship between User Stories and Epics](#relationship-between-user-stories-and-epics)
+- [Writing User Stories](#writing-user-stories)
+  - [Importance of SMART framework](#importance-of-smart-framework)
+  - [Steps to Write SMART User Stories](#steps-to-write-smart-user-stories)
+  - [Examples of SMART User Stories](#examples-of-smart-user-stories)
+  - [How to set acceptance criteria to user stories with an example](#how-to-set-acceptance-criteria-to-user-stories-with-an-example)
+  - [Best Practices for Writing User Stories](#best-practices-for-writing-user-stories)
+- [Steps to Writing SMART Epics](#steps-to-writing-smart-epics)
+- [Guide to Map User Stories with Epics](#guide-to-map-user-stories-with-epics)
+- [Tools for Writing User Stories and Epics](#tools-for-writing-user-stories-and-epics)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Project Management:](#all-posts-on-project-management)
 
-User stories and epics are essential components of Agile project management. They help teams define and communicate project requirements and deliverables in a way that is easily understood by all stakeholders. In this blog post, we will provide a beginner's guide to writing SMART user stories and epics using best practices.
-
-Understanding User Stories and Epics
-
-Definition and Purpose
-
-A user story is a concise, simple, and easy-to-understand description of a feature or functionality that a user requires to achieve a specific goal. It is typically written in the form of "As a (user), I want (goal) so that (reason)." User stories are used to define the requirements of a product or feature in a way that is understandable to all stakeholders.
-
-An epic, on the other hand, is a large body of work that can be broken down into smaller, more manageable user stories. Epics are used to represent larger features or functionalities that cannot be easily captured in a single user story.
-
-Importance of SMART Framework
-
-To ensure that user stories and epics are effective, it is important to use the SMART framework. SMART stands for Specific, Measurable, Achievable, Relevant, and Time-bound. By following this framework, user stories and epics can be written in a way that is clear, concise, and actionable.
-
-Difference between User Stories and Epics
-
-User stories and epics are different in terms of scope and level of detail. User stories are focused on a single feature or functionality, while epics represent larger features or functionalities that require multiple user stories to fully define. User stories are typically written in a single sentence, while epics may require multiple sentences to fully describe the feature or functionality.
-
-Writing User Stories
-
-Steps to write SMART User Stories
-
-Identify the user: Begin by identifying the user who will be using the feature or functionality.
-
-Define the goal: Clearly define the goal that the user wants to achieve.
-
-State the reason: State the reason why the user wants to achieve this goal.
-
-Make it specific: Ensure that the user story is specific and focuses on a single feature or functionality.
-
-Make it measurable: Ensure that the user story can be measured to determine if it has been achieved.
-
-Make it achievable: Ensure that the user story is achievable and can be completed within a reasonable timeframe.
-
-Make it relevant: Ensure that the user story is relevant to the project and will contribute to the overall goal.
-
-Make it time-bound: Ensure that the user story has a clear deadline for completion.
-
-Examples of SMART User Stories
-
-Example 1: As a customer, I want to be able to view my order history so that I can track my previous purchases and make future orders more efficiently.
-
-Example 2: As a website visitor, I want to be able to filter search results by price range so that I can easily find products that fit my budget.
-
-Best Practices for Writing User Stories
-
-Keep it simple and concise.
-
-Focus on the user's needs and goals.
-
-Use the SMART framework to ensure that the user story is effective.
-
-Avoid using technical jargon or complex language.
-
-Prioritize user stories based on business value.
-
-Writing Epics
-
-Steps to write SMART Epics
-
-Identify the larger feature or functionality that the epic represents.
-
-Break the epic down into smaller, more manageable user stories.
-
-Ensure that each user story is specific, measurable, achievable, relevant, and time-bound.
-
-Organize the user stories into a logical sequence.
-
-Assign priorities to the user stories based on business value.
-
-Examples of SMART Epics
-Scrum is a powerful framework for Agile project management that can help software teams deliver high-quality products in shorter timeframes. By focusing on transparency, inspection, and adaptation, and guided by the values of commitment, focus, openness, respect, and courage, Scrum enables teams to collaborate effectively, prioritize work, and deliver value to customers. By understanding the roles, artifacts, and events of Scrum, and how it can be applied in software projects, beginner project managers can begin to master the Scrum framework and deliver successful projects.
-
-Example 1: Improve Website Navigation
-
-User Story 1: As a website visitor, I want to be able to easily find product categories so that I can quickly navigate to the products I'm interested in.
-
-User Story 2: As a website administrator, I want to be able to create and manage product categories so that the website navigation remains up-to-date and easy to use.
-User Story 3: As a website visitor, I want to be able to save products to a wishlist so that I can easily find them later.
-Example 2: Social Media Integration
-
-User Story 1: As a website visitor, I want to be able to share products on social media platforms so that I can recommend them to my friends and followers.
-User Story 2: As a website administrator, I want to be able to track social media shares and engagement so that I can measure the effectiveness of our social media campaigns.
-User Story 3: As a website visitor, I want to be able to log in to the website using my social media account so that I can quickly and easily create an account.
-Best Practices for Writing Epics
-
-Break the epic down into smaller, more manageable user stories.
-
-Ensure that each user story is specific, measurable, achievable, relevant, and time-bound.
-
-Organize the user stories into a logical sequence.
-
-Assign priorities to the user stories based on business value.
-
-Tools for Writing User Stories and Epics
-
-There are many tools available for writing user stories and epics. Some popular tools include Jira, Trello, and MS Word. Jira is a project management tool that allows teams to track and manage their work using Agile methodologies. Trello is a visual collaboration tool that allows teams to organize and prioritize their work using Kanban boards. MS Word is a popular word processing tool that can be used to write and format user stories and epics.
-
-Pros and Cons of using these tools
-
-Jira and Trello are popular tools for Agile project management, but they can be complex and difficult to learn for beginners. MS Word is a simpler tool that is easy to use, but it may not provide all the features needed for Agile project management. Ultimately, the choice of tool will depend on the specific needs of the team and the project.
 
  
 
-In this beginner's guide, we have covered the basics of writing SMART user stories and epics using best practices. By following the steps outlined in this guide and using the SMART framework, teams can effectively communicate project requirements and deliverables in a way that is understandable to all stakeholders. Additionally, by using popular tools such as Jira and MS Word, teams can streamline their Agile project management processes and improve their overall productivity.
 
-**[⬆ back to top](#what-is-agile)**
+
+# What is user story
+
+A user story is a brief, simple statement that represents a feature or requirement from the user's perspective. User stories are used to describe what a user needs to accomplish a specific task, and they help the development team understand the end-user's needs.
+
+A user story is a concise, simple, and easy-to-understand description of a feature or functionality that a user requires to achieve a specific goal. It is typically written in the form of "As a (user), I want (goal) so that (reason)." User stories are used to define the requirements of a product or feature in a way that is understandable to all stakeholders.
+
+
+User stories are often written in a specific format and have acceptance criteria that need to be met for the story to be considered done.
+
+# What is Epic?
+
+On the other hand, is a large body of work that can be broken down into smaller, more manageable user stories. Epics are used to represent larger features or functionalities that cannot be easily captured in a single user story.
+
+
+Epics are used to describe a significant feature or requirement that can't be completed within a single iteration. 
+
+
+# Difference between User Stories and Epics
+
+User stories and epics are different in terms of scope and level of detail. User stories are focused on a single feature or functionality, while epics represent larger features or functionalities that require multiple user stories to fully define. User stories are typically written in a single sentence, while epics may require multiple sentences to fully describe the feature or functionality.
+
+# Relationship between User Stories and Epics
+
+User stories and epics are interconnected, and they have a hierarchical relationship. 
+
+Epics represent large, overarching themes or requirements that are broken down into smaller user stories that can be completed within an iteration. 
+
+User stories are used to represent a single feature or requirement that can be completed within an iteration.
+
+# Writing User Stories
+
+## Importance of SMART framework
+
+To ensure that user stories are well-written and concise, the SMART framework is often used. The SMART framework ensures that user stories are Specific, Measurable, Achievable, Relevant, and Time-bound. By using the SMART framework, user stories are more likely to be completed within the iteration and meet the customer's needs.
+
+## Steps to Write SMART User Stories
+
+- Define the user: 
+Identify the user or persona that the user story will represent.
+- Define the feature: 
+Identify the feature or requirement that the user story will describe.
+- Write the user story: 
+Write a brief, simple statement that describes the feature or requirement from the user's perspective. Use the SMART framework to ensure that the user story is well-written.
+- Add acceptance criteria: 
+Define the acceptance criteria that need to be met for the user story to be considered done.
+
+- Make it specific: 
+Ensure that the user story is specific and focuses on a single feature or functionality.
+
+- Make it measurable: 
+Ensure that the user story can be measured to determine if it has been achieved.
+
+- Make it achievable: 
+Ensure that the user story is achievable and can be completed within a reasonable timeframe.
+
+- Make it relevant: 
+Ensure that the user story is relevant to the project and will contribute to the overall goal.
+
+- Make it time-bound: 
+Ensure that the user story has a clear deadline for completion.
+
+
+## Examples of SMART User Stories
+
+Let's take a look at some examples of SMART user stories:
+
+- As a customer, I want to be able to view my order history, so I can track my purchases.
+
+- As a website visitor, I want to be able to search for products by name or category, so I can quickly find what I'm looking for.
+
+- As a salesperson, I want to be able to view my sales metrics, so I can track my progress towards my goals.
+
+## How to set acceptance criteria to user stories with an example
+
+Acceptance criteria define the conditions that need to be met for a user story to be considered done. Acceptance criteria are often written in a specific format and are used to ensure that the development team and the customer have a shared understanding of what needs to be done.
+
+Let's take a look at an example of acceptance criteria for the user story "As a customer, I want to be able to view my order history, so I can track my purchases":
+
+- The user should be able to view all their previous orders.
+- The user should be able to filter their orders by date, status, or product.
+- The user should be able to view detailed information about each order, including the products ordered and the shipping information.
+
+## Best Practices for Writing User Stories
+
+- Keep it simple and concise.
+- Focus on the user's needs and goals.
+- Avoid using technical jargon or complex language.
+- Prioritize user stories based on business value and risk.
+- Write user stories from the user's perspective.
+- Use the SMART framework to ensure that user stories are well-written and concise.
+- Collaborate with the customer to ensure that user stories meet their needs.
+- Write acceptance criteria to ensure that the development team and the customer have a shared understanding of what needs to be done.
+- Refine user stories during sprint planning and backlog grooming.
+
+
+# Steps to Writing SMART Epics
+
+- Identify the high-level requirement or feature that the epic will represent.
+- Break down the epic into smaller user stories that can be completed within an iteration.
+- Write user stories using the SMART framework.
+- Define acceptance criteria for each user story.
+- Prioritize user stories based on business value and risk.
+- Best Practices for Mapping User Story with Epics with Example
+
+# Guide to Map User Stories with Epics
+Mapping user stories with epics is an essential part of Agile development. By breaking down epics into smaller user stories, the development team can work on features and requirements iteratively and incrementally.
+
+Let's take a look at an example of mapping user stories with epics:
+
+- Epic:
+As a customer, I want to be able to purchase products online, so I can easily buy what I need.
+
+- User Stories:
+
+    - As a customer, I want to be able to add products to my cart, so I can purchase multiple items at once.
+    - As a customer, I want to be able to view my cart, so I can see the items I have selected.
+    - As a customer, I want to be able to enter my billing and shipping information, so I can complete my purchase.
+    - As a customer, I want to be able to review my order before finalizing the purchase, so I can make any necessary changes.
+
+By breaking down the epic into smaller user stories, the development team can focus on one feature or requirement at a time and deliver business value iteratively and incrementally.
+
+# Tools for Writing User Stories and Epics
+
+There are many tools available for writing user stories and epics. Some popular tools include Jira, Trello, MS Excel, Google Sheet, and MS Word. Jira is a project management tool that allows teams to track and manage their work using Agile methodologies. Trello is a visual collaboration tool that allows teams to organize and prioritize their work using Kanban boards. MS Word is a popular word processing tool that can be used to write and format user stories and epics.
+
+
+In conclusion, writing SMART user stories and epics is an essential part of Agile development. By focusing on the user's needs and using the SMART framework, user stories are more likely to be completed within the iteration and meet the customer's needs. By breaking down epics into smaller user stories and prioritizing them based on business value and risk, the development team can deliver business value iteratively and incrementally.
+
+
+
+
+
+**[⬆ back to top](#what-is-user-story)**
 
 ---
 
 ---
 
-Enjoyed this post.
+Enjoyed this post!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
