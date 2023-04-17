@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Data Analysis Drives Business Analysis and Project Management 
+title: How Data Analysis Drives Project Management  
 subtitle: Leveraging Data Analytics to Make Better Business Decisions and Manage Projects Effectively
 tags:
   [

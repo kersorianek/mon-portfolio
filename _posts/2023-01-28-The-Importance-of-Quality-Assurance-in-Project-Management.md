@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why Quality Assurance is Critical for Successful Business Analysis and Project Management
+title: Why Quality Assurance is Critical for Successful Project Management
 subtitle: Discover the Importance of QA in Delivering Quality Projects on Time and Within Budget
 tags:
   [
