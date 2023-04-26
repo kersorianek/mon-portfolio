@@ -1,6 +1,15 @@
 # Joe Ganser's CV
 
+
 ## Employment
+
+**<h3 style="color:Black">TMCI International/U.S. Department of Defense - Data/Machine Learning Engineer</h3></p>Remote  - Jan. 2023 to Current**
+
+* Trained & lead a team of five on the usage of unsupervised learning models (Splink/Fellegi Sunter) for the cleaning of multi-million row tabular
+datasets via distributed cloud computing
+* Automated ETL pipelines of multi-million row datasets using PySpark, AWS EMR, MySQL & Redshift 
+* Acquired and maintained a Tier 2.5 secret government security clearance for access to tabular data for military applications 
+* Research focused on the maintenance & integrity of healthcare data related to military personnel
 
 **<h3 style="color:Black">Saint Peters University - Data Science/Engineering Adjunct Professor </h3></p>Jersey City, NJ  - Sept. 2022 to Current**
 

@@ -130,6 +130,7 @@ markdown_extensions:
 
 
 # Page tree
+# Page tree
 nav:
   - Home: index.md
   - Curriculum Vitae: curriculum_vitae.md
@@ -143,6 +144,47 @@ nav:
     - Real Estate Sales - A basic regression tutorial: research/2018-10-20-AMES-tutorial.md
     - 2017 Bitcoin Bubble - Time series forecasting: research/2017-12-21-Bitcoin-Ethereum-timeseries.md
   - Accomplishments: awards_CV.md
+  - Lecture Notes:
+    - Stats with Python:
+      - Exploratory Data Analysis:
+        - Notebook: lectures/stats/eda/eda.md
+    - Supervised Learning:
+      - Classification part 1:
+        - Notebook: lectures/supervised_learning/classification_part1/Classification_part1.md
+        - Slides: lectures/supervised_learning/classification_part1/Classification_part1_slides.md
+      - Classification part 2:
+        - Notebook: lectures/supervised_learning/classification_part2/Classification_part2.md
+      - Regression part 1:
+        - Notebook: lectures/supervised_learning/Regression_part1/Regression_part1.md
+        - Slides: lectures/supervised_learning/Regression_part1/Regression_part1_slides.md
+      - Regression part 2:
+        - Notebook: lectures/supervised_learning/Regression_part2/Regression_part2.md
+        - Slides: lectures/supervised_learning/Regression_part2/Regression_part2_slides.md
+      - K-Nearest Neighbors & Decision Trees:
+        - Notebook: lectures/supervised_learning/KNN_&_Decision_Trees/KNN_and_Decision_Trees_Notebook.md
+        - Slides: lectures/supervised_learning/KNN_&_Decision_Trees/KNN_and_Decision_Trees_Slides.md
+    - Unsupervised Learning:
+      - DB Scan:
+        - Notebook: lectures/unsupervised_learning/db_scan/db_scan_notebook.md
+        - Slides: lectures/unsupervised_learning/db_scan/db_scan_slides.md
+      - Kmeans:
+        - Notebook: lectures/unsupervised_learning/KMeans/KMeans_notebook.md
+      - Gaussian Mixture Models:
+        - Slides: lectures/unsupervised_learning/GMM/slides/GMM_slides.md
+        - Notebook: lectures/unsupervised_learning/GMM/notebook/GMM_notebook.md
+    - Spark:
+      - Intro to Spark:
+        - Slides: lectures/spark/intro_to_spark/intro_to_spark_slides.md
+        - Notebook: lectures/spark/intro_to_spark/intro_to_spark_nb.md
+      - Splink - Slides: lectures/spark/splink/splink_slides.md
+    - Intro to Python:
+      - Object Oriented Programming part 1:
+        - Notebook: lectures/Intro_to_Python/oop/OOP_part1.md
+      - Object Oriented Programming part 2:
+        - Notebook: lectures/Intro_to_Python/oop/OOP_part2.md
+      - Dynamic Programming:
+        - Slides: lectures/Intro_to_Python/dynamic_programming/dynamic_programming_slides.md
+        - Notebook: lectures/Intro_to_Python/dynamic_programming/dynamic_programming_notebook.md
   - Courses Taught:
     - Teaching Experiences: teaching_CV.md
     - Python for Data Science:

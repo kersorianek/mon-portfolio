@@ -24,6 +24,10 @@ My name is Joe Ganser and I am an award winning data technologist with a passion
 
     My teaching history, with syllabi.</a>
 
+!!! note "<a href="/lectures/stats/eda/eda">Lecture Notes"
+
+    Some lecture notes for my courses. Topics include supervised learning, unsupervised learning, big data computing, statistics, intro to python, et al.</a>
+
 
 
 As a python & SQL expert level coder, I am skilled in applied math, machine learning, physics and marketing. I have been involved in data science since 2017 and applied mathematics since 2009.</p>I look forward to networking with you! Feel free to connect on <a href="https://www.linkedin.com/in/joe-ganser-aa9b8b132">Linkedin</a>, follow me on <a href="https://github.com/joeganser">github</a> or just shoot me an <a href="mailto:jkgprofessional@gmail.com">email</a>.
