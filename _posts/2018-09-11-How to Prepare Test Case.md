@@ -18,12 +18,36 @@ As software complexity and the need for quality assurance increases, the importa
 _Quick Link to Specific Topic:_
 
 - [What is a Test Case](#what-is-a-test-case)
+  - [Elements of a well-written test case](#elements-of-a-well-written-test-case)
+    - [Test case ID:](#test-case-id)
+    - [Test case name:](#test-case-name)
+    - [Test case objective:](#test-case-objective)
+    - [Preconditions:](#preconditions)
+    - [Test steps:](#test-steps)
+    - [Expected results:](#expected-results)
+    - [Actual results:](#actual-results)
+    - [Pass/fail criteria:](#passfail-criteria)
 - [How to write test case for software:](#how-to-write-test-case-for-software)
   - [Use a clear title](#use-a-clear-title)
   - [Include a strong description](#include-a-strong-description)
   - [Include estimates and prerequisites](#include-estimates-and-prerequisites)
   - [Keep test steps clear and concise](#keep-test-steps-clear-and-concise)
   - [Make it reusable](#make-it-reusable)
+  - [Different techniques for designing test cases](#different-techniques-for-designing-test-cases)
+    - [Boundary value analysis:](#boundary-value-analysis)
+    - [Equivalence partitioning:](#equivalence-partitioning)
+    - [Decision table testing:](#decision-table-testing)
+    - [State transition testing:](#state-transition-testing)
+    - [Use case testing:](#use-case-testing)
+  - [Importance of maintaining and updating test cases regularly](#importance-of-maintaining-and-updating-test-cases-regularly)
+    - [Keeping test cases up to date with changes in the software:](#keeping-test-cases-up-to-date-with-changes-in-the-software)
+    - [Removing redundant test cases:](#removing-redundant-test-cases)
+    - [Adding new test cases:](#adding-new-test-cases)
+    - [Re-executing test cases:](#re-executing-test-cases)
+  - [Examples of how to write test cases for different types of software](#examples-of-how-to-write-test-cases-for-different-types-of-software)
+    - [Web applications:](#web-applications)
+    - [Mobile Application:](#mobile-application)
+    - [Desktop software:](#desktop-software)
 - [Do's for Writing Test Case](#dos-for-writing-test-case)
 - [Dont's for Writing Test Case](#donts-for-writing-test-case)
 - [A Complete Checklist to Check Web Application:](#a-complete-checklist-to-check-web-application)
@@ -39,8 +63,38 @@ Test cases provide testers with a set of conditions under which they can validat
 Effective test cases are an essential component of any software testing process. They help ensure that the product functions as intended, is reliable, and meets the needs of its users. 
 
 
+## Elements of a well-written test case
+
+A well-written test case should be clear, concise, and easily understandable. It should contain the following elements:
+
+### Test case ID: 
+A unique identifier that allows easy reference to the test case.
+
+### Test case name: 
+A descriptive title that provides an overview of the test case.
+
+### Test case objective: 
+A statement that describes the purpose of the test case and what it aims to achieve.
+
+### Preconditions: 
+A list of conditions that must be met before the test case can be executed. This includes any hardware, software, or environmental requirements.
+
+### Test steps: 
+A detailed list of steps that need to be followed to execute the test case.
+
+### Expected results: 
+A clear and concise description of what should happen when the test case is executed successfully.
+
+### Actual results: 
+A record of the outcome of the test case when it is executed.
+
+### Pass/fail criteria: 
+A set of criteria that determines whether the test case has passed or failed.
+
 
 # How to write test case for software:
+ 
+Let's learn how to write test cases for your software project. 
 
 ## Use a clear title
 
@@ -72,6 +126,129 @@ A good test case provides long-term value to the software testing team by being 
 As a beginner, the best approach to writing test cases is to thoroughly read the software requirements document multiple times to ensure a clear understanding of the needs before starting to write the test case. 
 
 To begin, determine the scenario based on the information provided in the required documents. A test case template is available for practical convenience in preparing test cases.
+
+
+## Different techniques for designing test cases
+
+There are several techniques for designing test cases. Some of the most popular techniques include:
+
+### Boundary value analysis: 
+This involves testing values at the boundaries of the input domain, as they are most likely to cause errors.
+
+### Equivalence partitioning: 
+This involves dividing the input domain into equivalence classes and testing a representative value from each class.
+
+### Decision table testing: 
+This involves creating a table of inputs and outputs and testing each combination.
+
+### State transition testing: 
+This involves testing the software's response to changes in state or context.
+
+### Use case testing: 
+This involves testing the software's ability to meet the requirements of a specific use case.
+
+## Importance of maintaining and updating test cases regularly
+
+Maintaining and updating test cases regularly is essential to ensure that they remain relevant and effective. This includes:
+
+### Keeping test cases up to date with changes in the software: 
+As the software evolves, test cases need to be updated to ensure that they continue to test the software's functionality accurately.
+
+### Removing redundant test cases: 
+Over time, some test cases may become redundant, and they need to be removed to keep the test suite lean and efficient.
+
+### Adding new test cases: 
+New functionality or features may be added to the software, and new test cases need to be added to test these changes.
+
+### Re-executing test cases: 
+Regularly executing test cases ensures that the software remains stable and meets the desired functionality and quality requirements.
+
+
+## Examples of how to write test cases for different types of software
+
+Writing test cases for different types of software requires different approaches. Here are some examples of how to write test cases for different types of software:
+
+### Web applications: 
+Test cases for web applications should test the functionality and usability of the application on different browsers and operating systems. This includes testing the responsiveness of the web application, the accuracy of the data displayed, the performance of the application under different loads, and the security of the application against common attacks like SQL injection and cross-site scripting.
+
+For example, a test case for a login functionality of a web application could be:
+
+Test case ID: W1
+
+Test case name: Login Functionality Test
+
+Test case objective: To verify that the login functionality of the web application works as expected.
+
+Preconditions: The web application is running on a supported browser and operating system.
+
+Test steps:
+
+Navigate to the login page.
+
+Enter valid credentials.
+
+Click on the login button.
+
+Expected results: The user should be logged in successfully and redirected to the dashboard page.
+
+Actual results: The user is logged in successfully and redirected to the dashboard page.
+
+Pass/fail criteria: The test case passes if the user is logged in successfully and redirected to the dashboard page. Otherwise, the test case fails.
+
+### Mobile Application:
+Test cases for mobile apps should test the functionality and usability of the app on different devices, operating systems, and network conditions. This includes testing the performance of the app under different loads, the accuracy of the data displayed, and the user experience of the app.
+For example, a test case for a weather app could be:
+
+Test case ID: M1
+
+Test case name: Weather Information Test
+
+Test case objective: To verify that the weather information displayed in the app is accurate.
+
+Preconditions: The mobile app is installed and running on a supported device and operating system.
+
+Test steps:
+
+Open the weather app.
+
+Enter the name of a city in the search bar.
+
+Click on the search button.
+
+Expected results: The weather information for the city entered is displayed accurately.
+
+Actual results: The weather information for the city entered is displayed accurately.
+
+Pass/fail criteria: The test case passes if the weather information for the city entered is displayed accurately. Otherwise, the test case fails.
+
+### Desktop software: 
+
+Test cases for desktop software should test the functionality and usability of the software on different operating systems and hardware configurations. This includes testing the performance of the software under different loads, the accuracy of the data displayed, and the user experience of the software.
+For example, a test case for a video editing software could be:
+
+Test case ID: D1
+
+Test case name: Video Editing Test
+
+Test case objective: To verify that the video editing functionality of the software works as expected.
+
+Preconditions: The desktop software is installed and running on a supported operating system.
+
+Test steps:
+
+Open the video editing software.
+
+Import a video file.
+
+Edit the video file by adding effects and transitions.
+
+Export the edited video file.
+
+Expected results: The edited video file is exported successfully and plays back correctly.
+
+Actual results: The edited video file is exported successfully and plays back correctly.
+
+Pass/fail criteria: The test case passes if the edited video file is exported successfully and plays back correctly. Otherwise, the test case fails.
 
 
 
@@ -114,6 +291,10 @@ To begin, determine the scenario based on the information provided in the requir
 - [x] Vague statements like “Appropriate message/value/screen” etc, should not be part of expected result. Every detail should be clearly spelt out."
 - [x] Are all the statements free from grammatical errors?
 
+
+
+
+
 # Checklist During Test Execution Phase:
 
 - [x] Have the Actual Results been updated for each of the steps? Has the actual result been documented for a failed step and for its subsequent re-runs?
@@ -128,7 +309,9 @@ To begin, determine the scenario based on the information provided in the requir
 - [x] Are all the statements free from grammatical errors?
 
 
+ 
 
+In conclusion, writing effective test cases for software is a critical aspect of software development. It ensures that the software meets the desired functionality and quality requirements and is free of defects. By following the best practices for preparing test cases, including the elements of a well-written test case, different techniques for designing them, and the importance of maintaining and updating them regularly, software development teams can ensure that their software is of high quality and meets the needs of their users. Additionally, by avoiding common mistakes and using the examples provided for different types of software, teams can create effective and efficient test cases that contribute to the overall success of the software development project.
 
 
 ----------------------------------------------------------------------
