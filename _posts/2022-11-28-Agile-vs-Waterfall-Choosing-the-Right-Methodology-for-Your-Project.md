@@ -47,6 +47,7 @@ Waterfall methodology is a linear approach to project management that follows a 
 The main benefit of the waterfall methodology is its predictability. Each phase of the project is carefully planned and executed, ensuring that the project stays on track and within budget. However, this approach can also be rigid and inflexible, making it difficult to adapt to changes as the project progresses.
 
 # Choosing the Right Methodology
+
 When it comes to choosing the right methodology for your project, there is no one-size-fits-all solution. The choice will depend on a number of factors, including the size and complexity of the project, the level of uncertainty and risk, and the resources available.
 
 # Here are five key considerations to keep in mind when choosing between agile and waterfall methodologies:

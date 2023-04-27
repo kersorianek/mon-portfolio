@@ -13,36 +13,45 @@ Did you know that 60% of project failures originate from inadequate requirements
 
 
 
+
 <div style="text-align: justify">
 
-👉 Hi, This is Rafayet Hossain, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My extensive knowledge and practical experience in web design & development make me a top candidate in this sector.
 
+
+👉 Hi, This is **Rafayet Hossain**, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My practical experience in providing successful project delivery to government, non-government, and multinational clients makes me a top candidate in this sector.
 </div>
 
 
 
 <div style="text-align: justify">
 
-👉 As a Business Analyst, I play the role of a Change Agent, enabling changes for your organization. My job is to guide the project from the beginning through the whole development process to the finishing stages. My Bachelor's Degree in Computer Science & Engineering, including extensive knowledge of business processes, technologies, and best development practices, makes me a perfect fit to assist you with ventures of pretty much any complexity.
+
+
+👉 As a Business Analyst, I play the role of a Digital Change Agent, enabling changes for your organization. My job is to guide the project from the beginning through the whole development process to the finishing stages. My Bachelor's Degree in Computer Science & Engineering, including extensive knowledge of business processes, technologies, and best development practices, makes me a perfect fit to assist you with ventures of pretty much any complexity.
 
 </div>
 
 
 
+
 <div style="text-align: justify">
+
+
 
 👉 I opted for software testing as a career because I believe in "destructive creation" and enjoy finding issues. I can help you implement test processes, and QA documentation, and provide end-to-end solutions for all types of testing. With an attitude of “test to break” and the ability to think from an end-user perspective, I have a strong desire for quality and attention to detail.
 
 </div>
 
 
-I excel in the following fields, but not limited to:
+
+
+👉 I excel in the following fields:
 
 ☑ Project Management
 
 ☑ System Analysis & Design
 
-☑ Software Requirement Specification (SRS, BRD) Development
+☑ Software Requirement Specification (SRS) Development
 
 ☑ Software Quality Assurance
 
@@ -64,7 +73,7 @@ I excel in the following fields, but not limited to:
 
 ☑ Software Test Document Preparation & Test Execution
 
-☑ Quality Framework: CMMI, ISO, Lean Six Sigma
+☑ Quality Framework: CMMI, Lean Six Sigma
 
 ☑ SDLC & STLC
 
@@ -88,7 +97,6 @@ I excel in the following fields, but not limited to:
 
 ☑ Root Cause Analysis
 
-
 ☑ 5 Why Technique
 
 ☑ Competent Googler
@@ -96,19 +104,22 @@ I excel in the following fields, but not limited to:
 
 
 
-👉 I am open to any business opportunity, and I'm ready to help you achieve your project's success. Please contact for any services including:
+👉 I am open to any business opportunity and ready to help you achieve your project's success. Contact for any services including:
 
-🎯 Software Project Managment 
 
-🎯 Business System Analysis 
+☑ Software Project Managment 
 
-🎯 Software Testing 
+☑ Business System Analysis 
 
-🎯 Business Consulting
+☑ Software Testing 
 
-🎯 Technical Document Preparation 
+☑ Business Consulting
 
-🎯 Individual Training  
+☑ Technical Document Preparation 
+
+☑ Individual Training  
+
+
 
 
 
