@@ -173,82 +173,75 @@ Test cases for web applications should test the functionality and usability of t
 
 For example, a test case for a login functionality of a web application could be:
 
-Test case ID: W1
+**Test case ID:** W1
 
-Test case name: Login Functionality Test
+**Test case name:** Login Functionality Test
 
-Test case objective: To verify that the login functionality of the web application works as expected.
+**Test case objective:** To verify that the login functionality of the web application works as expected.
 
-Preconditions: The web application is running on a supported browser and operating system.
+**Preconditions:** The web application is running on a supported browser and operating system.
 
-Test steps:
+**Test steps:**
 
-Navigate to the login page.
+- Navigate to the login page.
+- Enter valid credentials.
+- Click on the login button.
 
-Enter valid credentials.
+**Expected results:** The user should be logged in successfully and redirected to the dashboard page.
 
-Click on the login button.
+**Actual results:** The user is logged in successfully and redirected to the dashboard page.
 
-Expected results: The user should be logged in successfully and redirected to the dashboard page.
-
-Actual results: The user is logged in successfully and redirected to the dashboard page.
-
-Pass/fail criteria: The test case passes if the user is logged in successfully and redirected to the dashboard page. Otherwise, the test case fails.
+**Pass/fail criteria:** The test case passes if the user is logged in successfully and redirected to the dashboard page. Otherwise, the test case fails.
 
 ### Mobile Application:
 Test cases for mobile apps should test the functionality and usability of the app on different devices, operating systems, and network conditions. This includes testing the performance of the app under different loads, the accuracy of the data displayed, and the user experience of the app.
 For example, a test case for a weather app could be:
 
-Test case ID: M1
+**Test case ID:** M1
 
-Test case name: Weather Information Test
+**Test case name:** Weather Information Test
 
-Test case objective: To verify that the weather information displayed in the app is accurate.
+**Test case objective:** To verify that the weather information displayed in the app is accurate.
 
-Preconditions: The mobile app is installed and running on a supported device and operating system.
+**Preconditions:** The mobile app is installed and running on a supported device and operating system.
 
-Test steps:
+**Test steps:**
 
-Open the weather app.
+- Open the weather app.
+- Enter the name of a city in the search bar.
+- Click on the search button.
 
-Enter the name of a city in the search bar.
+**Expected results:** The weather information for the city entered is displayed accurately.
 
-Click on the search button.
+**Actual results:** The weather information for the city entered is displayed accurately.
 
-Expected results: The weather information for the city entered is displayed accurately.
-
-Actual results: The weather information for the city entered is displayed accurately.
-
-Pass/fail criteria: The test case passes if the weather information for the city entered is displayed accurately. Otherwise, the test case fails.
+**Pass/fail criteria:** The test case passes if the weather information for the city entered is displayed accurately. Otherwise, the test case fails.
 
 ### Desktop software: 
 
 Test cases for desktop software should test the functionality and usability of the software on different operating systems and hardware configurations. This includes testing the performance of the software under different loads, the accuracy of the data displayed, and the user experience of the software.
 For example, a test case for a video editing software could be:
 
-Test case ID: D1
+**Test case ID:** D1
 
-Test case name: Video Editing Test
+**Test case name:** Video Editing Test
 
-Test case objective: To verify that the video editing functionality of the software works as expected.
+**Test case objective:** To verify that the video editing functionality of the software works as expected.
 
-Preconditions: The desktop software is installed and running on a supported operating system.
+**Preconditions:** The desktop software is installed and running on a supported operating system.
 
-Test steps:
+**Test steps:**
 
-Open the video editing software.
+- Open the video editing software.
+- Import a video file.
+- Edit the video file by adding effects and transitions.
+- Export the edited video file.
 
-Import a video file.
+**Expected results:** The edited video file is exported successfully and plays back correctly.
 
-Edit the video file by adding effects and transitions.
+**Actual results:** The edited video file is exported successfully and plays back correctly.
 
-Export the edited video file.
-
-Expected results: The edited video file is exported successfully and plays back correctly.
-
-Actual results: The edited video file is exported successfully and plays back correctly.
-
-Pass/fail criteria: The test case passes if the edited video file is exported successfully and plays back correctly. Otherwise, the test case fails.
+**Pass/fail criteria:** The test case passes if the edited video file is exported successfully and plays back correctly. Otherwise, the test case fails.
 
 
 
