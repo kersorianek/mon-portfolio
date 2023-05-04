@@ -11,7 +11,7 @@ cover-img: /assets/img/cover.jpg
 ---
 
 
-It's likely that you've encountered some issues while using popular software like Facebook, WhatsApp, or Instagram. This is because even the best software can have flaws. However, software that doesn't function properly can lead to financial losses, waste of time, damage to business reputation, and even cause harm or injury. This is why software testing is crucial in identifying and addressing issues before they can cause any harm.
+Every one of us had a bad experience with the software. It's likely that you've encountered some issues while using popular software like Facebook, WhatsApp, or Instagram. This is because even the best software can have flaws. However, software that doesn't function properly can lead to financial losses, waste of time, damage to business reputation, and even cause harm or injury. This is why software testing is crucial in identifying and addressing issues before they can cause any harm.
 
 In this comprehensive guide, we will introduce you to the basics of software testing, including the different types of software tests, why testing is necessary, and the concept of validation and verification in software testing.
 
