@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Complete Business-Analyst Course Curriculum
+title: Complete Business Analyst Course Curriculum
 subtitle: A Comprehensive Curriculum for Beginners IT Business Analyst Course
 tags:
   [
@@ -20,19 +20,17 @@ Do you have an interest in business analysis but don't know where to start? In t
 
 Here is the complete course curriculum for IT Business Analyst for beginners that covers the necessary skills and knowledge required to land your first job as a BA
 
-- Module 1: Introduction to IT Business Analysis (4 classes)
+- Module 1: Introduction to IT Business Analysis (2 classes)
      - Overview of the role and responsibilities of IT business analysts
      - Understanding the business environment and key stakeholders
-     - Importance of effective communication and collaboration in IT business analysis
-     - Types of communication and collaboration tools and techniques used in IT business analysis
+    
 
 - Module 2: Requirements Gathering and Analysis (8 classes)
      - Types of requirements (business, functional, non-functional, etc.)
-     Techniques for eliciting and documenting requirements, including interviews, surveys, observation, and prototyping
+     - Techniques for eliciting and documenting requirements, including interviews, surveys, observation, and prototyping
      - Analyzing and prioritizing requirements using various methods such as MoSCoW analysis or Kano analysis
-     Validating and verifying requirements to ensure completeness, consistency, and feasibility
+     - Validating and verifying requirements to ensure completeness, consistency, and feasibility
      - Creating requirement traceability matrices and requirement documentation for future use
-     - Stakeholder management and communication
      - Agile requirements gathering and analysis
      - Business process modeling and analysis
 
@@ -43,6 +41,7 @@ Here is the complete course curriculum for IT Business Analyst for beginners tha
      - Stakeholder analysis and communication plan
      - Risk management and contingency planning
      Best practices for project management for business analysts
+     
 
 - Module 4: Data Analysis and Visualization (5 classes)
     -  Fundamentals of data analysis and modeling, including descriptive statistics, inferential statistics, and predictive analytics
@@ -61,21 +60,30 @@ Here is the complete course curriculum for IT Business Analyst for beginners tha
     - Continuous improvement and Lean Six Sigma principles
 
 - Module 6: Communication and Presentation Skills (5 classes)
+     - Importance of effective communication and collaboration in IT business analysis
+     - Types of communication and collaboration tools and techniques used in IT business analysis
     -  Effective written and verbal communication techniques, including active listening, empathy, and assertiveness
     -  Presenting and explaining complex information using tools such as PowerPoint, Prezi, or Canva
     - Developing persuasive arguments and recommendations using evidence and logic
-     Best practices for communication and presentation skills for business analysts
+    - Best practices for communication and presentation skills for business analysts
     - Communication and collaboration with stakeholders
 
 - Module 7: Business Analysis Tools and Techniques (5 classes)
     - Overview of popular business analysis tools such as Jira, Trello, and Asana
     - Introduction to Business Process Management (BPM) tools such as Signavio or Bizagi
-    - Prototyping and wireframing tools such as Sketch or Figma
+    - Prototyping and wireframing tools such as Figma, Adobe XD or Sketch
     - UML modeling and diagramming using tools such as Visio or Lucidchart
     - Best practices for selecting and using business analysis tools
 
 - Module: Bonus
      -  A guided project on Business Analysis, incorporating all the skills and tools learned in the course
+     -  Introduction to systems theory
+     -  Application front end, middle tier, and back end
+     -  Types of tools used in systems analysis
+     -  Introduction to quality assurance
+     -  Creating test plans
+     -  Manual and automated testing
+
 
 
 Making a career transition to business analysis requires dedication and hard work, but it can be a rewarding and fulfilling experience. By understanding the role of a business analyst, identifying your transferable skills, building your business analysis toolkit, gaining practical experience, and networking with other professionals, you can make a successful transition to a new career. Good luck!
