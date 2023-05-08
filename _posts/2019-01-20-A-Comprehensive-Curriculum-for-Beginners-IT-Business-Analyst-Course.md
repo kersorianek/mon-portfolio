@@ -12,7 +12,7 @@ cover-img: /assets/img/cover.jpg
 
 Are you interested in business analysis but don’t know where to start? This complete curriculum covers the essential skills and knowledge required for IT business analysis and can be completed independently. Whether you are a fresh graduate or have basic IT skills and want to switch to an IT business analyst career and succeed in your professional development, this high-quality training provides an opportunity to land your first business analyst job.
 
-Welcome to my IT Business Analysis course, where I will guide you through everything you need to know to become a successful IT business analyst. With over 5 years of experience in this field, I have designed a comprehensive curriculum that covers all aspects of IT business analysis. Whether you are a fresh graduate or have basic IT skills and want to switch to an IT business analyst career and succeed in your professional development, this high-quality training provides an opportunity to land your first business analyst job.
+Welcome to my IT Business Analysis course, where I will guide you through everything you need to know to become a successful IT business analyst. With practical experience in this field, I have designed a comprehensive curriculum that covers all aspects of IT business analysis. Whether you are a fresh graduate or have basic IT skills and want to switch to an IT business analyst career and succeed in your professional development, this high-quality training provides an opportunity to land your first business analyst job.
 
 **Module 1: Introduction to IT Business Analysis**
 
