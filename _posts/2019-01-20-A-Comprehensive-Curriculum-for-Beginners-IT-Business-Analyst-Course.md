@@ -21,9 +21,9 @@ In this module, we will introduce you to the role of IT business analysts, their
 - Overview of the role and responsibilities of IT business analysts
 - Business Analyst demand, salary and career roadmap
 
-## Explore our blog for specific topics on Business Analysis
+*Explore our blog for specific topics on Business Analysis*
 
-### Click on any of the links below to access the information directly:.
+Click on any of the links below to access the information directly:
 
 - [x] [**How to Make a Successful Career Transition From Software Testing to Business Analysis**](https://rafayethossain.github.io/2019-01-15-How-to-Tranisition-to-Business-Analysis-from-Software-Testing/)
 - [x] [**An Introduction to Business Analysis and the Business Analyst**](https://rafayethossain.github.io/2019-01-22-Introduction-to-Business-Analysis/)
@@ -38,9 +38,9 @@ Requirements gathering is a critical part of any IT project, and in this module,
 - Creating requirement traceability matrices and requirement documentation for future use
 - Agile requirements gathering and analysis
 
-## Explore our blog for specific topics on Business Analysis
+*Explore our blog for specific topics on Business Analysis*
 
-### Click on any of the links below to access the information directly:.
+Click on any of the links below to access the information directly:
 
 - [x] [**Everything You Need to Kow About Software Requirements**](https://rafayethossain.github.io/2019-03-03-What-is-Software-Requirements/)
 - [x] [**Requirements Elicitation Techniques You Must Learn**](https://rafayethossain.github.io/2019-03-30-Requirement-Elicitation-Complete-Guidelines/)
@@ -61,9 +61,9 @@ In this module, we will cover project management concepts and methodologies such
 - Risk management and contingency planning
 - Best practices for project management for business analysts
 
-## Explore our blog for specific topics on Business Analysis
+*Explore our blog for specific topics on Business Analysis*
 
-### Click on any of the links below to access the information directly:.
+Click on any of the links below to access the information directly:
 
 - [x] [**Project Initiation Activities as a Business Analyst**](https://rafayethossain.github.io/2019-02-07-Project-Initiation-Business-Analysis-Activities/)
 - [x] [**Project Inititation Activities**](https://rafayethossain.github.io/2019-02-25-How-to-Prepare-Business-Case-Business-Analyst/)
@@ -82,9 +82,9 @@ In this module, we will introduce you to Agile and Lean methodologies and framew
 - Agile project management and team collaboration
 - Continuous improvement and Lean Six Sigma principles
 
-### Explore our blog for specific topics on Business Analysis
+#*Explore our blog for specific topics on Business Analysis*
 
-### Click on any of the links below to access the information directly:.
+Click on any of the links below to access the information directly:
 
 - [x] [**Agile Project Managment with Srum Roles and Responsibilites**](https://rafayethossain.github.io/2022-10-10-Agile-Scrum-in-a-Nutshell/)
 
