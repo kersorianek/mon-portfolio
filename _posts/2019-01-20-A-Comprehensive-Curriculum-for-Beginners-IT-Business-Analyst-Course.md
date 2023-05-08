@@ -34,21 +34,15 @@ Here is the complete course curriculum for IT Business Analyst for beginners tha
      - Agile requirements gathering and analysis
      - Business process modeling and analysis
 
-- Module 3: Business Analysis Planning and Monitoring (6 classes)
+- Module 3: Business Analysis Project Management Initiation, Planning and Monitoring (6 classes)
      - Overview of project management concepts and methodologies, including Waterfall, Agile, and Scrum
+     - Business Case Preparation
      - Project charter and scope management
      Work breakdown structure and task management
      - Stakeholder analysis and communication plan
      - Risk management and contingency planning
      Best practices for project management for business analysts
      
-
-- Module 4: Data Analysis and Visualization (5 classes)
-    -  Fundamentals of data analysis and modeling, including descriptive statistics, inferential statistics, and predictive analytics
-    -  Techniques for collecting, cleaning, and processing data using tools such as Excel, Python, or R
-    -  Data visualization and dashboard design using tools such as Tableau or Power BI
-    - Introduction to data warehousing and business intelligence
-    - Best practices for data analysis and visualization for business analysts
 
 - Module 5: Agile and Lean Methodologies for Business Analysis (7 classes)
     -  Overview of Agile and Lean methodologies and frameworks, including Scrum, Kanban, and Lean Six Sigma
@@ -75,6 +69,13 @@ Here is the complete course curriculum for IT Business Analyst for beginners tha
     - UML modeling and diagramming using tools such as Visio or Lucidchart
     - Best practices for selecting and using business analysis tools
 
+- Module 4: Data Analysis and Visualization (5 classes)
+    -  Fundamentals of data analysis and modeling, including descriptive statistics, inferential statistics, and predictive analytics
+    -  Techniques for collecting, cleaning, and processing data using tools such as Excel, Python, or R
+    -  Data visualization and dashboard design using tools such as Tableau or Power BI
+    - Introduction to data warehousing and business intelligence
+    - Best practices for data analysis and visualization for business analysts
+
 - Module: Bonus
      -  A guided project on Business Analysis, incorporating all the skills and tools learned in the course
      -  Introduction to systems theory
@@ -83,6 +84,7 @@ Here is the complete course curriculum for IT Business Analyst for beginners tha
      -  Introduction to quality assurance
      -  Creating test plans
      -  Manual and automated testing
+     -  Books, blogs, and websites to learn IT Business Analysis
 
 
 
