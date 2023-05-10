@@ -23,20 +23,20 @@ Project management is a critical skill for anyone looking to lead a successful p
 
 _Quick Link to Specific Topic:_
 
-- [I. Key Concepts in Project Management for Beginners](#i-key-concepts-in-project-management-for-beginners)
+- [Key Concepts in Project Management for Beginners](#key-concepts-in-project-management-for-beginners)
   - [What is a project](#what-is-a-project)
   - [What is Project Management?](#what-is-project-management)
   - [What is a Project Manager?](#what-is-a-project-manager)
   - [The triple constraints of project management: scope, time, and cost](#the-triple-constraints-of-project-management-scope-time-and-cost)
   - [Importance of stakeholders in project management](#importance-of-stakeholders-in-project-management)
   - [Overview of project management methodologies](#overview-of-project-management-methodologies)
-- [II. Phases of Project Life Cycle](#ii-phases-of-project-life-cycle)
+- [Phases of Project Life Cycle](#phases-of-project-life-cycle)
   - [Initiating](#initiating)
   - [Planning](#planning)
   - [Executing](#executing)
   - [Monitoring and controlling](#monitoring-and-controlling)
   - [Closing](#closing)
-- [III.  Tools and Techniques in Project Management](#iii--tools-and-techniques-in-project-management)
+- [Tools and Techniques in Project Management](#tools-and-techniques-in-project-management)
   - [Gantt charts:](#gantt-charts)
   - [Critical Path Method (CPM):](#critical-path-method-cpm)
   - [Risk Management:](#risk-management)
@@ -47,7 +47,7 @@ _Quick Link to Specific Topic:_
 
 If you're new to project management, the whole process may seem daunting. However, learning project management skills can provide numerous benefits, such as improving problem-solving, decision-making, communication, and leadership abilities. This post provides an overview of key concepts in project management for beginners, including project management methodologies, the project management process groups, developing a project plan, managing and monitoring a project, and closing a project.
 
-# I. Key Concepts in Project Management for Beginners
+# Key Concepts in Project Management for Beginners
 
 
 
@@ -79,7 +79,7 @@ Agile project management is an iterative approach that focuses on collaboration,
 
 Hybrid project management combines the best of traditional and agile project management methodologies to deliver projects that meet the specific needs of an organization.
 
-# II. Phases of Project Life Cycle
+# Phases of Project Life Cycle
 
 The project life cycle is a sequence of phases that a project goes through from initiation to closing. These phases include:
 
@@ -110,7 +110,7 @@ The monitoring and control phase is where the project manager and team track the
 The closure phase is the final step in the project life cycle. During this phase, the project manager and team review the project's success and identify any lessons learned. The project is formally closed, and the project manager delivers the final product or service to the stakeholders.
 
 
-# III.  Tools and Techniques in Project Management
+# Tools and Techniques in Project Management
 
 Project management tools and techniques are used to plan, execute, monitor, and control projects. Some of the commonly used project management tools and techniques include: Project management software tools can help streamline the project planning process and make it easier to manage project resources, schedules, and budgets.
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Complete Guide Maintaining Requirement Traceability Matrices
-subtitle:   A Comprehensive Guide to Creating and Mantaining Requirement Traceability Matrices (RTM)
+subtitle:  A Comprehensive Guide to Creating and Maintaining Requirement Traceability Matrices (RTM)
 tags: [business system analysis, system analysis, business analysis]
 image: /assets/img/diary.png
 bigimg: /assets/img/back.gif
