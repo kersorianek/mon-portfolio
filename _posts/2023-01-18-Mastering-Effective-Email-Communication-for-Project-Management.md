@@ -154,7 +154,7 @@ Providing examples of well-crafted emails for various scenarios can be immensely
 
 ### Meeting Request:
 
-<div class="highlight">
+<div class="">
   <code> Subject: Request for Project Kickoff Meeting - [Project Name]
 Dear [Recipient's Name],
 
@@ -176,7 +176,7 @@ Best regards,
 
 ### Status Update:
 
- <div class="highlight">
+ <div class="">
   <code>
 Subject: Project Status Update - [Project Name]
 Dear [Recipient's Name],
@@ -195,13 +195,13 @@ Best regards,
 [Contact Information] 
 
 </code>
-  <button>Copy</button>
+  
 </div>
 
 
 ### Seeking Clarification on Project Requirements
 
- <div class="highlight">
+ <div class="">
   <code>
 
 Subject: Request for Requirements Clarification - [Project Name]
@@ -227,7 +227,7 @@ Best regards,
 [Your Contact Information]
 
   </code>
-  <button>Copy</button>
+   
 </div>
 
 Apart form this as Business Analyst, we will be using the following eamil throughout your project. 
