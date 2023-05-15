@@ -120,8 +120,8 @@ Providing examples of well-crafted emails for various scenarios can be immensely
 
 ### Meeting Request:
 
-```
-Subject: Request for Project Kickoff Meeting - [Project Name]
+<div class="highlight">
+  <code> Subject: Request for Project Kickoff Meeting - [Project Name]
 Dear [Recipient's Name],
 
 I hope this email finds you well. I would like to request a project kickoff meeting for the [Project Name] initiative. As the business analyst assigned to this project, I believe it is essential for all key stakeholders to come together to discuss project goals, expectations, and deliverables.
@@ -133,11 +133,17 @@ I look forward to your confirmation and the opportunity to collaborate on this e
 Best regards,
 [Your Name]
 [Your Title/Position]
-[Contact Information] ```
+[Contact Information] 
+
+</code>
+   
+</div>
+
 
 ### Status Update:
 
-``` Subject: Project Status Update - [Project Name]
+ <div class="highlight">
+  <code> Subject: Project Status Update - [Project Name]
 Dear [Recipient's Name],
 
 I hope this email finds you well. I wanted to provide you with a brief update on the progress of the [Project Name]. As the business analyst for this project, it is important to keep all stakeholders informed about the milestones achieved and any challenges encountered.
@@ -151,8 +157,11 @@ Thank you for your continued support and collaboration.
 Best regards,
 [Your Name]
 [Your Title/Position]
-[Contact Information] ```
+[Contact Information] 
 
+</code>
+  <button>Copy</button>
+</div>
 
 ## Incorporating Email Skills in Project Management:
 
@@ -202,7 +211,7 @@ Mastering effective email communication is a crucial skill for business analysts
 ----------------------------------------------------------------------
 
 
-Enjoyed this post. 
+Enjoyed this post!!! 
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
