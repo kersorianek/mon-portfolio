@@ -155,9 +155,9 @@ Providing examples of well-crafted emails for various scenarios can be immensely
 ### Meeting Request:
 
 <div class="">
-  <code> 
+  <p> 
 Subject: Request for Project Kickoff Meeting - [Project Name]
-</br>
+
 
 Dear [Recipient's Name],
 
@@ -174,18 +174,16 @@ Best regards,
 
 
 
-</code>
-   
+</p>   
 </div>
 
 
 ### Status Update:
 
  <div class="">
-  <code>
+  <p>
 Subject: Project Status Update - [Project Name]
-</br>
-
+ 
 Dear [Recipient's Name],
 
 I hope this email finds you well. I wanted to provide you with a brief update on the progress of the [Project Name]. As the business analyst for this project, it is important to keep all stakeholders informed about the milestones achieved and any challenges encountered.
@@ -201,7 +199,7 @@ Best regards,
 [Your Title/Position]
 [Contact Information] 
 
-</code>
+</p>
   
 </div>
 
@@ -209,10 +207,9 @@ Best regards,
 ### Seeking Clarification on Project Requirements
 
  <div class="">
-  <code>
+  <p>
 
 Subject: Request for Requirements Clarification - [Project Name]
-</br>
 
 Dear [Recipient's Name],
 
@@ -235,7 +232,7 @@ Best regards,
 [Your Name]
 [Your Contact Information]
 
-  </code>
+  </p>
    
 </div>
 
