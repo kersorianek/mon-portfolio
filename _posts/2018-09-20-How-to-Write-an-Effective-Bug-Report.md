@@ -15,7 +15,7 @@ Writing an accurate bug report is critical since it increases your chances of co
 
 Let's face reality now! In most circumstances, you will utilize a bug tracking program that automates the process of writing a bug report by filling in information such as a reporter or issue number. If you do not utilize such a tool, you must enter this information manually.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [What exactly is a bug report?](#what-exactly-is-a-bug-report)
   - [Definition of Bug](#definition-of-bug)
