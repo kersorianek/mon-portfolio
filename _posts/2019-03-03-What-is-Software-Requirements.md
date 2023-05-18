@@ -41,14 +41,25 @@ _Quick Links to Topic:_
 
 # Importance of Software Requirements in Project Management:
 
+
+Software requirements define the functionality, performance, and constraints of a software system. They act as a bridge between stakeholders and the development team, ensuring that everyone is aligned on the desired outcomes. Clear and well-defined requirements set the stage for effective project planning, development, and testing. They serve as a baseline for evaluating project success and managing changes throughout the software development lifecycle.
+
 Why Do We Need Requirements?
 
 - Guides the design of the eventual solution.
 - Without correct requirements, you cannot design or build the correct product.
 
 **About 60% of project failures originate with the requirements.**
+**13.1% of project fails because of incpmplete requirements.**
+**12.4% of project fails because of lack of user involvement.**
+**10.6% of project fails because of lack of user involvement.**
+**9.9% of project fails because of unrealistic expectations.**
+**9.3% of project fails because of lack of executive support.**
+**8.7% of project fails because of lack of changing requirements and specifications.**
+**8.1% of project fails because of lack of planning.**
+**7.5% of project fails because system no longer needed.**
 
-Software requirements define the functionality, performance, and constraints of a software system. They act as a bridge between stakeholders and the development team, ensuring that everyone is aligned on the desired outcomes. Clear and well-defined requirements set the stage for effective project planning, development, and testing. They serve as a baseline for evaluating project success and managing changes throughout the software development lifecycle.
+- Source: Standish Group survey 1994
 
 ## Role of Business Analysts in Gathering and Documenting Requirements:
 
