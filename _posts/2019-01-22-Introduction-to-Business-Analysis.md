@@ -20,10 +20,11 @@ _Quick Link to Specific Topic:_
 - [Who is Business Analyst?](#who-is-business-analyst)
 - [Why Use Business Analysis?](#why-use-business-analysis)
 - [Steps involved in Business Analysis Process](#steps-involved-in-business-analysis-process)
-- [Business Analysis Role :](#business-analysis-role-)
-- [Responsibilities (Business):](#responsibilities-business)
-- [Responsibilities (IT):](#responsibilities-it)
+- [Role of Business Analysis:](#role-of-business-analysis)
   - [Types of Business Analyst Role:](#types-of-business-analyst-role)
+  - [Common job titles for people who perform business analysis include:](#common-job-titles-for-people-who-perform-business-analysis-include)
+- [Business Analyst Responsibilities in Business:](#business-analyst-responsibilities-in-business)
+- [Business Analyst Responsibilities in IT:](#business-analyst-responsibilities-in-it)
 - [Skills of a Good Business Analyst](#skills-of-a-good-business-analyst)
 - [How to Become a business analyst:](#how-to-become-a-business-analyst)
   - [Define Your Goals:](#define-your-goals)
@@ -33,6 +34,7 @@ _Quick Link to Specific Topic:_
   - [Expand Your Network:](#expand-your-network)
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
+
 
 # What is Business Analysis?
 
@@ -67,7 +69,7 @@ Here are some compelling reasons to employ business analysis methods:
 5. Requirement Communication
 6. Solution Evolution and Validation
 
-# Business Analysis Role :
+# Role of Business Analysis:
 
 BA is commonly found in businesses. Connecting to the company or to the IT
 Business analysts are responsible for ensuring that the solutions created and delivered meet the needs of stakeholders. Business analysts do the following tasks:
@@ -78,25 +80,6 @@ Business analysts are responsible for ensuring that the solutions created and de
 - Driving change, and
 - Facilitating stakeholder collaboration.
 
-# Responsibilities (Business):
-
-    • Subject Matter Expert
-    • Goals and Objective of the Business
-    • How gonna they achieve them
-    • Process, How they link together
-    • Identifying problems, uncovering opportunity of changes.
-    • Defining documentation, processes for making team more efficient
-    • Research
-
-# Responsibilities (IT):
-
-    • Software Project
-    • Define Business Requirement and Translate Business needs to technical documents
-    • Defining various system and hardware if needed
-    • Modifying Processes
-    • Identifying needs & opportunity of a business
-
-**You will be always doing something different.**
 
 ## Types of Business Analyst Role:
 
@@ -106,7 +89,7 @@ Business analysts are responsible for ensuring that the solutions created and de
 - **Data Analyst:** Perform logical data modeling, identify patterns, design and create report.
 - **User Experience Analyst:** Design the UI, UX, and interaction. Understand end-user's behavior.
 
-Other common job titles for people who perform business analysis include:
+## Common job titles for people who perform business analysis include:
 
     • Business Architect
     • Business Systems Analyst
@@ -118,6 +101,30 @@ Other common job titles for people who perform business analysis include:
     • Product Owner
     • Requirements Engineer
 
+
+# Business Analyst Responsibilities in Business:
+
+    • Subject Matter Expert
+    • Goals and Objective of the Business
+    • How gonna they achieve them
+    • Process, How they link together
+    • Identifying problems, uncovering opportunity of changes.
+    • Defining documentation, processes for making team more efficient
+    • Research
+
+# Business Analyst Responsibilities in IT:
+
+    • Software Project
+    • Define Business Requirement and Translate Business needs to technical documents
+    • Defining various system and hardware if needed
+    • Modifying Processes
+    • Identifying needs & opportunity of a business
+
+
+*You will be always doing something different.*
+
+
+
 # Skills of a Good Business Analyst
 
 Basically, a good business analyst is judged on these four attributes
@@ -126,10 +133,14 @@ Basically, a good business analyst is judged on these four attributes
 - **Leadership skills:** directing team members, forecasting budget, helping team members with the problem, etc.
 - **Business process and planning:** Planning the project scope, understanding and implementing requirement of project, identifying resources required for the project and so on
 - **Technical Skill:** If a business analyst is in the IT sector, few technical aspect are expected to know like operating systems, hardware capabilities, database concepts, networking, SDLC methodology, etc.
+
+Apart from this a business analyst also offers:
+
 - **Excellent communication skills:** Business analysts must be able to effectively communicate with a variety of stakeholders, including business leaders, technical teams, and customers.
 - **Business and industry knowledge:** Having a good understanding of the industry and business operations in which they are working is important for understanding the context of the project.
 - **Adaptability and flexibility:** Business analysts must be able to adapt to changing requirements and situations, and be open to new ideas and approaches.
 - **Strategic thinking:** Business analysts should be able to think strategically, taking into account the big picture and long-term goals of the organization.
+
 
 # How to Become a business analyst:
 
@@ -138,7 +149,7 @@ Starting a career as a business analyst can be an exciting and rewarding journey
 ## Define Your Goals:
 
 - Study core concepts and understand the role of a business analyst.
-- Utilize resources like blogs and online courses to gain knowledge and determine if business analytics is the right path for you.
+- Utilize resources like blogs and online courses to gain knowledge and determine if business analysis is the right path for you.
 
 ## Enroll in a Course:
 
@@ -168,9 +179,12 @@ Starting a career as a business analyst can be an exciting and rewarding journey
 
 ---
 
-Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
+Enjoyed this post !!!
 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+
+
+Your support helps me create more valuable content. Thank you!
 
 ---
 
