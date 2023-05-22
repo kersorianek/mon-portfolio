@@ -48,17 +48,17 @@ Software requirements define the functionality, performance, and constraints of 
 Why Do We Need Requirements?
 
 - Guides the design of the eventual solution.
-- Without correct requirements, you cannot design or build the correct product.
+- Without correct requirements, you cannot build the correct product.
 
-**About 60% of project failures originate with the requirements.**
-**13.1% of project fails because of incpmplete requirements.**
-**12.4% of project fails because of lack of user involvement.**
-**10.6% of project fails because of lack of user involvement.**
-**9.9% of project fails because of unrealistic expectations.**
-**9.3% of project fails because of lack of executive support.**
-**8.7% of project fails because of lack of changing requirements and specifications.**
-**8.1% of project fails because of lack of planning.**
-**7.5% of project fails because system no longer needed.**
+- **About 60% of project failures originate with the requirements.**
+- **13.1% of project fails because of incpmplete requirements.**
+- **12.4% of project fails because of lack of user involvement.**
+- **10.6% of project fails because of lack of user involvement.**
+- **9.9% of project fails because of unrealistic expectations.**
+- **9.3% of project fails because of lack of executive support.**
+- **8.7% of project fails because of lack of changing requirements and specifications.**
+- **8.1% of project fails because of lack of planning.**
+- **7.5% of project fails because system no longer needed.**
 
 - Source: Standish Group survey 1994
 
@@ -76,10 +76,7 @@ For instance, in the context of a banking application, when a customer clicks "V
 
 A non-functional software requirement can also involve performance, such as ensuring that every page of the system is viewable to consumers within 5 seconds.
 
- 
-Business requirements define the objectives, goals, and needs of a project from a business perspective. They outline the desired outcomes and provide a high-level understanding of what the solution should achieve.
 
-Technical requirements focus on the technical aspects of the system. They include hardware and software specifications, compatibility, integration with existing systems, data storage, and other technical considerations.
 
 ## Relationship between different types of requirements and project success:
 
@@ -91,7 +88,6 @@ Non-functional requirements encompass qualities that go beyond the specific func
 
 Technical requirements, as the name suggests, concentrate on the technical aspects of the system. They involve ensuring compatibility and integration with existing technologies and infrastructure within the organization. These requirements consider factors such as hardware, software, network capabilities, scalability, and interoperability.
 
-The successful execution of a project relies on effectively identifying, documenting, and managing all these types of requirements throughout the project lifecycle. This includes capturing business needs accurately, defining clear functional requirements, addressing non-functional aspects for optimal system performance, and ensuring seamless integration with existing technical infrastructure.
 
 By paying careful attention to business, functional, non-functional, and technical requirements, organizations can deliver high-quality solutions that meet user needs, align with business objectives, and seamlessly function within the technical landscape. This comprehensive approach ensures that the developed software system is not only capable of performing the required functionalities but also meets the broader organizational goals and technical requirements.
 
@@ -111,14 +107,14 @@ Functional and Data Requirements: Specifies the actions the product must perform
 
 ### Non-Functional Requirements:
 
-**Look and Feel Requirements:** Describes the intended appearance of the product.
-**Usability Requirements:** Considers the ease of use for the intended users.
-**Performance Requirements:** Specifies aspects such as speed, accuracy, and reliability.
-**Operational Requirements:** Addresses the product's intended operating environment.
-**Maintainability and Portability Requirements:** Considers the ease of making changes to the product.
-**Security Requirements:** Ensures the security, confidentiality, and integrity of the product.
-**Cultural and Political Requirements:** Considers human factors and cultural aspects.
-**Legal Requirements:** Ensures compliance with applicable laws.
+- **Look and Feel Requirements:** Describes the intended appearance of the product.
+- **Usability Requirements:** Considers the ease of use for the intended users.
+- **Performance Requirements:** Specifies aspects such as speed, accuracy, and reliability.
+- **Operational Requirements:** Addresses the product's intended operating environment.
+- **Maintainability and Portability Requirements:** Considers the ease of making changes to the product.
+- **Security Requirements:** Ensures the security, confidentiality, and integrity of the product.
+- **Cultural and Political Requirements:** Considers human factors and cultural aspects.
+- **Legal Requirements:** Ensures compliance with applicable laws.
 
 **Example of Non-Functional Requirements:**
 
@@ -130,13 +126,13 @@ Functional and Data Requirements: Specifies the actions the product must perform
 
 #### Product Constraints:
 
-**Purpose of the Product:** States the reason for building the product.
-**Client, Customer, and Stakeholders:** Identifies the people who interact with the product.
-**Users of the Product:** Considers the intended end-users and their impact on usability.
-**Requirements Constraints:** Specifies limitations and design restrictions.
-**Naming Conventions and Definitions:** Establishes the vocabulary used in the product.
-**Relevant Facts:** Incorporates external influences that affect the product.
-**Assumptions:** Outlines the assumptions made by the developers.
+- **Purpose of the Product:** States the reason for building the product.
+- **Client, Customer, and Stakeholders:** Identifies the people who interact with the product.
+- **Users of the Product:** Considers the intended end-users and their impact on usability.
+- **Requirements Constraints:** Specifies limitations and design restrictions.
+- **Naming Conventions and Definitions:** Establishes the vocabulary used in the product.
+- **Relevant Facts:** Incorporates external influences that affect the product.
+- **Assumptions:** Outlines the assumptions made by the developers.
 
 **Example of Product Constraints:**
 
@@ -147,14 +143,17 @@ Functional and Data Requirements: Specifies the actions the product must perform
 
 ## Category of Software Requirements
 
-Requirements are categorized as follows: 1. Function Requirements:
-a. Things the product must do.
-b. Action the product must take. 2. Non-Functional Requirements:
-a. Properties or qualities the product must have.
-b. How the product will behave. 3. Constraints
-a. Global Requirement:
-i. Purpose of the project
-ii. Users of a product
+Requirements are categorized as follows: 
+1. Function Requirements:
+	a. Things the product must do.
+	b. Action the product must take. 
+2. Non-Functional Requirements:
+	a. Properties or qualities the product must have.
+	b. How the product will behave. 
+3. Constraints
+	a. Global Requirement:
+		i. Purpose of the project
+		ii. Users of a product
 
 ## The Requirements Gathering Process:
 
