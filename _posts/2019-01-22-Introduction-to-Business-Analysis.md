@@ -20,12 +20,11 @@ _Quick Link to Specific Topic:_
 - [Who is Business Analyst?](#who-is-business-analyst)
 - [Importance of Business Analysis in Organizations](#importance-of-business-analysis-in-organizations)
 - [Why Use Business Analysis?](#why-use-business-analysis)
-- [Steps involved in Business Analysis Process](#steps-involved-in-business-analysis-process)
 - [Role of Business Analysis:](#role-of-business-analysis)
-  - [Types of Business Analyst Role:](#types-of-business-analyst-role)
-  - [Common Job Titles and Responsibilities of Business Analysts:](#common-job-titles-and-responsibilities-of-business-analysts)
-- [Business Analyst Responsibilities in Business:](#business-analyst-responsibilities-in-business)
-- [Business Analyst Responsibilities in IT:](#business-analyst-responsibilities-in-it)
+  - [Business Analyst Responsibilities in Business:](#business-analyst-responsibilities-in-business)
+  - [Business Analyst Responsibilities in IT:](#business-analyst-responsibilities-in-it)
+- [Common Job Titles and Responsibilities of Business Analysts:](#common-job-titles-and-responsibilities-of-business-analysts)
+- [Steps involved in Business Analysis Process](#steps-involved-in-business-analysis-process)
 - [Skills of a Good Business Analyst](#skills-of-a-good-business-analyst)
 - [How to Become a business analyst:](#how-to-become-a-business-analyst)
   - [Define Your Goals:](#define-your-goals)
@@ -72,15 +71,6 @@ Here are some compelling reasons to employ business analysis methods:
 - It helps you to identify and articulate the need for change.
 - To maximize the value delivered by an organization to its stakeholders.
 
-# Steps involved in Business Analysis Process
-
-1. Enterprise Analysis
-2. Requirement planning and Management
-3. Requirement Elicitation
-4. Requirement Analysis and Documentation
-5. Requirement Communication
-6. Solution Evolution and Validation
-
 # Role of Business Analysis:
 
 BA is commonly found in businesses. Connecting to the company or to the IT
@@ -92,15 +82,25 @@ Business analysts are responsible for ensuring that the solutions created and de
 - Driving change, and
 - Facilitating stakeholder collaboration.
 
-## Types of Business Analyst Role:
+## Business Analyst Responsibilities in Business:
 
-- **Business Process Analyst** Business Process Model to identify problem, opportunity, GAP analysis between as-in and to-be process.
-- **Requirement Analyst (IT):** Elicit, analyze, and document requirements.
-- **Systems Analyst:** Analyze documented requirements to create functional specification, work with tech team. Define how a system will do the what.
-- **Data Analyst:** Perform logical data modeling, identify patterns, design and create report.
-- **User Experience Analyst:** Design the UI, UX, and interaction. Understand end-user's behavior.
+    • Subject Matter Expert
+    • Goals and Objective of the Business
+    • How gonna they achieve them
+    • Process, How they link together
+    • Identifying problems, uncovering opportunity of changes.
+    • Defining documentation, processes for making team more efficient
+    • Research
 
-## Common Job Titles and Responsibilities of Business Analysts:
+## Business Analyst Responsibilities in IT:
+
+    • Software Project
+    • Define Business Requirement and Translate Business needs to technical documents
+    • Defining various system and hardware if needed
+    • Modifying Processes
+    • Identifying needs & opportunity of a business
+
+# Common Job Titles and Responsibilities of Business Analysts:
 
 In the field of business analysis, professionals undertake various roles with distinct job titles and responsibilities. Here are some common job titles and their corresponding responsibilities:
 
@@ -122,51 +122,47 @@ In the field of business analysis, professionals undertake various roles with di
 6. Business Systems Analyst:
    Business systems analysts bridge the gap between business and IT by translating business needs into technical specifications. They analyze systems, identify improvements, and ensure alignment between business goals and IT solutions.
 
-# Business Analyst Responsibilities in Business:
+7. Business Process Analyst:
+   Business Process Model to identify problem, opportunity, GAP analysis between as-in and to-be process.
 
-    • Subject Matter Expert
-    • Goals and Objective of the Business
-    • How gonna they achieve them
-    • Process, How they link together
-    • Identifying problems, uncovering opportunity of changes.
-    • Defining documentation, processes for making team more efficient
-    • Research
-
-# Business Analyst Responsibilities in IT:
-
-    • Software Project
-    • Define Business Requirement and Translate Business needs to technical documents
-    • Defining various system and hardware if needed
-    • Modifying Processes
-    • Identifying needs & opportunity of a business
+8. User Experience Analyst:
+   Design the UI, UX, and interaction. Understand end-user's behavior.
 
 _You will be always doing something different._
+
+# Steps involved in Business Analysis Process
+
+1. Enterprise Analysis
+2. Requirement planning and Management
+3. Requirement Elicitation
+4. Requirement Analysis and Documentation
+5. Requirement Communication
+6. Solution Evolution and Validation
 
 # Skills of a Good Business Analyst
 
 Basically, a good business analyst is judged on the following attributes:
 
 1. Analytical Thinking:
-Successful business analysts possess strong analytical thinking skills to dissect complex problems, identify patterns, and generate meaningful insights. They can break down requirements into manageable components and develop logical solutions.
+   Successful business analysts possess strong analytical thinking skills to dissect complex problems, identify patterns, and generate meaningful insights. They can break down requirements into manageable components and develop logical solutions.
 
 2. Communication and Collaboration:
-Effective communication and collaboration are essential for business analysts. They must be able to interact with stakeholders, elicit requirements, and convey technical information in a clear and concise manner. Collaboration skills facilitate effective teamwork and stakeholder alignment.
+   Effective communication and collaboration are essential for business analysts. They must be able to interact with stakeholders, elicit requirements, and convey technical information in a clear and concise manner. Collaboration skills facilitate effective teamwork and stakeholder alignment.
 
 3. Problem-Solving:
-Business analysts should have excellent problem-solving skills to analyze business processes, identify gaps, and propose appropriate solutions. They can think critically, evaluate alternatives, and make data-driven decisions.
+   Business analysts should have excellent problem-solving skills to analyze business processes, identify gaps, and propose appropriate solutions. They can think critically, evaluate alternatives, and make data-driven decisions.
 
 4. Technical Acumen:
-A solid understanding of technology is crucial for business analysts. They should be familiar with software development methodologies, system architectures, and emerging technologies. This knowledge helps them bridge the gap between business and IT teams.
+   A solid understanding of technology is crucial for business analysts. They should be familiar with software development methodologies, system architectures, and emerging technologies. This knowledge helps them bridge the gap between business and IT teams.
 
 5. Adaptability:
-The IT industry is constantly evolving, and successful business analysts need to be adaptable to stay abreast of the latest trends and technologies. They should be open to learning new tools, techniques, and methodologies.
+   The IT industry is constantly evolving, and successful business analysts need to be adaptable to stay abreast of the latest trends and technologies. They should be open to learning new tools, techniques, and methodologies.
 
 6. Domain Knowledge:
-Domain knowledge is essential for business analysts to understand industry-specific requirements and challenges. It enables them to provide valuable insights and make informed decisions.
+   Domain knowledge is essential for business analysts to understand industry-specific requirements and challenges. It enables them to provide valuable insights and make informed decisions.
 
 7. Attention to Detail:
-business analysts must possess strong attention to detail to accurately gather and document requirements. They need to ensure that all requirements are captured and properly communicated to the development team.
-
+   business analysts must possess strong attention to detail to accurately gather and document requirements. They need to ensure that all requirements are captured and properly communicated to the development team.
 
 # How to Become a business analyst:
 
@@ -203,8 +199,7 @@ Starting a career as a business analyst can be an exciting and rewarding journey
 
 To understand the true value of IT business analysis, it's essential to examine real-world examples and case studies that showcase its impact.
 
-
-1. Case Study: Streamlining Inventory Management through Process 
+1. Case Study: Streamlining Inventory Management through Process
 
 In a competitive market, the manufacturing industry faces increasing pressure to optimize operations and reduce costs. A manufacturing company recognized the need to streamline their inventory management processes and turned to IT business analysis for a solution.
 
@@ -224,19 +219,16 @@ Moreover, the reduction in manual labor saved valuable time and resources for th
 
 The real-time reporting capabilities provided management with accurate and up-to-date data on inventory levels, sales trends, and demand patterns. This empowered them to make data-driven decisions, optimize inventory stocking strategies, and identify cost-saving opportunities.
 
-This showcased the immense value of IT business analysis in streamlining operations through process automation. 
+This showcased the immense value of IT business analysis in streamlining operations through process automation.
 
 2. Case Study: Enhancing Customer Experience through System Integration:
-In a retail company, an IT business analyst analyzed the customer journey across various touchpoints. By identifying gaps and dependencies in the existing systems, the analyst proposed an integrated solution that streamlined processes, provided a unified view of customer data, and improved overall customer experience, leading to increased customer satisfaction and loyalty.
+   In a retail company, an IT business analyst analyzed the customer journey across various touchpoints. By identifying gaps and dependencies in the existing systems, the analyst proposed an integrated solution that streamlined processes, provided a unified view of customer data, and improved overall customer experience, leading to increased customer satisfaction and loyalty.
 
 3. Case Study: Managing Complex IT Projects with Effective Requirements Management:
-An IT business analyst played a critical role in a large-scale IT project by effectively managing requirements. Through stakeholder interviews, workshops, and iterative refinement, the analyst ensured that all project requirements were captured, prioritized, and communicated to the development team. This comprehensive approach minimized rework, reduced project risks, and delivered a high-quality solution within the specified timeline and budget.
+   An IT business analyst played a critical role in a large-scale IT project by effectively managing requirements. Through stakeholder interviews, workshops, and iterative refinement, the analyst ensured that all project requirements were captured, prioritized, and communicated to the development team. This comprehensive approach minimized rework, reduced project risks, and delivered a high-quality solution within the specified timeline and budget.
 
 4. Case Study: Driving Data-Driven Decision-Making through Business Intelligence:
-An IT business analyst implemented a business intelligence solution that integrated data from multiple sources, providing actionable insights to key stakeholders. Through data analysis and visualization, the analyst enabled informed decision-making, identified growth opportunities, and facilitated strategic planning, resulting in improved business performance and competitive advantage.
-
- 
-
+   An IT business analyst implemented a business intelligence solution that integrated data from multiple sources, providing actionable insights to key stakeholders. Through data analysis and visualization, the analyst enabled informed decision-making, identified growth opportunities, and facilitated strategic planning, resulting in improved business performance and competitive advantage.
 
 **[⬆ back to top](#what-is-business-analysis)**
 
