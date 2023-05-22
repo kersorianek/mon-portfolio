@@ -17,8 +17,9 @@ _Quick Links to Topic:_
 - [Importance of Software Requirements in Project Management:](#importance-of-software-requirements-in-project-management)
 	- [Role of Business Analysts in Gathering and Documenting Requirements:](#role-of-business-analysts-in-gathering-and-documenting-requirements)
 	- [What is Software Requirement?](#what-is-software-requirement)
-			- [Functional Requirements:](#functional-requirements)
-			- [Non-Functional Requirements:](#non-functional-requirements)
+	- [Relationship between different types of requirements and project success:](#relationship-between-different-types-of-requirements-and-project-success)
+		- [Functional Requirements:](#functional-requirements)
+		- [Non-Functional Requirements:](#non-functional-requirements)
 			- [Product Constraints:](#product-constraints)
 	- [Category of Software Requirements](#category-of-software-requirements)
 	- [The Requirements Gathering Process:](#the-requirements-gathering-process)
@@ -75,7 +76,26 @@ For instance, in the context of a banking application, when a customer clicks "V
 
 A non-functional software requirement can also involve performance, such as ensuring that every page of the system is viewable to consumers within 5 seconds.
 
-#### Functional Requirements:
+ 
+Business requirements define the objectives, goals, and needs of a project from a business perspective. They outline the desired outcomes and provide a high-level understanding of what the solution should achieve.
+
+Technical requirements focus on the technical aspects of the system. They include hardware and software specifications, compatibility, integration with existing systems, data storage, and other technical considerations.
+
+## Relationship between different types of requirements and project success:
+
+Business requirements serve to establish the project's purpose and align it with organizational objectives. They provide a clear understanding of why the project is being undertaken and how it contributes to the overall goals of the organization. 
+
+Functional requirements, on the other hand, define the specific features and behaviors that the software system must possess to fulfill its intended purpose. These requirements outline the functionalities that users expect from the system and specify what actions the system should be able to perform.
+
+Non-functional requirements encompass qualities that go beyond the specific functionalities of the system. These requirements address aspects such as performance, usability, security, reliability, and maintainability. They focus on how well the system performs, how user-friendly it is, and how it ensures the safety and integrity of data.
+
+Technical requirements, as the name suggests, concentrate on the technical aspects of the system. They involve ensuring compatibility and integration with existing technologies and infrastructure within the organization. These requirements consider factors such as hardware, software, network capabilities, scalability, and interoperability.
+
+The successful execution of a project relies on effectively identifying, documenting, and managing all these types of requirements throughout the project lifecycle. This includes capturing business needs accurately, defining clear functional requirements, addressing non-functional aspects for optimal system performance, and ensuring seamless integration with existing technical infrastructure.
+
+By paying careful attention to business, functional, non-functional, and technical requirements, organizations can deliver high-quality solutions that meet user needs, align with business objectives, and seamlessly function within the technical landscape. This comprehensive approach ensures that the developed software system is not only capable of performing the required functionalities but also meets the broader organizational goals and technical requirements.
+
+### Functional Requirements:
 
 **Product Scope:** Defines the boundaries and connections to other products.
 Functional and Data Requirements: Specifies the actions the product must perform and the data it manipulates.
@@ -89,7 +109,7 @@ Functional and Data Requirements: Specifies the actions the product must perform
 - Ingredient tracking should include cost, vendors, and inventory quantity.
 - The product should integrate with the existing Point of Sale system.
 
-#### Non-Functional Requirements:
+### Non-Functional Requirements:
 
 **Look and Feel Requirements:** Describes the intended appearance of the product.
 **Usability Requirements:** Considers the ease of use for the intended users.
