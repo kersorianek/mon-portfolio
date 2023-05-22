@@ -142,7 +142,7 @@ In this module, we will introduce you to Agile and Lean methodologies and framew
   - Explain the key principles, values, and practices associated with Agile and Lean.
   - Discuss the benefits and challenges of implementing Agile and Lean methodologies.
 
-    4.2 Agile Requirements Gathering and Analysis
+- 4.2 Agile Requirements Gathering and Analysis
 
   - Explain how requirements gathering and analysis activities are performed in Agile environments
   - Discuss the role of IT business analysts in Agile teams and their interaction with cross-functional stakeholders.
