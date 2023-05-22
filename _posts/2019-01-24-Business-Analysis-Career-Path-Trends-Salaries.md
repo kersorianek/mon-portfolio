@@ -20,9 +20,9 @@ Business Analysts (BA) are critical members of a company's IT team. They act as 
 _Quick Link to Specific Topic:_
 
 - [Current State of the Industry](#current-state-of-the-industry)
-  - [Skills and Qualifications Required](#skills-and-qualifications-required)
-  - [Salary Ranges](#salary-ranges)
-  - [Career Roadmap](#career-roadmap)
+  - [Skills and Qualifications Required for a Business Analyst](#skills-and-qualifications-required-for-a-business-analyst)
+  - [Salary Ranges of a Business Analyst](#salary-ranges-of-a-business-analyst)
+  - [Career Roadmap of a Business Analyst](#career-roadmap-of-a-business-analyst)
     - [Entry-Level Business Analyst](#entry-level-business-analyst)
     - [Senior Business Analyst](#senior-business-analyst)
     - [Business Systems Analyst](#business-systems-analyst)
@@ -42,10 +42,10 @@ Second, the emergence of Big Data and the Internet of Things (IoT) has created n
 
 Third, digital transformation is a priority for most organizations, which has led to an increase in demand for IT Business Analysts.
 
-## Skills and Qualifications Required
+## Skills and Qualifications Required for a Business Analyst
 Business Analysts must have a combination of technical and soft skills. Technical skills include proficiency in data modeling, database design, business intelligence tools, and software development methodologies such as Agile or Scrum. On the other hand, soft skills such as communication, problem-solving, and project management are equally important. A bachelor's degree in computer science, information technology, business administration, or a related field is the minimum educational requirement. Additionally, certification in business analysis, such as Certified Business Analysis Professional (CBAP), is highly recommended.
 
-## Salary Ranges
+## Salary Ranges of a Business Analyst
 
 According to data from Glassdoor, the average base salary for an business analyst in the US is $71,925 per year. However, the salary range for business analysts varies widely depending on several factors, including location, experience, and industry. For example,  business analysts working in metropolitan areas such as San Francisco or New York City typically earn higher salaries than those working in smaller cities or rural areas.
 
@@ -56,7 +56,7 @@ Industry also plays a significant role in determining salary ranges for business
 Several other factors can impact the salary range for business analysts, including company size and education level. Larger companies tend to offer higher salaries than smaller ones, while individuals with advanced degrees such as a Master of Business Administration (MBA) or a Master of Science in Information Systems (MSIS) can command higher salaries than those with only a bachelor's degree.
 
 
-## Career Roadmap
+## Career Roadmap of a Business Analyst
  
 As businesses continue to rely more and more on technology to operate, the demand for skilled Business Analysts has never been higher. If you're considering a career as an Business Analyst, it's important to understand the various roles and responsibilities you may take on throughout your career.
 
