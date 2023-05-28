@@ -5,42 +5,42 @@ subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst �
 ---
 
 
-<div style="text-align: justify"> 
+<p> 
 
 Did you know that 60% of project failures originate from inadequate requirements? Don't let that happen to you. For a successful project, you need to define the needs, and requirements, design, test the developed solution, and deliver value.
 
-</div>
+</p>
 
 
 
 
-<div style="text-align: justify">
+<p>
 
 
 
 👉 Hi, This is **Rafayet Hossain**, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My practical experience in providing successful project delivery to government, non-government, and multinational clients makes me a top candidate in this sector.
-</div>
+</p>
 
 
 
-<div style="text-align: justify">
+<p>
 
 
 
 👉 As a Business Analyst, I play the role of a Digital Change Agent, enabling changes for your organization. My job is to guide the project from the beginning through the whole development process to the finishing stages. My Bachelor's Degree in Computer Science & Engineering, including extensive knowledge of business processes, technologies, and best development practices, makes me a perfect fit to assist you with ventures of pretty much any complexity.
 
-</div>
+</p>
 
 
 
 
-<div style="text-align: justify">
+<p>
 
 
 
 👉 I opted for software testing as a career because I believe in "destructive creation" and enjoy finding issues. I can help you implement test processes, and QA documentation, and provide end-to-end solutions for all types of testing. With an attitude of “test to break” and the ability to think from an end-user perspective, I have a strong desire for quality and attention to detail.
 
-</div>
+</p>
 
 
 
@@ -134,13 +134,13 @@ Did you know that 60% of project failures originate from inadequate requirements
 
 
 
-## Places He haunt
+## Places I haunt
 
-* [Medium](https://rafayethossain.medium.com/) •  I Write Career Guidline For Bengali Speaking People.
+* [Medium-Bangla Blog](https://rafayethossain.medium.com/) •  I Write Career Guidline For Bengali Speaking People.
 * [Facebook](https://www.facebook.com/rafayethossain13) • This is my Facebook Profile.
 * [Twitter](https://twitter.com/RafayetHossain/) • This is my Twitter Profile.
   
-## His Website
+## My Website
 * [Blog]([rafayet13.wordpress.com/](https://rafayet13.wordpress.com/)) • Currently work in progress.
 
 ## On YouTube

@@ -17,7 +17,7 @@ cover-img: /assets/img/cover.jpg
 ---
 The specification of requirements is an essential aspect of the Requirements Engineering process. It is the third step, following Requirements Capture and Analysis. The purpose is to generate a document, or Requirements Specification, with the appropriate amount of information.
 
-_Qucik Link to Specific Topic:_
+_Quick Link to Specific Topic:_
 
 - [Activities of Requirement Specifications:](#activities-of-requirement-specifications)
 - [Categorizing Requirements](#categorizing-requirements)
@@ -68,10 +68,10 @@ One of the first steps in the requirements definition process is to classify req
 
 ## Why Categorize Requirement?
 
-  1. Aids in documentation
-  2. Helps to prioritize
-  3. Assist Estimating the system cost.
-  4. Identifies areas that require further investigation.
+  - Aids in documentation
+  - Helps to prioritize
+  - Assist Estimating the system cost.
+  - Identifies areas that require further investigation.
 
 ## Category of Software Requirements:
 
@@ -86,7 +86,7 @@ One of the first steps in the requirements definition process is to classify req
     		i. Purpose of the project
     		ii. Users of the project.
 
-you've elicited and now you're going to go through in and categorize them all out.
+You've elicited and now you're going to go through in and categorize them all out.
 
 # Deriving Requirements
 
@@ -102,7 +102,8 @@ Your captured requirement is a document that may require additional development 
     • Focusing Requirements
     • Qualifying Requirements.
 
- ### Parsing Requirements:
+### Parsing Requirements:
+
 - Breaking down requirements that are too broad.
 - Removing "and" from requirements
   - Risk is high that only one of the conditions will be tested
@@ -169,8 +170,7 @@ Your captured requirement is a document that may require additional development 
 -  **Status:** Started, Confirmed, Developed, Tested, etc.
 -  **Type:** Functional, Non- Functional, Constraints.
 -  **Priority:** High, Medium, Low
--  **Source:** Who raise this, in case any 
-clarification is needed to whom to consult?
+-  **Source:** Who raise this, in case any  clarification is needed to whom to consult?
 
 # Prioritizing Requirement
 
@@ -219,51 +219,34 @@ One question that comes up a lot is 'hey, when do I fill this out?', you'll see 
 
 I'm trying to write good requirements, write SMART requirements because I don't want to rewrite them all later, is when I start to put a lot of the details into the BRD and also in the specification phases when I kind of finalize that.
 
-If You Like This Post
+**[⬆ back to top](#the-importance-of-quality-assurance)**
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+---
 
+---
 
+Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
 
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
+---
 
+---
 
-----------------------------------------------------------------------
-----------------------------------------------------------------------
-
-# About Content Creator: 
-
+# About Content Creator:
 
 Hi, This is **Rafayet Hossain**
 
-A seasoned Business System Analyst (BSA), Project Manager, and SQA Engineer.
-He acts as a change agent to enable digital changes to your organization.
+A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with experience in driving digital changes within organizations. I specialize in understanding business needs and developing software solutions to improve processes and drive growth. I am skilled in managing projects, analyzing data, and ensuring quality in the final product. I am passionate about using my expertise to help organizations reach their goals and succeed. Let's work together to improve your business and drive success. Contact me for any inquiries or projects.
 
-Provide Services on:
-
-🎯 Software Project Managment 
-
-🎯 Business System Analysis 
-
-🎯 Software Testing 
-
-🎯 Business Consulting
-
-🎯 Technical Document Preparation 
-
-🎯 Individual Training  
-
-
-👉 For Any Query or Assigment Contact: 
-
+👉 For Any Query or Assignment Contact: :
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafayethossain/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:rafayet13@gmail.com)
 
+---
 
-----------------------------------------------------------------------
-----------------------------------------------------------------------
-
+---
 
 
  
