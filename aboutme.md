@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Rafayet Hossain
-subtitle: ☑ Certified Lean Six Sigma Black Belt ☑ Business System Analyst ☑ Project Manager ☑ SQA (Open to Work)
+subtitle: ☑ Business System Analyst ☑ IT Project Manager ☑ SQA ☑ Certified Lean Six Sigma Black Belt (Open to Work)
 ---
 
 
@@ -18,7 +18,7 @@ Did you know that 60% of project failures originate from inadequate requirements
 
 
 
-👉 Hi, This is **Rafayet Hossain**, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My practical experience in providing successful project delivery to government, non-government, and multinational clients makes me a top candidate in this sector.
+👉 Hi, This is Rafayet Hossain, A Seasoned Business System Analyst (BSA), IT Project Manager, And SQA Engineer with over four years of professional experience in the software industry. My practical experience in providing successful project delivery to government, non-government, and multinational clients makes me a top candidate in this sector.
 </p>
 
 
