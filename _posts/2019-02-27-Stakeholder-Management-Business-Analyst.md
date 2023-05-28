@@ -29,6 +29,7 @@ _Quick Link to Specific Topic:_
     - [Validate and Refine Stakeholder List:](#validate-and-refine-stakeholder-list)
 - [Project Stakeholder Analysis](#project-stakeholder-analysis)
   - [What is Stakeholder Prioritization?](#what-is-stakeholder-prioritization)
+    - [Salience Model:](#salience-model)
     - [The Power Grid Technique:](#the-power-grid-technique)
     - [Example of the Power Grid:](#example-of-the-power-grid)
     - [Explanation of the Power Grid:](#explanation-of-the-power-grid)
@@ -41,7 +42,6 @@ _Quick Link to Specific Topic:_
       - [Consulted (C):](#consulted-c)
       - [Informed (I):](#informed-i)
   - [Assigning Stakeholders Responsibility using RACI Matrix](#assigning-stakeholders-responsibility-using-raci-matrix)
-  - [Salience Model:](#salience-model)
   - [Stakeholder Management Strategies:](#stakeholder-management-strategies)
   - [Effective Communication Techniques:](#effective-communication-techniques)
   - [Mitigating Stakeholder Conflicts and Challenges:](#mitigating-stakeholder-conflicts-and-challenges)
@@ -146,6 +146,11 @@ Having a unified vision plays a vital role in keeping the group focused and alig
 ## What is Stakeholder Prioritization?
 Stakeholder prioritization is the process of assessing and ranking stakeholders based on their level of influence, interest, and importance to the project. It helps project managers allocate resources, determine communication strategies, and manage stakeholder engagement effectively.
 
+
+### Salience Model:
+
+The Salience model determines stakeholder priority by considering their power, legitimacy (their involvement is considered appropriate and authorized), and urgency (the need for immediate attention). This model helps project managers identify key stakeholders who require focused engagement and prioritize resource allocation accordingly.
+
 ### The Power Grid Technique:
 The power grid technique is a visual tool used to prioritize stakeholders based on their power and interest. It involves plotting stakeholders on a matrix with power on the vertical axis and interest on the horizontal axis. This four-quadrant grid helps project managers identify key players, allocate appropriate levels of communication, and manage stakeholder expectations.
 
@@ -229,13 +234,13 @@ _All stakeholders are equal, but some are more equal than the others_.
 
 To illustrate how RACI is applied in practice, consider the following example for a software development project:
 
-| Task                 | Responsible | Accountable | Consulted       | Informed            |
-|----------------------|-------------|-------------|-----------------|---------------------|
-| Requirements Analysis| Development | Project     | Business Analyst| Executive Team      |
-| Design               | Development | Project     | UX/UI Designer  | Business Analyst    |
-| Coding               | Development | Project     | QA Team         | Business Analyst    |
-| Testing              | QA Team     | Project     | Development     | Business Analyst    |
-| Deployment           | IT Team     | Project     | Development     | Business Analyst    |
+| Task                 | Responsible | Accountable         | Consulted       | Informed            |
+|----------------------|-------------|---------------------|-----------------|---------------------|
+| Requirements Analysis| Development | Project Manager     | Business Analyst| Executive Team      |
+| Design               | Development | Project Manager     | UX/UI Designer  | Business Analyst    |
+| Coding               | Development | Project Manager     | QA Team         | Business Analyst    |
+| Testing              | QA Team     | Project Manager     | Development     | Business Analyst    |
+| Deployment           | IT Team     | Project Manager     | Development     | Business Analyst    |
 
 In this example, the development team is responsible for tasks such as requirements analysis, design, and coding. The project manager is accountable for the overall success of each task. The business analyst is consulted for their expertise in requirements analysis and design. The executive team is kept informed about the progress and outcomes of these tasks.
 
@@ -246,9 +251,6 @@ By using the RACI matrix, project teams can eliminate ambiguity, prevent role co
 _Generally, nobody should have more than a single responsibility._
 
 
-## Salience Model:
-
-The Salience model determines stakeholder priority by considering their power, legitimacy (their involvement is considered appropriate and authorized), and urgency (the need for immediate attention). This model helps project managers identify key stakeholders who require focused engagement and prioritize resource allocation accordingly.
 
 ## Stakeholder Management Strategies:
 
