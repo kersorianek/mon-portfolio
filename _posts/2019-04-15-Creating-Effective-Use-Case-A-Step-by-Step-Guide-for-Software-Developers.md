@@ -114,66 +114,66 @@ Identify exceptional or alternate paths that deviate from the basic flow. These 
 
 ## Use case Template
 
-```code
-## Use Case Template
+    ```code
+    ## Use Case Template
 
-### Use Case Name:
-[Provide a clear and concise name for the use case]
+    ### Use Case Name:
+    [Provide a clear and concise name for the use case]
 
-### Actors:
-[List the actors involved in the use case]
+    ### Actors:
+    [List the actors involved in the use case]
 
-### Description:
-[Provide a brief description of the use case and its purpose]
+    ### Description:
+    [Provide a brief description of the use case and its purpose]
 
-### Preconditions:
-[List any conditions that must be met before the use case can be executed]
+    ### Preconditions:
+    [List any conditions that must be met before the use case can be executed]
 
-### Basic Flow:
-1. [Step 1: Describe the first action taken by the actor]
-2. [Step 2: Describe the system response]
-3. [Step 3: Continue describing the sequential steps until the use case is completed]
+    ### Basic Flow:
+    1. [Step 1: Describe the first action taken by the actor]
+    2. [Step 2: Describe the system response]
+    3. [Step 3: Continue describing the sequential steps until the use case is completed]
 
-### Alternative Flows:
-- [Describe any alternative paths or exceptional scenarios]
-- [Provide a clear and concise description of each alternative flow]
+    ### Alternative Flows:
+    - [Describe any alternative paths or exceptional scenarios]
+    - [Provide a clear and concise description of each alternative flow]
 
-### Postconditions:
-[List any conditions or outcomes that must be met after the use case is completed]
+    ### Postconditions:
+    [List any conditions or outcomes that must be met after the use case is completed]
 
-### Example Use Case:
+    ### Example Use Case:
 
-**Use Case Name:** User Registration
+    **Use Case Name:** User Registration
 
-**Actors:**
-- User
-- System
+    **Actors:**
+    - User
+    - System
 
-**Description:**
-This use case describes the process of user registration on the website.
+    **Description:**
+    This use case describes the process of user registration on the website.
 
-**Preconditions:**
-- The user has access to the internet.
-- The user is on the registration page.
+    **Preconditions:**
+    - The user has access to the internet.
+    - The user is on the registration page.
 
-**Basic Flow:**
-1. The user enters their personal information (name, email, password).
-2. The system validates the entered data.
-3. If the data is valid, the system creates a new user account.
-4. The system sends a confirmation email to the user.
-5. The user verifies their email by clicking the link in the confirmation email.
+    **Basic Flow:**
+    1. The user enters their personal information (name, email, password).
+    2. The system validates the entered data.
+    3. If the data is valid, the system creates a new user account.
+    4. The system sends a confirmation email to the user.
+    5. The user verifies their email by clicking the link in the confirmation email.
 
-**Alternative Flows:**
-- If the user enters an invalid email address, the system displays an error message and prompts the user to enter a valid email.
-- If the user's chosen password is weak, the system prompts the user to choose a stronger password.
+    **Alternative Flows:**
+    - If the user enters an invalid email address, the system displays an error message and prompts the user to enter a valid email.
+    - If the user's chosen password is weak, the system prompts the user to choose a stronger password.
 
-**Postconditions:**
-- The user account is created.
-- The user is logged into the system.
+    **Postconditions:**
+    - The user account is created.
+    - The user is logged into the system.
 
 
 
-```
+    ```
 
 Creating effective use cases is crucial for successful software development. By following the step-by-step guide outlined in this post, software developers can capture accurate user requirements, facilitate effective communication, and ensure the development of a system that meets user needs. By incorporating best practices, developers can enhance the quality and usefulness of their use cases, leading to improved project outcomes.
 
