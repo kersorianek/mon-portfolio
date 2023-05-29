@@ -61,6 +61,7 @@ _Quick Links to Topic:_
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
+
 # Requirement Elicitation Basics 
 
 Eliciting requirements is the process of determining what the system is doing and what the system should be doing. Not knowing what to do. The requirements process begins with elicitation.
@@ -121,14 +122,6 @@ Creating prototypes, whether low-fidelity sketches or interactive mockups, helps
 Effective requirements elicitation is crucial for project success. By utilizing techniques like brainstorming, workshops, interviews, surveys, observation, document review, and prototyping, organizations can ensure comprehensive and accurate capture of stakeholder needs, leading to the development of successful and user-centric solutions.
 
 
-Title: Requirement Elicitation: Best Practices for Successful Gathering of Requirements
-
-Meta Tags: Requirement elicitation, best practices, gathering requirements, effective techniques, stakeholder engagement
-
-Introduction (50 words):
-Learn about the crucial process of requirement elicitation and the best practices for successfully gathering requirements. This comprehensive guide introduces the concept of requirement elicitation, its importance in project success, and provides practical tips for effective requirement gathering.
-
-
 
 ## Essential Steps for Successful Gathering of Requirements
 
@@ -184,7 +177,7 @@ Embrace an iterative approach to requirement elicitation, allowing for continuou
 
 Let's dive deep with requirements elicitation techiniques: 
 
- ## Brainstorming: Elicitation Technique
+## Brainstorming: Elicitation Technique
  
 
 Brainstorming is used in requirement capturing to acquire as many ideas from a group of individuals as feasible. Generally used to find potential answers to issues and to explain specifics of possibilities.
@@ -285,7 +278,6 @@ As you may know, with agile, you must include the product **backlog** and requir
 ### Advantage of Requirement Workshop:
 
 - It helps you actually really get into the details and there are the real requirements
-- 
 - The brief intense session facilitates the collecting of relevant expressed criteria
 - Having the relevant stakeholders in attendance fosters buy-in.
 - The conditions put up are addressed and understood properly before moving to approval
@@ -439,7 +431,7 @@ When acquiring information from a large number of people: too numerous to interv
   
   ## What are the advantage and disadvantage of Survey:
  
- ### Advantage of Survey:
+### Advantage of Survey:
 - Require limited stakeholder’s time
 - Effective at reaching geographically dispersed stakeholders
 - Scalable for large audiences
@@ -497,7 +489,7 @@ When acquiring information from a large number of people: too numerous to interv
 
 # Interface Analysis: Requirement Elicitation Technique
 
-** What is Interface Analysis?**
+**What is Interface Analysis?**
 
 - Reviewing the system, people, and process linkages
 - Determine needs for input, output, and the medium
