@@ -16,16 +16,16 @@ Writing an accurate bug report is critical since it increases your chances of co
 Let's face reality now! In most circumstances, you will utilize a bug tracking program that automates the process of writing a bug report by filling in information such as a reporter or issue number. If you do not utilize such a tool, you must enter this information manually.
 
 _Quick Link to Specific Topic:_
-
 - [What exactly is a bug report?](#what-exactly-is-a-bug-report)
   - [Definition of Bug](#definition-of-bug)
-- [Description aka Summary:](#description-aka-summary)
-- [Reproduction Steps:](#reproduction-steps)
-- [Expected Outcome:](#expected-outcome)
-- [Achieved / Actual Results:](#achieved--actual-results)
-- [Screenshot:](#screenshot)
-- [Additional, but very important information you should provide:](#additional-but-very-important-information-you-should-provide)
-- [Severity](#severity)
+- [How to Write a Effective Bug Report](#how-to-write-a-effective-bug-report)
+    - [Description aka Summary:](#description-aka-summary)
+    - [Reproduction Steps:](#reproduction-steps)
+    - [Expected Outcome:](#expected-outcome)
+    - [Achieved / Actual Results:](#achieved--actual-results)
+    - [Screenshot:](#screenshot)
+      - [Additional, but very important information you should provide:](#additional-but-very-important-information-you-should-provide)
+    - [Severity](#severity)
 - [Do's for Bug Reporting](#dos-for-bug-reporting)
 - [Don'ts for Bug Reporting](#donts-for-bug-reporting)
 - [About Content Creator:](#about-content-creator)
@@ -41,34 +41,36 @@ Everyone can write a bug report, but are they all effective?
 
 **Bug** is a software error which is caused due to fault or failure in the system. Another term for software **defect**.
 
-# Description aka Summary:
+# How to Write a Effective Bug Report
+
+### Description aka Summary:
 
 Keep it concise but informative. Consider your bug report to be a good tweet: keep it brief, sweet, and to the point.
 
-# Reproduction Steps:
+### Reproduction Steps:
 
 How did you get this bug? Make a list of all the steps you've taken.
 
-# Expected Outcome:
+### Expected Outcome:
 
 In your situation, what is the expected behavior? Results are frequently preset and tied to consumer requirements.
 
-# Achieved / Actual Results:
+### Achieved / Actual Results:
 
 In your scenario, was that the behavior (results)? Write down the bug's real behavior.
 
-# Screenshot:
+### Screenshot:
 
 An image is worth a thousand words. Capture this annoying bug with the appropriate screenshot or screencast!
 
-# Additional, but very important information you should provide:
+#### Additional, but very important information you should provide:
 
 - [x] The user credentials with which you created the bug.
 - [x] Problem field / URL.
 - [x] Product version (if applicable).
 - [x] The browser you used, especially if there were design issues.
 
-# Severity
+### Severity
 
 - Priority: is determined by the severity of the defect. The most critical flaws should be addressed first.
 - Intensity: display software bug effects.
