@@ -14,14 +14,14 @@ Software requirements play a crucial role in project management, serving as the 
 
 _Quick Links to Topic:_
 
-- [Importance of Software Requirements in Project Management:](#importance-of-software-requirements-in-project-management)
-	- [Role of Business Analysts in Gathering and Documenting Requirements:](#role-of-business-analysts-in-gathering-and-documenting-requirements)
-	- [What is Software Requirement?](#what-is-software-requirement)
+- [What is Software Requirement?](#what-is-software-requirement)
 	- [Relationship between different types of requirements and project success:](#relationship-between-different-types-of-requirements-and-project-success)
 		- [Functional Requirements:](#functional-requirements)
 		- [Non-Functional Requirements:](#non-functional-requirements)
 			- [Product Constraints:](#product-constraints)
 	- [Category of Software Requirements](#category-of-software-requirements)
+	- [Importance of Software Requirements in Project Management:](#importance-of-software-requirements-in-project-management)
+	- [Role of Business Analysts in Gathering and Documenting Requirements:](#role-of-business-analysts-in-gathering-and-documenting-requirements)
 	- [The Requirements Gathering Process:](#the-requirements-gathering-process)
 	- [Analyzing and Prioritizing Requirements:](#analyzing-and-prioritizing-requirements)
 		- [What Makes a Good Requirements?](#what-makes-a-good-requirements)
@@ -40,33 +40,9 @@ _Quick Links to Topic:_
 - [About Content Creator:](#about-content-creator)
 - [All Posts on Business Analysis:](#all-posts-on-business-analysis)
 
-# Importance of Software Requirements in Project Management:
 
 
-Software requirements define the functionality, performance, and constraints of a software system. They act as a bridge between stakeholders and the development team, ensuring that everyone is aligned on the desired outcomes. Clear and well-defined requirements set the stage for effective project planning, development, and testing. They serve as a baseline for evaluating project success and managing changes throughout the software development lifecycle.
-
-Why Do We Need Requirements?
-
-- Guides the design of the eventual solution.
-- Without correct requirements, you cannot build the correct product.
-
-- **About 60% of project failures originate with the requirements.**
-- **13.1% of project fails because of incpmplete requirements.**
-- **12.4% of project fails because of lack of user involvement.**
-- **10.6% of project fails because of lack of user involvement.**
-- **9.9% of project fails because of unrealistic expectations.**
-- **9.3% of project fails because of lack of executive support.**
-- **8.7% of project fails because of lack of changing requirements and specifications.**
-- **8.1% of project fails because of lack of planning.**
-- **7.5% of project fails because system no longer needed.**
-
-- Source: Standish Group survey 1994
-
-## Role of Business Analysts in Gathering and Documenting Requirements:
-
-Business analysts play a crucial role in the requirements management process. They act as intermediaries between stakeholders and the development team, translating business needs into functional requirements. Business analysts employ various techniques to elicit requirements, such as interviews, workshops, and observations. They document and organize the gathered requirements, ensuring that they are complete, consistent, and unambiguous.
-
-## What is Software Requirement?
+# What is Software Requirement?
 
 Software requirements serve as detailed descriptions of the services that software must provide. They can vary in complexity, ranging from high-level abstract declarations of user needs to comprehensive mathematical functional requirement specifications.
 
@@ -154,6 +130,35 @@ Requirements are categorized as follows:
 	a. Global Requirement:
 		i. Purpose of the project
 		ii. Users of a product
+
+
+## Importance of Software Requirements in Project Management:
+
+
+Software requirements define the functionality, performance, and constraints of a software system. They act as a bridge between stakeholders and the development team, ensuring that everyone is aligned on the desired outcomes. Clear and well-defined requirements set the stage for effective project planning, development, and testing. They serve as a baseline for evaluating project success and managing changes throughout the software development lifecycle.
+
+Why Do We Need Requirements?
+
+- Guides the design of the eventual solution.
+- Without correct requirements, you cannot build the correct product.
+
+- **About 60% of project failures originate with the requirements.**
+- **13.1% of project fails because of incpmplete requirements.**
+- **12.4% of project fails because of lack of user involvement.**
+- **10.6% of project fails because of lack of user involvement.**
+- **9.9% of project fails because of unrealistic expectations.**
+- **9.3% of project fails because of lack of executive support.**
+- **8.7% of project fails because of lack of changing requirements and specifications.**
+- **8.1% of project fails because of lack of planning.**
+- **7.5% of project fails because system no longer needed.**
+
+Source: Standish Group survey 1994
+
+## Role of Business Analysts in Gathering and Documenting Requirements:
+
+Business analysts play a crucial role in the requirements management process. They act as intermediaries between stakeholders and the development team, translating business needs into functional requirements. Business analysts employ various techniques to elicit requirements, such as interviews, workshops, and observations. They document and organize the gathered requirements, ensuring that they are complete, consistent, and unambiguous.
+
+
 
 ## The Requirements Gathering Process:
 
