@@ -2134,14 +2134,12 @@
 
 <h1 id="hypothesis-testing-with-python">Hypothesis Testing with Python<a class="headerlink" href="#hypothesis-testing-with-python" title="Permanent link">&para;</a></h1>
 <ul>
-<li><a href="">Github Notebook link</a></li>
+<li><a href="https://github.com/JoeGanser/teaching/blob/main/MasterSchool/hypothesis_testing_solutions.ipynb">Github Notebook link</a></li>
 <li><a href="mailto:joeganserlectures@gmail.com">By Joe Ganser</a></li>
 </ul>
 <h3 id="exercise-1-t-test-degrees-of-freedom">Exercise 1: t-test degrees of freedom<a class="headerlink" href="#exercise-1-t-test-degrees-of-freedom" title="Permanent link">&para;</a></h3>
 <p>Using the formula below (which applies to t-tests with unequal degrees of freedom), create a python function that performs this calculation</p>
-<div class="arithmatex">\[
-\text{df} = \frac{{\left(\frac{{s_1^2}}{{n_1}} + \frac{{s_2^2}}{{n_2}}\right)^2}}{{\left(\frac{{s_1^2}}{{n_1}}\right)^2 / (n_1 - 1) + \left(\frac{{s_2^2}}{{n_2}}\right)^2 / (n_2 - 1)}}
-\]</div>
+<p><img alt="png" src="../equation1.png" /></p>
 <ul>
 <li>
 <p>s1 = standard deviation of sample 1</p>
@@ -2178,22 +2176,26 @@
 <li>tails (the number of tails for the test)</li>
 <li>alpha (the significance level)</li>
 </ul>
-<p>Make the function print the;
-* p_value
-* test statistic
-* critical value
-* alpha</p>
-<p>Make the function <code>return</code> one of two conclusions;
-* <code>Reject null hypothesis</code> (if <code>p_value &lt; alpha</code> and <code>|test_statistic|&gt;|critical_value|</code>)
-* Otherwise, <code>Fail to reject null hypothesis</code></p>
-<p><strong>RECALL</strong>
-We calculate the <code>test_statistic</code> by;
-$$
-t = \frac{{\bar{X}_1 - \bar{X}_2}}{{\sqrt{\frac{{s_1^2}}{{n_1}} + \frac{{s_2^2}}{{n_2}}}}}
-$$</p>
-<p><strong>HINTS</strong>
-* <code>p_value</code> can be calculated using <code>(1 - t.cdf(abs(t_statistic), df))</code> <em>FOR EACH TAIL</em>
-* <code>critical_value</code> can be calculate using <code>t.ppf(1 - alpha / tails, df)</code></p>
+<p>Make the function print the;</p>
+<ul>
+<li>p_value</li>
+<li>test statistic</li>
+<li>critical value</li>
+<li>alpha</li>
+</ul>
+<p>Make the function <code>return</code> one of two conclusions;</p>
+<ul>
+<li><code>Reject null hypothesis</code> (if <code>p_value &lt; alpha</code> and <code>|test_statistic|&gt;|critical_value|</code>)</li>
+<li>Otherwise, <code>Fail to reject null hypothesis</code></li>
+</ul>
+<p><strong>RECALL</strong></p>
+<p>We calculate the <code>test_statistic</code> by;
+<img alt="png" src="../equation2.png" /></p>
+<p><strong>HINTS</strong></p>
+<ul>
+<li><code>p_value</code> can be calculated using <code>(1 - t.cdf(abs(t_statistic), df))</code> <em>FOR EACH TAIL</em></li>
+<li><code>critical_value</code> can be calculate using <code>t.ppf(1 - alpha / tails, df)</code></li>
+</ul>
 <p>Run this function for the following values (from lecture notes):</p>
 <ul>
 <li>sample_mean1 = 22.29</li>
@@ -2246,18 +2248,22 @@ Significance level alpha: 0.05
 &#39;Reject Null Hypothesis&#39;
 </code></pre></div>
 <h3 id="exercise-3-plotting-a-t-distribution">Exercise 3: Plotting a t-distribution<a class="headerlink" href="#exercise-3-plotting-a-t-distribution" title="Permanent link">&para;</a></h3>
-<p>Using <code>matplotlib</code> make a plot of the t-distribution for <code>20</code> degrees of freedom.
-* Define the horizontal values using <code>x = np.linspace(-4,4,500)</code>
-* Define the vertical values using <code>t.pdf(horizontal_values, degrees of freedom)</code>
-* Use the <code>plt.plot(horizontal_values, vertical_values, label = ....)</code> to plot the graph
-* Give the horizontal axis a label <code>t-score</code>
-* Give the vertical axis a label <code>Probability density</code>
-* Make a vertical line for the test statistic using <code>plt.axviline(test_statistic,linestyle=':',label='test_statistic')</code>
-* Give it a legend using the <code>plt.legend()</code> function
-* Shade the tails using the following;
-    * <strong>alpha:</strong> <code>plt.fill_between(x, pdf, where=(x &lt; -critical_value) | (x &gt; critical_value),...)</code> give it the color red and an alpha (transparency parameter) value of 0.2 and label of <code>alpha = 0.05</code>
-    * <strong>p-value:</strong> <code>plt.fill_between(x, pdf, where=abs(x) &gt; test_statistic, color='darkred',...)</code> transparency parameter= 0.4 and label <code>p_value</code>
-* Show the plot</p>
+<p>Using <code>matplotlib</code> make a plot of the t-distribution for <code>20</code> degrees of freedom.</p>
+<ul>
+<li>Define the horizontal values using <code>x = np.linspace(-4,4,500)</code></li>
+<li>Define the vertical values using <code>t.pdf(horizontal_values, degrees of freedom)</code></li>
+<li>Use the <code>plt.plot(horizontal_values, vertical_values, label = ....)</code> to plot the graph</li>
+<li>Give the horizontal axis a label <code>t-score</code></li>
+<li>Give the vertical axis a label <code>Probability density</code></li>
+<li>Make a vertical line for the test statistic using <code>plt.axviline(test_statistic,linestyle=':',label='test_statistic')</code></li>
+<li>Give it a legend using the <code>plt.legend()</code> function</li>
+<li>Shade the tails using the following;<ul>
+<li><strong>alpha:</strong> <code>plt.fill_between(x, pdf, where=(x &lt; -critical_value) | (x &gt; critical_value),...)</code> give it the color red and an alpha (transparency parameter) value of 0.2 and label of <code>alpha = 0.05</code></li>
+<li><strong>p-value:</strong> <code>plt.fill_between(x, pdf, where=abs(x) &gt; test_statistic, color='darkred',...)</code> transparency parameter= 0.4 and label <code>p_value</code></li>
+</ul>
+</li>
+<li>Show the plot</li>
+</ul>
 <div class="language-python highlight"><pre><span></span><code><span id="__span-2-1"><a id="__codelineno-2-1" name="__codelineno-2-1" href="#__codelineno-2-1"></a><span class="kn">import</span> <span class="nn">numpy</span> <span class="k">as</span> <span class="nn">np</span>
 </span><span id="__span-2-2"><a id="__codelineno-2-2" name="__codelineno-2-2" href="#__codelineno-2-2"></a><span class="kn">import</span> <span class="nn">matplotlib.pyplot</span> <span class="k">as</span> <span class="nn">plt</span>
 </span><span id="__span-2-3"><a id="__codelineno-2-3" name="__codelineno-2-3" href="#__codelineno-2-3"></a><span class="kn">from</span> <span class="nn">scipy.stats</span> <span class="kn">import</span> <span class="n">t</span>
