@@ -148,6 +148,9 @@ nav:
     - Stats with Python:
       - Exploratory Data Analysis:
         - Notebook: lectures/stats/eda/eda.md
+      - Hypothesis Testing:
+        - Intro slides: lectures/stats/hypothesis_testing/hypothesis_testing_intro.md
+        - Hypothesis testing 2 slides: lectures/stats/hypothesis_testing/hypothesis_testing2.md
     - Supervised Learning:
       - Classification part 1:
         - Notebook: lectures/supervised_learning/classification_part1/Classification_part1.md
