@@ -30,8 +30,14 @@ There are many common mistakes any analyst should be careful about. These are th
 ## Conclusion
 The above only highlight some of the common failures and there are many other ways that cause ML systems to fail. These impediments can be avoided in many ways. For example, following proper best practices help overcome many oversights related to model deployment. However, for many companies data science is a relatively new field and best practices are yet to be properly established. Many organizations are increasingly focused on laying good groundwork and co-creating ML solutions with the businesses. When it comes to edge cases, it has proven extremely difficult to avoid them especially in autonomous vehicles. However, the companies are always researching to improve the performance in corner cases and provide the best outcome for its customers. The broken feedback loops can be mended in many ways. For example, Google Translate has placed a great emphasis on allowing reviewers to provide the ideal translation when the translations are off. This helps improve their translation by mending the feedback loop. These developments have been promising and it will improve the perception of machine learning for the consumers in the years to come. 
 
+( _This post originally appeared in Medium account of Octave-John Keells_ )
+
 Further readings:
+
 https://snit.ch/blog/why-gartner-says-your-machine-learning-models-will-fail/
+
 https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html
+
 https://support.google.com/translate/answer/2534530?hl=en
+
 https://dataloop.ai/blog/autonomous-edge-case/
