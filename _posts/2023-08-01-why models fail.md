@@ -1,13 +1,13 @@
 ---
 layout: post
 title: Why Machine Learning Models Fail
-subtitle: 
+subtitle: Steering Clear of Machine Learning Misstep
 cover-img: /assets/img/thunder.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
-## Introduction
+
 It is often said that most data science projects fail to achieve the value they promised to deliver. Gartner, technological research and consulting company says that almost half of Chief Information Officers plan to deploy AI and machine learning in their companies. However, they predict that 85 percent of AI projects will deliver erroneous outcomes due to bias in data, algorithms or the teams responsible for managing them. This may sound as a very disheartening message to data scientists and any company looking forward to adopting data science in their businesses. However, this does not occur due to the weaknesses in machine learning itself. This occurs due to how machine learning is implemented. This can be avoided if the practitioners are careful.
 
 ## Lack of good initiation process 
