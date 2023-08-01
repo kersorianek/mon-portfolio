@@ -3,7 +3,7 @@ layout: post
 title: Why Machine Learning Models Fail
 subtitle: Steering Clear of Machine Learning Misstep
 cover-img: /assets/img/thunder.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/thunder.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
