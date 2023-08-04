@@ -4,13 +4,12 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+I am Praveen.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
+I possess an insatiable curiosity that delves into the mysteries of data and economics. With a mind that thrives on unraveling complexities, I thrive on deciphering patterns and unveiling the stories hidden within.
+A badminton enthusiast, combining grace and strategy on and off the court.
+An intrepid solo traveler, capturing the hidden beauty of the world through a lens.
 
 ### My story
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+As a data scientist, my canvas is the realm of numbers and helping businesses grow. It is exciting as each day is a new challenge and a new chapter, a step closer to understanding the world better. But my true joy comes from sharing knowledge, illuminating the path for those eager to learn.
