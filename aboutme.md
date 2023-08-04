@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: 
 ---
 
-I am Praveen.
+### I am Praveen.
 
 I possess an insatiable curiosity that delves into the mysteries of data and economics. With a mind that thrives on unraveling complexities, I thrive on deciphering patterns and unveiling the stories hidden within.
 A badminton enthusiast, combining grace and strategy on and off the court.
