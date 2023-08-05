@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Why Machine Learning Models Fail
-subtitle: Steering Clear of Machine Learning Misstep
+title: Econometric methods in impact evaluation
+subtitle: How economists can be a better causality estimator
 cover-img: /assets/img/thunder.jpg
 thumbnail-img: /assets/img/thunder.jpg
 share-img: /assets/img/path.jpg
