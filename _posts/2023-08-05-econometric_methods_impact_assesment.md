@@ -25,6 +25,5 @@ DiD puts together the before-after and treatment-control group comparison. Its a
 ### Estimating the Model
 A well defined regression model allows you to estimate the causal effect with any other control variables. We will use dummy variables to define the before and after states and treatment and control group differences. The full model will be a one with dummy variables with an interaction variable. We will skip the mathematical derivation and look at the result below.
 
-$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-$$ y~it = {β \pm \sqrt{b^2-4ac} \over 2a} $$
+![Did_equation](/assets/img/did_equation.jpg)
