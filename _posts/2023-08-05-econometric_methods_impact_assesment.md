@@ -2,8 +2,8 @@
 layout: post
 title: Econometric methods in impact evaluation
 subtitle: How economists can be a better causality estimator
-cover-img: /assets/img/thunder.jpg
-thumbnail-img: /assets/img/thunder.jpg
+cover-img: /assets/img/high_impact.jpg
+thumbnail-img: /assets/img/high_impact.jpg
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
