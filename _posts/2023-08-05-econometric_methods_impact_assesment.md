@@ -16,4 +16,13 @@ Economists are obsessed with developing a perfect counterfactual.  In order to m
 
 ### Difference-in-Difference Estimation
 DiD puts together the before-after and treatment-control group comparison. Its applications are widespread in economics, policy, business and various other fields. DiD employs a unique method that gives its name. This requires a panel dataset for a treatment and control group. In the DiD method we deduct the before-after difference of the control group and deduct that from the same in the treatment group. This method succeeds in achieving two goals. Firstly, any changes that are happening over time such as the effect of fluctuating economic cycles is nullified.  Secondly, any characteristics that determines the outcomes of the treatment and the control group are also accounted for so long as they are constant across time. Thus, the time variant and time invariant differences that are difficult to observe are accounted for.  
+
+
 ![Did_image](/assets/img/did_pic.jpg)
+
+
+
+### Estimating the Model
+A well defined regression model allows you to estimate the causal effect with any other control variables. We will use dummy variables to define the before and after states and treatment and control group differences. The full model will be a one with dummy variables with an interaction variable. We will skip the mathematical derivation and look at the result below.
+
+$$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
