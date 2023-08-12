@@ -27,4 +27,4 @@ A well defined regression model allows you to estimate the causal effect with an
 
 $$ x = {-b \pm \sqrt{b^2-4ac} \over 2a} $$
 
-$$ y~it = {β~0 \pm \sqrt{b^2-4ac} \over 2a} $$
+$$ y~it = {β<sub>0 \pm \sqrt{b^2-4ac} \over 2a} $$
