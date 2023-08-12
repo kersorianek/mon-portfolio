@@ -27,3 +27,12 @@ A well defined regression model allows you to estimate the causal effect with an
 
 
 ![Did_equation](/assets/img/did_equation.PNG)
+
+
+### Equal trends assumption
+The researcher needs to convince the audience that “equal trends” assumption holds between the treatment and control groups over-time. Essentially, we need to ensure that the treatment group and the control group are affected equally by any trends that are occuring across time. If the trends look terribly different across time for the two groups, the estimates could be biased. There are no specific tests that can be run and often time-series graphs will do the job. This is the assumption that often hardest to fulfil in a DiD study. Therefore the success of the study hangs on your ability to find a control group that satisfies this assumption. Apart from the equal trends assumption, we have to make sure there are no spillover effects from the treatment manifesting in the control group. 
+
+One very important factor to consider is that since we are using a panel dataset, the datapoints are serially correlated. Accounting for the serial correlation is paramount in order to maintain the homoscedasticity assumption in linear regression. The method is also a very flexible method which we can combine with other methods such as fixed effects method. DiD has produced great results especially when we do not have the luxury to conduct a comprehensive experimental design. This is one of the number of panel-data methods that are employed in the field of economics. This method could be especially handy in order to measure the impact in a time of pandemic where finding a baseline would be almost impossible through conventional methods. 
+
+( _This article was originally published in Octave: John Keells Medium page._ )
+-Praveen Ekanayake-
