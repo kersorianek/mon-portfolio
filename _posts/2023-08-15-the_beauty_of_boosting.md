@@ -2,8 +2,8 @@
 layout: post
 title: The beauty of Boosting
 subtitle: how "boosting" has aided the world of machine learning
-cover-img: /assets/img/gbm_pic.jpg
-thumbnail-img: /assets/img/gbm_pic.jpg
+cover-img: /assets/img/gbm_pic.png
+thumbnail-img: /assets/img/gbm_pic.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
