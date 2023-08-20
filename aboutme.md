@@ -24,7 +24,7 @@ https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drink
   
 ## 2. Supply-side planning: DNA data for precise sales prediction
 
-A large meat producer faced a grave problem: how to plan the supply of different grades of meats when the quality of the cut is not known beforehand? Used machine learning to forecast the quality of beef using DNA data. 
+A large meat producer faced a grave problem: how to plan the supply of different grades of meats when the quality of the cut is not known beforehand? This affected all the other sections in the company as an accurate estimation of revanue was not possible. Used machine learning to forecast the quality of beef using DNA data. 
 
 ##### Technologies used:
 - R
