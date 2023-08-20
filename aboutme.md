@@ -9,7 +9,7 @@ Studying economics lead me to the paradox of choice: you feel qualified to pick 
 ### Image Classification of Bottle Coolers
 
 A project involved bringing massive value to the business through identifying faulty and non-performing bottle coolers automatically through convolution neural network. Involved in model training, model tuning and data pipeline building. 
-Read more on Medium:
+###### Read more on Medium:
 https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drinks-business-grow-486212b3bcb2 
 
 ### Precision Demand Planninng
