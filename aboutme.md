@@ -14,6 +14,7 @@ This project involved bringing massive value to the business through identifying
 - Python
 - R
 - Tensorflow
+- deep learning
 - GIT
 
 ##### Read more on Medium:
@@ -21,6 +22,12 @@ https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drink
 
 
   
-## 2. Precision Demand Planninng
+## 2. Supply-side planning: DNA data for precise sales prediction
 
-A novel demand planning method was introduced to a beverages manufacturer to be deployed in a turbulent economic condition. 
+A large meat producer faced a grave problem: how to plan the supply of different grades of meats when the quality of the cut is not known beforehand? Used machine learning to forecast the quality of beef using DNA data. 
+
+##### Technologies used:
+- R
+- R- Shiny
+- SQL
+- XgBoost
