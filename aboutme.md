@@ -8,7 +8,7 @@ Studying economics lead me to the paradox of choice: you feel qualified to pick 
 
 ## 1. Image Classification of Bottle Coolers
 
-This project involved bringing massive value to the business through identifying faulty and non-performing bottle coolers automatically through classifying an automated cooler photo feed. This harnessed the power of convolution neural network and Inception V3 deep neural network architecture. The insights about cooler productivity was generated through classifying the cooler pictures into 4 categories: good, bad, worse and non-fuctional. Involved in model training, model tuning and data pipeline building. 
+This project involved bringing massive value to the business through identifying faulty and non-performing bottle coolers automatically through classifying bottle cooler pictures. This harnessed the power of convolution neural network and Inception V3 deep neural network architecture. The insights about cooler productivity was generated through classifying the cooler pictures into 4 categories: good, bad, worse and non-fuctional. Involved in model training, model tuning and data pipeline building. 
 
 ##### Technologies used:
 - Python
