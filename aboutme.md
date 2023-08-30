@@ -35,7 +35,7 @@ A large meat producer faced a grave problem: how to plan the supply of different
 
 ## 3. Retail promotional optimization
 
-Used machine learning to predict the best promotionas to be run in supermarket chains in order to maximize margins. The usecase generated 40% increase in ROI of promotions. The client is a large beverages manufacturer. The project involved the following steps:
+Used machine learning to predict the best promotions to be run in supermarket chains in order to maximize margins. The usecase generated 40% increase in ROI of promotions. The client is a large beverages manufacturer. The project involved the following steps:
 1. Creating a baseline level of performance using past non-promotional periods: use of exponential smoothing.
 2. identified the uplift volume of past promotions by considering effects such as cannibalization, forward buying, anticipated buying, and the developed baseline.
 3. Once the ROI of past promotions is identified, used a random forest model to learn the intricate patterns of successful promotions.
