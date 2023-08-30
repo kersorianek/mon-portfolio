@@ -43,6 +43,8 @@ Used machine learning to predict the best promotionas to be run in supermarket c
 
 ##### Technologies used:
 - PySpark
+- Mlflow
+- Spark machine learning
 - PowerBi
 - SQL
 - Machine learning models: Decision tree, Random forest, Gradient Boosting Algorithm
