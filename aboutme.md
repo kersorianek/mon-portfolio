@@ -18,8 +18,8 @@ This project involved bringing massive value to the business through identifying
 - GIT
 
 ##### Read more on Medium:
-https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drinks-business-grow-486212b3bcb2 
-([https://link-url-here.org](https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drinks-business-grow-486212b3bcb2))
+[https://medium.com/@ekanaypo/how-deep-learning-and-tensorflow-helps-a-soft-drinks-business-grow-486212b3bcb2] 
+
 
   
 ## 2. Supply-side planning: DNA data for precise sales prediction
