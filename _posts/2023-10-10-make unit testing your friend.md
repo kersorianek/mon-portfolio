@@ -35,20 +35,18 @@ def test_create_master_keys(self):
     """
     Test create_master_keys function
     """
-    self.conf["months_considered"] = ["2021-1", "2021-2"]
-
     # part1: define inputs
 
     df_inputs = self.spark.createDataFrame( 
         pd.DataFrame(
             {
-                "code": [5961, 5943, 4355, 4523],
+                "code": [5961v, 5943v, 4355v, 4523v],
                 "name": ["Silva", "Ruwan", "Manoj", "Vicky"],
             }
         )
     )
 
-    # part2: call the written func
+    # part2: call and execute the written func
 
     df_outputs = create_master_keys(self.spark, self.conf, df_inputs)
 
@@ -56,7 +54,7 @@ def test_create_master_keys(self):
         pd.DataFrame(
             {
                 "month": ["2021-2", "2021-2", "2021-2"],
-                "code": [5961, 5943, 4355],
+                "code": [5961v, 5943v, 4355v],
                 "name": ["Silva", "Ruwan", "Manoj"],
             }
         )
@@ -77,5 +75,12 @@ def test_create_master_keys(self):
 ### How to get the best out of your unit tests
 
 These gatekeepers of your project should be intelligently placed to test strategic parts in your code. When writing a unit test, it is important that you test general situation and more rare occurrences. This will provide you the assurance that the code works in all scenarios. 
+1. Automate Testing: Automate your unit tests so they can be easily integrated into your development and continuous integration workflows. Automated tests provide immediate feedback when changes are made, helping to catch issues early.
+2. Continuous Integration: Incorporate unit testing into your continuous integration (CI) pipeline. This ensures that tests are run automatically whenever there's a code change, maintaining code quality and reliability.
+3. Regular Updates: As your project evolves, update your unit tests to reflect changes in code functionality. This ensures that your tests remain relevant and effective.
+4. Collaboration: Make sure that everyone understands the value of unit tests and is proficient in writing and running them. Sharing the responsibility of testing across the team fosters a culture of quality assurance.
 
+### Conclusion
+
+In the dynamic world of data science, where collaboration, adaptability, and code quality are essential, unit testing emerges as a key ally. It ensures that your code behaves as expected, provides a safety net against unintended consequences of changes, and fosters a collaborative environment within your team. So, if you are a data scientist looking for better collaboration and striving to make solutioning strive, make unit testing your friend. 
 
