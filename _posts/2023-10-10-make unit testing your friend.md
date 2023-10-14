@@ -28,10 +28,52 @@ The unit tests are an integral part of the development of a data science project
 ### Anatomy of a unit test
 
 Unit test follows a very intuitive, easy to use format. You can conveniently use Pytest library in Python to write unit tests. There are many functionalities to Pytest which includes a detailed diagnosis of which tests passed and failed. However, we will look at how to first create a unit test.
-•	Part1: Define the input and output datasets. We will type-out these two datasets with the scenarios we want to test. In this example, we are testing two scenarios of squarroot conversion.
-•	Part 2: call the function on the input dataset.
-•	Part 3: we have 2 datasets to test. The resultant dataset of the function and the expected dataset. We use the assert_data_frame_equal function within Pandas to test if the two datasets match.  
-How to get the best out of your unit tests
+
+~~~
+def test_create_master_keys(self):
+    """
+    Test create_master_keys function
+    """
+    self.conf["months_considered"] = ["2021-1", "2021-2"]
+
+    # part 1: define inputs
+
+    df_inputs = self.spark.createDataFrame( 
+        pd.DataFrame(
+            {
+                "code": [5961, 5943, 4355, 4523],
+                "name": ["Silva", "Ruwan", "Manoj", "Vicky"],
+            }
+        )
+    )
+
+    # part 2: call the function
+
+    df_outputs = create_master_keys(self.spark, self.conf, df_inputs)
+
+    df_expected = self.spark.createDataFrame(
+        pd.DataFrame(
+            {
+                "month": ["2021-2", "2021-2", "2021-2"],
+                "code": [5961, 5943, 4355],
+                "name": ["Silva", "Ruwan", "Manoj"],
+            }
+        )
+    )
+
+    # part 3: assert if the two datasets match
+
+    pd_expected = df_expected.toPandas()
+    pd_output = df_outputs.toPandas()
+    pd.testing.assert_frame_equal(pd_output, pd_expected, check_dtype=True)
+~~~
+
+* Part1: Define the input and output datasets. We will type-out these two datasets with the scenarios we want to test. In this example, we are testing two scenarios of squarroot conversion.
+* Part 2: call the function on the input dataset.
+* Part 3: we have 2 datasets to test. The resultant dataset of the function and the expected dataset. We use the assert_data_frame_equal function within Pandas to test if the two datasets match.
+  
+### How to get the best out of your unit tests
+
 These gatekeepers of your project should be intelligently placed to test strategic parts in your code. When writing a unit test, it is important that you test general situation and more rare occurrences. This will provide you the assurance that the code works in all scenarios. 
 
 
