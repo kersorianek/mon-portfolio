@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Make Unit Testing Your Friend
-subtitle: Data Science and Unit Testing: A Dynamic Duo for Reliable Analytics
+title: Data Science and Unit Testing: A Dynamic Duo for Reliable Analytics
+subtitle: Data Science Excellence Through Unit Testing Strategies
 cover-img: /assets/img/thunder.jpg
 thumbnail-img: /assets/img/thunder.jpg
 share-img: /assets/img/path.jpg
@@ -21,9 +21,9 @@ This is a very scary situation for any developer. Such situations will discourag
    
 The unit tests are an integral part of the development of a data science project. With the right unit tests in place you will have confidence in the code that it is always operating within the boundaries that you have set. As a result, it fosters collaboration. In the above example, if Sam had the correct unit tests in place, he will always be willing to allow his colleagues to make the required changes to the code. He would not have to check every output as proper unit tests would have alerted any violations of the set boundaries. Not only it fosters collaboration, but it also helps data scientists and machine learling engineers in many ways. 
 
-•	The unit tests can be intelligently placed to detect edge cases. The required tests can be placed to alert when an abnormal behaviour surfaces. For example, regression involves adding multiple variables which could lead to unintended results. You can avoid grossly underfitting or overfitting models using these gatekeepers.
-•	Unit tests can work as living documentation of your code. For example, it will be difficult for a newly joined developer to understand how a data science usecase works without documentation. In fact, in some instances, even properly written documentation or code comments may not accurately say how a function is supposed to work. However, a well-written set of unit tests will allow a developer to understand easily how the code is intended to work and what are the boundaries within which the usecase is intended to operate.  
-•	They encourage the development of modular code. Placing unit tests requires developers to write functions in a testable manner. If there are large, unmanageable code, the developers are required to have smaller, more manageable code so that they can be tested. Therefore, unit tests promote the overall code health of the usecase. 
+* The unit tests can be intelligently placed to detect edge cases. The required tests can be placed to alert when an abnormal behaviour surfaces. For example, regression involves adding multiple variables which could lead to unintended results. You can avoid grossly underfitting or overfitting models using these gatekeepers.
+* Unit tests can work as living documentation of your code. For example, it will be difficult for a newly joined developer to understand how a data science usecase works without documentation. In fact, in some instances, even properly written documentation or code comments may not accurately say how a function is supposed to work. However, a well-written set of unit tests will allow a developer to understand easily how the code is intended to work and what are the boundaries within which the usecase is intended to operate.  
+* They encourage the development of modular code. Placing unit tests requires developers to write functions in a testable manner. If there are large, unmanageable code, the developers are required to have smaller, more manageable code so that they can be tested. Therefore, unit tests promote the overall code health of the usecase. 
 
 ### Anatomy of a unit test
 
