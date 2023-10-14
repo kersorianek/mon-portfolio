@@ -37,7 +37,7 @@ def test_create_master_keys(self):
     """
     self.conf["months_considered"] = ["2021-1", "2021-2"]
 
-    # part 1: define inputs
+    # part1: define inputs
 
     df_inputs = self.spark.createDataFrame( 
         pd.DataFrame(
@@ -48,7 +48,7 @@ def test_create_master_keys(self):
         )
     )
 
-    # part 2: call the function
+    # part2: call the written func
 
     df_outputs = create_master_keys(self.spark, self.conf, df_inputs)
 
@@ -62,7 +62,7 @@ def test_create_master_keys(self):
         )
     )
 
-    # part 3: assert if the two datasets match
+    # part3: assert if the two datasets match
 
     pd_expected = df_expected.toPandas()
     pd_output = df_outputs.toPandas()
