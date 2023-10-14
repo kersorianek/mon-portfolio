@@ -29,7 +29,7 @@ The unit tests are an integral part of the development of a data science project
 
 Unit test follows a very intuitive, easy to use format. You can conveniently use Pytest library in Python to write unit tests. There are many functionalities to Pytest which includes a detailed diagnosis of which tests passed and failed. However, we will look at how to first create a unit test.
 
-```javascript
+{% highlight javascript linenos %}
 
 def test_create_master_keys(self):
     """
@@ -68,7 +68,7 @@ def test_create_master_keys(self):
     pd_output = df_outputs.toPandas()
     pd.testing.assert_frame_equal(pd_output, pd_expected, check_dtype=True)
 
-```
+{% endhighlight %}
 
 * Part1: Define the input and output datasets. We will type-out these two datasets with the scenarios we want to test. In this example, we are testing two scenarios of squarroot conversion.
 * Part 2: call the function on the input dataset.
