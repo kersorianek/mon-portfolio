@@ -1,0 +1,43 @@
+---
+layout: post
+title: Why Machine Learning Models Fail
+subtitle: Steering Clear of Machine Learning Misstep
+cover-img: /assets/img/thunder.jpg
+thumbnail-img: /assets/img/thunder.jpg
+share-img: /assets/img/path.jpg
+tags: [books, test]
+---
+
+It is often said that most data science projects fail to achieve the value they promised to deliver. Gartner, technological research and consulting company says that almost half of Chief Information Officers plan to deploy AI and machine learning in their companies. However, they predict that 85 percent of AI projects will deliver erroneous outcomes due to bias in data, algorithms or the teams responsible for managing them. This may sound as a very disheartening message to data scientists and any company looking forward to adopting data science in their businesses. However, this does not occur due to the weaknesses in machine learning itself. This occurs due to how machine learning is implemented. This can be avoided if the practitioners are careful.
+
+## Lack of good initiation process 
+Machine learning is an exciting technology for any company. The inclination would be to apply them as soon as possible without thorough assessment of feasibility. They assume that the problems that come in their way will take care of themselves. Such approaches often lead to unrealized value from machine learning. Before any analytics is carried out the practitioners should answer some fundamental questions to ensure the value is derived. First, make sure the ROI is measurable and justifiable. There should be clear sources of value and the business process in place to execute the interventions. Secondly, answer if the use case can be scaled to different parts of the business. If the current use-case can be scaled, the value generated from an analytics intervention can be doubled. Therefore laying strong ground-work will invariably lead to solid results.
+
+## Machine learning specific failures
+The underlying premise of machine learning is that a statistical model will successfully be able to learn the variations of a training dataset and apply it to the real world. We assume that the model’s performance on test data is an accurate representation of how the model will perform on unseen, real world data. This assumption is fundamentally incorrect. The distribution of training data is unlikely to be similar to that of testing data. The training data is a finite sample of observations whereas the real-world data is virtually infinite. It is multi-faceted and there are infinite number of transformations. The divergence could be due to a simple change in HTML encoding, resulting in erroneous web-scraped data that is fed into a model.  In this situation when we use the same feature engineering code, our models fail or predictions will be inaccurate. This error is known as the “Train-serving skew”. 
+The training and testing datasets are time-bound whereas the real-world data is not. The real-world is often unpredictable and often affected by unforeseen events. For example, when someone from the United States searched for Ukraine, this could have been to retrieve travel information. Since February of 2021, a search for Ukraine could be to know more about a conflict between two countries. An online personalized recommendation engine could easily suffer in such a scenario. If the model is already in production, it could be giving sub-par results. These divergences from train and test data need to be constantly monitored so long as the model lives in production.  
+
+## Long feedback loops
+It is very important to have some feedback about how your deployed model is working in the real world. A data scientist would ideally want to know about the performance of the model in order to update the model. In some instances it is very straightforward and the feedback is received instantly. For example, if you deployed a model to forecast the time taken to get to a location in a ride hailing application, the actual time taken becomes clear instantly when passengers complete the trip. When you have deployed an online advertisement recommendation system, you will know whether the respondent liked the advertisement instantly when they click on it. However, in some cases the feedback systems are very long or virtually non-existent. For example, if you have deployed a fraud detection system, it will be very long before the activities are proven to be actually fraudulent. In such instances getting a feedback is never guaranteed and depend on many external circumstances. Perhaps an even better example is how inaccurate Google Translate is. The users of Google Translate have to endure comically inaccurate translations because in most cases the creators of the algorithm may never know how accurate their translations are. As most users are new to the language thus unaware whether the translation is accurate, there is very little room to create a good feedback loop. For these reasons, after years of in existence, Google Translate still is painfully inaccurate. Therefore, having too long feedback loops lead to machine learning models failing silently. 
+
+## Edge cases
+Imagine that you have developed an algorithm to identify tumors. You have an impressive 99.9% accuracy. However, the 0.1% times you misclassify a malignant tumor as benign which could prove fatal to a patient. A hospital will be reluctant to use such an algorithm no matter how impressive the numbers are. This phenomenon is often explained in self-driving cars too. Imagine there is a self-driving car where it would drive safely in 99.99% of the times but could bring catastrophic results in the rest of the instances. Although this level of accuracy is better than the performance of an average human, the miniscule possibility of a catastrophe could be very unappealing to the prospective buyers.  This is not common only to human safety related algorithms. The performance on edge cases could prove irksome in other less threatening applications too. For example, a company produced a virtual personal assistant which uses NLP technology to recognize human speech and provide assistance to people. Although it is impressively accurate, it occasionally produces racist or sexist comments. Such ML products could go out of business for a 0.01% failure.
+It is understood that the only way to solve this problem is to better the model’s performance. The self-driving car companies are trying to improve the accuracy on edge cases. In order to reduce the misclassification, the IA practitioners are using multiple models to get to an accurate decision.
+
+## The usual suspects
+There are many common mistakes any analyst should be careful about. These are the errors that can be avoided if we can be more vigilant in our day to day work. For example, dependencies of a model not being present in the running environment or an earlier version of a model being deployed. The failures in the ML platform due to a runtime error also result in many model failures. Although these errors may sound trivial, these are the errors that account to a large majority of all the ML failures. 
+
+## Conclusion
+The above only highlight some of the common failures and there are many other ways that cause ML systems to fail. These impediments can be avoided in many ways. For example, following proper best practices help overcome many oversights related to model deployment. However, for many companies data science is a relatively new field and best practices are yet to be properly established. Many organizations are increasingly focused on laying good groundwork and co-creating ML solutions with the businesses. When it comes to edge cases, it has proven extremely difficult to avoid them especially in autonomous vehicles. However, the companies are always researching to improve the performance in corner cases and provide the best outcome for its customers. The broken feedback loops can be mended in many ways. For example, Google Translate has placed a great emphasis on allowing reviewers to provide the ideal translation when the translations are off. This helps improve their translation by mending the feedback loop. These developments have been promising and it will improve the perception of machine learning for the consumers in the years to come. 
+
+( _This post originally appeared in Medium account of Octave-John Keells_ )
+
+Further readings:
+
+https://snit.ch/blog/why-gartner-says-your-machine-learning-models-will-fail/
+
+https://huyenchip.com/2022/02/07/data-distribution-shifts-and-monitoring.html
+
+https://support.google.com/translate/answer/2534530?hl=en
+
+https://dataloop.ai/blog/autonomous-edge-case/
