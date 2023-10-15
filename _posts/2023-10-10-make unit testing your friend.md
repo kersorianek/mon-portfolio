@@ -2,8 +2,8 @@
 layout: post
 title: Data Science and Unit Testing - A Dynamic Duo for Reliable Analytics
 subtitle: Data Science Excellence Through Unit Testing Strategies
-cover-img: /assets/img/airplane.jpg
-thumbnail-img: /assets/img/airplane.jpg
+cover-img: /assets/img/airplane.png
+thumbnail-img: /assets/img/airplane.png
 share-img: /assets/img/path.jpg
 tags: [books, test]
 ---
