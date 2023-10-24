@@ -1,5 +1,5 @@
-site_name: Joe Ganser - Data Technologist, Teacher & Fitness junky
-repo_url: https://github.com/JoeGanser
+site_name: Joe Ganser - Data Scientist/Engineer, Teacher & Fitness junky
+repo_url: https://github.com/jkginfinite
 theme:
   name: material
   features:
@@ -81,7 +81,7 @@ extra:
     property: !ENV "UA-133341012-1"
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/JoeGanser
+      link: https://github.com/jkginfinite
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/joe-ganser-aa9b8b132/
    
