@@ -205,33 +205,33 @@ For each linkage job we have a series of shell scripts in a given folder. For ex
 
 ??? note "run_all.sh"
     ```shell linenums="1"
-    #!/bin/bash 
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_D_D.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_T_T.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_L_L.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_H_H.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_X_X.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_P_P.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_F_F.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_V_V.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_N_N.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_J_J.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Z_Z.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_R_R.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_B_B.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_E_E.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_U_U.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_M_M.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_I_I.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Y_Y.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Q_Q.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_A_A.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_G_G.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_W_W.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_O_O.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_K_K.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_S_S.sh
-    source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_C_C.sh
+       #!/bin/bash 
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_D_D.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_T_T.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_L_L.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_H_H.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_X_X.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_P_P.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_F_F.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_V_V.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_N_N.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_J_J.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Z_Z.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_R_R.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_B_B.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_E_E.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_U_U.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_M_M.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_I_I.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Y_Y.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_Q_Q.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_A_A.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_G_G.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_W_W.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_O_O.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_K_K.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_S_S.sh
+       source /efs/dq_i/Workbench-Module_v2.0/workbench/classes/splink/Shell_Scripts/mhs_genesis/equal/deers_to_mhs_genesis_det_det_C_C.sh
     ```
 
 
