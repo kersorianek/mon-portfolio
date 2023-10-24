@@ -135,6 +135,7 @@ nav:
   - Home: index.md
   - Curriculum Vitae: curriculum_vitae.md
   - Research Projects:
+    - Big Data ML on Hospital Records with Spark: research/2023_10_24_ML_with_Spark/2023-10-24_ML_with_Spark.md
     - Driven Data Competiton - Predicintg Dengu Fever: research/2022-8-2_dengu.md
     - Big Data For Big Dating - 1st place Tinder Competition: research/2019-4-22-Tinder-Gold;-Big-Data-For-Big-Dating-1st-place-competition.md
     - Predicting Breathing rate with Smart Watch Data: research/2019-4-1-Predicting-Breathing-rate-with-smart-watch-data.md
