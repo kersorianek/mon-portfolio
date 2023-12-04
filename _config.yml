@@ -15,13 +15,14 @@ author: Rafayet Hossain
 
 navbar-links:
   Blogs: " "
-  About Me: "aboutme"
-  Index: "tags"
+  About Me: "https://rafayethossain.github.io/portfolio/"
+  # About Me: "aboutme"
   Free Books: "books"
+  Index: "tags"
   External:
     
     - Word Counting Tool: "https://rafayethossain.github.io/word-counting-tool-ChatGPT/"
-    - Resume: "https://rafayet13.github.io/Resume/"
+    - Resume: "https://rafayethossain.github.io/resume/"
     # Search: "search"
   
 # --- Logo --- #
