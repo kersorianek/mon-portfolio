@@ -3,15 +3,20 @@
 
 ## Employment
 
-**<h3 style="color:Black">TMCI International/U.S. Department of Defense - Data/Machine Learning Engineer</h3></p>Remote  - Jan. 2023 to Current**
+**<h3 style="color:Black">TMCI International / Healthcare - Data/Machine Learning Engineer</h3></p>Remote  - Jan. 2023 to Nov. 2023**
 
-* Trained & lead a team of five on the usage of unsupervised learning models (Splink/Fellegi Sunter) for the cleaning of multi-million row tabular
-datasets via distributed cloud computing
-* Automated ETL pipelines of multi-million row datasets using PySpark, AWS EMR, MySQL & Redshift 
-* Acquired and maintained a Tier 2.5 secret government security clearance for access to tabular data for military applications 
-* Research focused on the maintenance & integrity of healthcare data related to military personnel
+* Designed a big data machine learning system to identify 100,000+ duplicated hospital records across 200 million+ data points in the military
+hospital data system, on behalf of the Defense Health Agency (DoD).
+* Trained & led a team of five on the usage of PySpark ML unsupervised learning models (Splink/Fellegi Sunter) for the clustering of hundred-
+million-row tabular datasets via distributed cloud computing.
+* Designed automation systems connecting AWS S3, AWS EMR, and AWS Redshift to run repetitive ETL tasks via PySpark using shell scripts on
+Linux cron jobs
+* Automated the cleaning and distribution of multi-million-row datasets using PySpark, AWS EMR, MySQL & Redshift
+* Worked with Python, Unsupervised Machine learning, Spark, Shell, Linux, distributed computing, MySQL, PostgreSQL, Windows, Putty,
+Databricks
+* Acquired and maintained a Tier 2.5 secret government security clearance for access to tabular data for
 
-**<h3 style="color:Black">Saint Peters University - Data Science/Engineering Adjunct Professor </h3></p>Jersey City, NJ  - Sept. 2022 to Current**
+**<h3 style="color:Black">Saint Peters University / Education - Data Science/Engineering Adjunct Professor </h3></p>Jersey City, NJ  - Sept. 2022 to Mar. 2023**
 
 * Lectured on Python, Spark, Machine Learning & SQL before in person & online audiences of 30+ graduate students
 * Wrote and designed in person & online courses on Big Data Computing, Spark and Hadoop, Databricks, Intro to python for data science.
@@ -22,7 +27,7 @@ datasets via distributed cloud computing
 
 </p></p>
 
-**<h3 style="color:Black">Berkeley College - Data Science/Machine Learning Adjunct Professor </h3></p>Remote/Online - Aug. 2021 to Dec. 2022**
+**<h3 style="color:Black">Berkeley College / Education - Data Science/Machine Learning Adjunct Professor </h3></p>Remote/Online - Aug. 2021 to Dec. 2022**
 
 * Lectured on Python, supervised Learning & unsupervised learning to an online audience of 10+ senior undergraduates.
 * Wrote and developed course educational content for beginner coders
@@ -30,7 +35,7 @@ datasets via distributed cloud computing
 
 </p></p>
 
-**<h3 style="color:Black">IAC - Data Scientist/Engineer </h3></p> New York, NY / Hybrid -  Sept. 2019 to May 2022**
+**<h3 style="color:Black">IAC / App Marketing - Data Scientist/Engineer </h3></p> New York, NY / Hybrid -  Sept. 2019 to May 2022**
 
 * Designed & implemented cloud based cLTV automation tools used by finance team of 20+ people including executives & stakeholders
 * Lead a team five people to replace out dated financial/marketing forecasting models with cloud automated statistical models
@@ -43,7 +48,7 @@ datasets via distributed cloud computing
 
 </p>
 
-**<h3 style="color:Black">Flatiron School - Data Science Assistant Instructor </h3></p>New York, NY  - Sept. 2018 to Apr. 2019**
+**<h3 style="color:Black">Flatiron School / Education - Data Science Assistant Instructor </h3></p>New York, NY  - Sept. 2018 to Apr. 2019**
 
 * Lectured on intro to Python for data science to in person audience of 30+ adult students
 * Wrote and developed course educational content for beginner Python/Machine learning coders
@@ -51,7 +56,7 @@ datasets via distributed cloud computing
 
 </p>
 
-**<h3 style="color:Black">Simulmedia - Data Scientist Intern </h3></p>New York, NY June 2018 to Sept. 2018**
+**<h3 style="color:Black">Simulmedia / TV Marketing - Data Scientist Intern </h3></p>New York, NY June 2018 to Sept. 2018**
 
 * Analyzed past television marketing campaign data to extract key features used to determine the types of individuals that converted on an advertisement versus the types that didn't
 * Assisted in the design of a user based collaborative filtering recommendation system to find individuals who should be targeted for future advertisement campaigns• Worked with Python 3x, Amazon Web Service Redshift & Postgres
@@ -59,7 +64,7 @@ datasets via distributed cloud computing
 
 </p>
 
-**<h3 style="color:Black">PebblePost - Data Scientist Intern </h3></p>New York, NY - Jan. 2018 to May 2018**
+**<h3 style="color:Black">PebblePost / Mail Marketing - Data Scientist Intern </h3></p>New York, NY - Jan. 2018 to May 2018**
 
 * Used PySpark to automate data cleaning of millions of snail-mail postage addresses
 * Created forecasting models to describe and predict customer conversion rates
