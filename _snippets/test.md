@@ -1,5 +1,5 @@
 ---
-layout: snippet
+layout: minimal
 ---
 
 {% highlight text linenos hl_lines="1 3 4" %}
