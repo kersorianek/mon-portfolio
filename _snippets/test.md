@@ -2,7 +2,7 @@
 layout: minimal
 ---
 
-{% highlight text linenos hl_lines="1 3 4" %}
+{% highlight text mark_lines="1 8" %}
 
 [INFO] Scanning for projects...
 [INFO] Inspecting build with total of 1 modules...
