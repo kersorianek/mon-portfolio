@@ -1,3 +1,6 @@
+---
+layout: minimal
+---
 
 {% highlight %}
 
