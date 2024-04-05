@@ -2,7 +2,7 @@
 layout: minimal
 ---
 
-{% highlight %}
+{% highlight text %}
 
 [INFO] Scanning for projects...
 [INFO] Inspecting build with total of 1 modules...
