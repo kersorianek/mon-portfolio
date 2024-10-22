@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+  branch: main
+
+publish_mode: editorial_workflow  # Optional but useful for draft reviews
+media_folder: "assets/uploads"  # Where your images are stored
+public_folder: "/assets/uploads"  # Public folder for your images
+
+collections:
+  - name: "posts"
+    label: "Posts"
+    folder: "_posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - { label: "Featured Image", name: "image", widget: "image" }
