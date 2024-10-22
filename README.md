@@ -1,5 +1,11 @@
-# Beautiful Jekyll
+## Quick local build steps
 
+- https://jekyllrb.com/docs/installation/
+- ```gem install jekyll bundler```
+- ```bundle install```
+- ```bundle exec jekyll serve --livereload```
+
+# Beautiful Jekyll
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
 > By [Dean Attali](https://deanattali.com) &middot; [Demo](https://beautifuljekyll.com/)
