@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Potenciando la Matriz de Riesgo con Boletines Concursales y Poder Judicia.
+title: Potenciando la Matriz de Riesgo con Boletines Concursales y Poder Judicial.
 subtitle: Matriz de Riesgo - Cliente.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
