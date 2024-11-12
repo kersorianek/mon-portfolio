@@ -17,12 +17,12 @@ En nuestra constante búsqueda por mejorar la experiencia del usuario y la gesti
 Este reporte lo podrán encontrar en la parte inferior de la matriz de riesgo. Una vez desplegado encontrarán la información actualizada del cliente seleccionado.
 
 <p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/boletinconcursal.png" alt="boletinconcursal">
+  <img src="https://cdn.capitalexpress.cl/img/boletinconcursal.png" alt="Captura de pantalla del reporte Boletín Concursal mostrando información actualizada del cliente">
 </p>
  
 ### Poder Judicial
-Al igual que el Boletín Concursal, estará en la parte inferior de la Matriz de riesgo, una vez desplegada la información encontraras los `Casos Civiles`, `Casos Laborales` y `Casos de Cobranza`. Estos apartados están divididos en distintas tablas para su fácil distinción y búsqueda.
+Al igual que el Boletín Concursal, estará en la parte inferior de la Matriz de Riesgo. Una vez desplegada la información, encontrarás los `Casos Civiles`, `Casos Laborales` y `Casos de Cobranza`. Estos apartados están divididos en distintas tablas para su fácil distinción y búsqueda.
 
 <p align="center">
-  <img src="https://cdn.capitalexpress.cl/img/poderjudicial.png" alt="poderjudicial">
+  <img src="https://cdn.capitalexpress.cl/img/poderjudicial.png" alt="Captura de pantalla del reporte Judicial mostrando información actualizada del cliente">
 </p>
