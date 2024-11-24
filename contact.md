@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Contact me
-subtitle: Drom me emial
+subtitle: Drop me email
 ---
 
-Dro me a line at: pak69@abv.bg
+Drop me a line at: pak69@abv.bg
 
