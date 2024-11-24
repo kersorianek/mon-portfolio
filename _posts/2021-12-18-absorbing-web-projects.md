@@ -11,5 +11,5 @@ comments: true
 [ekemel](https://ekemel.gr)
 [elpak](https://elpak.net)
 [гръцки преводач](https://prevodi.elpak.net/)
-(μεταφράεις Βουλγαρικά](https://metafraseis-voulgarika.elpak.net/)
+[μεταφράεις Βουλγαρικά](https://metafraseis-voulgarika.elpak.net/)
 [gnorimies](https://gnorimies.net)
