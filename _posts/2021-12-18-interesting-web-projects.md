@@ -13,3 +13,4 @@ comments: true
 [Ειδήσεις](https://toratora.gr)
 [Νέα](https://noizeradio.gr)
 [Αθλητικές ειδήσεις](https://sportlike.gr)
+[mediterrawines.gr](https://mediterrawines.gr/)
