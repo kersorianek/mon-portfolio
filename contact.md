@@ -4,8 +4,5 @@ title: Contact me
 subtitle: Drom me emial
 ---
 
-My name is Inigo Montoya. I have the following qualities:
-
-- I rock a great mustache
-- I'm extremely loyal to my family
+Dro me a line at: pak69@abv.bg
 
