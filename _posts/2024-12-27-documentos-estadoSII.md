@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Simplificando el Análisis: Ahora puedes revisar el estado del SII en los documentos.
-subtitle: Matriz de Riesgo - Cliente.
+subtitle: Documentos - Factoring.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [ riesgo, créditos , clientes, ejecutivos, operaciones ]
