@@ -1,15 +1,5 @@
 ---
 layout: post
-title:Nuevos métodos de análisis de facturas: Mercado de Facturas y Facturas por ejecutivo.
-subtitle: Quasar - Mercado de Facturas y Factura por ejecutivo.
-gh-repo: /capitalexpress/capitalexpress.github.io
-gh-badge: [star, fork, follow]
-tags: [cliente, comercial, quasar, datos, facturas]
-comments: false
-author: Erick Burgos
----
----
-layout: post
 title: Nuevos métodos de análisis de facturas: Mercado de Facturas y Facturas por ejecutivo.
 subtitle: Matriz de Riesgo - Cliente.
 gh-repo: /capitalexpress/capitalexpress.github.io
