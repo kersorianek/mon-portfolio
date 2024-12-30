@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Internship Program
-subtitle: Designed to provide experience, training, and project exposure
+title: Stipend Internship Program
+subtitle: Designed to provide experience, training, and project exposure. "This is a fully paid internship. There are no costs or fees to participate—interns will be compensated for their work."
 ---
 ![image](/assets/uploads/pragament-office-badminton.gif)
 Team playing Badminton in office after Lunch.
 
-Our internship program is designed specifically for students and recent graduates seeking practical experience, hands-on training, and exposure to real-world projects. Participants will have the opportunity to earn a **certificate upon completion**, gain valuable insights into their chosen field, and receive a **small stipend as a token of our appreciation** for their contributions.
+Our Stipend internship program is designed specifically for students and recent graduates seeking practical experience, hands-on training, and exposure to real-world projects. Participants will have the opportunity to earn a **certificate upon completion**, gain valuable insights into their chosen field, and receive a **small stipend as a token of our appreciation** for their contributions.
 
 **Assignment and Trial Period:** To ensure a good fit, we start with an initial **unpaid assignment**. Afterward, selected candidates will proceed with a **paid two-week trial period**. This allows both you and our team to evaluate how well you align with the role's expectations. The trial period serves as an introduction to our work environment and allows both parties to assess mutual compatibility before proceeding with a longer-term internship agreement. This is a great opportunity to demonstrate your skills and adaptability in a professional setting. At the end of the trial period, we will conduct an evaluation. Based on this review, we will inform you of our decision regarding a longer-term internship offer.
 
