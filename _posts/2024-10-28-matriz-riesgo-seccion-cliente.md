@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplificando el Análisis: Nuevas Secciones en el KPI de cliente en la matriz de riesgo.
+title: 'Simplificando el Análisis: Nuevas Secciones en el KPI de cliente en la matriz de riesgo.'
 subtitle: Matriz de Riesgo - Cliente.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]

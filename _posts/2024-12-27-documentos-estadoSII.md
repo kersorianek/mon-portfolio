@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Simplificando el Análisis: Ahora puedes revisar el estado del SII en los documentos.
+title: 'Ahora puedes revisar el estado del SII en los documentos.'
 subtitle: Documentos - Factoring.
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
