@@ -1,6 +1,25 @@
 # Scientific Conferences I've been invited to
 
-##**<h5 style="color:Black">Battlefin Data Science Discovery Day**
+
+
+##**<h5 style="color:Black">Battlefin Data Science Discovery Day 2024**
+</p>NYC - Intrepid - 2024</h5>
+<center>
+<a href= "https://www.battlefin.com/events/new-york-2024-alt-data">
+<img src='../conferences/images/Battlefin/2024/logo.png' style="horizontal-align:middle" width=366 height=286>
+</a>
+
+Every year, the company Battlefin hosts a fin-tech networking conference for data buyers and data brokers. In 2019, I won a data science competition hosted by them and had been repeatedly invited annual tech events hosted by the company. I was excited to finally see the Intrepid, being able to check out my favorite airplanes on deck while learning about cool companies. The lectures were excellent.
+
+<img src='../conferences/images/Battlefin/2024/IMG_1727.png' style="horizontal-align:middle" width=366 height=286>
+<img src='../conferences/images/Battlefin/2024/IMG_1728.png' style="horizontal-align:middle" width=366 height=286>
+<img src='../conferences/images/Battlefin/2024/IMG_1734.JPG' style="horizontal-align:middle" width=366 height=286>
+<img src='../conferences/images/Battlefin/2024/IMG_1735.png' style="horizontal-align:middle" width=366 height=286>
+<img src='../conferences/images/Battlefin/2024/IMG_1738.JPG' style="horizontal-align:middle" width=366 height=286>
+
+</center>
+
+##**<h5 style="color:Black">Battlefin Data Science Discovery Day 2019**
 </p>NYC - Plaza Hotel - 2019</h5>
 <center>
 <a href= "https://vimeo.com/showcase/6220519">
