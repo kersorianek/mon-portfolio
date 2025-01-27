@@ -192,6 +192,10 @@ nav:
         - Notebook: lectures/Intro_to_Python/dynamic_programming/dynamic_programming_notebook.md
   - Courses Taught:
     - Teaching Experiences: teaching_CV.md
+    - Databricks Certified Instructor:
+        - Syllabi: https://www.databricks.com/learn/training/home
+    - AI 6 month bootcamp:
+        - Syllabus: https://drive.google.com/file/d/1Ipbck76ulyFwnjBtbeQ-D3FHHbRgyalH/view?usp=sharing
     - Python for Data Science:
       - Syllabus: teaching/syllabi/ds542syllabus/ds542syllabus.pdf
     - Big Data Computing:
