@@ -1,6 +1,6 @@
 <h1>Welcome to my portfolio!</h1>
 
-My name is Joe Ganser and I am an award winning data technologist with a passion for solving deep & complex problems. Coming from a strong background in mathematics and physics, I transformed my skill set from academia to technology business applications. 
+My name is Joe Ganser and I am an experienced data technologist with a passion for solving deep & complex problems. Coming from a strong background in mathematics and physics, I transformed my skill set from academia to technology business applications. 
 <center>
 <img src="images/pic.jpeg" height=222 width=222>
 </center>
@@ -8,7 +8,7 @@ My name is Joe Ganser and I am an award winning data technologist with a passion
 
 <h3>Portfolio</h3>
 
-!!! note "<a href="/curriculum_vitae">Curriculum Vitae"
+!!! note "<a href="https://docs.google.com/document/d/1fkfMSKtUvdVa63c8xjCiZcFW99xl0vZ0TyW0nPJyDlQ/edit?usp=sharing">Curriculum Vitae"
 
     My Employment history, Education & Skills</a>
 
