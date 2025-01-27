@@ -18,7 +18,6 @@ Every year, the company Battlefin hosts a fin-tech networking conference for dat
 <img src='../conferences/images/Battlefin/2024/IMG_1734.png' style="horizontal-align:middle" width=366 height=286>
 <img src='../conferences/images/Battlefin/2024/IMG_1735.png' style="horizontal-align:middle" width=366 height=286>
 <img src='../conferences/images/Battlefin/2024/IMG_1738.png' style="horizontal-align:middle" width=366 height=286>
-
 </center>
 
 ##**<h5 style="color:Black">Battlefin Data Science Discovery Day 2019**

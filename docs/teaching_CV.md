@@ -16,6 +16,17 @@
 * Concurrent to full time work
 </p></p>
 
+**<h3 style="color:Black">Hudson AI - Volunteer at <a href="https://hobokenlibrary.org">Hoboken Library</a></h3> </p> Hoboken, NJ June 2024 - July 2024**
+
+* I organized a free meetup to teach locals about how to use Chat GPT and other AI tools. People from my neighborhood came and I taught them how to use basic AI tools! I had fun.
+<center>
+<img src='../conferences/images/hudson_ai/advertisement.jpeg' style="horizontal-align:middle" width=200 height=200>
+<img src='../conferences/images/hudson_ai/group_shot.jpeg' style="horizontal-align:middle" width=200 height=200>
+<img src='../conferences/images/hudson_ai/lecturing.jpeg' style="horizontal-align:middle" width=200 height=200>
+<img src='../conferences/images/hudson_ai/website.png' style="horizontal-align:middle" width=200 height=200>
+</center>
+
+</p></p>
 
 **<h3 style="color:Black">Saint Peters University - Data Science/Engineering Adjunct Professor</h3> </p>Jersey City, NJ  - Sept. 2022 to Mar. 2023**
 
