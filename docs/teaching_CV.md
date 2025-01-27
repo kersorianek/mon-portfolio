@@ -1,11 +1,18 @@
 ## Computer Science Courses
 
+**<h3 style="color:Black">Databricks - Smoothstack - Certified Databricks Instructor</h3> </p>REMOTE - PART TIME  - Nov 2024 to current**
+
+* Lectured & Consulted on the basics of using Databricks to build LLM chatbots on AWS & Azure
+* Lectured on Data Engineering Associate and Profesional level certification courses
+* Certified to teach Databricks - <a href="https://drive.google.com/file/d/1EssjGe1gYXJ5gliVBxG447vr_r-hCHFA/view?usp=sharing">click to see my class list</a> & <a href="https://drive.google.com/file/d/1CxUkYs4uf06-j2N_YInQg6n2w6Vswtzl/view?usp=sharing">click to see my reviews</a>
+* Concurrent to full time work
+</p></p>
 
 **<h3 style="color:Black">EdX - 2U / Education - AI & Bootcamp Instructor</h3> </p>REMOTE - PART TIME  - Aug. 2024 to Feb 2025**
 
-• Lectured content on a six month AI/Machine Learning bootcamp based in Python
-• Received a consistent 4.7/5 weekly rating <a href="https://drive.google.com/file/d/1Rh3ehZ8G4vAWAKVB8xu9R41fUTz5IeTF/view?usp=sharing">click to see my reviews</a> & <a href="https://drive.google.com/file/d/1Ipbck76ulyFwnjBtbeQ-D3FHHbRgyalH/view?usp=sharing">Click to see syllabus</a>
-• Concurrent to full time work
+* Lectured content on a six month AI/Machine Learning bootcamp based in Python
+* Received a consistent 4.7/5 weekly rating <a href="https://drive.google.com/file/d/1Rh3ehZ8G4vAWAKVB8xu9R41fUTz5IeTF/view?usp=sharing">click to see my reviews</a> & <a href="https://drive.google.com/file/d/1Ipbck76ulyFwnjBtbeQ-D3FHHbRgyalH/view?usp=sharing">Click to see syllabus</a>
+* Concurrent to full time work
 </p></p>
 
 
