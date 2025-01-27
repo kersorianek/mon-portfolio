@@ -24,10 +24,6 @@ My name is Joe Ganser and I am an experienced data technologist with a passion f
 
     My teaching history, with syllabi.</a>
 
-!!! note "<a href="/lectures/stats/eda/eda">Lecture Notes"
-
-    Some lecture notes for my courses. Topics include supervised learning, unsupervised learning, big data computing, statistics, intro to python, et al.</a>
-
 I'm passionate about technology, innovation and teaching. I've even organized free lectures at my <a href="https://hobokenlibrary.org">local library</a> to teach people how to use ChatGPT and AI tools!
 <center>
 <a href="https://drive.google.com/file/d/1sU_C_ag-cxLY9_xNGdLex1ZZHOtHh_jK/view?usp=sharing"><img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=500 height=500></a>
