@@ -1,6 +1,15 @@
 ## Computer Science Courses
 
-**<h3 style="color:Black">Saint Peters University - Data Science/Engineering Adjunct Professor</h3> </p>Jersey City, NJ  - Sept. 2022 to Current**
+
+**<h3 style="color:Black">EdX - 2U / Education - AI & Bootcamp Instructor</h3> </p>REMOTE - PART TIME  - Aug. 2024 to Feb 2025**
+
+• Lectured content on a six month AI/Machine Learning bootcamp based in Python
+• Received a consistent 4.7/5 weekly rating <a href="https://drive.google.com/file/d/1Rh3ehZ8G4vAWAKVB8xu9R41fUTz5IeTF/view?usp=sharing">click to see my reviews</a> & <a href="https://drive.google.com/file/d/1Ipbck76ulyFwnjBtbeQ-D3FHHbRgyalH/view?usp=sharing">Click to see syllabus</a>
+• Concurrent to full time work
+</p></p>
+
+
+**<h3 style="color:Black">Saint Peters University - Data Science/Engineering Adjunct Professor</h3> </p>Jersey City, NJ  - Sept. 2022 to Mar. 2023**
 
 * Lectured on Python, Spark, Machine Learning & SQL before in person & online audiences of 30+ graduate students
 * Wrote and designed in person & online courses on Big Data Computing, Spark and Hadoop, Databricks, Intro to python for data science.
