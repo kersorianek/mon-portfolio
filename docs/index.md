@@ -10,7 +10,7 @@ My name is Joe Ganser and I am an experienced data technologist with a passion f
 
 !!! note "<a href="https://docs.google.com/document/d/1fkfMSKtUvdVa63c8xjCiZcFW99xl0vZ0TyW0nPJyDlQ/edit?usp=sharing">Curriculum Vitae"
 
-    My Employment history, Education & Skills</a>
+    My Employment history, Education & Skills </a>
 
 !!! note "<a href="/research/2022-8-2_dengu">Research Projects"
 
