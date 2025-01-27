@@ -20,7 +20,7 @@
 
 * I organized a free meetup to teach locals about how to use Chat GPT and other AI tools. People from my neighborhood came and I taught them how to use basic AI tools! We had fun!
 <center>
-<img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=400 height=400>
+<a href="https://drive.google.com/file/d/1sU_C_ag-cxLY9_xNGdLex1ZZHOtHh_jK/view?usp=sharing"><img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=400 height=400></a>
 </center>
 
 </p></p>
