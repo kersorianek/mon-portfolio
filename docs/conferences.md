@@ -11,6 +11,7 @@
 </center>
 
 Every year, the company Battlefin hosts a fin-tech networking conference for data buyers and data brokers. In 2019, I won a data science competition hosted by them and have been repeatedly invited annual tech events hosted by the company. I was excited to finally see the Intrepid, being able to check out my favorite airplanes on deck while learning about cool companies. The lectures were excellent.
+
 <center>
 <img src='../conferences/images/Battlefin/2024/IMG_1727.png' style="horizontal-align:middle" width=366 height=286>
 <img src='../conferences/images/Battlefin/2024/IMG_1728.png' style="horizontal-align:middle" width=366 height=286>
