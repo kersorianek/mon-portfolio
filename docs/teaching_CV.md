@@ -3,7 +3,7 @@
 **<h3 style="color:Black">Databricks - Smoothstack - Certified Databricks Instructor</h3> </p>REMOTE - PART TIME  - Nov 2024 to current**
 
 * Lectured & Consulted on the basics of using Databricks to build LLM chatbots on AWS & Azure
-* Lectured on Data Engineering Associate and Profesional level certification courses
+* <a href="https://www.databricks.com/learn/training/home">Lectured on Data Engineering Associate and Profesional level certification courses</a>
 * <a href="https://credentials.databricks.com/profile/joeganser632516/wallet">Certified Databricks Data Engineer Professional & Associate level Certifications</a>
 * Certified to teach Databricks - <a href="https://drive.google.com/file/d/1EssjGe1gYXJ5gliVBxG447vr_r-hCHFA/view?usp=sharing">click to see my class list</a> & <a href="https://drive.google.com/file/d/1CxUkYs4uf06-j2N_YInQg6n2w6Vswtzl/view?usp=sharing">click to see my reviews</a>
 * Concurrent to full time work
