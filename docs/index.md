@@ -5,7 +5,6 @@ My name is Joe Ganser and I am an experienced data technologist with a passion f
 <a href="https://drive.google.com/file/d/1sU_C_ag-cxLY9_xNGdLex1ZZHOtHh_jK/view?usp=sharing"><img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=500 height=500></a>
 </center>
 
-
 <h3>Portfolio</h3>
 
 !!! note "<a href="https://docs.google.com/document/d/1fkfMSKtUvdVa63c8xjCiZcFW99xl0vZ0TyW0nPJyDlQ/edit?usp=sharing">Curriculum Vitae"
