@@ -1,8 +1,8 @@
 <h1>Welcome to my portfolio!</h1>
 
-My name is Joe Ganser and I am an experienced data technologist with a passion for solving deep & complex problems. Coming from a strong background in mathematics and physics, I transformed my skill set from academia to technology business applications. 
+My name is Joe Ganser and I am an experienced data technologist with a passion for solving deep & complex problems. Coming from a strong background in mathematics and physics, I transformed my skill set from academia to technology business applications. I'm passionate about technology, innovation and teaching. I've even organized free lectures/networking events at my <a href="https://hobokenlibrary.org">local library</a> to teach people how to use ChatGPT and AI tools!
 <center>
-<img src="images/pic.jpeg" height=222 width=222>
+<a href="https://drive.google.com/file/d/1sU_C_ag-cxLY9_xNGdLex1ZZHOtHh_jK/view?usp=sharing"><img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=500 height=500></a>
 </center>
 
 
@@ -23,11 +23,6 @@ My name is Joe Ganser and I am an experienced data technologist with a passion f
 !!! note "<a href="/teaching_CV">Teaching"
 
     My teaching history, with syllabi.</a>
-
-I'm passionate about technology, innovation and teaching. I've even organized free lectures at my <a href="https://hobokenlibrary.org">local library</a> to teach people how to use ChatGPT and AI tools!
-<center>
-<a href="https://drive.google.com/file/d/1sU_C_ag-cxLY9_xNGdLex1ZZHOtHh_jK/view?usp=sharing"><img src='../conferences/images/hudson_ai/Hudson_ai.png' style="horizontal-align:middle" width=500 height=500></a>
-</center>
 
 As a python & SQL expert level coder, I am skilled in applied math, machine learning, physics and marketing. I have been involved in data science since 2017 and applied mathematics since 2009.</p>I look forward to networking with you! Feel free to connect on <a href="https://www.linkedin.com/in/joe-ganser-aa9b8b132">Linkedin</a>, follow me on <a href="https://github.com/joeganser">github</a> or just shoot me an <a href="mailto:jkgprofessional@gmail.com">email</a>.
 </p>
