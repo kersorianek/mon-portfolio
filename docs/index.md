@@ -23,6 +23,10 @@ My name is Joe Ganser and I am an experienced data technologist with a passion f
 
     My teaching history, with syllabi.</a>
 
-As a python & SQL expert level coder, I am skilled in applied math, machine learning, physics and marketing. I have been involved in data science since 2017 and applied mathematics since 2009.</p>I look forward to networking with you! Feel free to connect on <a href="https://www.linkedin.com/in/joe-ganser-aa9b8b132">Linkedin</a>, follow me on <a href="https://github.com/joeganser">github</a> or just shoot me an <a href="mailto:jkgprofessional@gmail.com">email</a>.
+!!! note "<a href="https://credentials.databricks.com/profile/joeganser632516/wallet">Certifications"
+
+    My technology certifications.</a>
+
+As a <a href="https://www.hackerrank.com/profile/JoeGanser">python & SQL expert level coder</a>, I am skilled in applied math, machine learning, physics and marketing. I have been involved in data science since 2017 and applied mathematics since 2009.</p>I look forward to networking with you! Feel free to connect on <a href="https://www.linkedin.com/in/joe-ganser-aa9b8b132">Linkedin</a>, follow me on <a href="https://github.com/joeganser">github</a> or just shoot me an <a href="mailto:jkgprofessional@gmail.com">email</a>. Feel free to also check me out on <a href="https://leetcode.com/u/joeganser/">leetcode</a> and <a href="https://www.hackerrank.com/profile/JoeGanser">hackerrank</a>.
 </p>
 I currently live in Hoboken, NJ. When I'm not coding or teaching, I'm probably at the gym, reading a book or doing meditation.
