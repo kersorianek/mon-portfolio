@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How to Actually Understand CPA, CPM, CPS, and ROI (Without Going Cross-Eyed)
+title: How to Actually Understand CPA, CPM, CPS, and ROI
 tags: [digital marketing, advertising, startup, growth]
 comments: true
 ---
