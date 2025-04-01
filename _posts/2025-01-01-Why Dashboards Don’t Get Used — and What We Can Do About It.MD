@@ -5,7 +5,6 @@ tags: [Career]
 comments: true
 ---
 
-Why Dashboards Don’t Get Used — and What We Can Do About It
 
 <div style="background-color:#fef9e7; border-left: 4px solid #f39c12; padding: 1em 1.2em; margin: 2em 0; border-radius: 6px;">
 
