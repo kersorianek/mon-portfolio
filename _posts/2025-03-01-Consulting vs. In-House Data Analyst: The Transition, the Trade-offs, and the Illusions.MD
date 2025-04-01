@@ -1,7 +1,7 @@
 ---
 layout: post
-title: From Consulting to In-House: A Data Analyst’s Shift in Role, Thinking, and Frustration
-subtitle: Observations, confusion, and the small realizations in between
+title: "From Consulting to In-House: A Data Analyst’s Shift in Role, Thinking, and Frustration"
+subtitle: "Observations, confusion, and the small realizations in between"
 ---
 
 ## What this post includes:
