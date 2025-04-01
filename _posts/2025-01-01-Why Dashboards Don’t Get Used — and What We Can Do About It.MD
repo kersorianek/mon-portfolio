@@ -7,6 +7,23 @@ comments: true
 
 Why Dashboards Don’t Get Used — and What We Can Do About It
 
+<div style="background-color:#fef9e7; border-left: 4px solid #f39c12; padding: 1em 1.2em; margin: 2em 0; border-radius: 6px;">
+
+<p><strong>🔍 TL;DR – Why Dashboards Get Ignored</strong></p>
+
+<p>Even well-designed dashboards often go unused. Not because the data is wrong — but because the connection to business reality is broken.</p>
+
+<ul>
+  <li><strong>Data quality issues</strong> — stakeholders stop trusting the numbers</li>
+  <li><strong>Misaligned output</strong> — answers don’t lead to decisions</li>
+  <li><strong>Too technical</strong> — charts confuse instead of clarify</li>
+</ul>
+
+<p>I share what I’ve learned from projects — and what we, as analysts, can do to close that gap.</p>
+
+</div>
+
+
 After a few years working as a data analyst in consulting, I started noticing a pattern:
 Even well-designed dashboards sometimes go completely unused.
 At first, I thought: maybe the analysis wasn’t helpful enough. But the more I worked across projects, the clearer it became — the gap wasn’t just technical. It was often in expectations, communication, and context.
