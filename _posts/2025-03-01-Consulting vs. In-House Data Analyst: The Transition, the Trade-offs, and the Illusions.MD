@@ -5,6 +5,10 @@ subtitle: "Observations, confusion, and the small realizations in between"
 tags: career
 ---
 
+I spent 4+ years doing data work in consulting — building dashboards, answering business questions, closing the file. But something always felt off. Like the real decisions were happening elsewhere.
+
+So I talked to 20+ in-house data analysts. I listened. And I started to reflect — not just on my job, but on the **shape of the role** itself.
+
 ## What this post includes:
 
 - What it feels like to do data work in consulting  
@@ -23,6 +27,8 @@ You’re a third party to a fragment of a question.
 
 In many cases, consulting projects try to cut costs by limiting your exposure. You’re told to only speak with your assigned contact. Cross-departmental discussions? “Too complex.”  
 So you sit with incomplete data, unclear logic, and hope the dashboard you create won't mislead someone down the line.
+
+And when things go wrong, you don’t usually hear about it. Unless the client reports an issue, you might never know if your analysis was used — or ignored.
 
 ---
 
@@ -50,13 +56,12 @@ That was the hope.
 ## 3. But in-house isn’t exactly the paradise either
 
 Here’s where I want to pause.  
-Because once I talked to friends who made the switch — and as I began preparing for my own — I realized something I didn’t want to admit at first:
+After reaching out to and speaking with over 20 in-house analysts — just to get a sense of what it’s really like — I realized something I hadn’t wanted to believe at first:
 
 **In-house analytics can be just as frustrating. Just in different ways.**
 
-You still get Slack messages that go:
-
-> “Hey, conversion dropped this week. Can you check if anything looks weird?”
+You still get Slack messages like:
+> “Hey, conversion dropped this week. Can you check if anything looks weird before tomorrow?”
 
 You’re still stitching together three databases that don’t talk to each other.
 
@@ -110,32 +115,28 @@ I tried to think with the business, not just build for it.
 
 ---
 
-## 6. The quiet shift: from executor to participant
+## 6. The quiet shift — but not always within your control
 
-This is still something I’m working on — and honestly, still struggling with.  
-But I think this is the real shift when going from consulting to in-house:
+People often say: “It’s not about where you work, it’s how you think.”
 
-It’s less about changing companies, and more about **changing how you see yourself.**
+That sounds nice.  
+But in reality, where you work — and what role you're placed in — shapes a lot more than people admit.
 
-From:
-> "I build what's asked."
+In consulting, you're almost never seen as part of the business. You're brought in to deliver something specific, and then you're expected to disappear.  
+There's usually no real option to stay and follow up, let alone influence the broader system.
 
-To:
-> "I ask why it's needed — and how we’ll know it worked."
+In-house roles *can* be different — not always, but they can.  
+You might still be stuck doing reporting. You might still be outside the decision room.  
+But sometimes, you're allowed to push further.  
+You get invited into planning. You're trusted with context. You can build trust over time.
 
-From:
-> "Here’s your dashboard."
+So yes, mindset matters. But environment does too.  
+And being honest about those limits is part of the shift.
 
-To:
-> "Here’s the decision this dashboard is meant to support."
+The question becomes:  
+> *When I see a window to participate, am I ready to step into it?*
 
-That shift doesn’t require a new job.  
-But making it stick is probably easier when you’re no longer seen as an external vendor.
-
-Still, it’s not automatic.  
-The trust, the context, the influence — all of that still takes time.  
-And effort.  
-And showing up in ways that don’t fit neatly into a ticket or a task tracker.
+That’s the quiet shift I’m working on — and hoping I get the chance to make.
 
 ---
 
@@ -150,4 +151,3 @@ If you’re reading this and you’re somewhere in the same place — stuck betw
 And no matter where you sit, I hope we all keep trying to ask better questions, not just build better dashboards.
 
 Thanks for reading.
-
