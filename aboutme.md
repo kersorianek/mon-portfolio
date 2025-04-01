@@ -6,40 +6,42 @@ subtitle: What you might want to know about me
 
 Hi, I’m Danni Long 👋
 
-A few things to know about me:
+A few things about me:
 
-- I ask a lot of questions — sometimes too many  
-- I’m endlessly curious about human behavior and how products are shaped around it  
-- I’ve been learning digital drawing in my free time  
-- I speak some German (and I'm still learning!)
-
----
-
-I'm a data analyst with 4+ years of experience turning complex business questions into clear, actionable insights.  
-I come from a consulting background, which taught me how to dive into messy operational systems, trace root causes, and turn raw data into dashboards that people actually use.
-
-What I care most about:  
-**Helping teams make better decisions by making data feel trustworthy, approachable, and meaningful.**
-
-Whether it’s analyzing why users drop off, debugging a broken order-to-cash flow, or simplifying a chart so that the “aha” moment lands faster — I love that point where data becomes clarity.
+- I ask a lot of questions — and sometimes, I even find good answers  
+- I'm deeply curious about human behavior and how products are designed around it  
+- I’m teaching myself digital drawing (slow progress, but cute sketches!)  
+- I speak some German — C1-ish, still learning, still suffering 😉  
 
 ---
 
-### When I’m not working...
-You’ll probably find me bouldering, boxing, or reading about psychology and behavior — because let’s be honest, understanding people is half the job in analytics anyway 🙂
+I’m a data analyst with 4+ years of experience turning business chaos into clarity.  
+With a background in consulting, I’ve worked across finance, logistics, and product teams to trace operational issues, uncover insights, and build dashboards people actually want to use.
+
+What I care about most:  
+**Helping teams make better decisions by making data feel trustworthy, understandable, and just a little bit delightful.**
+
+Whether it’s figuring out why users drop off, debugging a broken order-to-cash flow, or simplifying a chart until the “aha” hits — I love when data makes something *click*.
 
 ---
 
-### Things I’m into lately:
-
-#### 🧠 Blog I'm enjoying:  
-[Avinash Kaushik](https://www.kaushik.net/avinash/) — smart, practical takes on digital analytics and business
-
-#### 🗣️ Language courses I recommend for self-learners:  
-- [German To Go](https://germantogo.com/)  
-- [Daily German](https://dailygerman.com/)
+### When I’m not wrangling data...
+You’ll probably find me bouldering, boxing, or reading about psychology and behavior.  
+Also: occasionally journaling about life, learning, and why we’re all weird in the best way.
 
 ---
 
-What else do you want to know?
-Feel free to reach out or explore the rest of my blog 🌱
+### Currently obsessed with:
+
+#### 🧠 Analytics blog:  
+[Avinash Kaushik](https://www.kaushik.net/avinash/) — sharp, funny, and no-BS takes on digital strategy and analytics.
+
+#### 🗣️ German learning (with personality):  
+- [Your Daily German](https://yourdailygerman.com/) — a wild ride of grammar, humor, and “aha” moments  
+- [German To Go](https://germantogo.com/) — great for structured and gentle learning
+
+---
+
+What else do you want to know?  
+Feel free to explore my blog or drop me a message.  
+I’m always up for thoughtful conversations — and good questions 🌿
