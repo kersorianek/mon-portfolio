@@ -8,9 +8,9 @@ Hi, I’m Danni Long 👋
 
 A few things about me:
 
-- I ask a lot of questions — and sometimes, I even find good answers  
+- I try new things at least **3 times** — before I put it away or keep it
+- I ask a lot of questions — and sometimes, I find good answers  
 - I'm deeply curious about human behavior and how products are designed around it  
-- I’m teaching myself digital drawing (slow progress, but cute sketches!)  
 - I speak some German — C1-ish, still learning, still suffering 😉  
 
 ---
@@ -35,6 +35,7 @@ Also: occasionally journaling about life, learning, and why we’re all weird in
 
 #### 🧠 Analytics blog:  
 [Avinash Kaushik](https://www.kaushik.net/avinash/) — sharp, funny, and no-BS takes on digital strategy and analytics.
+[Yu Dong’s Blog](https://yudong-94.github.io/personal-website/) — thoughtful storytelling on experimentation, data, and product. She’s been publishing one Tableau viz every week since 2018 — quiet consistency I really admire.
 
 #### 🗣️ German learning (with personality):  
 - [Your Daily German](https://yourdailygerman.com/) — a wild ride of grammar, humor, and “aha” moments  
