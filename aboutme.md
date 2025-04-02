@@ -34,8 +34,8 @@ Also: occasionally journaling about life, learning, and why we’re all weird in
 ### Currently obsessed with:
 
 #### 🧠 Analytics blog:  
-[Avinash Kaushik](https://www.kaushik.net/avinash/) — sharp, funny, and no-BS takes on digital strategy and analytics.
-[Yu Dong’s Blog](https://yudong-94.github.io/personal-website/) — thoughtful storytelling on experimentation, data, and product. She’s been publishing one Tableau viz every week since 2018 — quiet consistency I really admire.
+- [Avinash Kaushik](https://www.kaushik.net/avinash/) — sharp, funny, and no-BS takes on digital strategy and analytics.
+- [Yu Dong’s Blog](https://yudong-94.github.io/personal-website/) — thoughtful storytelling on experimentation, data, and product. She’s been publishing one Tableau viz every week since 2018 — quiet consistency I really admire.
 
 #### 🗣️ German learning (with personality):  
 - [Your Daily German](https://yourdailygerman.com/) — a wild ride of grammar, humor, and “aha” moments  
