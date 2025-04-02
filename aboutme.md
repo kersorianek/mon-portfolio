@@ -40,6 +40,7 @@ Also: occasionally journaling about life, learning, and why we’re all weird in
 #### 🗣️ German learning (with personality):  
 - [Your Daily German](https://yourdailygerman.com/) — a wild ride of grammar, humor, and “aha” moments  
 - [German To Go](https://germantogo.com/) — great for structured and gentle learning
+- ZDF 13 Fragen — can't say no to debate shows
 
 ---
 
