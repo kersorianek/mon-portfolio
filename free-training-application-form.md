@@ -1,8 +1,43 @@
 ---
 layout: page
-title: Free Training Program (Without Stipend)
-subtitle: Designed to provide experience, training, and project exposure. "There are no costs or fees to participate"
+title: 🎓 Free Remote Training Program - Your Growth, Our Support
+subtitle: 💼 Paid Freelancing Opportunities, 🧑‍🏫 Local Support & Mentorship, 💰 Paid Internship After Training, 📄 Letter of Recommendation, 📜 Verifiable Certificate, 📞 Phone Reference in Resume, 🛠️ Real Project Exposure, 🌐 Open-Source Verified Projects
 ---
+### ✅ A Better Alternative to expensive training institutes: Learn Free, Build Real, Get Paid & Grow with Genuine Support
+
+Instead of spending lakhs on vague placement promises, choose a path that actually builds your career. Here's what you get:
+
+- 🎓 **Free Remote Training**  
+  Learn at your own pace from anywhere, with structured modules designed to build practical skills.
+
+- 🌐 **Open-Source Projects**  
+  Contribute to real-world projects on GitHub that boost your portfolio and get you noticed.
+
+- 💼 **Paid Freelancing Opportunities**  
+  Start earning early with guided freelance gigs based on your skill level.
+
+- 🧑‍🏫 **Local Support & Trusted Mentorship**  
+  Get personalized guidance from experienced mentors who care about your growth.
+
+- 💰 **Paid Internship After Training**  
+  Once you're job-ready, gain hands-on experience with paid internships that add real value.
+
+- 📄 **Letter of Recommendation**  
+  Receive personalized LoRs based on your performance, useful for job and college applications.
+
+- 📜 **Verifiable Certificate**  
+  Get certificates with unique verification links to showcase on LinkedIn and your resume.
+
+- 📞 **Phone Reference in Resume**  
+  Add a mentor/supervisor as a reference employers can actually speak to for credibility.
+
+- 🛠️ **Real Project Exposure**  
+  Build and deploy real applications, not just classroom demos, so you're truly job-ready.
+
+---
+
+> 🎯 **Don't fall for placement guarantees. Build skills that guarantee your future.**
+
 # Cons of Paying Lakhs to Join "Guaranteed Placement" Training Institutes
 
 ---
