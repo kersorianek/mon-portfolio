@@ -49,7 +49,7 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
   Complete a minimum of one paid freelance assignment between two in-person office visits, 
   ensuring both practical experience and income as you progress.
 </p>
-  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location" height="400px">
+  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location" height="500px">
     </td>
   </tr>
 </table>
