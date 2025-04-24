@@ -6,6 +6,9 @@ subtitle: 💼 Paid Freelancing Opportunities, 🧑‍🏫 Local Support & Mento
 ### ✅ A Better Alternative to expensive training institutes: Learn Free, Build Real, Get Paid & Grow with Genuine Support
 
 Instead of spending lakhs on vague placement promises, choose a path that actually builds your career. Here's what you get:
+<table style="border: none; width: 100%;">
+  <tr>
+    <td style="width: 50%; vertical-align: top;">
 
 - 🎓 **Free Remote Training**  
   Learn at your own pace from anywhere, with structured modules designed to build practical skills.
@@ -34,12 +37,25 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
 - 🛠️ **Real Project Exposure**  
   Build and deploy real applications, not just classroom demos, so you're truly job-ready.
 
+    </td>
+    <td style="width: 50%; text-align: right;">
+
+You can bring your laptop to our **office** in Pragathi Nagar(Hyderabad, Telangana) for **Local Support with your training**.
+
+💼 **One Paid Freelance Task completion before each office visit**  
+  Complete a minimum of one paid freelance assignment between two in-person office visits, ensuring both practical experience and income as you progress.
+  
+  ![image](/assets/uploads/pragathi-nagar.jpg)
+    </td>
+  </tr>
+</table>
+
+
 ---
 
 > 🎯 **Don't fall for placement guarantees. Build skills that guarantee your future.**
 
-You can bring your laptop to our **office** in Pragathi Nagar(Hyderabad, Telangana) for **Local Support with your training**.
-![image](/assets/uploads/pragathi-nagar.jpg)
+
 
 ### Limitations of Paying Lakhs of rupees to Join "Guaranteed Placement" Training Institutes
 
