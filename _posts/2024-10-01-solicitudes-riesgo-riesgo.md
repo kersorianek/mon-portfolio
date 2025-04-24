@@ -50,5 +50,3 @@ Aquí podrás ver el resumen de la propuesta presentada del cliente, donde está
 <p align="center">
   <img src="https://cdn.capitalexpress.cl/img/PropuestaRiesgo.png" alt="PropuestaRiesgo.png">
 </p>
-
-lalalal
