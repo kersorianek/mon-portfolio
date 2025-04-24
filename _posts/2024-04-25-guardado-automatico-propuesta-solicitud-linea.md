@@ -1,7 +1,7 @@
 ---
 layout: post
 title: ¡Nunca más pierdas tu trabajo! Guardado automático en la presentación de cliente
-subtitle: Advance - Apariencia.
+subtitle: Guardado automático en la presentación de cliente
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
 tags: [Propuesta, Solicitud de línea, Cliente, Ejecutivo]
