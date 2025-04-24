@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 🎓 Free Remote Training Program - Your Growth, Our Support
+title: 🎓 Free Training Program (Personalized Self-Paced Remote) - Your Growth, Our Local Support
 subtitle: 💼 Paid Freelancing Opportunities, 🧑‍🏫 Local Support & Mentorship, 💰 Paid Internship After Training, 📄 Letter of Recommendation, 📜 Verifiable Certificate, 📞 Phone Reference in Resume, 🛠️ Real Project Exposure, 🌐 Open-Source Verified Projects
 ---
 ### ✅ A Better Alternative to expensive training institutes: Learn Free, Build Real, Get Paid & Grow with Genuine Support
@@ -38,38 +38,41 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
 
 > 🎯 **Don't fall for placement guarantees. Build skills that guarantee your future.**
 
-# Limitations of Paying Lakhs of rupees to Join "Guaranteed Placement" Training Institutes
+You can bring your laptop to our **office** in Pragathi Nagar(Hyderabad, Telangana) for **Local Support with your training**.
+![image](/assets/uploads/pragathi-nagar.jpg)
+
+### Limitations of Paying Lakhs of rupees to Join "Guaranteed Placement" Training Institutes
 
 ---
 
-## 1. **No Real Guarantee**
+1. **No Real Guarantee**
 - The term “guaranteed” is often vague or misleading.
 - Read the fine print — many conditions may void the guarantee.
 
-## 2. **Low-Quality Placements**
+2. **Low-Quality Placements**
 - Often results in:
   - Low-paying internships or freelance gigs
   - Roles unrelated to the course (e.g., sales/support)
   - Companies with high attrition or poor culture
 
-## 3. **Overpriced Compared to Alternatives**
+3. **Overpriced Compared to Alternatives**
 - You can get similar or better learning from:
   - Online platforms like Coursera, Udemy, or YouTube
   - Open-source projects and GitHub contributions
   - Local internships or workshops
 - All at a fraction of the cost.
 
-## 4. **Cookie-Cutter Teaching**
+4. **Cookie-Cutter Teaching**
 - Focus on rote learning and outdated content
 - Mock interviews without real project exposure
 - Lack of personalized mentorship or support
 
-## 5. **Pressure & Hidden Clauses**
+5. **Pressure & Hidden Clauses**
 - Institutes may:
   - Force you to sign contracts accepting any job offered
   - Refuse refunds if placement conditions aren’t met
 
-## 6. **Missed Better Opportunities**
+6. **Missed Better Opportunities**
 - Time spent in these programs could be better used:
   - Building your own portfolio or startup
   - Contributing to open-source
