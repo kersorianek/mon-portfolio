@@ -38,7 +38,7 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
 
 > 🎯 **Don't fall for placement guarantees. Build skills that guarantee your future.**
 
-# Cons of Paying Lakhs to Join "Guaranteed Placement" Training Institutes
+# Limitations of Paying Lakhs of rupees to Join "Guaranteed Placement" Training Institutes
 
 ---
 
