@@ -9,43 +9,47 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
 <table style="border: none; width: 100%;">
   <tr>
     <td style="width: 50%; vertical-align: top;">
-
-- 🎓 **Free Remote Training**  
-  Learn at your own pace from anywhere, with structured modules designed to build practical skills.
-
-- 🌐 **Open-Source Projects**  
-  Contribute to real-world projects on GitHub that boost your portfolio and get you noticed.
-
-- 💼 **Paid Freelancing Opportunities**  
-  Start earning early with guided freelance gigs based on your skill level.
-
-- 🧑‍🏫 **Local Support & Trusted Mentorship**  
-  Get personalized guidance from experienced mentors who care about your growth.
-
-- 💰 **Paid Internship After Training**  
-  Once you're job-ready, gain hands-on experience with paid internships that add real value.
-
-- 📄 **Letter of Recommendation**  
-  Receive personalized LoRs based on your performance, useful for job and college applications.
-
-- 📜 **Verifiable Certificate**  
-  Get certificates with unique verification links to showcase on LinkedIn and your resume.
-
-- 📞 **Phone Reference in Resume**  
-  Add a mentor/supervisor as a reference employers can actually speak to for credibility.
-
-- 🛠️ **Real Project Exposure**  
-  Build and deploy real applications, not just classroom demos, so you're truly job-ready.
-
+<ul>
+  <li>🎓 <strong>Free Remote Training</strong><br>
+    Learn at your own pace from anywhere, with structured modules designed to build practical skills.
+  </li>
+  <li>🌐 <strong>Open-Source Projects</strong><br>
+    Contribute to real-world projects on GitHub that boost your portfolio and get you noticed.
+  </li>
+  <li>💼 <strong>Paid Freelancing Opportunities</strong><br>
+    Start earning early with guided freelance gigs based on your skill level.
+  </li>
+  <li>🧑‍🏫 <strong>Local Support & Trusted Mentorship</strong><br>
+    Get personalized guidance from experienced mentors who care about your growth.
+  </li>
+  <li>💰 <strong>Paid Internship After Training</strong><br>
+    Once you're job-ready, gain hands-on experience with paid internships that add real value.
+  </li>
+  <li>📄 <strong>Letter of Recommendation</strong><br>
+    Receive personalized LoRs based on your performance, useful for job and college applications.
+  </li>
+  <li>📜 <strong>Verifiable Certificate</strong><br>
+    Get certificates with unique verification links to showcase on LinkedIn and your resume.
+  </li>
+  <li>📞 <strong>Phone Reference in Resume</strong><br>
+    Add a mentor/supervisor as a reference employers can actually speak to for credibility.
+  </li>
+  <li>🛠️ <strong>Real Project Exposure</strong><br>
+    Build and deploy real applications, not just classroom demos, so you're truly job-ready.
+  </li>
+</ul>
     </td>
     <td style="width: 50%; text-align: right;">
-
-You can bring your laptop to our **office** in Pragathi Nagar(Hyderabad, Telangana) for **Local Support with your training**.
-
-💼 **One Paid Freelance Task completion before each office visit**  
-  Complete a minimum of one paid freelance assignment between two in-person office visits, ensuring both practical experience and income as you progress.
-  
-  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location">
+<p>
+  You can bring your laptop to our <strong>office</strong> in Pragathi Nagar (Hyderabad, Telangana) for 
+  <strong>Local Support with your training</strong>.
+</p>
+<p>
+  💼 <strong>One Paid Freelance Task completion before each office visit</strong><br>
+  Complete a minimum of one paid freelance assignment between two in-person office visits, 
+  ensuring both practical experience and income as you progress.
+</p>
+  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location" height="400px">
     </td>
   </tr>
 </table>
