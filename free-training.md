@@ -45,7 +45,7 @@ You can bring your laptop to our **office** in Pragathi Nagar(Hyderabad, Telanga
 💼 **One Paid Freelance Task completion before each office visit**  
   Complete a minimum of one paid freelance assignment between two in-person office visits, ensuring both practical experience and income as you progress.
   
-  ![image](/assets/uploads/pragathi-nagar.jpg)
+  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location">
     </td>
   </tr>
 </table>
