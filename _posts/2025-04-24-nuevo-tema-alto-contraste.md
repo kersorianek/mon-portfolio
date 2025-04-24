@@ -13,7 +13,7 @@ author: Catalina Pinilla
 
 ### Tema Alto Contraste
 
-Ahora cuentas con un nuevo tema que te facilitará ver con más claridad y detalle los elementos en `Advance`, ya que para algunos usuarios los temas `Claro` y `Oscuro` contenían datos que en sus monitores, o en una presentación, no se veían de manera clara. Con el nuevo tema `Alto Contraste` nos aseguramos de que estos inconvenientes quedarán atrás y podrás ver todo con gran detalle desde cualquier pantalla, incluso desde una presentación. Para activarlo, sigue estos pasos:
+Ahora cuentas con un nuevo tema que te facilitará ver con más claridad y detalle los elementos en `Advance`, ya que para algunos usuarios los temas `Claro` y `Oscuro` contenían datos que en sus monitores, o en una presentación, no se veían de manera clara. Con el nuevo tema `Alto Contraste` nos aseguramos de que estos .inconvenientes queden atrás y puedas ver todo con gran detalle desde cualquier pantalla, incluso desde una presentación. Para activarlo, sigue estos pasos:
 
 - <video width="100%" controls>
 - <source src="https://cdn.capitalexpress.cl/video/alto_contraste.mp4" type="video/mp4">
