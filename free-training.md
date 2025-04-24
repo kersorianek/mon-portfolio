@@ -39,7 +39,7 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
   </li>
 </ul>
     </td>
-    <td style="width: 50%; text-align: right;">
+    <td style="width: 50%; text-align: left;">
 <p>
   You can bring your laptop to our <strong>office</strong> in Pragathi Nagar (Hyderabad, Telangana) for 
   <strong>Local Support with your training</strong>.
@@ -49,7 +49,7 @@ Instead of spending lakhs on vague placement promises, choose a path that actual
   Complete a minimum of one paid freelance assignment between two in-person office visits, 
   ensuring both practical experience and income as you progress.
 </p>
-  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location" height="500px">
+  <img src="/assets/uploads/pragathi-nagar.jpg" alt="Pragathi nagar office location" height="700px">
     </td>
   </tr>
 </table>
