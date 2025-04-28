@@ -39,7 +39,7 @@ Tu navegador no soporta el elemento de video.
 
 ### Agregar plazo a las facturas
 
-También puedes cambiar el plazo de días de la factura de `30, 45, 60 y 90 días`, pero ten en cuenta que, si el plazo seleccionado coincide con un sábado o domingo, se ajustará al siguiente día hábil. Recuerda que debes seleccionar las facturas a las cuales quieres cambiar su plazo y solo a estas se efectuara el cambio, pudiendo aplicar más de un plazo por simulación.
+También puedes cambiar el plazo de días de la factura de `30, 45, 60 y 90 días`, pero ten en cuenta que, si el plazo seleccionado coincide con un sábado o domingo, se ajustará al siguiente día hábil. Recuerda que debes seleccionar las facturas a las cuales quieres cambiar su plazo y solo a estas se efectuará el cambio, pudiendo aplicar más de un plazo por simulación.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/cambio_plazo_simulacion.mp4" type="video/mp4">
