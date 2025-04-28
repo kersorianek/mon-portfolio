@@ -17,7 +17,7 @@ Ya no debes preocuparte por olvidar un paso, ahora la `Presentación de cliente 
 Pero, ¿Cómo te podemos asegurar que tu trabajo esta guardado?
 Fácil, cada vez que escribes verás un ticket que significa que tu proceso fue guardado con éxito.
 
-- <video width="100%" controls>
-- <source src="https://cdn.capitalexpress.cl/video/2025-04-24-presentacion_cliente.mp4" type="video/mp4">
-- Tu navegador no soporta el elemento de video.
-- </video>
+<video width="100%" controls>
+<source src="https://cdn.capitalexpress.cl/video/2025-04-24-presentacion_cliente.mp4" type="video/mp4">
+Tu navegador no soporta el elemento de video.
+</video>
