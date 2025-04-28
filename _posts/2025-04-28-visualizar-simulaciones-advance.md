@@ -48,7 +48,7 @@ Tu navegador no soporta el elemento de video.
 
 ### Descargar carta guía
 
-Podrás descargar la carta guía en un solo click y lo mejor es que cuando realices alguna modificación en los plazos, esto se verá reflejado automáticamente en la carta guía sin necesidad de oprimir ningún botón.
+Podrás descargar la carta guía en un solo clic, y lo mejor es que cuando realices alguna modificación en los plazos, esto se verá reflejado automáticamente en la carta guía sin necesidad de oprimir ningún botón.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/carta_guia_simulacion.mp4" type="video/mp4">
