@@ -30,7 +30,7 @@ Pero, ¿Qué cosas puedes hacer en esta ventana?, a continuación te mostraremos
 
 ### Cambiar estado de una simulación
 
-Las nuevas solicitudes ingresadas por tus clientes tendrán el estado predeterminado de `nueva` simulación, , el cual podrás cambiar manualmente cuando decidas trabajar en esta, disponiendo de los estados `Enviada` y `Abandonada`, según sea el caso, ¿Cómo hacerlo?, aquí te dejamos un video explicando como se hace.
+Las nuevas solicitudes ingresadas por tus clientes tendrán el estado predeterminado de `nueva` simulación, el cual podrás cambiar manualmente cuando decidas trabajar en esta, disponiendo de los estados `Enviada` y `Abandonada`, según sea el caso, ¿Cómo hacerlo?, aquí te dejamos un video explicando como se hace.
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/cambio_estado_simulacion.mp4" type="video/mp4">
