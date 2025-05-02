@@ -4,7 +4,7 @@ title: Ahora puedes consultar cualquier rut desde Advance
 subtitle: Obtención de reportes para clientes, deudores y empresas
 gh-repo: /capitalexpress/capitalexpress.github.io
 gh-badge: [star, fork, follow]
-tags: [Reportes, Cliente, Ejecutivo, Deudor, Empresa, Matriz de riesgo]
+tags: ["Reportes", "Cliente", "Ejecutivo", "Deudor", "Empresa", "Matriz de riesgo"]
 comments: false
 author: Catalina Pinilla
 ---
