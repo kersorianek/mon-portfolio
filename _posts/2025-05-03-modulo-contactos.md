@@ -21,19 +21,27 @@ author: Catalina Pinilla
 
 ## Información de contacto
 
-En `Consultas por rut` que se encuentra en la `Matriz de riesgo` podrás acceder al detalle `Ver contactos` donde podrás acceder a la información del rut que estás consultando pudiendo acceder a correos electrónicos, números de teléfono y direcciones y podrás ver la fuente de donde vienen estos datos.
+En `Consultas por RUT` (ubicado en la `Matriz de riesgo`), podrás ver el detalle de `Ver contactos`, donde encontrarás información relacionada con el RUT consultado, como:
+
+- Correos electrónicos
+
+- Números de teléfono
+
+- Direcciones
+
+Además, podrás conocer la fuente de los datos para mayor transparencia.
 Para que sea más fácil su uso, podrás copiar estos datos para usarlos como prefieras, para hacer una llamada, copiarlos en un correo, enviar los datos en un chat, etc.
 
-#### A continuación te enseñamos como se ve
+#### A continuación te enseñamos cómo se ve
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/acceder-contactos-cliente.mp4" type="video/mp4">
 Tu navegador no soporta el elemento de video.
 </video>
 
-Pero no solo cuentas con esta opción en la `Matriz de riesgo`, también lo puedes ver en la `Solicitud de linea de crédito` si eres de riesgo, comité o administrador podrás ir a la sección de contactos y también podrás ver esta información
+Pero no solo cuentas con esta opción en la `Matriz de riesgo`, también lo puedes ver en la `Solicitud de línea de crédito` si eres de riesgo, comité o administrador podrás ir a la sección de contactos y también podrás ver esta información
 
-#### Te enseño como
+#### Te enseño cómo
 
 <video width="100%" controls>
 <source src="https://cdn.capitalexpress.cl/video/contactos-solicitud.mp4" type="video/mp4">
