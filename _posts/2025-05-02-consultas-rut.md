@@ -18,4 +18,9 @@ Desde ahora no es necesario que el rut que necesitas consultar este enrolado, po
 img/consulta_rut.jpg" alt="consultaRut">
 </p>
 
-Podrás obtener reportes como el Dicom, Pasivo, Poder judicial, Bienes Raíces, Vehículos.
+Podrás obtener reportes como:
+- DICOM
+- Pasivo
+- Poder Judicial
+- Bienes Raíces
+- Vehículos
