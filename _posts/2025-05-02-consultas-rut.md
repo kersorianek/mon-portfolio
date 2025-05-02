@@ -11,7 +11,7 @@ author: Catalina Pinilla
 
 ## Consulta por rut
 
-Desde ahora no es necesario que el rut que necesitas consultar este enrolado, porque ahora Advance cuanta con un apartado de `Consultas por rut` en donde podrás obtener los reportes de quien necesites consultar ya sea cliente de `Capital Express Servicios Financieros`, deudor o empresa. Puedes acceder a el desde la `Matriz de riesgo`:
+Desde ahora no es necesario que el RUT que necesitas consultar esté enrolado, porque ahora Advance cuenta con un apartado de `Consultas por RUT` en donde podrás obtener los reportes de quien necesites consultar, ya sea cliente de `Capital Express Servicios Financieros`, deudor o empresa. Puedes acceder a él desde la `Matriz de riesgo`:
 
 <p align="center">
   <img src="https://cdn.capitalexpress.cl/
