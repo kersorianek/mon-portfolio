@@ -12,8 +12,7 @@ author: Catalina Pinilla
 
 ## Consulta por rut
 
-Ahora puedes consultar cualquier RUT, sin necesidad de que esté enrolado
-En Advance, hemos creado la sección `Consultas por RUT`, donde podrás obtener reportes de:
+Ahora puedes consultar cualquier RUT, sin necesidad de que esté enrolado en Advance, ya que hemos creado la sección `Consultas por RUT`, donde podrás obtener reportes de:
 
 - Cliente de Capital Express Servicios Financieros
 - Deudor
