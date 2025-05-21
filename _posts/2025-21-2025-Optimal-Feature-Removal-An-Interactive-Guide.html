@@ -1,0 +1,1023 @@
+# Google Colab Notebook for Interactive Guide to Optimal Feature Removal
+
+# This notebook allows you to run the interactive HTML guide directly within Google Colab.
+# It embeds the HTML content and uses IPython.display to render it.
+
+from IPython.display import HTML, display
+
+html_content = """
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Guide: Optimal Feature Removal</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <!-- Application Structure Plan:
+        The SPA is designed as a single-page application with a fixed sidebar navigation and a main content area. This structure allows users to easily navigate between different topics of the report.
+        Sections include:
+        1.  Overview: Introduces the problem and the solution's purpose.
+        2.  Why Feature Selection?: Highlights benefits.
+        3.  Key Evaluation Metrics: Explains Missing Data, Target Relationship, and Predictive Power with illustrative charts. This helps users understand the 'building blocks' of the decision.
+        4.  The Composite Score: Details the formula and allows interactive adjustment of weights to see their impact on a hypothetical example. This promotes understanding of the scoring mechanism.
+        5.  The Algorithm in Action: Shows the Python code and a conceptual flowchart of its steps, making the technical implementation transparent.
+        6.  Interactive Explorer: A simplified demo where users input scores for two hypothetical correlated features and see which one would be kept based on the composite score and current weights. This provides a hands-on learning experience.
+        7.  Advanced Tips: Summarizes best practices.
+        8.  Conclusion: Key takeaways.
+        This multi-section, guided approach was chosen to break down complex information into digestible parts, facilitating progressive understanding and engagement, rather than mirroring the linear structure of the source report.
+    -->
+    <!-- Visualization & Content Choices:
+        - Overview: Text summary. Goal: Inform. Method: HTML text. Interaction: None. Justification: Sets context.
+        - Why Feature Selection?: Bulleted list. Goal: Inform. Method: HTML list. Interaction: None. Justification: Quick benefits.
+        - Key Evaluation Metrics (Missing Data, Target Relationship, Predictive Power): Each with text explanation and a Chart.js bar chart showing 3 example features. Goal: Inform/Compare. Method: HTML text + Chart.js Canvas. Interaction: Static charts. Justification: Concrete examples for abstract metrics.
+        - The Composite Score: Text explanation of formula, interactive sliders for weights (JS), and a dynamically updated table showing example feature scores. Goal: Explain/Interact. Method: HTML text, input sliders, JS, HTML table. Interaction: User adjusts weights, table updates. Justification: Demonstrates impact of weighting.
+        - The Algorithm in Action: Python code in `<pre>` block, conceptual flowchart (HTML/CSS styled list/divs). Goal: Explain. Method: HTML. Interaction: None. Justification: Shows implementation details.
+        - Interactive Explorer: User inputs for 2 features (missing, target corr, predictive power - all 0-1 range for simplicity), "Calculate" button. JS calculates composite scores using current weights and displays results in a table, highlighting the feature to keep. Goal: Engage/Apply. Method: HTML forms, JS, HTML table. Interaction: User input and calculation. Justification: Hands-on application of concepts.
+        - Advanced Tips: Bulleted list. Goal: Inform. Method: HTML list. Interaction: None. Justification: Practical advice.
+        - Conclusion: Text summary. Goal: Summarize. Method: HTML text. Interaction: None. Justification: Key takeaways.
+        - Libraries: Chart.js for all charts (Canvas). Tailwind for all styling. Vanilla JS for all logic.
+        - CONFIRMATION: NO SVG graphics used. NO Mermaid JS used.
+    -->
+    <style>
+        body { font-family: 'Inter', sans-serif; }
+        .content-section { display: none; }
+        .content-section.active { display: block; }
+        .chart-container { position: relative; width: 100%; max-width: 600px; margin-left: auto; margin-right: auto; height: 300px; max-height: 400px; }
+        @media (min-width: 768px) { .chart-container { height: 350px; } }
+        .sidebar-link { display: block; padding: 0.75rem 1rem; margin-bottom: 0.5rem; border-radius: 0.375rem; transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out; }
+        .sidebar-link:hover { background-color: #E5E7EB; color: #1F2937; } /* stone-200, stone-800 */
+        .sidebar-link.active-link { background-color: #0D9488; color: white; } /* teal-600 */
+        .slider-label { display: block; margin-bottom: 0.25rem; font-size: 0.875rem; color: #4B5563; } /* stone-600 */
+        .slider-value { font-weight: 500; color: #0D9488; } /* teal-600 */
+        .code-block { background-color: #1F2937; color: #D1D5DB; padding: 1rem; border-radius: 0.5rem; overflow-x: auto; font-family: 'Courier New', Courier, monospace; font-size: 0.875rem; line-height: 1.4; }
+        .code-block .keyword { color: #93C5FD; } /* blue-300 */
+        .code-block .comment { color: #6B7280; } /* stone-500 */
+        .code-block .string { color: #A7F3D0; } /* green-200 */
+        .code-block .function { color: #FDE047; } /* yellow-300 */
+        .code-block .number { color: #F9A8D4; } /* pink-300 */
+        .info-box { background-color: #EFF6FF; border-left: 4px solid #3B82F6; padding: 1rem; margin-bottom: 1rem; border-radius: 0.25rem; } /* blue-50 bg, blue-500 border */
+        .info-box p { color: #1E40AF; } /* blue-800 */
+        .pill { display: inline-block; padding: 0.25rem 0.75rem; font-size: 0.75rem; font-weight: 500; border-radius: 9999px; }
+        .pill-keep { background-color: #D1FAE5; color: #065F46; } /* green-100 bg, green-700 text */
+        .pill-remove { background-color: #FEE2E2; color: #991B1B; } /* red-100 bg, red-700 text */
+    </style>
+</head>
+<body class="bg-stone-100 text-stone-800">
+    <div class="flex flex-col md:flex-row min-h-screen">
+        <aside class="w-full md:w-64 bg-white shadow-md p-4 space-y-2 md:sticky md:top-0 md:h-screen overflow-y-auto">
+            <h1 class="text-2xl font-bold text-teal-700 mb-6 border-b pb-2">Feature Selector Guide</h1>
+            <nav id="sidebarNav">
+                <a href="#overview" class="sidebar-link active-link">Overview</a>
+                <a href="#why-selection" class="sidebar-link">Why Feature Selection?</a>
+                <div>
+                    <span class="font-semibold text-stone-600 px-4 py-2 text-sm">Key Metrics</span>
+                    <a href="#metric-missing" class="sidebar-link ml-4">Missing Data</a>
+                    <a href="#metric-target" class="sidebar-link ml-4">Target Relationship</a>
+                    <a href="#metric-predictive" class="sidebar-link ml-4">Predictive Power</a>
+                </div>
+                <a href="#composite-score" class="sidebar-link">The Composite Score</a>
+                <a href="#algorithm" class="sidebar-link">Algorithm in Action</a>
+                <a href="#explorer" class="sidebar-link">Interactive Explorer</a>
+                <a href="#advanced-tips" class="sidebar-link">Advanced Tips</a>
+                <a href="#conclusion" class="sidebar-link">Conclusion</a>
+            </nav>
+        </aside>
+
+        <main class="flex-1 p-6 md:p-10 overflow-y-auto">
+            <section id="overview" class="content-section active">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Optimal Feature Removal: An Interactive Guide</h2>
+                <p class="mb-4 text-lg leading-relaxed">
+                    Welcome! This guide explores a sophisticated method for removing highly correlated features from a dataset. In machine learning, dealing with multicollinearity (where features are highly correlated) is crucial for building robust and interpretable models.
+                </p>
+                <p class="mb-4 leading-relaxed">
+                    Traditional methods often remove one feature from a correlated pair arbitrarily. This interactive application, based on the "Optimal Python Function for Highly Correlated Feature Removal" report, introduces a multi-criteria approach. It uses a composite score based on:
+                </p>
+                <ul class="list-disc list-inside mb-4 pl-4 space-y-1 leading-relaxed">
+                    <li>Proportion of missing data in a feature.</li>
+                    <li>Strength of a feature's correlation with the target variable.</li>
+                    <li>Individual predictive power of a feature (e.g., Lift Ratio for classification, R-squared for regression).</li>
+                </ul>
+                <p class="leading-relaxed">
+                    Navigate through the sections using the sidebar to understand the metrics, see how the composite score is calculated, explore the Python algorithm, and even experiment with a simplified interactive demo.
+                </p>
+            </section>
+
+            <section id="why-selection" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Why is Feature Selection Important?</h2>
+                <p class="mb-4 leading-relaxed">
+                    Feature selection is a vital preprocessing step in machine learning. Its main goal is to identify and keep only the most relevant features from your dataset. This process offers several significant benefits:
+                </p>
+                <ul class="list-disc list-inside mb-4 pl-4 space-y-2 leading-relaxed bg-stone-50 p-6 rounded-lg shadow">
+                    <li><strong class="text-teal-600">Enhances Model Efficacy:</strong> By removing irrelevant or redundant features, models can often achieve better predictive accuracy and generalize better to new, unseen data.</li>
+                    <li><strong class="text-teal-600">Reduces Computational Overhead:</strong> Fewer features mean less data to process, leading to faster model training and prediction times. This is especially important for large datasets.</li>
+                    <li><strong class="text-teal-600">Improves Model Interpretability:</strong> Models with fewer features are generally easier to understand and explain. It becomes clearer which factors are driving the predictions.</li>
+                    <li><strong class="text-teal-600">Mitigates Overfitting:</strong> Redundant or irrelevant features can sometimes cause models to "memorize" the training data (overfit) rather than learning general patterns, leading to poor performance on new data.</li>
+                    <li><strong class="text-teal-600">Addresses Multicollinearity:</strong> Specifically, removing highly correlated features (which provide similar information) helps stabilize model coefficients and makes it easier to understand the individual contribution of each feature.</li>
+                </ul>
+                <p class="leading-relaxed">
+                    Ultimately, effective feature selection leads to more efficient, robust, and understandable machine learning models.
+                </p>
+            </section>
+
+            <section id="metric-missing" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Key Metric: Missing Data Proportion</h2>
+                <p class="mb-4 leading-relaxed">
+                    The proportion of missing values in a feature is a direct indicator of its completeness and reliability. Features with a high percentage of missing data are generally less informative and can complicate model training, even if imputation techniques are used.
+                </p>
+                <p class="mb-4 leading-relaxed">
+                    <strong>Calculation:</strong> For each feature, it's `(Number of Null/NaN values) / (Total number of rows)`.
+                </p>
+                <p class="mb-6 leading-relaxed">
+                    In the composite removal score, a <strong class="text-amber-600">higher missing proportion makes a feature more likely to be removed</strong>, as it suggests lower data quality and reliability.
+                </p>
+                <div class="chart-container bg-white p-4 rounded-lg shadow-lg">
+                    <canvas id="missingDataChart"></canvas>
+                </div>
+                <p class="text-center mt-2 text-sm text-stone-600">Illustrative example of missing data proportions for hypothetical features.</p>
+            </section>
+
+            <section id="metric-target" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Key Metric: Feature-Target Relationship</h2>
+                <p class="mb-4 leading-relaxed">
+                    The strength of a feature's relationship with the target variable is crucial. Features that strongly predict or associate with the target are more valuable. The specific statistical measure used depends on the data types of the feature and the target (e.g., Pearson correlation for numeric-numeric, ANOVA F-value for numeric-categorical, Mutual Information for mixed types).
+                </p>
+                <p class="mb-6 leading-relaxed">
+                    After calculating the appropriate metric, its value (often the absolute value) is normalized. In the composite removal score, a <strong class="text-amber-600">stronger (higher) normalized relationship with the target makes a feature less likely to be removed</strong>.
+                </p>
+                <div class="chart-container bg-white p-4 rounded-lg shadow-lg">
+                    <canvas id="targetRelationshipChart"></canvas>
+                </div>
+                <p class="text-center mt-2 text-sm text-stone-600">Illustrative example of normalized target relationship scores.</p>
+            </section>
+
+            <section id="metric-predictive" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Key Metric: Individual Predictive Power</h2>
+                <p class="mb-4 leading-relaxed">
+                    This metric assesses how well a single feature, on its own, can predict the target variable. For classification tasks, this is often represented by the Lift Ratio, calculated from a simple model trained only on that feature. For regression tasks, R-squared from a simple linear regression can be used.
+                </p>
+                <p class="mb-6 leading-relaxed">
+                    A higher lift (or R-squared) indicates greater individual predictive capability. In the composite removal score, <strong class="text-amber-600">higher normalized predictive power makes a feature less likely to be removed</strong>.
+                </p>
+                <div class="chart-container bg-white p-4 rounded-lg shadow-lg">
+                    <canvas id="predictivePowerChart"></canvas>
+                </div>
+                <p class="text-center mt-2 text-sm text-stone-600">Illustrative example of normalized individual predictive power scores.</p>
+            </section>
+
+            <section id="composite-score" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">The Composite Removal Score</h2>
+                <p class="mb-4 leading-relaxed">
+                    To make an informed decision about which feature to remove from a highly correlated group, individual scores (missing proportion, target correlation, predictive power) are combined into a single composite removal score. These individual scores are first normalized (typically to a 0-1 range).
+                </p>
+                <p class="mb-2 leading-relaxed font-medium">The formula is structured as a weighted sum:</p>
+                <div class="code-block mb-6 text-sm">
+                    <code>Removal_Score = (W<sub>missing</sub> * Norm_Missing) + (W<sub>corr</sub> * (1 - Norm_Target_Corr)) + (W<sub>lift</sub> * (1 - Norm_Predictive_Power))</code>
+                </div>
+                <p class="mb-4 leading-relaxed">
+                    Where:
+                </p>
+                <ul class="list-disc list-inside mb-4 pl-4 space-y-1 leading-relaxed">
+                    <li><code>W<sub>missing</sub>, W<sub>corr</sub>, W<sub>lift</sub></code> are user-defined weights (summing to 1).</li>
+                    <li><code>Norm_Missing</code> is the normalized missing proportion.</li>
+                    <li><code>(1 - Norm_Target_Corr)</code> inverts the normalized target correlation (higher original correlation means lower contribution to removal score).</li>
+                    <li><code>(1 - Norm_Predictive_Power)</code> inverts the normalized predictive power (higher original power means lower contribution to removal score).</li>
+                </ul>
+                <p class="mb-6 leading-relaxed">
+                    A <strong class="text-amber-600">higher final Removal_Score indicates the feature is a better candidate for removal</strong>. The feature with the lowest score in a correlated group is kept.
+                </p>
+
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <h3 class="text-xl font-semibold mb-4 text-teal-600">Adjust Weights & See Impact:</h3>
+                    <div class="grid grid-cols-1 md:grid-cols-3 gap-6 mb-6">
+                        <div>
+                            <label for="missingWeight" class="slider-label">Missing Data Weight (<span id="missingWeightValue" class="slider-value">0.3</span>):</label>
+                            <input type="range" id="missingWeight" min="0" max="1" step="0.01" value="0.3" class="w-full h-2 bg-stone-200 rounded-lg appearance-none cursor-pointer accent-teal-600">
+                        </div>
+                        <div>
+                            <label for="targetCorrWeight" class="slider-label">Target Correlation Weight (<span id="targetCorrWeightValue" class="slider-value">0.4</span>):</label>
+                            <input type="range" id="targetCorrWeight" min="0" max="1" step="0.01" value="0.4" class="w-full h-2 bg-stone-200 rounded-lg appearance-none cursor-pointer accent-teal-600">
+                        </div>
+                        <div>
+                            <label for="liftWeight" class="slider-label">Predictive Power Weight (<span id="liftWeightValue" class="slider-value">0.3</span>):</label>
+                            <input type="range" id="liftWeight" min="0" max="1" step="0.01" value="0.3" class="w-full h-2 bg-stone-200 rounded-lg appearance-none cursor-pointer accent-teal-600">
+                        </div>
+                    </div>
+                    <div class="info-box mb-6">
+                        <p>Note: The weights above will be normalized to sum to 1 for the calculation if they don't already.</p>
+                    </div>
+
+                    <h4 class="text-lg font-semibold mb-3">Example Calculation:</h4>
+                    <table class="min-w-full divide-y divide-stone-200 border border-stone-300 rounded-md">
+                        <thead class="bg-stone-50">
+                            <tr>
+                                <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Feature</th>
+                                <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Norm. Missing (Higher=Worse)</th>
+                                <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Norm. Target Corr (Higher=Better)</th>
+                                <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Norm. Predictive Power (Higher=Better)</th>
+                                <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Composite Removal Score (Lower=Better)</th>
+                            </tr>
+                        </thead>
+                        <tbody class="bg-white divide-y divide-stone-200" id="compositeScoreTableBody">
+                            </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <section id="algorithm" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">The Algorithm in Action</h2>
+                <p class="mb-4 leading-relaxed">
+                    The core logic is encapsulated in a Python function, `remove_correlated_features_optimal`. Here's a conceptual overview of its steps:
+                </p>
+                <div class="space-y-6 bg-white p-6 rounded-lg shadow-lg">
+                    <div class="flex items-start">
+                        <div class="flex-shrink-0 w-12 h-12 bg-teal-500 text-white rounded-full flex items-center justify-center text-xl font-bold mr-4">1</div>
+                        <div>
+                            <h4 class="font-semibold text-lg text-teal-600">Calculate Individual Scores</h4>
+                            <p class="text-stone-700">For every feature: compute missing proportion, feature-target relationship score (adapting to data types), and individual predictive power (Lift/R-squared).</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="flex-shrink-0 w-12 h-12 bg-teal-500 text-white rounded-full flex items-center justify-center text-xl font-bold mr-4">2</div>
+                        <div>
+                            <h4 class="font-semibold text-lg text-teal-600">Identify Correlated Groups</h4>
+                            <p class="text-stone-700">Using Pearson correlation (for numerical features), build a graph where nodes are features and edges connect highly correlated pairs (above a threshold). Connected components in this graph form the correlated groups.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="flex-shrink-0 w-12 h-12 bg-teal-500 text-white rounded-full flex items-center justify-center text-xl font-bold mr-4">3</div>
+                        <div>
+                            <h4 class="font-semibold text-lg text-teal-600">Normalize Scores Globally</h4>
+                            <p class="text-stone-700">Normalize all missing proportions, target correlations, and predictive power scores (e.g., Min-Max scaling to 0-1 range) across all features to ensure fair comparison.</p>
+                        </div>
+                    </div>
+                    <div class="flex items-start">
+                        <div class="flex-shrink-0 w-12 h-12 bg-teal-500 text-white rounded-full flex items-center justify-center text-xl font-bold mr-4">4</div>
+                        <div>
+                            <h4 class="font-semibold text-lg text-teal-600">Calculate Composite Score & Decide</h4>
+                            <p class="text-stone-700">For each feature within a correlated group, calculate its composite removal score using the weighted formula. The feature with the lowest composite score in the group is kept; others are marked for removal.</p>
+                        </div>
+                    </div>
+                     <div class="flex items-start">
+                        <div class="flex-shrink-0 w-12 h-12 bg-teal-500 text-white rounded-full flex items-center justify-center text-xl font-bold mr-4">5</div>
+                        <div>
+                            <h4 class="font-semibold text-lg text-teal-600">Remove Features</h4>
+                            <p class="text-stone-700">Drop all marked features from the DataFrame.</p>
+                        </div>
+                    </div>
+                </div>
+
+                <h3 class="text-2xl font-semibold mt-10 mb-4 text-teal-700">Python Function Snippet</h3>
+                <p class="mb-4 leading-relaxed">
+                    The following is a condensed representation of the Python function structure. Refer to the full report for complete implementation details and parameters.
+                </p>
+                <div class="code-block">
+<pre>
+<span class="keyword">import</span> pandas <span class="keyword">as</span> pd
+<span class="keyword">import</span> numpy <span class="keyword">as</span> np
+<span class="keyword">from</span> sklearn.preprocessing <span class="keyword">import</span> MinMaxScaler
+<span class="keyword">from</span> sklearn.linear_model <span class="keyword">import</span> LogisticRegression, LinearRegression
+<span class="keyword">from</span> mlxtend.evaluate <span class="keyword">import</span> lift_score
+<span class="keyword">import</span> networkx <span class="keyword">as</span> nx
+
+<span class="keyword">def</span> <span class="function">remove_correlated_features_optimal</span>(
+    df: pd.DataFrame,
+    target_column: <span class="keyword">str</span>,
+    corr_threshold: <span class="keyword">float</span> = <span class="number">0.9</span>,
+    missing_weight: <span class="keyword">float</span> = <span class="number">0.3</span>,
+    target_corr_weight: <span class="keyword">float</span> = <span class="number">0.4</span>,
+    lift_weight: <span class="keyword">float</span> = <span class="number">0.3</span>,
+    <span class="comment"># ... other parameters</span>
+) -> pd.DataFrame:
+    <span class="string">"""
+    Removes highly correlated features based on a composite score.
+    Considers missing proportion, target correlation, and predictive power.
+    """</span>
+    df_copy = df.copy()
+    features = [col <span class="keyword">for</span> col <span class="keyword">in</span> df_copy.columns <span class="keyword">if</span> col != target_column]
+    
+    <span class="comment"># --- 1. Calculate All Individual Feature Scores ---</span>
+    feature_scores = {}
+    <span class="comment"># ... (missing_proportion, target_correlation, predictive_power calculations)</span>
+    
+    <span class="comment"># --- 2. Identifying and Grouping Correlated Features ---</span>
+    numerical_features = df_copy[features].select_dtypes(include=np.number).columns.tolist()
+    corr_matrix = df_copy[numerical_features].corr().abs()
+    G = nx.Graph()
+    <span class="comment"># ... (build graph from correlations > corr_threshold)</span>
+    correlated_groups = list(nx.connected_components(G))
+    
+    <span class="comment"># --- 3. Applying the Composite Score within Correlated Groups ---</span>
+    features_to_drop = set()
+    <span class="comment"># ... (normalize all scores globally)</span>
+    
+    <span class="keyword">for</span> group <span class="keyword">in</span> correlated_groups:
+        <span class="keyword">if</span> len(group) <= <span class="number">1</span>: <span class="keyword">continue</span>
+        group_feature_data = []
+        <span class="keyword">for</span> feature <span class="keyword">in</span> group:
+            norm_missing = <span class="comment"># ... get normalized missing</span>
+            norm_target_corr = <span class="comment"># ... get normalized target correlation</span>
+            norm_pred_power = <span class="comment"># ... get normalized predictive power</span>
+            
+            composite_score = (missing_weight * norm_missing) + \
+                              (target_corr_weight * (<span class="number">1</span> - norm_target_corr)) + \
+                              (lift_weight * (<span class="number">1</span> - norm_pred_power))
+            group_feature_data.append({'name': feature, 'score': composite_score})
+        
+        sorted_group = sorted(group_feature_data, key=<span class="keyword">lambda</span> x: x['score'])
+        feature_to_keep = sorted_group[<span class="number">0</span>]['name']
+        features_to_drop.update([f['name'] <span class="keyword">for</span> f <span class="keyword">in</span> sorted_group[<span class="number">1</span>:]])
+        
+    final_df = df_copy.drop(columns=list(features_to_drop))
+    <span class="keyword">return</span> final_df
+</pre>
+                </div>
+            </section>
+
+            <section id="explorer" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Interactive Explorer</h2>
+                <p class="mb-4 leading-relaxed">
+                    Experiment with how the composite score changes for two hypothetical correlated features. Adjust their scores and the weights (using sliders in "The Composite Score" section) to see which feature would be kept.
+                </p>
+                <p class="mb-6 leading-relaxed">
+                    For simplicity in this demo, input scores between 0 and 1 for Missing Proportion, Target Correlation, and Predictive Power. A higher Missing Proportion is worse, while higher Target Correlation and Predictive Power are better.
+                </p>
+
+                <div class="bg-white p-6 rounded-lg shadow-lg">
+                    <div class="grid grid-cols-1 md:grid-cols-2 gap-8 mb-6">
+                        <div>
+                            <h4 class="text-lg font-semibold mb-3 text-teal-600">Feature 1 Details:</h4>
+                            <div class="space-y-3">
+                                <div>
+                                    <label for="feat1Name" class="block text-sm font-medium text-stone-700">Name:</label>
+                                    <input type="text" id="feat1Name" value="Feature A" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat1Missing" class="block text-sm font-medium text-stone-700">Missing Proportion (0-1, higher=worse):</label>
+                                    <input type="number" id="feat1Missing" step="0.01" min="0" max="1" value="0.1" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat1TargetCorr" class="block text-sm font-medium text-stone-700">Target Correlation (0-1, higher=better):</label>
+                                    <input type="number" id="feat1TargetCorr" step="0.01" min="0" max="1" value="0.8" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat1PredPower" class="block text-sm font-medium text-stone-700">Predictive Power (0-1, higher=better):</label>
+                                    <input type="number" id="feat1PredPower" step="0.01" min="0" max="1" value="0.7" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <h4 class="text-lg font-semibold mb-3 text-teal-600">Feature 2 Details:</h4>
+                             <div class="space-y-3">
+                                <div>
+                                    <label for="feat2Name" class="block text-sm font-medium text-stone-700">Name:</label>
+                                    <input type="text" id="feat2Name" value="Feature B" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat2Missing" class="block text-sm font-medium text-stone-700">Missing Proportion (0-1, higher=worse):</label>
+                                    <input type="number" id="feat2Missing" step="0.01" min="0" max="1" value="0.3" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat2TargetCorr" class="block text-sm font-medium text-stone-700">Target Correlation (0-1, higher=better):</label>
+                                    <input type="number" id="feat2TargetCorr" step="0.01" min="0" max="1" value="0.6" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                                <div>
+                                    <label for="feat2PredPower" class="block text-sm font-medium text-stone-700">Predictive Power (0-1, higher=better):</label>
+                                    <input type="number" id="feat2PredPower" step="0.01" min="0" max="1" value="0.5" class="mt-1 block w-full px-3 py-2 border border-stone-300 rounded-md shadow-sm focus:outline-none focus:ring-teal-500 focus:border-teal-500 sm:text-sm">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <button id="calculateExplorer" class="w-full md:w-auto bg-teal-600 hover:bg-teal-700 text-white font-semibold py-2 px-6 rounded-lg shadow transition duration-150 ease-in-out">
+                        Calculate Decision
+                    </button>
+
+                    <div id="explorerResult" class="mt-8">
+                        <h4 class="text-lg font-semibold mb-3">Decision:</h4>
+                        <table class="min-w-full divide-y divide-stone-200 border border-stone-300 rounded-md">
+                            <thead class="bg-stone-50">
+                                <tr>
+                                    <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Feature Name</th>
+                                    <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Composite Removal Score (Lower=Better)</th>
+                                    <th class="px-4 py-3 text-left text-xs font-medium text-stone-500 uppercase tracking-wider">Decision</th>
+                                </tr>
+                            </thead>
+                            <tbody class="bg-white divide-y divide-stone-200" id="explorerTableBody">
+                                </tbody>
+                        </table>
+                    </div>
+                </div>
+            </section>
+            
+            <section id="advanced-tips" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Advanced Considerations & Best Practices</h2>
+                <p class="mb-4 leading-relaxed">
+                    To make the most of this feature removal approach, consider these points:
+                </p>
+                <ul class="list-disc list-inside mb-6 pl-4 space-y-3 leading-relaxed bg-white p-6 rounded-lg shadow">
+                    <li>
+                        <strong class="text-teal-600">Performance Optimization:</strong> For very large datasets, calculating predictive power for each feature can be slow. Consider using vectorized operations, sampling, or tools like Numba/Cython if performance is critical.
+                    </li>
+                    <li>
+                        <strong class="text-teal-600">Sensitivity Analysis & Threshold Tuning:</strong> The `corr_threshold` for grouping features and the weights for the composite score are key hyperparameters. Experiment with different values and use cross-validation to assess their impact on your specific model and data. There's no one-size-fits-all.
+                    </li>
+                    <li>
+                        <strong class="text-teal-600">Handling Edge Cases:</strong> Be mindful of features with zero variance (constant values), as they can cause issues in calculations. The function should ideally handle these by assigning default scores. Also, consider how non-numeric data (like dates or free text) is handled; they might need preprocessing or exclusion.
+                    </li>
+                    <li>
+                        <strong class="text-teal-600">Outliers:</strong> Extreme outliers can affect Pearson correlation and Min-Max scaling. If your data has significant outliers, explore robust scaling methods or outlier treatment before applying this function.
+                    </li>
+                    <li>
+                        <strong class="text-teal-600">Data Understanding:</strong> Always start with a thorough understanding of your dataset—feature distributions, potential issues, and the nature of your target variable. This context is vital for interpreting the results of any automated feature selection process.
+                    </li>
+                </ul>
+            </section>
+
+            <section id="conclusion" class="content-section">
+                <h2 class="text-3xl font-semibold mb-6 text-teal-700">Conclusion & Recommendations</h2>
+                <p class="mb-4 leading-relaxed">
+                    The multi-criteria approach for removing highly correlated features offers a more data-driven and nuanced solution than simpler methods. By considering missingness, target relevance, and individual predictive power, it aims to retain the most valuable features within correlated groups.
+                </p>
+                <p class="mb-4 leading-relaxed">Key recommendations for practitioners include:</p>
+                <ul class="list-disc list-inside mb-4 pl-4 space-y-2 leading-relaxed bg-stone-50 p-6 rounded-lg shadow">
+                    <li><strong>Understand Your Data:</strong> Deeply analyze your dataset before applying any automated selection.</li>
+                    <li><strong>Experiment with Parameters:</strong> Tune the correlation threshold and score weights to fit your specific project needs.
+                    </li>
+                    <li><strong>Integrate into a Pipeline:</strong> Use this as an early preprocessing step in your machine learning workflow.</li>
+                </ul>
+                <p class="mb-4 leading-relaxed">
+                    Future enhancements could involve more advanced imputation, alternative predictive power metrics, or even integrating model-based feature importance for a hybrid approach.
+                </p>
+                <p class="leading-relaxed">
+                    This interactive guide aimed to provide a clear understanding of this optimal feature removal strategy. We hope it empowers you to build better, more efficient machine learning models!
+                </p>
+            </section>
+
+        </main>
+    </div>
+
+    <script>
+        const sections = document.querySelectorAll('.content-section');
+        const navLinks = document.querySelectorAll('#sidebarNav a.sidebar-link');
+
+        function setActiveSection(hash) {
+            sections.forEach(section => {
+                if ('#' + section.id === hash) {
+                    section.classList.add('active');
+                } else {
+                    section.classList.remove('active');
+                }
+            });
+            navLinks.forEach(link => {
+                if (link.getAttribute('href') === hash) {
+                    link.classList.add('active-link');
+                } else {
+                    link.classList.remove('active-link');
+                }
+            });
+        }
+
+        navLinks.forEach(link => {
+            link.addEventListener('click', function(e) {
+                e.preventDefault();
+                const targetHash = this.getAttribute('href');
+                window.location.hash = targetHash;
+                setActiveSection(targetHash);
+            });
+        });
+        
+        // Initial section activation based on hash or default
+        const currentHash = window.location.hash || '#overview';
+        setActiveSection(currentHash);
+        if (!window.location.hash) { // Ensure default is set in URL for consistency
+            window.location.hash = '#overview';
+        }
+
+
+        // Chart.js initializations
+        function createBarChart(canvasId, label, labels, data, backgroundColors, borderColors) {
+            const ctx = document.getElementById(canvasId).getContext('2d');
+            new Chart(ctx, {
+                type: 'bar',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: label,
+                        data: data,
+                        backgroundColor: backgroundColors,
+                        borderColor: borderColors,
+                        borderWidth: 1
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: false,
+                    scales: {
+                        y: { beginAtZero: true, max: Math.max(...data, 0.5, 1.0) * 1.1 }, // Adjusted max for better visualization
+                        x: { ticks: { callback: function(value, index, values) { const lbl = this.getLabelForValue(value); return lbl.length > 16 ? lbl.substring(0,16) + '...' : lbl; } } }
+                    },
+                    plugins: { legend: { display: true } }
+                }
+            });
+        }
+
+        // Metric Charts Data
+        if (document.getElementById('missingDataChart')) {
+            createBarChart('missingDataChart', 'Missing Proportion (Higher is worse)',
+                ['Feature X', 'Feature Y', 'Feature Z'],
+                [0.05, 0.22, 0.53],
+                ['rgba(255, 159, 64, 0.5)', 'rgba(255, 159, 64, 0.5)', 'rgba(255, 159, 64, 0.5)'],
+                ['rgba(255, 159, 64, 1)', 'rgba(255, 159, 64, 1)', 'rgba(255, 159, 64, 1)']
+            );
+        }
+
+        if (document.getElementById('targetRelationshipChart')) {
+            createBarChart('targetRelationshipChart', 'Normalized Target Relationship (Higher is better)',
+                ['Feature X', 'Feature Y', 'Feature Z'],
+                [0.85, 0.60, 0.25],
+                ['rgba(75, 192, 192, 0.5)', 'rgba(75, 192, 192, 0.5)', 'rgba(75, 192, 192, 0.5)'],
+                ['rgba(75, 192, 192, 1)', 'rgba(75, 192, 192, 1)', 'rgba(75, 192, 192, 1)']
+            );
+        }
+
+        if (document.getElementById('predictivePowerChart')) {
+            createBarChart('predictivePowerChart', 'Normalized Predictive Power (Higher is better)',
+                ['Feature X', 'Feature Y', 'Feature Z'],
+                [0.78, 0.65, 0.30],
+                ['rgba(153, 102, 255, 0.5)', 'rgba(153, 102, 255, 0.5)', 'rgba(153, 102, 255, 0.5)'],
+                ['rgba(153, 102, 255, 1)', 'rgba(153, 102, 255, 1)', 'rgba(153, 102, 255, 1)']
+            );
+        }
+
+        // Composite Score Interactive Sliders & Table
+        const missingWeightSlider = document.getElementById('missingWeight');
+        const targetCorrWeightSlider = document.getElementById('targetCorrWeight');
+        const liftWeightSlider = document.getElementById('liftWeight');
+        
+        const missingWeightValueSpan = document.getElementById('missingWeightValue');
+        const targetCorrWeightValueSpan = document.getElementById('targetCorrWeightValue');
+        const liftWeightValueSpan = document.getElementById('liftWeightValue');
+        const compositeScoreTableBody = document.getElementById('compositeScoreTableBody');
+
+        const exampleFeatures = [
+            { name: 'Feature Alpha', normMissing: 0.1, normTargetCorr: 0.9, normPredPower: 0.85 },
+            { name: 'Feature Beta', normMissing: 0.4, normTargetCorr: 0.7, normPredPower: 0.7 },
+            { name: 'Feature Gamma', normMissing: 0.7, normTargetCorr: 0.3, normPredPower: 0.2 }
+        ];
+
+        function calculateAndDisplayCompositeScores() {
+            let wMissing = parseFloat(missingWeightSlider.value);
+            let wTargetCorr = parseFloat(targetCorrWeightSlider.value);
+            let wLift = parseFloat(liftWeightSlider.value);
+
+            missingWeightValueSpan.textContent = wMissing.toFixed(2);
+            targetCorrWeightValueSpan.textContent = wTargetCorr.toFixed(2);
+            liftWeightValueSpan.textContent = wLift.toFixed(2);
+
+            const totalWeight = wMissing + wTargetCorr + wLift;
+            if (totalWeight === 0) { // Avoid division by zero, though sliders prevent this unless all are 0
+                 wMissing = 1/3; wTargetCorr = 1/3; wLift = 1/3; // Default if sum is 0
+            } else { // Normalize weights
+                wMissing = wMissing / totalWeight;
+                wTargetCorr = wTargetCorr / totalWeight;
+                wLift = wLift / totalWeight;
+            }
+            
+            compositeScoreTableBody.innerHTML = ''; // Clear previous results
+            exampleFeatures.forEach(feat => {
+                const removalScore = (wMissing * feat.normMissing) +
+                                     (wTargetCorr * (1 - feat.normTargetCorr)) +
+                                     (wLift * (1 - feat.normPredPower));
+                
+                const row = `<tr>
+                                <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat.name}</td>
+                                <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat.normMissing.toFixed(2)}</td>
+                                <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat.normTargetCorr.toFixed(2)}</td>
+                                <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat.normPredPower.toFixed(2)}</td>
+                                <td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-teal-700">${removalScore.toFixed(3)}</td>
+                             </tr>`;
+                compositeScoreTableBody.innerHTML += row;
+            });
+        }
+        
+        if (missingWeightSlider && targetCorrWeightSlider && liftWeightSlider) {
+            [missingWeightSlider, targetCorrWeightSlider, liftWeightSlider].forEach(slider => {
+                slider.addEventListener('input', calculateAndDisplayCompositeScores);
+            });
+            calculateAndDisplayCompositeScores(); // Initial calculation
+        }
+
+        // Interactive Explorer Logic
+        const calculateExplorerBtn = document.getElementById('calculateExplorer');
+        const explorerTableBody = document.getElementById('explorerTableBody');
+
+        if (calculateExplorerBtn) {
+            calculateExplorerBtn.addEventListener('click', function() {
+                const feat1 = {
+                    name: document.getElementById('feat1Name').value || 'Feature 1',
+                    missing: parseFloat(document.getElementById('feat1Missing').value),
+                    targetCorr: parseFloat(document.getElementById('feat1TargetCorr').value),
+                    predPower: parseFloat(document.getElementById('feat1PredPower').value)
+                };
+                const feat2 = {
+                    name: document.getElementById('feat2Name').value || 'Feature 2',
+                    missing: parseFloat(document.getElementById('feat2Missing').value),
+                    targetCorr: parseFloat(document.getElementById('feat2TargetCorr').value),
+                    predPower: parseFloat(document.getElementById('feat2PredPower').value)
+                };
+
+                let wM = parseFloat(missingWeightSlider.value);
+                let wTC = parseFloat(targetCorrWeightSlider.value);
+                let wPP = parseFloat(liftWeightSlider.value);
+                const totalW = wM + wTC + wPP;
+                 if (totalW === 0) { wM=1/3; wTC=1/3; wPP=1/3; }
+                 else { wM /= totalW; wTC /= totalW; wPP /= totalW; }
+
+
+                const score1 = (wM * feat1.missing) + (wTC * (1 - feat1.targetCorr)) + (wPP * (1 - feat1.predPower));
+                const score2 = (wM * feat2.missing) + (wTC * (1 - feat2.targetCorr)) + (wPP * (1 - feat2.predPower));
+
+                explorerTableBody.innerHTML = '';
+                let decision1 = '', decision2 = '';
+                if (score1 <= score2) {
+                    decision1 = '<span class="pill pill-keep">Keep</span>';
+                    decision2 = '<span class="pill pill-remove">Remove</span>';
+                } else {
+                    decision1 = '<span class="pill pill-remove">Remove</span>';
+                    decision2 = '<span class="pill pill-keep">Keep</span>';
+                }
+                
+                explorerTableBody.innerHTML += `
+                    <tr>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat1.name}</td>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-teal-700">${score1.toFixed(3)}</td>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm">${decision1}</td>
+                    </tr>
+                    <tr>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm text-stone-700">${feat2.name}</td>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm font-medium text-teal-700">${score2.toFixed(3)}</td>
+                        <td class="px-4 py-3 whitespace-nowrap text-sm">${decision2}</td>
+                    </tr>
+                `;
+            });
+        }
+
+    </script>
+</body>
+</html>
+"""
+
+# Display the HTML content
+display(HTML(html_content))
+
+# Instructions for running the Python function from the report
+# You would typically define and use the Python function in separate cells.
+# Here's a placeholder for where you would put the Python code from the report:
+
+# import pandas as pd
+# import numpy as np
+# from sklearn.preprocessing import MinMaxScaler
+# from sklearn.linear_model import LogisticRegression, LinearRegression
+# from sklearn.tree import DecisionTreeClassifier
+# from sklearn.model_selection import train_test_split
+# from mlxtend.evaluate import lift_score
+# from scipy.stats import pointbiserialr
+# from sklearn.feature_selection import f_classif, mutual_info_classif, mutual_info_regression, chi2
+# import networkx as nx
+# import warnings
+
+# def remove_correlated_features_optimal(
+#     df: pd.DataFrame,
+#     target_column: str,
+#     corr_threshold: float = 0.9,
+#     missing_weight: float = 0.3,
+#     target_corr_weight: float = 0.4,
+#     lift_weight: float = 0.3,
+#     classification_model=None,
+#     random_state: int = 42,
+#     verbose: bool = False
+# ) -> pd.DataFrame:
+#     """
+#     Removes highly correlated features from a pandas DataFrame based on a composite removal score.
+
+#     The composite score considers missing proportion, correlation with the target label,
+#     and lift ratio (for classification) or R-squared (for regression) to identify
+#     the 'least optimal' features within correlated groups for removal.
+
+#     Parameters:
+#     df (pd.DataFrame): The input DataFrame.
+#     target_column (str): The name of the target variable column.
+#     corr_threshold (float): Absolute correlation threshold for grouping features. Default is 0.9.
+#                             This is a critical hyperparameter that influences feature grouping.
+#     missing_weight (float): Weight for the normalized missing proportion in the composite score.
+#     target_corr_weight (float): Weight for the normalized target correlation in the composite score.
+#     lift_weight (float): Weight for the normalized lift score (or R-squared) in the composite score.
+#                          Weights should sum to 1, or their relative values will determine influence.
+#     classification_model: sklearn classifier instance (optional). If None and target is
+#                           classification, LogisticRegression will be used for lift calculation.
+#     random_state (int): Seed for reproducibility in models. Default is 42.
+#     verbose (bool): If True, prints progress and decisions. Default is False.
+
+#     Returns:
+#     pd.DataFrame: A new DataFrame with highly correlated features removed.
+#     """
+#     if not np.isclose(missing_weight + target_corr_weight + lift_weight, 1.0):
+#         warnings.warn("The sum of weights (missing_weight, target_corr_weight, lift_weight) does not equal 1.0. "
+#                       "Scores will be scaled proportionally, but consider adjusting weights for clear interpretation.")
+
+#     df_copy = df.copy()
+#     features = [col for col in df_copy.columns if col!= target_column]
+#     target_dtype = df_copy[target_column].dtype
+#     is_classification = pd.api.types.is_categorical_dtype(target_dtype) or \
+#                         pd.api.types.is_integer_dtype(target_dtype) and df_copy[target_column].nunique() <= 10 # Heuristic
+
+#     if verbose:
+#         print(f"Target column '{target_column}' identified as {'classification' if is_classification else 'regression'}.")
+
+#     # Separate numerical and categorical features
+#     numerical_features = df_copy[features].select_dtypes(include=np.number).columns.tolist()
+#     categorical_features = df_copy[features].select_dtypes(exclude=np.number).columns.tolist()
+
+#     # --- 1. Calculate All Individual Feature Scores ---
+#     feature_scores = {}
+
+#     # 1.1 Missing Proportion
+#     if verbose: print("Calculating missing proportions...")
+#     missing_proportions = df_copy[features].isnull().sum() / len(df_copy)
+#     for col in features:
+#         feature_scores[col] = {'missing_proportion': missing_proportions[col]}
+
+#     # 1.2 Feature-Target Relationship (Correlation/Association)
+#     if verbose: print("Calculating feature-target relationships...")
+#     for col in features:
+#         feature_dtype = df_copy[col].dtype
+#         target_series = df_copy[target_column]
+#         feature_series = df_copy[col]
+
+#         if pd.api.types.is_numeric_dtype(feature_dtype):
+#             if pd.api.types.is_numeric_dtype(target_dtype):
+#                 # Numerical feature, Numerical target: Pearson Correlation
+#                 correlation = feature_series.corr(target_series, method='pearson')
+#                 feature_scores[col]['target_correlation'] = abs(correlation)
+#                 if verbose: print(f"  {col}: Pearson corr with target = {correlation:.3f}")
+#             elif is_classification:
+#                 # Numerical feature, Categorical target: ANOVA F-value or Point-Biserial
+#                 if target_series.nunique() == 2: # Binary classification
+#                     # Point-Biserial correlation
+#                     try:
+#                         # Drop NaNs for correlation calculation to avoid errors
+#                         temp_df = df_copy[[col, target_column]].dropna()
+#                         correlation, _ = pointbiserialr(temp_df[col], temp_df[target_column])
+#                         feature_scores[col]['target_correlation'] = abs(correlation)
+#                         if verbose: print(f"  {col}: Point-Biserial corr with target = {correlation:.3f}")
+#                     except ValueError: # e.g., if feature has constant value after dropping NaNs
+#                         feature_scores[col]['target_correlation'] = 0.0
+#                         if verbose: print(f"  {col}: Point-Biserial failed (constant feature/target), assigned 0.0")
+#                 else: # Multi-class classification
+#                     # ANOVA F-value
+#                     # f_classif expects numerical features and integer labels for target
+#                     # Ensure target is encoded if not already integer
+#                     temp_target = target_series.astype('category').cat.codes
+#                     if feature_series.nunique() > 1: # Avoid F-value for constant features
+#                         f_val, _ = f_classif(feature_series.to_frame(), temp_target)
+#                         feature_scores[col]['target_correlation'] = f_val
+#                         if verbose: print(f"  {col}: ANOVA F-value with target = {f_val:.3f}")
+#                     else:
+#                         feature_scores[col]['target_correlation'] = 0.0
+#                         if verbose: print(f"  {col}: ANOVA F-value failed (constant feature), assigned 0.0")
+#             else:
+#                 # Fallback for unexpected numerical-target type combo, use MI
+#                 feature_scores[col]['target_correlation'] = mutual_info_regression(feature_series.to_frame(), target_series)
+#                 if verbose: print(f"  {col}: Mutual Info (regression) with target = {feature_scores[col]['target_correlation']:.3f}")
+
+#         else: # Categorical feature
+#             # Categorical feature, Categorical/Numerical target: Mutual Information or Chi-Square
+#             # For Chi-Square, both feature and target must be categorical.
+#             # For MI, it handles mixed types.
+#             if is_classification:
+#                 # Categorical feature, Categorical target: Chi-Square or Mutual Information
+#                 # Chi-Square requires non-negative features. Encode both feature and target.
+#                 temp_feature = feature_series.astype('category').cat.codes.to_frame()
+#                 temp_target = target_series.astype('category').cat.codes
+#                 if temp_feature.iloc[:, 0].nunique() > 1 and temp_target.nunique() > 1: # Avoid chi2 for constant features/targets
+#                     chi2_val, _ = chi2(temp_feature, temp_target)
+#                     feature_scores[col]['target_correlation'] = chi2_val
+#                     if verbose: print(f"  {col}: Chi-Square with target = {chi2_val:.3f}")
+#                 else:
+#                     feature_scores[col]['target_correlation'] = 0.0
+#                     if verbose: print(f"  {col}: Chi-Square failed (constant feature/target), assigned 0.0")
+#             else:
+#                 # Categorical feature, Numerical target: Mutual Information
+#                 # mutual_info_regression expects numerical target, handles categorical features
+#                 feature_scores[col]['target_correlation'] = mutual_info_regression(feature_series.astype('category').cat.codes.to_frame(), target_series)
+#                 if verbose: print(f"  {col}: Mutual Info (regression) with target = {feature_scores[col]['target_correlation']:.3f}")
+
+#     # 1.3 Lift Ratio (or R-squared for Regression)
+#     if verbose: print("Calculating individual feature predictive power (Lift/R-squared)...")
+#     X_train, X_test, y_train, y_test = train_test_split(df_copy[features], df_copy[target_column], test_size=0.3, random_state=random_state)
+
+#     for col in features:
+#         feature_series_train = X_train[[col]]
+#         feature_series_test = X_test[[col]]
+
+#         # Drop NaNs for model training on single feature
+#         temp_train_df = pd.DataFrame({'feature': feature_series_train[col], 'target': y_train}).dropna()
+#         temp_test_df = pd.DataFrame({'feature': feature_series_test[col], 'target': y_test}).dropna()
+
+#         if temp_train_df.empty or temp_test_df.empty:
+#             feature_scores[col]['predictive_power'] = 0.0
+#             if verbose: print(f"  {col}: Not enough data for predictive power calculation, assigned 0.0")
+#             continue
+
+#         if is_classification:
+#             # Classification target: Calculate Lift Score
+#             if classification_model is None:
+#                 model = LogisticRegression(random_state=random_state, solver='liblinear')
+#             else:
+#                 model = classification_model
+
+#             try:
+#                 # Ensure target is binary for lift_score, or handle multi-class appropriately (e.g., one-vs-rest)
+#                 # For simplicity, if target is multi-class, fit a basic model and use accuracy as a proxy for lift score
+#                 # or assume lift_score will handle it (mlxtend's lift_score can be binary only)
+#                 if temp_train_df['target'].nunique() > 2:
+#                     # For multi-class, a direct lift_score is complex. Use accuracy as a proxy for 'predictive_power'
+#                     # or more robustly, train a Decision Tree and use its feature_importance_ (if only 1 feature)
+#                     # For this problem, we stick to the spirit of 'lift ratio' as classification-specific.
+#                     # If target is multi-class, we'll use a simple Decision Tree and its score as proxy for 'predictive power'
+#                     model = DecisionTreeClassifier(max_depth=1, random_state=random_state)
+#                     model.fit(temp_train_df[['feature']], temp_train_df['target'])
+#                     score = model.score(temp_test_df[['feature']], temp_test_df['target'])
+#                     feature_scores[col]['predictive_power'] = score
+#                     if verbose: print(f"  {col}: Multi-class classification, used DT accuracy = {score:.3f}")
+#                 else:
+#                     # Binary classification
+#                     model.fit(temp_train_df[['feature']], temp_train_df['target'])
+#                     y_pred = model.predict(temp_test_df[['feature']])
+#                     
+#                     # Handle constant predictions (no variance)
+#                     if np.all(y_pred == y_pred):
+#                         feature_scores[col]['predictive_power'] = 0.0
+#                         if verbose: print(f"  {col}: Constant prediction, lift assigned 0.0")
+#                     else:
+#                         # mlxtend.evaluate.lift_score expects binary target, positive_label=1
+#                         # Ensure target is 0/1 for lift_score
+#                         y_true_binary = (temp_test_df['target'] == temp_test_df['target'].unique()).astype(int) # Assuming second unique is positive
+#                         y_pred_binary = (y_pred == temp_test_df['target'].unique()).astype(int)
+#                         
+#                         # Handle cases where positive class is not present in prediction or true labels for lift calculation
+#                         if y_true_binary.sum() == 0 or y_pred_binary.sum() == 0:
+#                             feature_scores[col]['predictive_power'] = 0.0
+#                             if verbose: print(f"  {col}: No positive class in true/predicted for lift, assigned 0.0")
+#                         else:
+#                             lift = lift_score(y_true_binary, y_pred_binary, positive_label=1)
+#                             feature_scores[col]['predictive_power'] = lift
+#                             if verbose: print(f"  {col}: Lift score = {lift:.3f}")
+#             except Exception as e:
+#                 feature_scores[col]['predictive_power'] = 0.0
+#                 if verbose: print(f"  {col}: Error calculating lift ({e}), assigned 0.0")
+#         else:
+#             # Regression target: Calculate R-squared
+#             model = LinearRegression()
+#             try:
+#                 model.fit(temp_train_df[['feature']], temp_train_df['target'])
+#                 r_squared = model.score(temp_test_df[['feature']], temp_test_df['target'])
+#                 feature_scores[col]['predictive_power'] = r_squared
+#                 if verbose: print(f"  {col}: R-squared = {r_squared:.3f}")
+#             except Exception as e:
+#                 feature_scores[col]['predictive_power'] = 0.0
+#                 if verbose: print(f"  {col}: Error calculating R-squared ({e}), assigned 0.0")
+
+#     # --- 2. Identifying and Grouping Correlated Features ---
+#     if verbose: print("Identifying and grouping highly correlated features...")
+#     # Only consider numerical features for Pearson correlation for grouping
+#     corr_matrix = df_copy[numerical_features].corr().abs()
+    
+#     # Mask upper triangle to avoid duplicates
+#     mask = np.triu(np.ones_like(corr_matrix, dtype=bool))
+#     tri_df = corr_matrix.mask(mask)
+
+#     # Identify highly correlated pairs and build graph
+#     G = nx.Graph()
+#     features_to_consider_for_graph = []
+#     for i in range(len(tri_df.columns)):
+#         for j in range(i + 1, len(tri_df.columns)):
+#             col1 = tri_df.columns[i]
+#             col2 = tri_df.columns[j]
+#             if tri_df.iloc[i, j] > corr_threshold:
+#                 G.add_edge(col1, col2)
+#                 features_to_consider_for_graph.extend([col1, col2])
+    
+#     # Add isolated numerical features to graph if they aren't already included
+#     for num_feat in numerical_features:
+#         if num_feat not in G.nodes():
+#             G.add_node(num_feat)
+
+#     correlated_groups = list(nx.connected_components(G))
+    
+#     # Filter out groups with only one feature (these are not correlated groups to be reduced)
+#     correlated_groups = [group for group in correlated_groups if len(group) > 1]
+
+#     if verbose:
+#         print(f"Found {len(correlated_groups)} correlated groups:")
+#         for i, group in enumerate(correlated_groups):
+#             print(f"  Group {i+1}: {list(group)}")
+
+#     # --- 3. Applying the Composite Score within Correlated Groups ---
+#     features_to_drop = set()
+
+#     # Normalize all scores globally across all features before calculating composite score
+#     # This ensures consistent scaling across the entire dataset's range for each metric.
+#     all_missing_props = [feature_scores[f]['missing_proportion'] for f in features]
+#     all_target_corrs = [feature_scores[f]['target_correlation'] for f in features]
+#     all_predictive_powers = [feature_scores[f]['predictive_power'] for f in features]
+
+#     # Handle cases where all values are the same (MinMaxScaler would fail)
+#     if len(set(all_missing_props)) == 1:
+#         normalized_missing_props = {f: 0.0 for f in features}
+#     else:
+#         scaler_missing = MinMaxScaler()
+#         normalized_missing_props = scaler_missing.fit_transform(np.array(all_missing_props).reshape(-1, 1)).flatten()
+#         normalized_missing_props = {f: normalized_missing_props[i] for i, f in enumerate(features)}
+
+#     if len(set(all_target_corrs)) == 1:
+#         normalized_target_corrs = {f: 0.0 for f in features}
+#     else:
+#         scaler_target_corr = MinMaxScaler()
+#         normalized_target_corrs = scaler_target_corr.fit_transform(np.array(all_target_corrs).reshape(-1, 1)).flatten()
+#         normalized_target_corrs = {f: normalized_target_corrs[i] for i, f in enumerate(features)}
+
+#     if len(set(all_predictive_powers)) == 1:
+#         normalized_predictive_powers = {f: 0.0 for f in features}
+#     else:
+#         scaler_predictive_power = MinMaxScaler()
+#         normalized_predictive_powers = scaler_predictive_power.fit_transform(np.array(all_predictive_powers).reshape(-1, 1)).flatten()
+#         normalized_predictive_powers = {f: normalized_predictive_powers[i] for i, f in enumerate(features)}
+
+#     if verbose: print("Calculating composite removal scores within groups...")
+#     group_decisions = []
+
+#     for group in correlated_groups:
+#         group_features_data = []
+#         for feature in group:
+#             norm_missing = normalized_missing_props.get(feature, 0.0)
+#             norm_target_corr = normalized_target_corrs.get(feature, 0.0)
+#             norm_pred_power = normalized_predictive_powers.get(feature, 0.0)
+
+#             # Calculate composite score: higher score = more likely to remove
+#             # Higher missing -> higher score
+#             # Higher target corr -> lower score (1 - norm_target_corr)
+#             # Higher predictive power -> lower score (1 - norm_pred_power)
+#             composite_score = (missing_weight * norm_missing) + \
+#                               (target_corr_weight * (1 - norm_target_corr)) + \
+#                               (lift_weight * (1 - norm_pred_power))
+            
+#             group_features_data.append({
+#                 'Feature Name': feature,
+#                 'Missing Proportion (Norm)': round(norm_missing, 3),
+#                 'Target Correlation (Norm)': round(norm_target_corr, 3),
+#                 'Predictive Power (Norm)': round(norm_pred_power, 3),
+#                 'Composite Removal Score': round(composite_score, 3)
+#             })
+        
+#         group_df = pd.DataFrame(group_features_data).sort_values(by='Composite Removal Score')
+        
+#         # Identify the feature with the lowest composite removal score (best to keep)
+#         feature_to_keep = group_df.iloc[0]['Feature Name']
+        
+#         # Mark all other features in the group for removal
+#         for idx, row in group_df.iterrows():
+#             if row['Feature Name']!= feature_to_keep:
+#                 features_to_drop.add(row['Feature Name'])
+#                 group_df.loc[idx, 'Decision'] = 'Remove'
+#             else:
+#                 group_df.loc[idx, 'Decision'] = 'Keep'
+        
+#         group_decisions.append(group_df)
+#         if verbose:
+#             print(f"\\nDecision for Correlated Group: {list(group)}")
+#             print(group_df.to_string(index=False))
+
+#     # --- 4. Iterative Feature Removal Logic ---
+#     if verbose:
+#         print(f"\\nTotal features identified for removal: {len(features_to_drop)}")
+#         print(f"Features to be removed: {list(features_to_drop)}")
+
+#     final_df = df_copy.drop(columns=list(features_to_drop))
+#     return final_df
+
+# # Example Usage (You would replace this with your actual data and function call)
+# # import pandas as pd
+# # data = {
+# #     'feature1': [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+# #     'feature2': [1.1, 2.1, 3.1, 4.1, 5.1, 6.1, 7.1, 8.1, 9.1, 10.1],
+# #     'feature3': [10, 9, 8, 7, 6, 5, 4, 3, 2, 1],
+# #     'target_class': [0, 0, 0, 0, 1, 1, 1, 1, 1, 1]
+# # }
+# # df = pd.DataFrame(data)
+# # df.loc[[1, 5], 'feature1'] = None # Add some missing data
+# # df_reduced = remove_correlated_features_optimal(df, target_column='target_class', verbose=True)
+# # print("\\nOriginal DataFrame:")
+# # print(df.head())
+# # print("\\nReduced DataFrame:")
+# # print(df_reduced.head())
