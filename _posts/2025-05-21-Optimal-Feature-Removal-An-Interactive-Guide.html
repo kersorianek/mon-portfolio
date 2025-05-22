@@ -265,121 +265,120 @@
                 </p>
                 <div class="code-block">
 
-    <pre><code class="language-python">
-import pandas as pd
-import numpy as np
-from sklearn.preprocessing import MinMaxScaler
-from sklearn.linear_model import LogisticRegression, LinearRegression
-from mlxtend.evaluate import lift_score
-import networkx as nx
+ <pre class="code-block"><code class="language-python">
+<span class="keyword">import</span> pandas <span class="keyword">as</span> pd
+<span class="keyword">import</span> numpy <span class="keyword">as</span> np
+<span class="keyword">from</span> sklearn.preprocessing <span class="keyword">import</span> MinMaxScaler
+<span class="keyword">from</span> sklearn.linear_model <span class="keyword">import</span> LogisticRegression, LinearRegression
+<span class="keyword">from</span> mlxtend.evaluate <span class="keyword">import</span> lift_score
+<span class="keyword">import</span> networkx <span class="keyword">as</span> nx
 
-def remove_correlated_features_optimal(
+<span class="keyword">def</span> <span class="function">remove_correlated_features_optimal</span>(
     df: pd.DataFrame,
-    target_column: str,
-    corr_threshold: float = 0.9,
-    missing_weight: float = 0.3,
-    target_corr_weight: float = 0.4,
-    lift_weight: float = 0.3,
+    target_column: <span class="string">str</span>,
+    corr_threshold: <span class="keyword">float</span> = <span class="number">0.9</span>,
+    missing_weight: <span class="keyword">float</span> = <span class="number">0.3</span>,
+    target_corr_weight: <span class="keyword">float</span> = <span class="number">0.4</span>,
+    lift_weight: <span class="keyword">float</span> = <span class="number">0.3</span>,
 ) -> pd.DataFrame:
-    """
+    <span class="string">"""
     Removes highly correlated features based on a composite score.
     Considers missing proportion, target correlation, and predictive power.
-    """
+    """</span>
     df_copy = df.copy()
-    features = [col for col in df_copy.columns if col != target_column]
+    features = [col <span class="keyword">for</span> col <span class="keyword">in</span> df_copy.columns <span class="keyword">if</span> col != target_column]
     
-    # --- 1. Calculate All Individual Feature Scores ---
+    <span class="comment"># --- 1. Calculate All Individual Feature Scores ---</span>
     feature_scores = {}
     
-    # Calculate missing proportion for each feature
+    <span class="comment"># Calculate missing proportion for each feature</span>
     missing_props = df_copy[features].isna().mean()
     
-    # Calculate target correlation for numerical features
+    <span class="comment"># Calculate target correlation for numerical features</span>
     numerical_features = df_copy[features].select_dtypes(include=np.number).columns.tolist()
     target = df_copy[target_column]
     
-    # Calculate lift score (predictive power) using logistic regression
+    <span class="comment"># Calculate lift score (predictive power) using logistic regression</span>
     lift_scores = {}
-    for col in numerical_features:
-        try:
-            model = LogisticRegression() if target.dtype == np.dtype('O') else LinearRegression()
-            model.fit(df_copy[[col]].fillna(0), target)
-            y_pred = model.predict(df_copy[[col]].fillna(0))
+    <span class="keyword">for</span> col <span class="keyword">in</span> numerical_features:
+        <span class="keyword">try</span>:
+            model = LogisticRegression() <span class="keyword">if</span> target.dtype == np.dtype(<span class="string">'O'</span>) <span class="keyword">else</span> LinearRegression()
+            model.fit(df_copy[[col]].fillna(<span class="number">0</span>), target)
+            y_pred = model.predict(df_copy[[col]].fillna(<span class="number">0</span>))
             lift_scores[col] = lift_score(target, y_pred)
-        except:
-            lift_scores[col] = 0
+        <span class="keyword">except</span>:
+            lift_scores[col] = <span class="number">0</span>
     
-    # Gather all scores
-    for col in features:
-        try:
+    <span class="comment"># Gather all scores</span>
+    <span class="keyword">for</span> col <span class="keyword">in</span> features:
+        <span class="keyword">try</span>:
             missing_prop = missing_props[col]
-            target_corr = np.abs(df_copy[[col, target_column]].dropna().corr().iloc[0, 1]) if col in numerical_features else 0
-            pred_power = lift_scores.get(col, 0)
+            target_corr = np.abs(df_copy[[col, target_column]].dropna().corr().iloc[<span class="number">0</span>, <span class="number">1</span>]) <span class="keyword">if</span> col <span class="keyword">in</span> numerical_features <span class="keyword">else</span> <span class="number">0</span>
+            pred_power = lift_scores.get(col, <span class="number">0</span>)
             
             feature_scores[col] = {
-                'missing_prop': missing_prop,
-                'target_corr': target_corr,
-                'pred_power': pred_power
+                <span class="string">'missing_prop'</span>: missing_prop,
+                <span class="string">'target_corr'</span>: target_corr,
+                <span class="string">'pred_power'</span>: pred_power
             }
-        except:
+        <span class="keyword">except</span>:
             feature_scores[col] = {
-                'missing_prop': 1,
-                'target_corr': 0,
-                'pred_power': 0
+                <span class="string">'missing_prop'</span>: <span class="number">1</span>,
+                <span class="string">'target_corr'</span>: <span class="number">0</span>,
+                <span class="string">'pred_power'</span>: <span class="number">0</span>
             }
     
-    # Normalize scores globally
-    missing_vals = np.array([score['missing_prop'] for score in feature_scores.values()])
-    target_corr_vals = np.array([score['target_corr'] for score in feature_scores.values()])
-    pred_power_vals = np.array([score['pred_power'] for score in feature_scores.values()])
+    <span class="comment"># Normalize scores globally</span>
+    missing_vals = np.array([score[<span class="string">'missing_prop'</span>] <span class="keyword">for</span> score <span class="keyword">in</span> feature_scores.values()])
+    target_corr_vals = np.array([score[<span class="string">'target_corr'</span>] <span class="keyword">for</span> score <span class="keyword">in</span> feature_scores.values()])
+    pred_power_vals = np.array([score[<span class="string">'pred_power'</span>] <span class="keyword">for</span> score <span class="keyword">in</span> feature_scores.values()])
     
     scaler = MinMaxScaler()
-    missing_vals_norm = scaler.fit_transform(missing_vals.reshape(-1, 1)).flatten()
-    target_corr_vals_norm = scaler.fit_transform(target_corr_vals.reshape(-1, 1)).flatten()
-    pred_power_vals_norm = scaler.fit_transform(pred_power_vals.reshape(-1, 1)).flatten()
+    missing_vals_norm = scaler.fit_transform(missing_vals.reshape(-<span class="number">1</span>, <span class="number">1</span>)).flatten()
+    target_corr_vals_norm = scaler.fit_transform(target_corr_vals.reshape(-<span class="number">1</span>, <span class="number">1</span>)).flatten()
+    pred_power_vals_norm = scaler.fit_transform(pred_power_vals.reshape(-<span class="number">1</span>, <span class="number">1</span>)).flatten()
     
-    # --- 2. Identifying and Grouping Correlated Features ---
+    <span class="comment"># --- 2. Identifying and Grouping Correlated Features ---</span>
     corr_matrix = df_copy[numerical_features].corr().abs()
     G = nx.Graph()
     
-    # Build graph based on correlation matrix
-    for i in range(len(corr_matrix)):
-        for j in range(i+1, len(corr_matrix)):
-            if corr_matrix.iloc[i, j] > corr_threshold:
+    <span class="comment"># Build graph based on correlation matrix</span>
+    <span class="keyword">for</span> i <span class="keyword">in</span> <span class="function">range</span>(<span class="function">len</span>(corr_matrix)):
+        <span class="keyword">for</span> j <span class="keyword">in</span> <span class="function">range</span>(i+<span class="number">1</span>, <span class="function">len</span>(corr_matrix)):
+            <span class="keyword">if</span> corr_matrix.iloc[i, j] > corr_threshold:
                 G.add_edge(corr_matrix.index[i], corr_matrix.index[j])
     
-    correlated_groups = list(nx.connected_components(G))
+    correlated_groups = <span class="function">list</span>(nx.connected_components(G))
     
-    # --- 3. Applying the Composite Score within Correlated Groups ---
-    features_to_drop = set()
+    <span class="comment"># --- 3. Applying the Composite Score within Correlated Groups ---</span>
+    features_to_drop = <span class="function">set</span>()
     
-    for group in correlated_groups:
-        if len(group) <= 1:
-            continue
+    <span class="keyword">for</span> group <span class="keyword">in</span> correlated_groups:
+        <span class="keyword">if</span> <span class="function">len</span>(group) <= <span class="number">1</span>:
+            <span class="keyword">continue</span>
         group_feature_data = []
         
-        # Get normalized scores for features in this group
-        for feature in group:
-            norm_missing = missing_vals_norm[[col == feature for col in features]]
-            norm_target_corr = target_corr_vals_norm[[col == feature for col in features]]
-            norm_pred_power = pred_power_vals_norm[[col == feature for col in features]]
+        <span class="comment"># Get normalized scores for features in this group</span>
+        <span class="keyword">for</span> feature <span class="keyword">in</span> group:
+            norm_missing = missing_vals_norm[[col == feature <span class="keyword">for</span> col <span class="keyword">in</span> features]]
+            norm_target_corr = target_corr_vals_norm[[col == feature <span class="keyword">for</span> col <span class="keyword">in</span> features]]
+            norm_pred_power = pred_power_vals_norm[[col == feature <span class="keyword">for</span> col <span class="keyword">in</span> features]]
             
             composite_score = (
                 missing_weight * norm_missing +
-                target_corr_weight * (1 - norm_target_corr) +
-                lift_weight * (1 - norm_pred_power)
+                target_corr_weight * (<span class="number">1</span> - norm_target_corr) +
+                lift_weight * (<span class="number">1</span> - norm_pred_power)
             )
             
-            group_feature_data.append({'name': feature, 'score': composite_score[0]})  # Fixed indexing
+            group_feature_data.append({<span class="string">'name'</span>: feature, <span class="string">'score'</span>: composite_score[<span class="number">0</span>]})  <span class="comment"># Fixed indexing</span>
             
-        # Sort features by composite score and drop all but the best one
-        sorted_group = sorted(group_feature_data, key=lambda x: x['score'])
-        features_to_drop.update([f['name'] for f in sorted_group[1:]])
+        <span class="comment"># Sort features by composite score and drop all but the best one</span>
+        sorted_group = <span class="function">sorted</span>(group_feature_data, key=<span class="keyword">lambda</span> x: x[<span class="string">'score'</span>])
+        features_to_drop.update([f[<span class="string">'name'</span>] <span class="keyword">for</span> f <span class="keyword">in</span> sorted_group[<span class="number">1</span>:]])
     
-    final_df = df_copy.drop(columns=list(features_to_drop))
-    return final_df
-    </code></pre>
-  
+    final_df = df_copy.drop(columns=<span class="function">list</span>(features_to_drop))
+    <span class="keyword">return</span> final_df
+</code></pre>
 
                 </div>
             </section>
