@@ -1,16 +1,17 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Acerca de
+subtitle: Un vistazo a nuestro equipo y proyecto
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Somos un equipo apasionado por la cultura, la música y la tecnología. Nuestro proyecto se enfoca en la **automatización y mantenimiento de un blog dedicado a la música**, así como en **encontrar venues y espacios culturales en la CDMX** para compartir con nuestra comunidad.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+### Integrantes del proyecto
 
-What else do you need?
+- Ricardo Rodríguez Ramírez  
+- Mendoza Sanches Edgar Gregorio  
+- Arteaga Espinosa Iqui Alexander  
 
-### My story
+### Nuestra misión
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Impulsar la difusión cultural a través de la tecnología, brindando un espacio donde los amantes de la música y los eventos culturales puedan informarse y conectar con nuevas experiencias en la Ciudad de México.

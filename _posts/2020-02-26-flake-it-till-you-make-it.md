@@ -1,18 +1,30 @@
 ---
 layout: post
-title: Flake it till you make it
-subtitle: Excerpt from Soulshaping by Jeff Brown
+title: Fishmans y la eternidad de Long Season
+subtitle: Una obra que trasciende el tiempo y el idioma
 cover-img: /assets/img/path.jpg
-thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
-tags: [books, test]
-author: Sharon Smith and Barry Simpson
+thumbnail-img: /assets/img/thumb.jpg
+share-img: /assets/img/thumb.jpg
+tags: [música, japón, dream pop, reggae, shoegaze, cultura]
+author: RIA
 ---
 
-Under what circumstances should we step off a path? When is it essential that we finish what we start? If I bought a bag of peanuts and had an allergic reaction, no one would fault me if I threw it out. If I ended a relationship with a woman who hit me, no one would say that I had a commitment problem. But if I walk away from a seemingly secure route because my soul has other ideas, I am a flake?
+Pocas bandas han logrado lo que Fishmans hizo en sus últimos años de vida artística: convertir la melancolía en un lenguaje universal. Esta banda japonesa, nacida en los años 90, se mueve entre géneros como el dub, el dream pop, el reggae y el shoegaze, pero su estilo es completamente único: hipnótico, introspectivo, brillante.
 
-The truth is that no one else can definitively know the path we are here to walk. It’s tempting to listen—many of us long for the omnipotent other—but unless they are genuine psychic intuitives, they can’t know. All others can know is their own truth, and if they’ve actually done the work to excavate it, they will have the good sense to know that they cannot genuinely know anyone else’s. Only soul knows the path it is here to walk. Since you are the only one living in your temple, only you can know its scriptures and interpretive structure.
+## Long Season: Un viaje de una sola canción
 
-At the heart of the struggle are two very different ideas of success—survival-driven and soul-driven. For survivalists, success is security, pragmatism, power over others. Success is the absence of material suffering, the nourishing of the soul be damned. It is an odd and ironic thing that most of the material power in our world often resides in the hands of younger souls. Still working in the egoic and material realms, they love the sensations of power and focus most of their energy on accumulation. Older souls tend not to be as materially driven. They have already played the worldly game in previous lives and they search for more subtle shades of meaning in this one—authentication rather than accumulation. They are often ignored by the culture at large, although they really are the truest warriors.
+En 1996 lanzaron su obra maestra, **_Long Season_**, un álbum compuesto por una sola canción de más de 35 minutos que fluye como el agua y se transforma sin cesar. Es una meditación musical, un viaje emocional que explora la pérdida, el paso del tiempo y la belleza de lo efímero. En lugar de buscar hits, Fishmans creó una experiencia sonora que se siente más como una estación del año que como una pista tradicional.
 
-A soulful notion of success rests on the actualization of our innate image. Success is simply the completion of a soul step, however unsightly it may be. We have finished what we started when the lesson is learned. What a fear-based culture calls a wonderful opportunity may be fruitless and misguided for the soul. Staying in a passionless relationship may satisfy our need for comfort, but it may stifle the soul. Becoming a famous lawyer is only worthwhile if the soul demands it. It is an essential failure if you are called to be a monastic this time around. If you need to explore and abandon ten careers in order to stretch your soul toward its innate image, then so be it. Flake it till you make it.
+El disco es profundamente personal, marcado por la voz delicada y nostálgica de **Shinji Sato**, vocalista y alma de la banda. Cada sección se entrelaza suavemente con la siguiente, como si fuera un solo suspiro dividido en movimientos. La instrumentación flota entre sintetizadores ambientales, guitarras espaciales y líneas de bajo llenas de groove. Todo se construye y se disuelve sin prisa, como una marea emocional.
+
+## Más que música
+
+Fishmans no solo dejó un legado musical, sino también una sensación: la de escuchar algo que no puedes olvidar, aunque no entiendas el idioma. Su último concierto, registrado en *98.12.28 Otokotachi no Wakare*, poco después de la muerte de Sato, elevó aún más su estatus de culto. En él interpretan _Long Season_ en vivo como una despedida cósmica.
+
+Hoy, decenas de años después, el eco de Fishmans resuena con fuerza entre nuevas generaciones, en foros, blogs y playlists de todo el mundo. Porque algunos discos no envejecen; simplemente esperan a ser descubiertos.
+
+> ただいま。さよなら。  
+> (Estoy en casa. Adiós.)
+
+---
+
