@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Acerca de
+title: About me
 subtitle: Un vistazo a nuestro equipo y proyecto
 ---
 

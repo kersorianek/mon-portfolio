@@ -53,7 +53,7 @@ social-network-links:
   email: "rr902765@gmail.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
-  github: daattali
+  github: firgerethical
 #  twitter: daattali
 #  patreon: DeanAttali
 #  youtube: "@daattali"
@@ -96,7 +96,7 @@ rss-description: Descubre nueva musica y lugares para visitar en el mundo de la 
 share-links-active:
   twitter: true
   facebook: true
-  linkedin: true
+  linkedin: false
   vk: false
   reddit: false
 
