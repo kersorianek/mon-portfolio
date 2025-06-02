@@ -93,61 +93,32 @@ git status
 
 <h2>5. git add</h2>
 
-- To stage changes of your current directory.
-```
-git add.
- ```
-- To changes all the files except the deleted one.
+This command is used to add file contents to the staging area.
 
-```
-git add \
-```
-- To stage changes of all the files of specific extension.
-
-```
-git add \*.extension
-
-```
-
-- To stage changes of all the files of specific extension.
-
-```
-git add \*.extension
-
-```
-- To stage your root folder.
-
-```
-git add -all 
-
-```
-or
-```
-git add -A 
-
-```
-
-- To stage changes of all the files of specific extension.
-
-```
-git add \*.extension
-
-```
-- To stage changes of all the files of specific extension.
-
-```
-git add \*.extension
-
-```
-- To stage changes of all the files of specific extension.
-
-```
-git add \*.extension
-
-```
-
-
- 
+- **Stage all changes in the current directory:**
+  ```
+  git add .
+  ```
+- **Stage all changes (new, modified, deleted files) in the repository:**
+  ```
+  git add -A
+  ```
+  or
+  ```
+  git add --all
+  ```
+- **Stage all files with a specific extension (e.g., .txt):**
+  ```
+  git add *.txt
+  ```
+- **Stage changes to a specific file:**
+  ```
+  git add <filename>
+  ```
+- **Stage changes in a specific directory:**
+  ```
+  git add <directory_name>
+  ```
 
 <h2>6. git commit</h2>
 
@@ -226,7 +197,7 @@ See Yaaa, Next.
 
 Buy me a coffee if you enjoyed this post. Your support helps me create more valuable content. Thank you!
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
  
  
 
@@ -265,6 +236,6 @@ A Seasoned Business Systems Analyst, Project Manager, and SQA Engineer with expe
 Enjoy !!!
 **See Yaaa, Next.**
 
-![Cover](/assets/img/cover.jpg "Cover")
+![Abstract background image for Git commands post](/assets/img/cover.jpg "Cover")
 
 

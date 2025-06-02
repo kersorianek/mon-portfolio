@@ -96,7 +96,7 @@ Remember, effective project planning is the foundation for project success. By m
 
 I hope this step-by-step guide has provided you with valuable insights and practical tips for creating an effective Work Breakdown Structure. Happy project planning and execution!
 
-**[⬆ back to top](#define-the-scope-of-the-project)**
+**[⬆ back to top](#definition-and-purpose-of-a-work-breakdown-structure)**
 
 
 ---
@@ -105,7 +105,7 @@ I hope this step-by-step guide has provided you with valuable insights and pract
 
 Enjoyed this post.
 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/) [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/rafayetanalyst/)
 
 Your support helps me create more valuable content. Thank you!
 
@@ -154,4 +154,4 @@ Click on any of the desired links to directly access the information.
 -  [x]  [**How Data Analysis Drives Business Analysis and Project Management**](https://rafayethossain.github.io/2023-01-30-The-Role-of-Data-Analysis-in-Business-Analysis-and-Project-Management/)
 
 
-![Diary](/assets/img/diary.png "Diary")
+![Illustration of a diary and pen, symbolizing planning](/assets/img/diary.png "Diary")

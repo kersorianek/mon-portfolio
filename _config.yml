@@ -11,6 +11,10 @@ title: Rafayet Hossain
 # Your name to show in the footer
 author: Rafayet Hossain
 
+# SEO settings
+description: "Rafayet Hossain's personal blog covering topics like project management, business analysis, software testing, and technology."
+keywords: "project management, business analysis, software testing, python, git, agile, scrum, technology, blog"
+
 # --- List of links in the navigation bar --- #
 
 navbar-links:
@@ -139,23 +143,23 @@ footer-hover-col: "#0085A1"
 # --- Web Analytics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+#gtag: "G-XXXXXXXXXX" # Replace G-XXXXXXXXXX with your Google Analytics gtag.js ID
 
 # Fill in your Google Analytics ID to track your website using Google Analytics
-#google_analytics: ""
+#google_analytics: "UA-XXXXXXXXX-X" # Replace UA-XXXXXXXXX-X with your Google Analytics ID
 
 # Fill in your Cloudflare Analytics beacon token to track your website using Cloudflare Analytics
-#cloudflare_analytics: ""
+#cloudflare_analytics: "YOUR_CLOUDFLARE_TOKEN" # Replace YOUR_CLOUDFLARE_TOKEN with your Cloudflare beacon token
 
 # Google Tag Manager ID
-#gtm: ""
+#gtm: "GTM-XXXXXXX" # Replace GTM-XXXXXXX with your Google Tag Manager ID
 
 # Matomo (aka Piwik) Web statistics
 # Uncomment the following section to enable Matomo. The opt-out parameter controls
 # whether or not you want to allow users to opt out of tracking.
 #matomo:
-#  site_id: "9"
-#  uri: "demo.wiki.pro"
+#  site_id: "YOUR_MATOMO_SITE_ID" # Replace with your Matomo site ID
+#  uri: "your-matomo-instance.example.com" # Replace with your Matomo instance URI (e.g., matomo.example.com)
 #  opt-out: true
 
 # --- Comments --- #
