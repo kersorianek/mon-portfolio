@@ -8,11 +8,10 @@ tags: [PEFT,LLM, Rogue,BLEU,METEOR, TER,chrF, COMET]
 ---
 
 
-<span style="color:blue">
 
 ## Introduction
 
-</span>
+
 
 Fine-tuning large language models (LLMs) for low-resource languages (LRLs) is a critical area of research and development, as it helps to democratize AI and ensure that these powerful technologies are accessible to a wider range of linguistic communities. LRLs often face challenges like limited digital presence, scarcity of annotated data, and lack of specialized NLP tools.
 
@@ -104,7 +103,9 @@ drive.mount('/content/drive')
 ```
 
     Drive already mounted at /content/drive; to attempt to forcibly remount, call drive.mount("/content/drive", force_remount=True).
-    
+
+
+```python    
 !pip install python-dotenv
 from dotenv import load_dotenv
 import os
@@ -877,62 +878,11 @@ tokenizer.save_pretrained("/content/drive/MyDrive/GhanaNLP/final_model")
       <progress value='329' max='1050' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [ 329/1050 02:17 < 05:03, 2.37 it/s, Epoch 4.69/15]
     </div>
-    <table border="1" class="dataframe">
-  <thead>
- <tr style="text-align: left;">
-      <th>Epoch</th>
-      <th>Training Loss</th>
-      <th>Validation Loss</th>
-      <th>Rouge1</th>
-      <th>Rouge2</th>
-      <th>Rougel</th>
-      <th>Rougelsum</th>
-      <th>Gen Len</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>No log</td>
-      <td>2.361397</td>
-      <td>15.120600</td>
-      <td>4.689800</td>
-      <td>14.853800</td>
-      <td>14.792100</td>
-      <td>7.678600</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>No log</td>
-      <td>2.354005</td>
-      <td>16.049900</td>
-      <td>5.722000</td>
-      <td>16.101600</td>
-      <td>16.029800</td>
-      <td>7.707100</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>No log</td>
-      <td>2.358570</td>
-      <td>17.315000</td>
-      <td>6.687200</td>
-      <td>17.250800</td>
-      <td>17.155700</td>
-      <td>7.714300</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>No log</td>
-      <td>2.365293</td>
-      <td>17.214600</td>
-      <td>6.143300</td>
-      <td>17.150100</td>
-      <td>17.049800</td>
-      <td>7.821400</td>
-    </tr>
-  </tbody>
-</table><p>
+
+
+    ---
+## Model Training Results
+
 
 
 
@@ -942,172 +892,25 @@ tokenizer.save_pretrained("/content/drive/MyDrive/GhanaNLP/final_model")
       <progress value='1050' max='1050' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [1050/1050 08:23, Epoch 15/15]
     </div>
-    <table border="1" class="dataframe">
-  <thead>
- <tr style="text-align: left;">
-      <th>Epoch</th>
-      <th>Training Loss</th>
-      <th>Validation Loss</th>
-      <th>Rouge1</th>
-      <th>Rouge2</th>
-      <th>Rougel</th>
-      <th>Rougelsum</th>
-      <th>Gen Len</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>No log</td>
-      <td>2.361397</td>
-      <td>15.120600</td>
-      <td>4.689800</td>
-      <td>14.853800</td>
-      <td>14.792100</td>
-      <td>7.678600</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>No log</td>
-      <td>2.354005</td>
-      <td>16.049900</td>
-      <td>5.722000</td>
-      <td>16.101600</td>
-      <td>16.029800</td>
-      <td>7.707100</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>No log</td>
-      <td>2.358570</td>
-      <td>17.315000</td>
-      <td>6.687200</td>
-      <td>17.250800</td>
-      <td>17.155700</td>
-      <td>7.714300</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>No log</td>
-      <td>2.365293</td>
-      <td>17.214600</td>
-      <td>6.143300</td>
-      <td>17.150100</td>
-      <td>17.049800</td>
-      <td>7.821400</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>No log</td>
-      <td>2.372702</td>
-      <td>17.673500</td>
-      <td>6.579400</td>
-      <td>17.449800</td>
-      <td>17.330000</td>
-      <td>7.764300</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>No log</td>
-      <td>2.378848</td>
-      <td>18.463800</td>
-      <td>7.053900</td>
-      <td>18.388800</td>
-      <td>18.250500</td>
-      <td>7.578600</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>No log</td>
-      <td>2.380730</td>
-      <td>18.047200</td>
-      <td>6.977800</td>
-      <td>18.089700</td>
-      <td>17.948800</td>
-      <td>7.685700</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>1.884000</td>
-      <td>2.392827</td>
-      <td>18.010200</td>
-      <td>6.879900</td>
-      <td>18.032000</td>
-      <td>17.924000</td>
-      <td>7.814300</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>1.884000</td>
-      <td>2.393994</td>
-      <td>19.632600</td>
-      <td>7.644400</td>
-      <td>19.683600</td>
-      <td>19.527200</td>
-      <td>7.800000</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>1.884000</td>
-      <td>2.382862</td>
-      <td>18.807700</td>
-      <td>7.222000</td>
-      <td>18.788400</td>
-      <td>18.736500</td>
-      <td>7.764300</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>1.884000</td>
-      <td>2.381667</td>
-      <td>19.508400</td>
-      <td>7.256800</td>
-      <td>19.413400</td>
-      <td>19.324700</td>
-      <td>7.957100</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>1.884000</td>
-      <td>2.379954</td>
-      <td>18.837600</td>
-      <td>6.539300</td>
-      <td>18.637100</td>
-      <td>18.504300</td>
-      <td>7.935700</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>1.884000</td>
-      <td>2.386058</td>
-      <td>19.478100</td>
-      <td>6.997900</td>
-      <td>19.498400</td>
-      <td>19.351400</td>
-      <td>7.921400</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>1.884000</td>
-      <td>2.383623</td>
-      <td>19.939300</td>
-      <td>7.093900</td>
-      <td>19.693900</td>
-      <td>19.614000</td>
-      <td>7.950000</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>1.690400</td>
-      <td>2.382863</td>
-      <td>19.939300</td>
-      <td>7.093900</td>
-      <td>19.693900</td>
-      <td>19.614000</td>
-      <td>7.957100</td>
-    </tr>
-  </tbody>
-</table><p>
+   
+
+   | Epoch | Training Loss | Validation Loss | Rouge1 | Rouge2 | Rougel | Rougelsum | Gen Len |
+| :---- | :------------ | :-------------- | :----- | :----- | :----- | :-------- | :------ |
+| 1     | No log        | 2.361397        | 15.1206 | 4.6898  | 14.8538 | 14.7921   | 7.6786  |
+| 2     | No log        | 2.354005        | 16.0499 | 5.722   | 16.1016 | 16.0298   | 7.7071  |
+| 3     | No log        | 2.358570        | 17.315  | 6.6872  | 17.2508 | 17.1557   | 7.7143  |
+| 4     | No log        | 2.365293        | 17.2146 | 6.1433  | 17.1501 | 17.0498   | 7.8214  |
+| 5     | No log        | 2.372702        | 17.6735 | 6.5794  | 17.4498 | 17.3300   | 7.7643  |
+| 6     | No log        | 2.378848        | 18.4638 | 7.0539  | 18.3888 | 18.2505   | 7.5786  |
+| 7     | No log        | 2.380730        | 18.0472 | 6.9778  | 18.0897 | 17.9488   | 7.6857  |
+| 8     | 1.884000      | 2.392827        | 18.0102 | 6.8799  | 18.0320 | 17.9240   | 7.8143  |
+| 9     | 1.884000      | 2.393994        | 19.6326 | 7.6444  | 19.6836 | 19.5272   | 7.8000  |
+| 10    | 1.884000      | 2.382862        | 18.8077 | 7.222   | 18.7884 | 18.7365   | 7.7643  |
+| 11    | 1.884000      | 2.381667        | 19.5084 | 7.2568  | 19.4134 | 19.3247   | 7.9571  |
+| 12    | 1.884000      | 2.379954        | 18.8376 | 6.5393  | 18.6371 | 18.5043   | 7.9357  |
+| 13    | 1.884000      | 2.386058        | 19.4781 | 6.9979  | 19.4984 | 19.3514   | 7.9214  |
+| 14    | 1.884000      | 2.383623        | 19.9393 | 7.0939  | 19.6939 | 19.6140   | 7.9500  |
+| 15    | 1.690400      | 2.382863        | 19.9393 | 7.0939  | 19.6939 | 19.6140   | 7.9571  |
 
 
     Twi: Ɛyɛ ahe?, Translated: What is it?
@@ -1390,95 +1193,24 @@ View run at <a href='https://wandb.ai/huggingface/runs/' target="_blank">https:/
       <progress value='15' max='15' style='width:300px; height:20px; vertical-align: middle;'></progress>
       [15/15 00:32, Epoch 15/15]
     </div>
-    <table border="1" class="dataframe">
-  <thead>
- <tr style="text-align: left;">
-      <th>Epoch</th>
-      <th>Training Loss</th>
-      <th>Validation Loss</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1</td>
-      <td>No log</td>
-      <td>5.388194</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>No log</td>
-      <td>5.378407</td>
-    </tr>
-    <tr>
-      <td>3</td>
-      <td>No log</td>
-      <td>5.366781</td>
-    </tr>
-    <tr>
-      <td>4</td>
-      <td>No log</td>
-      <td>5.354387</td>
-    </tr>
-    <tr>
-      <td>5</td>
-      <td>No log</td>
-      <td>5.341895</td>
-    </tr>
-    <tr>
-      <td>6</td>
-      <td>No log</td>
-      <td>5.329644</td>
-    </tr>
-    <tr>
-      <td>7</td>
-      <td>No log</td>
-      <td>5.316280</td>
-    </tr>
-    <tr>
-      <td>8</td>
-      <td>No log</td>
-      <td>5.304862</td>
-    </tr>
-    <tr>
-      <td>9</td>
-      <td>No log</td>
-      <td>5.293172</td>
-    </tr>
-    <tr>
-      <td>10</td>
-      <td>No log</td>
-      <td>5.282847</td>
-    </tr>
-    <tr>
-      <td>11</td>
-      <td>No log</td>
-      <td>5.272978</td>
-    </tr>
-    <tr>
-      <td>12</td>
-      <td>No log</td>
-      <td>5.265112</td>
-    </tr>
-    <tr>
-      <td>13</td>
-      <td>No log</td>
-      <td>5.259263</td>
-    </tr>
-    <tr>
-      <td>14</td>
-      <td>No log</td>
-      <td>5.254582</td>
-    </tr>
-    <tr>
-      <td>15</td>
-      <td>No log</td>
-      <td>5.252716</td>
-    </tr>
-  </tbody>
-</table><p>
-
-
-
+    
+    | Epoch | Training Loss | Validation Loss |
+| :---- | :------------ | :-------------- |
+| 1     | No log        | 5.388194        |
+| 2     | No log        | 5.378407        |
+| 3     | No log        | 5.366781        |
+| 4     | No log        | 5.354387        |
+| 5     | No log        | 5.341895        |
+| 6     | No log        | 5.329644        |
+| 7     | No log        | 5.316280        |
+| 8     | No log        | 5.304862        |
+| 9     | No log        | 5.293172        |
+| 10    | No log        | 5.282847        |
+| 11    | No log        | 5.272978        |
+| 12    | No log        | 5.265112        |
+| 13    | No log        | 5.259263        |
+| 14    | No log        | 5.254582        |
+| 15    | No log        | 5.252716        |
 
 
     TrainOutput(global_step=15, training_loss=4.650517272949219, metrics={'train_runtime': 38.016, 'train_samples_per_second': 0.395, 'train_steps_per_second': 0.395, 'total_flos': 4083705446400.0, 'train_loss': 4.650517272949219, 'epoch': 15.0})
