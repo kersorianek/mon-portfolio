@@ -1,16 +1,9 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: Get to know me!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Breena Simi Kumar, and I'm a rising junior at Michigan State University studying Data Science and Business. My dream job is in tech consulting, hopefully in a big city. I love to travel and experience different cultures. My favourite country I've been to so far is Fiji (I might be a bit biased since my family is from there)!
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I want this website to serve as a platform where I can continue to edit and upload my projects and progress in data science. I think it can be a useful resource when maintaining the organization of my future projects.
