@@ -4,6 +4,8 @@ title: About me
 subtitle: Get to know me!
 ---
 
-My name is Breena Simi Kumar, and I'm a rising junior at Michigan State University studying Data Science and Business. My dream job is in tech consulting, hopefully in a big city. I love to travel and experience different cultures. My favourite country I've been to so far is Fiji (I might be a bit biased since my family is from there)!
+My name is Breena Simi Kumar, and I am a rising junior at Michigan State University, pursuing a degree in Data Science with a minor in Business. I am passionate about the intersection of technology and strategy, and I hope to build a career in technology consulting, ideally internationally. I'm currently a data analytics intern at Health Alliance Plan, where I work alongside other colleagues in order to create data visualizations and use data extraction.
 
-I want this website to serve as a platform where I can continue to edit and upload my projects and progress in data science. I think it can be a useful resource when maintaining the organization of my future projects.
+Beyond academics, I have a deep appreciation for travel and exploring diverse cultures. One of my favorite places I’ve visited is Fiji—a destination especially close to my heart, as it’s where my family is from. Additionally, outside of school, I'm a part of a professional business fraternity, Delta Sigma Pi, and a consulting club, SCNO (Students Consulting for Nonprofit Organizations).
+
+This website is intended to be a living portfolio where I can document and share my growth, projects, and experiences in data science. I hope it will serve as both a reflection of my journey and a hub for staying organized as I continue to develop professionally.
