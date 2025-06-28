@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Ekram Ahmed 
-subtitle: Data Scientist
+subtitle: Maritime Data Analyst
 ---
 
 My name is Ekram Ahmed. I have the following qualities:
