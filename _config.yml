@@ -55,7 +55,7 @@ navbar-text-col: "#f9fafb"     # Almost white - great contrast on dark navbar
 navbar-children-col: "#1f2937" # Dark slate gray
 page-col: "#ffffff"            # Keep white for clean reading experience
 link-col: "#0f172a"            # Royal Navy
-hover-col: "#2563eb"           # Slightly darker on hover (Tailwind's blue-600)
+hover-col: "#0f172a"           # Royal Navy
 footer-col: "#111827"          # Near-black for bold, clean footer
 footer-text-col: "#9ca3af"     # Soft gray (good contrast, not too harsh)
 footer-link-col: "#e5e7eb"     # Light gray-blue for links
