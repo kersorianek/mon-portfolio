@@ -42,7 +42,7 @@ avatar: "img/My Headshot.jpg"
 
 navbar-col: transparent
 navbar-text-col: "#4b5563"
-navbar-children-col: "#4b5563"
+navbar-children-col: transparent
 page-col: "#FFFFFF"
 link-col: "#008AFF"
 hover-col: "#0085A1"
