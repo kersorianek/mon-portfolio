@@ -82,26 +82,26 @@ author:
 social-network-links:
   rss: true
   email: "ekramullahzaki@gmail.com"
-  #facebook: facebook.com/ekram.zaki
+  facebook: facebook.com/ekram.zaki
   github: Ekram49
-  #twitter: @EkramAh56552843
+  twitter: @EkramAh56552843
 #  reddit: yourname
   linkedin: ekram-ullah-ahmed
 #  xing: yourname
   stackoverflow: "12875430/Ekram49"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: ekram_ahmed_49
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +19294599555
+  telephone: +1 (929) 459-9555
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: false
-  facebook: false
+  twitter: true
+  facebook: true
   linkedin: true
 
 # How to display the link to the website in the footer
