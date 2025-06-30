@@ -6,5 +6,4 @@ subtitles: Voyageur curieux
 ---
 
 
-{% include home.html %}
 
