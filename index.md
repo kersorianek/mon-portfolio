@@ -1,8 +1,9 @@
-
 ---
+
 layout: home
 title: Yann Soriano
-subtitle: Voyageur curieux
+subtitle: Voyageur curieux 
+
 ---
 
 
