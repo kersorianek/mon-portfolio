@@ -1,8 +1,10 @@
+
 ---
 layout: home
 title: Yann Soriano
-subtitle: Voyageur curieux
+subtitles: Voyageur curieux
 ---
+
 
 {% include home.html %}
 
